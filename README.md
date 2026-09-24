@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **443 current or undated listings · 15 older advertised periods · 30 employers with roles**
 
-Last collection: **24 Sep 2026, 18:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **24 Sep 2026, 19:02 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -537,13 +537,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | Complete | 0 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
 | lever:binance | Complete | 0 |
 | greenhouse:bitgo | Complete | 0 |
-| smartrecruiters:BoschGroup | Complete | 2 |
+| smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
 | ashby:cantina | Complete | 1 |
 | smartrecruiters:CarousellGroup | Complete | 1 |
 | ashby:clickhouse | Complete | 0 |

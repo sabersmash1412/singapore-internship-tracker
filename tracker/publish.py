@@ -49,10 +49,13 @@ def publish(root, state):
     def table(group):
         result = ['| Company | Role | Apply | Period | Employer posted | First seen |',
                   '| --- | --- | --- | --- | --- | --- |']
+        previous_company = None
         for job in group:
             new = as_of and timedelta(0) <= as_of - instant(job['first_seen_at']) <= timedelta(hours=48)
             url = quote(job['url'], safe=':/?=&%#@+;,~!-._')
-            result.append('| ' + ' | '.join([cell(job['company']), ('🆕 ' if new else '') + cell(job['title']),
+            company = '↳' if job['company'] == previous_company else cell(job['company'])
+            previous_company = job['company']
+            result.append('| ' + ' | '.join([company, ('🆕 ' if new else '') + cell(job['title']),
                           f'[Apply](<{url}>)', cell(job.get('period')), day(job.get('posted_at')), day(job['first_seen_at'])]) + ' |')
         return result
 
@@ -78,7 +81,11 @@ def publish(root, state):
     if closed:
         lines += ['', '<details>', '<summary>Recently closed / removed from scope (last 14 days)</summary>', '',
                   '| Company | Role | Closed | Reason |', '| --- | --- | --- | --- |']
-        lines += [f'| {cell(j["company"])} | {cell(j["title"])} | {day(j["closed_at"])} | {cell(j.get("closed_reason"))} |' for j in closed]
+        previous_company = None
+        for job in closed:
+            company = '↳' if job['company'] == previous_company else cell(job['company'])
+            previous_company = job['company']
+            lines.append(f'| {company} | {cell(job["title"])} | {day(job["closed_at"])} | {cell(job.get("closed_reason"))} |')
         lines += ['', '</details>']
     lines += ['', '<details>', '<summary>Source coverage and collection health</summary>', '',
               '| Source board | Latest check | Matching roles returned |', '| --- | --- | --- |']

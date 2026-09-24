@@ -40,15 +40,19 @@ def merge(previous, snapshots, now):
         seen = {job["id"] for job in snapshot.jobs}
         for job in selected:
             old = jobs.get(job["id"], {})
-            for key in ("period", "period_evidence", "duration", "duration_evidence", "posted_at"):
+            retained = ["posted_at"]
+            if job.pop("detail_unavailable", False):
+                retained += ["period", "period_evidence", "duration", "duration_evidence"]
+            for key in retained:
                 if job.get(key) is None and old.get(key):
                     job[key] = old[key]
             jobs[job["id"]] = {
                 **job, "first_seen_at": old.get("first_seen_at", now),
                 "last_seen_at": now, "is_open": True, "closed_at": None, "missing_runs": 0,
             }
+        selected_ids = {j["id"] for j in selected}
         for identifier, job in jobs.items():
-            if job["board"] != snapshot.board or not job["is_open"] or identifier in {j["id"] for j in selected}:
+            if job["board"] != snapshot.board or not job["is_open"] or identifier in selected_ids:
                 continue
             if not snapshot.complete:
                 job["missing_runs"] = 0

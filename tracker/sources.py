@@ -123,6 +123,7 @@ def fetch(company, get=get_json):
                         sections = detail["jobAd"]["sections"]
                         job["description"] = " ".join(value.get("text", "") for value in sections.values() if isinstance(value, dict))
                     except Exception as exc:
+                        job["detail_unavailable"] = True
                         snapshot.warnings.append(f"Detail unavailable for {job['id']}: {type(exc).__name__}")
     except Exception as exc:
         snapshot.complete = False

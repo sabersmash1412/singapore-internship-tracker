@@ -28,11 +28,11 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Machine Learning &amp; Generative AI Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Machine-Learning---Generative-AI-Intern--Jan-Jun-2027-_JR-2604518>) | Jan-Jun 2027 | 02 Sep 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Facility Engineering, Automation Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Facility-Engineering--Automation-Intern--Jan-Jun-2027-_JR-2604650>) | Jan-Jun 2027 | 23 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 ESD Device Design Engineer Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/ESD-Device-Design-Engineer-Intern--Jan-Jun-2027-_JR-2604348>) | Jan-Jun 2027 | 18 Aug 2026 | 24 Sep 2026 |
-| ↳ | 🆕 2H University Intern, AI-Driven Process Intern (Advanced Process Control) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern--AI-Driven-Process-Intern--Advanced-Process-Control-_JR-2502691>) | - | 11 Jan 2026 | 24 Sep 2026 |
-| ↳ | 🆕 2H University Intern - Process Integration | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Process-Integration_JR-2502759>) | - | 14 Jan 2026 | 24 Sep 2026 |
-| ↳ | 🆕 2H University Intern - Process Integration | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Process-Integration_JR-2502758>) | - | 19 Jan 2026 | 24 Sep 2026 |
-| ↳ | 🆕 2H University Intern - PVD Equipment | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---PVD-Equipment_JR-2502749>) | - | 13 Jan 2026 | 24 Sep 2026 |
-| ↳ | 🆕 2H University Intern - IP Program Management &amp; QA | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---IP-Program-Management---QA_JR-2502782>) | - | 13 Jan 2026 | 24 Sep 2026 |
+| ↳ | 🆕 2H University Intern, AI-Driven Process Intern (Advanced Process Control) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern--AI-Driven-Process-Intern--Advanced-Process-Control-_JR-2502691>) | June 2026 Start | 11 Jan 2026 | 24 Sep 2026 |
+| ↳ | 🆕 2H University Intern - Process Integration | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Process-Integration_JR-2502759>) | June 2026 Start | 14 Jan 2026 | 24 Sep 2026 |
+| ↳ | 🆕 2H University Intern - Process Integration | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Process-Integration_JR-2502758>) | June 2026 Start | 19 Jan 2026 | 24 Sep 2026 |
+| ↳ | 🆕 2H University Intern - PVD Equipment | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---PVD-Equipment_JR-2502749>) | June 2026 Start | 13 Jan 2026 | 24 Sep 2026 |
+| ↳ | 🆕 2H University Intern - IP Program Management &amp; QA | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---IP-Program-Management---QA_JR-2502782>) | June 2026 Start | 13 Jan 2026 | 24 Sep 2026 |
 | ↳ | 🆕 2H University Intern - FR CMOS Device Engineering | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Intern---FR-CMOS_JR-2503753>) | - | 14 Jan 2026 | 24 Sep 2026 |
 | Applied Materials | 🆕 Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Technology-Development-Engineer---Hybrid-Bonding---Advanced-Packaging--Internship-_R2626901>) | - | 31 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Process Engineering Intern (Hybrid Bonding) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-Engineering-Intern--Hybrid-Bonding-_R2626437>) | - | 31 Aug 2026 | 24 Sep 2026 |
@@ -216,7 +216,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 IT Security Intern (6 months) | [Apply](<https://career.sea.com/position/J02164189>) | - | - | 24 Sep 2026 |
 | ↳ | 🆕 IT Project Management Intern (6 Months) | [Apply](<https://career.sea.com/position/J02164599>) | - | - | 24 Sep 2026 |
 | ↳ | 🆕 IT Operations Specialist intern (6 months) | [Apply](<https://career.sea.com/position/J02163472>) | - | - | 24 Sep 2026 |
-| ↳ | 🆕 Backend Engineer Intern | [Apply](<https://career.sea.com/position/J02044564>) | - | - | 24 Sep 2026 |
+| ↳ | 🆕 Backend Engineer Intern | [Apply](<https://career.sea.com/position/J02044564>) | Jan 2027 Start | - | 24 Sep 2026 |
 | GovTech | 🆕 Tech – Systems Engineer: Systems Technologies | [Apply](<https://internships.tech.gov.sg/projects/systems-engineer/systems-technologies>) | - | - | 24 Sep 2026 |
 | ↳ | 🆕 Tech – Systems Engineer: MSF DataSphere | [Apply](<https://internships.tech.gov.sg/projects/systems-engineer/msf-data-sphere-central-administration-and-social>) | - | - | 24 Sep 2026 |
 | ↳ | 🆕 Tech – Systems Engineer: MOE DXD Resilience Operations and Development | [Apply](<https://internships.tech.gov.sg/projects/systems-engineer/moe-dxd-resilience-operations-and-development>) | - | - | 24 Sep 2026 |
@@ -373,10 +373,10 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Operations Automation Engineer Intern | [Apply](<https://jobs.lever.co/shopback-2/0b3627b7-0c1a-46da-bc3d-699f8d5ca9e5>) | H2 2026 | - | 21 Sep 2026 |
 | ↳ | Data Analyst (Internship) (H1 2027) | [Apply](<https://jobs.lever.co/shopback-2/b216d68c-48b0-4fa5-8f1e-9e0375b993e1>) | H1 2027 | - | 21 Sep 2026 |
 | Grab | Intern, Strategy &amp; Analytics, Transport | [Apply](<https://jobs.smartrecruiters.com/Grab/744000149793152>) | - | 16 Sep 2026 | 21 Sep 2026 |
-| ↳ | Intern, Fleet Systems Analyst | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147417629>) | - | 04 Sep 2026 | 21 Sep 2026 |
-| ↳ | Intern, Analytics &amp; Projects, GrabMart | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147417509>) | - | 04 Sep 2026 | 21 Sep 2026 |
-| ↳ | Intern, Analytics &amp; Projects, GrabMart | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147416979>) | - | 04 Sep 2026 | 21 Sep 2026 |
-| ↳ | Intern, Analytics &amp; Projects, GrabFood | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147417199>) | - | 04 Sep 2026 | 21 Sep 2026 |
+| ↳ | Intern, Fleet Systems Analyst | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147417629>) | January 2027 Start | 04 Sep 2026 | 21 Sep 2026 |
+| ↳ | Intern, Analytics &amp; Projects, GrabMart | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147417509>) | January 2027 Start | 04 Sep 2026 | 21 Sep 2026 |
+| ↳ | Intern, Analytics &amp; Projects, GrabMart | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147416979>) | January 2027 Start | 04 Sep 2026 | 21 Sep 2026 |
+| ↳ | Intern, Analytics &amp; Projects, GrabFood | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147417199>) | January 2027 Start | 04 Sep 2026 | 21 Sep 2026 |
 | DRW | Software Engineer Intern (Data Engineering) | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8127242>) | - | 13 Aug 2026 | 21 Sep 2026 |
 | ↳ | Software Developer Intern (C++) | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8014910>) | - | 13 Jul 2026 | 21 Sep 2026 |
 | ↳ | Quantitative Research Intern | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8014915>) | - | 13 Jul 2026 | 21 Sep 2026 |
@@ -387,7 +387,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 These roles remain listed by employers, but their advertised periods appear to have passed. They are retained here for reference and in the data downloads; this does not mean applications are closed.
 
-Month ranges use their stated end month; H1/H2 end in June/December. For this display hint, Spring/Summer/Fall end in May/August/November; Winter extends through the following March. Year-only starts remain current through December. Multiple periods move here only when all have passed.
+Month ranges use their stated end month; H1/H2 end in June/December. For this display hint, Spring/Summer/Fall end in May/August/November; Winter extends through the following March. Start dates without an end date remain current through December of their stated year. Multiple periods move here only when all have passed.
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |

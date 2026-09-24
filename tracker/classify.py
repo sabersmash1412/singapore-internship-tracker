@@ -59,27 +59,55 @@ def eligible(job):
 MONTH = r"(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)"
 PERIOD = re.compile(
     rf"\b(?:{MONTH}\s*(?:20\d{{2}})?\s*(?:-|–|—|to|through)\s*{MONTH}\s+20\d{{2}}|"
-    r"(?:H[12]|Summer|Winter|Fall|Spring)\s+20\d{2}|20\d{2}\s+(?:Start|Intake))\b", re.I
+    rf"(?:H[12]|[12]H|Summer|Winter|Fall|Spring)\s+20\d{{2}}|20\d{{2}}\s+(?:Start|Intake)|{MONTH}\s+20\d{{2}}(?:\s+(?:Start|Intake))?)\b", re.I
 )
+
+
+# Dates about eligibility or applications are not internship intake evidence.
+NON_INTAKE = re.compile(r"\b(graduat\w*|application\s+(?:deadline|window|period)|applications?\s+(?:close|open|due)|apply\s+(?:by|before)|deadline|closing date|interview\w*|assessment\w*|founded|established)\b", re.I)
+INTAKE_CONTEXT = re.compile(r"\b(internships?|intern|availability|start date|intake|starting|starts?|commenc\w*|available\s+from)\b", re.I)
+
+
+def extract_period(title, description):
+    candidates = [title] + re.split(r"(?<=[.!?;])\s+", description)
+    for index, evidence in enumerate(candidates):
+        if NON_INTAKE.search(evidence):
+            continue
+        if index and not INTAKE_CONTEXT.search(evidence):
+            continue
+        periods = []
+        matches = list(PERIOD.finditer(evidence))
+        single = re.compile(rf'{MONTH}\s+20\d{{2}}', re.I)
+        strong = [m for m in matches if not single.fullmatch(m.group(0))]
+        # Prefer a stated range/half-year to stray month fragments inside it.
+        # E.g. H1 2027 (Dec 2026/Jan 2027 to May/June 2027).
+        ambiguous = re.search(rf'{MONTH}\s*(?:20\d{{2}})?\s*/\s*{MONTH}', evidence, re.I)
+        if ambiguous:
+            if not strong:
+                continue
+            matches = strong
+        for match in matches:
+            if single.fullmatch(match.group(0)) and re.search(
+                    r'\b(?:until|through|to|ending|ends|end date|concludes)(?:\s+(?:in|on|at))?\s*:?\s*$',
+                    evidence[:match.start()], re.I):
+                continue
+            value = match.group(0)
+            # Normalize aliases, retaining the original sentence as evidence.
+            value = re.sub(r'^([12])H\b', r'H\1', value, flags=re.I)
+            if re.fullmatch(rf'{MONTH}\s+20\d{{2}}', value, re.I):
+                value += ' Start'
+            if value not in periods:
+                periods.append(value)
+        if periods:
+            return ' / '.join(periods), evidence
+    return None, None
 
 
 def enrich(job):
     description = plain(job.pop("description", ""))
     job["category"] = job.get("role_category") or category(job["title"])
-    # Title is strongest. Description matches require internship context to avoid
-    # mistaking a company history or graduation date for the internship period.
-    matches = list(PERIOD.finditer(job["title"]))
-    evidence = job["title"] if matches else None
-    if not matches:
-        for sentence in re.split(r"(?<=[.!?])\s+", description):
-            if re.search(r"\b(internship|intern|availability|start date|intake)\b", sentence, re.I):
-                matches = list(PERIOD.finditer(sentence))
-                if matches:
-                    evidence = sentence
-                    break
-    periods = list(dict.fromkeys(match.group(0) for match in matches))
-    job["period"] = ' / '.join(periods) or None
-    job["period_evidence"] = evidence
+    # Prefer title evidence; otherwise accept a sentence with intake context.
+    job["period"], job["period_evidence"] = extract_period(job["title"], description)
     duration = re.search(
         r"\b(?:minimum(?: of)?|at least|duration(?: of)?|commit(?:ment)?(?: of| to)?)\s+"
         r"(\d{1,2}(?:\s*[-–]\s*\d{1,2})?\s*(?:months?|weeks?))\b", description, re.I

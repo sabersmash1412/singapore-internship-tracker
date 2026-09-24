@@ -39,7 +39,7 @@ Keep public job URLs as application links. Do not submit credentials, private st
 
 - data/state.json retains lifecycle history; do not replace it with an empty file during normal updates.
 - Source IDs prevent repeat rows across runs. Cross-platform duplicate detection is not implemented; distinct requisitions remain distinct.
-- Classification uses titles and explicit employer internship/role metadata. Broad programme names can still be missed. Period extraction is deliberately limited.
+- Classification uses titles and explicit employer internship/role metadata. Broad programme names can still be missed. Period extraction accepts month ranges, half-years (including 1H/2H aliases), seasons and explicit month/year starts. Titles take priority; description dates require internship/start context. Graduation, application deadline and interview dates are excluded. Ambiguous slash-separated month ranges are left unparsed unless a clear half-year or range is also stated. A start month never implies an end date.
 - Full descriptions are not persisted, only selected metadata and brief evidence excerpts.
 - Eligibility and allowance are not currently extracted. GovTech programme deadlines are read from the official page with an explicit Singapore timezone; other employers currently have no deadline extraction.
 - A known application deadline closes matching roles on the first successful refresh at or after that time, even if the catalogue still lists them or that source fails. A verified extended deadline can reopen them. If every source fails, or no workflow runs, the published snapshot stays unchanged until a successful refresh.

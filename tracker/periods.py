@@ -26,7 +26,8 @@ def period_end(value):
             if label == 'winter':
                 year += 1
         else:
-            match = re.fullmatch(r'(20\d{2})\s+(Start|Intake)', value, re.I)
+            # A start month is not an end date. Keep it through its stated year.
+            match = re.fullmatch(rf'(?:{MONTH}\s+)?(20\d{{2}})\s+(Start|Intake)', value, re.I)
             if not match:
                 return None
             year, month = int(match.group(1)), 12

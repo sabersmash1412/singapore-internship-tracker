@@ -72,7 +72,7 @@ def publish(root, state):
     if older:
         lines += ['', '<details>', f'<summary>Older advertised periods — verify intake ({len(older)})</summary>', '',
                   'These roles remain listed by employers, but their advertised periods appear to have passed. They are retained here for reference and in the data downloads; this does not mean applications are closed.', '',
-                  'Month ranges use their stated end month; H1/H2 end in June/December. For this display hint, Spring/Summer/Fall end in May/August/November; Winter extends through the following March. Year-only starts remain current through December. Multiple periods move here only when all have passed.', '']
+                  'Month ranges use their stated end month; H1/H2 end in June/December. For this display hint, Spring/Summer/Fall end in May/August/November; Winter extends through the following March. Start dates without an end date remain current through December of their stated year. Multiple periods move here only when all have passed.', '']
         lines += table(older)
         lines += ['', '</details>']
     closed = sorted((j for j in state['jobs'].values() if not j['is_open'] and as_of and j.get('closed_at') and

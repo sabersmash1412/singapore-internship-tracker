@@ -10,7 +10,7 @@ Coverage currently includes **Grab, ShopBack, Temus and DRW**. This is an early 
 
 **13 open internships · 4 employers with roles**
 
-Last collection: **24 Sep 2026, 09:45 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **24 Sep 2026, 10:00 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 🆕 = first seen within 48 hours of the collection above. First seen is when this tracker discovered a role, not when the employer posted it. Initial collection marks all newly discovered roles as new.
 

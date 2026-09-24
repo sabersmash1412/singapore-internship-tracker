@@ -8,9 +8,9 @@ Monitored employers: **TikTok, ByteDance, Shopee, Sea, GovTech, DBS, OCBC, UOB, 
 
 <!-- INTERNSHIPS:START -->
 
-**390 current or undated listings · 14 older advertised periods · 17 employers with roles**
+**391 current or undated listings · 14 older advertised periods · 17 employers with roles**
 
-Last collection: **24 Sep 2026, 16:45 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **24 Sep 2026, 17:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -22,7 +22,8 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| Micron | 🆕 Intern- PIE PI (Product Integration Engineering, Process Integration) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--PIE-PI--Product-Integration-Engineering--Process-Integration-_JR96407>) | - | 03 Aug 2026 | 24 Sep 2026 |
+| Micron | 🆕 Intern - MSB Automation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---MSB-Automation-Engineer_JR112720>) | - | 24 Sep 2026 | 24 Sep 2026 |
+| ↳ | 🆕 Intern- PIE PI (Product Integration Engineering, Process Integration) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--PIE-PI--Product-Integration-Engineering--Process-Integration-_JR96407>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Intern- MSB Process Integration Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--MSB-Process-Integration-Engineer_JR109767>) | Jan to May 2027 | 26 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Intern- MSB Process Integration Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--MSB-Process-Integration-Engineer_JR109764>) | - | 26 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Intern, Photo Manufacturing Data Analytics and AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Photo-Manufacturing-Data-Analytics-and-AI_JR112194>) | Jan to May 2027 | 21 Sep 2026 | 24 Sep 2026 |
@@ -479,7 +480,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:amat | Complete | 12 |
 | workday:globalfoundries | Complete | 12 |
 | workday:nxp | Complete | 0 |
-| workday:micron | Complete | 20 |
+| workday:micron | Complete | 21 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |

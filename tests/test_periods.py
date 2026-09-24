@@ -15,7 +15,7 @@ from tracker.periods import older_period
 class PeriodTests(unittest.TestCase):
     def test_elapsed_current_year_periods(self):
         today = date(2026, 9, 24)
-        for value in ['January - May 2026', 'H1 2026', 'Spring 2026', 'Summer 2026', '2025 Start']:
+        for value in ['January - May 2026', 'Jan till Jun 2026', 'H1 2026', 'Spring 2026', 'Summer 2026', '2025 Start']:
             self.assertTrue(older_period(value, today), value)
         for value in [None, 'Fall 2026', 'H2 2026', '2026 Start', 'Winter 2026', 'Spring 2027']:
             self.assertFalse(older_period(value, today), value)

@@ -119,7 +119,8 @@ def workday(company, snapshot, get, post):
             location = row.get('locationsText') or 'Location not stated'
             description, country, posted = '', None, None
             try:
-                detail = get(base + path)['jobPostingInfo']
+                detail_response = get(base + path)
+                detail = detail_response['jobPostingInfo']
                 if not isinstance(detail, dict) or not detail.get('title'):
                     raise ValueError('Missing Workday posting detail')
                 description = detail.get('jobDescription') or ''
@@ -131,7 +132,14 @@ def workday(company, snapshot, get, post):
                 # state on this board rather than closing on partial evidence.
                 snapshot.warnings.append(f'Detail unavailable: {path}: {type(exc).__name__}')
             identifier = path.rsplit('/', 1)[-1]
-            job = record(company, identifier, title, location,
+            employer = company
+            if company.get('shared_employers'):
+                # A shared public-service board is not itself the hiring agency.
+                agency = detail_response.get('hiringOrganization', {}).get('name') if description else None
+                if not isinstance(agency, str) or not agency.strip():
+                    raise ValueError('Missing hiring agency on shared board')
+                employer = {**company, 'name': agency}
+            job = record(employer, identifier, title, location,
                          company['careers_url'].rstrip('/') + path, description, country, posted)
             if not description:
                 job['detail_unavailable'] = True

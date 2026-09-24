@@ -11,7 +11,7 @@ MONTHS = {name.lower(): index for index, name in enumerate(calendar.month_abbr) 
 def period_end(value):
     """Return a conservative display boundary for a recognized advertised period."""
     value = value.strip()
-    match = re.fullmatch(rf'({MONTH})\s*(20\d{{2}})?\s*(?:-|–|—|to|through)\s*({MONTH})\s+(20\d{{2}})', value, re.I)
+    match = re.fullmatch(rf'({MONTH})\s*(20\d{{2}})?\s*(?:-|–|—|to|till|through)\s*({MONTH})\s+(20\d{{2}})', value, re.I)
     if match:
         start, start_year, end, year = match.groups()
         month, year = MONTHS[end[:3].lower()], int(year)

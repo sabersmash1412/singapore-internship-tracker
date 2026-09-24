@@ -41,7 +41,7 @@ For collection failures, enable **Email** and **Only notify for failed workflows
 
 ## Add employers
 
-Edit data/companies.json. Each entry needs `name`, `platform`, `slug`, and `careers_url`. Supported platforms: Greenhouse, Lever, SmartRecruiters, ByteDance/TikTok public supplier search, Workday, Shopee, Sea, GovTech, AMD, Amazon and Apple. See existing registry entries for each platform’s required `api_base` or `website_path` fields, and [SOURCES.md](SOURCES.md) for provenance. Confirm the official feed token and run the collector before submitting a change. A board with zero matches can still be healthy.
+Edit data/companies.json. Each entry needs `name`, `platform`, `slug`, and `careers_url`. Supported platforms: Greenhouse, Lever, SmartRecruiters, Ashby, ByteDance/TikTok public supplier search, Workday, Shopee, Sea, GovTech, AMD, Amazon and Apple. See existing registry entries for each platform’s required `api_base` or `website_path` fields, and [SOURCES.md](SOURCES.md) for provenance. Confirm the official feed token and run the collector before submitting a change. A board with zero matches can still be healthy.
 
 Keep public job URLs as application links. Do not submit credentials, private student-portal data or personal applicant information. Removing a board from the registry does not remove its historical listings; retiring a source needs an explicit history migration.
 

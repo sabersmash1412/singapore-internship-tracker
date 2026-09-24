@@ -2,28 +2,72 @@
 
 The tracker reads official employer sources. Checked on 24 September 2026. A monitored employer may have no matching open technical internships. The README’s source-health table reports each actual run.
 
-| Employer | Official careers source | Collection method |
+| Employer / shared board | Official careers source | Collection method |
 | --- | --- | --- |
-| TikTok | [Life at TikTok](https://lifeattiktok.com/search) | Public supplier API, live Singapore filter and structured internship type |
-| ByteDance | [Join ByteDance](https://joinbytedance.com/search) | Public supplier API, English website header, live Singapore filter |
-| Shopee | [Shopee Careers](https://careers.shopee.sg/jobs) | Public Work at Sea ATS, live location and employment metadata |
-| Sea | [Sea Careers](https://career.sea.com/jobs) | Official site job-list API and shared ATS metadata |
-| GovTech | [Internship projects](https://internships.tech.gov.sg/projects) | Public server-rendered internship catalogue, technical role groups and filled status |
-| DBS | [DBS Careers](https://dbs.wd3.myworkdayjobs.com/DBS_Careers) | Workday search and posting details |
-| OCBC | [OCBC Careers](https://ocbc.wd102.myworkdayjobs.com/External) | Workday search and posting details |
-| UOB | [UOB Careers](https://uobgroup.wd3.myworkdayjobs.com/UOBExternal) | Workday search with live Singapore country facet and posting details |
-| Grab | [Grab Careers](https://careers.smartrecruiters.com/Grab) | SmartRecruiters public postings |
-| ShopBack | [ShopBack Careers](https://jobs.lever.co/shopback-2) | Lever public postings |
-| Temus | [Temus Careers](https://job-boards.greenhouse.io/temus) | Greenhouse public job board |
-| Applied Materials | [Workday postings](https://amat.wd1.myworkdayjobs.com/External) | Public Workday search, live Singapore country facet and full posting details |
-| GlobalFoundries | [Workday postings](https://globalfoundries.wd1.myworkdayjobs.com/External) | Public Workday search, nested Singapore country facet and full posting details |
-| NXP | [NXP careers](https://www.nxp.com/company/about-nxp/careers:CAREERS) → [Workday](https://nxp.wd3.myworkdayjobs.com/careers) | Public Workday search, live Singapore country facet and full posting details |
-| Micron | [Workday postings](https://micron.wd1.myworkdayjobs.com/External) | Live Singapore site facets and full posting details |
-| NVIDIA | [Workday postings](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite) | Live Singapore country hierarchy and full posting details |
-| AMD | [Student careers](https://careers.amd.com/students/jobs) | Public careers search API, keyword search and posting locations |
-| Amazon | [Amazon Jobs](https://www.amazon.jobs/en/search?base_query=intern) | Paginated public search JSON and individual posting locations |
-| Apple | [Singapore careers](https://jobs.apple.com/en-us/search?location=singapore-SLS) | Server-rendered search data, pagination and full posting details |
-| DRW | [DRW Careers](https://job-boards.greenhouse.io/drweng) | Greenhouse public job board |
+| Agoda | [Careers](https://job-boards.greenhouse.io/agoda) | Greenhouse public job board |
+| Airwallex | [Careers](https://jobs.ashbyhq.com/airwallex) | Ashby public posting API; listed jobs only |
+| Amazon | [Careers](https://www.amazon.jobs/en/search?base_query=intern) | Public search JSON and posting locations |
+| AMD | [Careers](https://careers.amd.com/students/jobs) | Public careers search API |
+| Apple | [Careers](https://jobs.apple.com/en-us/search?location=singapore-SLS) | Server-rendered search and posting details |
+| Applied Materials | [Careers](https://amat.wd1.myworkdayjobs.com/External) | Workday search and posting details |
+| Bifrost | [Careers](https://jobs.ashbyhq.com/bifrost) | Ashby public posting API; listed jobs only |
+| Binance | [Careers](https://jobs.lever.co/binance) | Lever public postings |
+| BitGo | [Careers](https://job-boards.greenhouse.io/bitgo) | Greenhouse public job board |
+| Bosch | [Careers](https://careers.smartrecruiters.com/BoschGroup) | SmartRecruiters public postings and details |
+| ByteDance | [Careers](https://joinbytedance.com/search) | Public supplier API and Singapore location metadata |
+| Cantina | [Careers](https://jobs.ashbyhq.com/cantina) | Ashby public posting API; listed jobs only |
+| Carousell Group | [Careers](https://careers.smartrecruiters.com/CarousellGroup) | SmartRecruiters public postings and details |
+| ClickHouse | [Careers](https://jobs.ashbyhq.com/clickhouse) | Ashby public posting API; listed jobs only |
+| Cohere | [Careers](https://jobs.ashbyhq.com/cohere) | Ashby public posting API; listed jobs only |
+| Coinbase | [Careers](https://job-boards.greenhouse.io/coinbase) | Greenhouse public job board |
+| Continental | [Careers](https://careers.smartrecruiters.com/Continental) | SmartRecruiters public postings and details |
+| Crypto.com | [Careers](https://jobs.lever.co/crypto) | Lever public postings |
+| Databricks | [Careers](https://job-boards.greenhouse.io/databricks) | Greenhouse public job board |
+| Datadog | [Careers](https://job-boards.greenhouse.io/datadog) | Greenhouse public job board |
+| DBS | [Careers](https://dbs.wd3.myworkdayjobs.com/DBS_Careers) | Workday search and posting details |
+| DRW | [Careers](https://job-boards.greenhouse.io/drweng) | Greenhouse public job board |
+| Elastic | [Careers](https://job-boards.greenhouse.io/elastic) | Greenhouse public job board |
+| ElevenLabs | [Careers](https://jobs.ashbyhq.com/elevenlabs) | Ashby public posting API; listed jobs only |
+| Figma | [Careers](https://job-boards.greenhouse.io/figma) | Greenhouse public job board |
+| Gemini | [Careers](https://job-boards.greenhouse.io/gemini) | Greenhouse public job board |
+| GlobalFoundries | [Careers](https://globalfoundries.wd1.myworkdayjobs.com/External) | Workday search and posting details |
+| GovTech | [Careers](https://internships.tech.gov.sg/projects) | Official internship project catalogue and deadline |
+| Grab | [Careers](https://careers.smartrecruiters.com/Grab) | SmartRecruiters public postings and details |
+| Jane Street | [Careers](https://job-boards.greenhouse.io/janestreet) | Greenhouse public job board |
+| Jump Trading | [Careers](https://job-boards.greenhouse.io/jumptrading) | Greenhouse public job board |
+| k-ID | [Careers](https://jobs.ashbyhq.com/k-ID) | Ashby public posting API; listed jobs only |
+| Lalamove | [Careers](https://jobs.lever.co/lalamove) | Lever public postings |
+| Lumilens | [Careers](https://jobs.ashbyhq.com/lumilens) | Ashby public posting API; listed jobs only |
+| Micron | [Careers](https://micron.wd1.myworkdayjobs.com/External) | Workday search and posting details |
+| MongoDB | [Careers](https://job-boards.greenhouse.io/mongodb) | Greenhouse public job board |
+| NCS | [Careers](https://careers.smartrecruiters.com/NCS3) | SmartRecruiters public postings and details |
+| Nium | [Careers](https://jobs.lever.co/nium) | Lever public postings |
+| NVIDIA | [Careers](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite) | Workday search and posting details |
+| NXP | [Careers](https://nxp.wd3.myworkdayjobs.com/careers) | Workday search and posting details |
+| OCBC | [Careers](https://ocbc.wd102.myworkdayjobs.com/External) | Workday search and posting details |
+| OKX | [Careers](https://job-boards.greenhouse.io/okx) | Greenhouse public job board |
+| OpenAI | [Careers](https://jobs.ashbyhq.com/openai) | Ashby public posting API; listed jobs only |
+| Palantir Technologies | [Careers](https://jobs.lever.co/palantir) | Lever public postings |
+| Portcast | [Careers](https://jobs.lever.co/portcast) | Lever public postings |
+| Renesas Electronics | [Careers](https://careers.smartrecruiters.com/RenesasElectronics) | SmartRecruiters public postings and details |
+| Rubrik | [Careers](https://job-boards.greenhouse.io/rubrik) | Greenhouse public job board |
+| Sea | [Careers](https://career.sea.com/jobs) | Public careers API and live Singapore metadata |
+| ServiceNow | [Careers](https://careers.smartrecruiters.com/ServiceNow) | SmartRecruiters public postings and details |
+| ShopBack | [Careers](https://jobs.lever.co/shopback-2) | Lever public postings |
+| Shopee | [Careers](https://careers.shopee.sg/jobs) | Public ATS and live Singapore metadata |
+| SimplifyNext | [Careers](https://job-boards.greenhouse.io/simplifynext) | Greenhouse public job board |
+| Singapore Public Service | [Careers](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers) | Workday search and posting details with individual agency attribution |
+| Stripe | [Careers](https://job-boards.greenhouse.io/stripe) | Greenhouse public job board |
+| Supabase | [Careers](https://jobs.ashbyhq.com/supabase) | Ashby public posting API; listed jobs only |
+| Temus | [Careers](https://job-boards.greenhouse.io/temus) | Greenhouse public job board |
+| Thunes | [Careers](https://job-boards.greenhouse.io/thunes) | Greenhouse public job board |
+| TikTok | [Careers](https://lifeattiktok.com/search) | Public supplier API and Singapore location metadata |
+| Tower Research Capital | [Careers](https://job-boards.greenhouse.io/towerresearchcapital) | Greenhouse public job board |
+| Trust Bank | [Careers](https://job-boards.greenhouse.io/trustbank) | Greenhouse public job board |
+| UOB | [Careers](https://uobgroup.wd3.myworkdayjobs.com/UOBExternal) | Workday search and posting details |
+| Verkada | [Careers](https://job-boards.greenhouse.io/verkada) | Greenhouse public job board |
+| Western Digital | [Careers](https://careers.smartrecruiters.com/WesternDigital) | SmartRecruiters public postings and details |
+| Wise | [Careers](https://careers.smartrecruiters.com/Wise) | SmartRecruiters public postings and details |
 
 ## Provenance and scope
 
@@ -71,3 +115,15 @@ Validation for this expansion: all 20 sources completed successfully. Micron con
 The [30-listing review](audits/2026-09-24-post-expansion.md) covers 17 employers and records source evidence, duplicate checks and remaining gaps. It recovered seven technical roles through narrow Business Intelligence, LLM/prompt engineering and silicon-design title rules, and corrected an intake following a separate graduation-requirement bullet.
 
 The [engineering follow-up](audits/2026-09-24-engineering-followup.md) reviews five more product-building, NAND-validation and test-solutions internships. Matching requires the explicit engineering specialties rather than a generic product title.
+
+## Broad employer expansion — 24 September 2026
+
+The registry now contains **64 sources**, up from 20. The 44 added feeds span smaller technology firms (including Portcast, SimplifyNext, Bifrost, Cantina and k-ID), larger technology and financial companies, and the shared Singapore Public Service careers board. These are coverage examples, not formal SME-size classifications.
+
+Ashby boards are collected through the [documented public posting API](https://developers.ashbyhq.com/docs/public-job-posting-api). Only publicly listed records are included. Structured internship employment types and Singapore primary/secondary locations are supported; an APAC or remote label alone is insufficient. `publishedAt` is the employer's most recent publication date, not necessarily the original creation date. Malformed records and duplicate IDs prevent absence-based closures.
+
+The Public Service board is one shared source covering multiple agencies. Each matching role uses its detail response's hiring-organization name, rather than attributing every job to GovTech or to the umbrella board. Missing agency details fail collection conservatively. Agencies appear in the README only when they have qualifying roles; monitoring this board does not imply every government agency is covered.
+
+Each added feed returned a complete public response and explicit Singapore job-location evidence during investigation. Many currently have zero matching technical internships; they remain monitored for new openings. The expansion audit records matching-role counts and limitations in [the audit report](audits/2026-09-24-employer-expansion.md).
+
+Review of the new NCS postings identified People & Culture roles attached to AI teams, business-strategy roles, AI strategy/planning and learning-content development. These are excluded from technical matching. AI solution engineering and hands-on automation remain eligible. Intake ranges using “till” are now recognized.

@@ -4,13 +4,13 @@ An automatically updated list of technical internships in **Singapore**, collect
 
 **[Download CSV](data/internships.csv)** · **[JSON data](data/jobs.json)** · **[Refresh status](https://github.com/sabersmash1412/singapore-internship-tracker/actions/workflows/refresh.yml)** · **[Suggest an employer](https://github.com/sabersmash1412/singapore-internship-tracker/issues/new?template=suggest-employer.yml)** · **[Report a listing](https://github.com/sabersmash1412/singapore-internship-tracker/issues/new?template=report-listing.yml)**
 
-Monitored employers: **TikTok, ByteDance, Shopee, Sea, GovTech, DBS, OCBC, UOB, Grab, ShopBack, Temus, DRW, Applied Materials, GlobalFoundries, NXP, Micron, NVIDIA, AMD, Amazon and Apple**. See [source coverage](SOURCES.md) for the official boards and collection limits. This is an early list, not comprehensive coverage of Singapore internships. Newest discoveries appear first; separate requisitions remain separate rows.
+Coverage includes startups, smaller technology firms, multinational companies and Singapore public agencies. See [all monitored sources](SOURCES.md) for employer coverage and collection limits. A monitored employer may have no matching internships today. Newest discoveries appear first; separate requisitions remain separate rows.
 
 <!-- INTERNSHIPS:START -->
 
-**402 current or undated listings · 15 older advertised periods · 17 employers with roles**
+**443 current or undated listings · 15 older advertised periods · 30 employers with roles**
 
-Last collection: **24 Sep 2026, 17:32 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **24 Sep 2026, 17:56 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -22,6 +22,47 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Tower Research Capital | 🆕 Quantitative Researcher Intern, PhD or Postdoc | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8168634>) | - | 01 Sep 2026 | 24 Sep 2026 |
+| ↳ | 🆕 Quantitative Researcher Intern, Bachelor's or Master's | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8168750>) | - | 01 Sep 2026 | 24 Sep 2026 |
+| ↳ | 🆕 Quantitative Developer Intern | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8138524>) | - | 18 Aug 2026 | 24 Sep 2026 |
+| Stripe | 🆕 Software Engineer, Intern | [Apply](<https://stripe.com/jobs/search?gh_jid=8130883>) | - | 07 Sep 2026 | 24 Sep 2026 |
+| SLA Singapore Land Authority | 🆕 Intern, GeoSpatial Systems &amp; Solutions | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/SLA-REVENUE-HOUSE-LEVEL-11/Intern--GeoSpatial-Systems---Solutions_JR-10000054096>) | - | 07 Sep 2026 | 24 Sep 2026 |
+| ↳ | 🆕 Intern, Finance Process Automation | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/SLA-REVENUE-HOUSE-LEVEL-11/intern_JR-10000036273>) | Oct 2026 to Feb 2027 / Jan 2027 to June 2027 | 11 Sep 2026 | 24 Sep 2026 |
+| Portcast | 🆕 Data Analyst Intern | [Apply](<https://jobs.lever.co/portcast/f18cc64e-c34a-416c-b213-62a39906260e>) | - | - | 24 Sep 2026 |
+| Palantir Technologies | 🆕 Software Engineer, Internship | [Apply](<https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1>) | - | - | 24 Sep 2026 |
+| NLB National Library Board | 🆕 Video Analytics Intern, Properties &amp; Facilities Management | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/NLB-National-Library-Building/Video-Analytics-Intern--Properties---Facilities-Management_JR-10000055560>) | - | 15 Sep 2026 | 24 Sep 2026 |
+| NCS | 🆕 \[Uni – Jan till Jun 2027\] Agentic AI Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001275993>) | Jan till Jun 2027 | 31 Jul 2026 | 24 Sep 2026 |
+| ↳ | 🆕 \[Uni - Jan till Jun 2027\] Software Engineering Intern (Low Code) | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287390>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 \[Uni - Jan till Jun 2027\] Software Engineering Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287270>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 \[Uni - Jan till Jun 2027\] Software Engineer/ Business Analyst Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287535>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 \[Uni - Jan till Jun 2027\] Software Engineer and Data Analytics Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001308503>) | Jan till Jun 2027 | 12 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001303212>) | Jan till Jun 2027 | 11 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 \[Uni - Jan till Jun 2027\] Robotics Hardware Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001369044>) | Jan till Jun 2027 | 02 Sep 2026 | 24 Sep 2026 |
+| ↳ | 🆕 \[Uni - Jan till Jun 2027\] Physical AI Security Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001344206>) | Jan till Jun 2027 | 24 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 \[Uni - Jan till Jun 2027\] Legal AI Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287841>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 \[Uni - Jan till Jun 2027\] IT Operations &amp; Service Management Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287819>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 \[Uni - Jan till Jun 2027\] IT Infrastructure Project Management Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287967>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 \[Uni - Jan till Jun 2027\] GenAI Software Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001307002>) | Jan till Jun 2027 | 12 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 \[Uni - Jan till Jun 2027\] DevOps &amp; Enterprise Architect Assistant Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001288434>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 \[Uni - Jan till Jun 2027\] AI Software Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287295>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 \[Uni - Jan till Jun 2027\] AI Presales &amp; Solution Engineering Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287889>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 \[Uni - Jan till Jun 2027\] AI Platform Intern (AI Ops and Digital Platforms) | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287414>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 \[Uni - Jan till Jun 2027\] AI Engineer Intern (Middleware) | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001288481>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 \[Uni - Jan till Jun 2027\] AI Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287239>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 AI &amp; Workplace Transformation Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001363449>) | - | 31 Aug 2026 | 24 Sep 2026 |
+| NAC National Arts Council | 🆕 Intern, Data &amp; Research (Data) - 6 Months Contract | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Singapore/Intern--Data---Research--Data----6-Months-Contract_JR-10000055833>) | - | 23 Sep 2026 | 24 Sep 2026 |
+| Jump Trading | 🆕 Campus Systems Engineer (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027952>) | - | 03 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 Campus Quantitative Trader (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027941>) | - | 03 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 Campus Quantitative Researcher (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027939>) | - | 03 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 Campus Python Software Engineer (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027955>) | - | 03 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 Campus C++ Software Engineer (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027946>) | - | 03 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 Campus AI/ML Researcher (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027938>) | - | 24 Aug 2026 | 24 Sep 2026 |
+| Carousell Group | 🆕 Forward Deployed Engineering Intern (AI Adoption Pod) | [Apply](<https://jobs.smartrecruiters.com/CarousellGroup/744000151263724>) | Oct 2026-Jun 2027 / Oct–Dec 2026 / Jan-Jun 2027 | 23 Sep 2026 | 24 Sep 2026 |
+| Cantina | 🆕 Machine Learning Intern | [Apply](<https://jobs.ashbyhq.com/cantina/16c7915e-9fd7-413f-b7ee-590589fbdc01>) | October 2026 Start | 07 Sep 2026 | 24 Sep 2026 |
+| Bosch | 🆕 Intern, Sales Excellence Data Analyst | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000150013555>) | - | 17 Sep 2026 | 24 Sep 2026 |
+| ↳ | 🆕 Intern, AI Research | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000150014319>) | - | 17 Sep 2026 | 24 Sep 2026 |
+| Airwallex | 🆕 Software Engineer Intern (Summer 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795>) | Summer 2027 | 05 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 Software Engineer Intern (Jan to Jun 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441>) | Jan to Jun 2027 | 14 Aug 2026 | 24 Sep 2026 |
 | ShopBack | 🆕 Product Builder Intern (Product Engineering) | [Apply](<https://jobs.lever.co/shopback-2/5e5c78b0-1b9a-4c09-843d-49ea41e991fe>) | - | - | 24 Sep 2026 |
 | Micron | 🆕 Intern- Test Solutions Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Test-Solutions-Engineer_JR106290>) | - | 28 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Intern- Test Solutions Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Test-Solutions-Engineer_JR106289>) | - | 18 Sep 2026 | 24 Sep 2026 |
@@ -497,6 +538,50 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
 | apple:apple | Complete | 2 |
+| greenhouse:agoda | Complete | 0 |
+| ashby:airwallex | Complete | 2 |
+| ashby:bifrost | Complete | 0 |
+| lever:binance | Complete | 0 |
+| greenhouse:bitgo | Complete | 0 |
+| smartrecruiters:BoschGroup | Complete | 2 |
+| ashby:cantina | Complete | 1 |
+| smartrecruiters:CarousellGroup | Complete | 1 |
+| ashby:clickhouse | Complete | 0 |
+| ashby:cohere | Complete | 0 |
+| greenhouse:coinbase | Complete | 0 |
+| smartrecruiters:Continental | Complete | 0 |
+| lever:crypto | Complete | 0 |
+| greenhouse:databricks | Complete | 0 |
+| greenhouse:datadog | Complete | 0 |
+| greenhouse:elastic | Complete | 0 |
+| ashby:elevenlabs | Complete | 0 |
+| greenhouse:figma | Complete | 0 |
+| greenhouse:gemini | Complete | 0 |
+| greenhouse:janestreet | Complete | 0 |
+| greenhouse:jumptrading | Complete | 6 |
+| ashby:k-ID | Complete | 0 |
+| lever:lalamove | Complete | 0 |
+| ashby:lumilens | Complete | 0 |
+| greenhouse:mongodb | Complete | 0 |
+| smartrecruiters:NCS3 | Complete | 19 |
+| lever:nium | Complete | 0 |
+| greenhouse:okx | Complete | 0 |
+| ashby:openai | Complete | 0 |
+| lever:palantir | Complete | 1 |
+| lever:portcast | Complete | 1 |
+| smartrecruiters:RenesasElectronics | Complete | 0 |
+| greenhouse:rubrik | Complete | 0 |
+| smartrecruiters:ServiceNow | Complete | 0 |
+| greenhouse:simplifynext | Complete | 0 |
+| workday:sggovterp | Complete | 4 |
+| greenhouse:stripe | Complete | 1 |
+| ashby:supabase | Complete | 0 |
+| greenhouse:thunes | Complete | 0 |
+| greenhouse:towerresearchcapital | Complete | 3 |
+| greenhouse:trustbank | Complete | 0 |
+| greenhouse:verkada | Complete | 0 |
+| smartrecruiters:WesternDigital | Complete | 0 |
+| smartrecruiters:Wise | Complete | 0 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

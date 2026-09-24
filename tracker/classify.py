@@ -28,10 +28,10 @@ def singapore(location, country=None):
 
 def category(title):
     # A recruiting role for an AI team is still recruiting, not an AI internship.
-    if re.search(r'\b(talent acquisition|recruiter|recruitment|human resources|hr operations|hr business partner|hrbp|business development and commercial)\b', title, re.I):
+    if re.search(r'\b(talent acquisition|recruiter|recruitment|human resources|people\s*(?:&|and)\s*culture|hr operations|hr business partner|hrbp|business development and commercial|learning developer|AI strategy\s*(?:&|and)\s*planning)\b', title, re.I):
         return None
     # Team names alone do not make administrative project coordination technical.
-    if re.search(r"\bproject management\b", title, re.I):
+    if re.search(r"\b(?:project management|business\s*(?:&|and)\s*strategy)\b", title, re.I):
         title = re.sub(r"[（(].*?[）)]", "", title)
     title = re.sub(r"\b(?:AWS\s+)?Cloud Logistics\b", "", title, flags=re.I)
     if re.search(r"\b(?:physical security|DC Security Specialist)\b", title, re.I):
@@ -65,7 +65,7 @@ def eligible(job):
 
 MONTH = r"(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)"
 PERIOD = re.compile(
-    rf"\b(?:{MONTH}\s*(?:20\d{{2}})?\s*(?:-|–|—|to|through)\s*{MONTH}\s+20\d{{2}}|"
+    rf"\b(?:{MONTH}\s*(?:20\d{{2}})?\s*(?:-|–|—|to|till|through)\s*{MONTH}\s+20\d{{2}}|"
     rf"(?:H[12]|[12]H|Summer|Winter|Fall|Spring)\s+20\d{{2}}|20\d{{2}}\s+(?:Start|Intake)|{MONTH}\s+20\d{{2}}(?:\s+(?:Start|Intake))?)\b", re.I
 )
 

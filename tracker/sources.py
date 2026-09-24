@@ -93,6 +93,31 @@ def fetch(company, get=get_json, post=post_json, text=get_text):
     platform, slug = company["platform"], quote(company["slug"], safe="")
     snapshot = Snapshot(f"{platform}:{company['slug']}")
     try:
+        if platform == "ashby":
+            from .regional import record
+            payload = get(f"https://api.ashbyhq.com/posting-api/job-board/{slug}")
+            if payload.get('apiVersion') != '1':
+                raise ValueError('Unsupported Ashby feed version')
+            seen = set()
+            for row in rows(payload, 'jobs'):
+                identifier = row.get('id')
+                if not identifier or identifier in seen or type(row.get('isListed')) is not bool:
+                    raise ValueError('Invalid or duplicate Ashby posting')
+                seen.add(identifier)
+                if not row['isListed']:
+                    continue
+                address = (row.get('address') or {}).get('postalAddress') or {}
+                secondary = rows(row.get('secondaryLocations', []))
+                location = '; '.join(filter(None, [row.get('location'), *[
+                    ', '.join(filter(None, [v.get('location'), (v.get('address') or {}).get('addressCountry')]))
+                    for v in secondary]]))
+                if any((v.get('address') or {}).get('addressCountry') in {'SG', 'SGP', 'Singapore'} for v in secondary):
+                    location += '; Singapore'
+                snapshot.jobs.append(record(company, identifier, row.get('title'), location,
+                    row.get('jobUrl') or '', row.get('descriptionPlain') or row.get('descriptionHtml') or '',
+                    address.get('addressCountry'), row.get('publishedAt'), employment_type=row.get('employmentType')))
+            snapshot.complete = True
+            return snapshot
         if platform in {"amazon", "amd", "apple"}:
             from .employers import collect
             collect(company, snapshot, get, text)

@@ -13,11 +13,21 @@ python3 run.py update
 
 ## GitHub automation
 
-Push changes to `main`, then use **Actions → Refresh internships → Run workflow**. The existing refresh.yml workflow requests a run every 30 minutes and commits the README and data back to the repository. Schedules can be delayed: the README states the actual collection time.
+Push changes to `main`, then use **Actions → Refresh internships → Run workflow**. cron-job.org sends a POST to the workflow dispatch endpoint every 30 minutes, at :00 and :30 in Asia/Singapore. The refresh.yml workflow collects roles and commits the README and data. GitHub’s native cron trigger is removed to avoid duplicate refreshes. Runner queues can still delay starts; the README states the actual collection time.
 
 GitHub Pages is not needed. If a website was previously deployed, removing the deployment workflow does not unpublish it; it can be unpublished separately from repository Settings → Pages.
 
-Only `contents: write` permission is requested. No secrets are needed. Branch protection or organization policy may require adapting the bot commit process. Concurrent scheduled writers are serialized; non-fast-forward pushes fail rather than overwrite new commits.
+The workflow uses only `contents: write` for its built-in GitHub token. No repository secrets are needed. The external scheduler stores a separate fine-grained GitHub token with Actions read/write access to this repository; never commit that token. The current scheduler token expires on 23 December 2026 and must be replaced in the Authorization header before then. Branch protection or organization policy may require adapting the bot commit process. Concurrent scheduled writers are serialized; non-fast-forward pushes fail rather than overwrite new commits.
+
+### External scheduler maintenance
+
+Manage the job named “Singapore internships — refresh every 30 minutes” in [cron-job.org](https://console.cron-job.org/jobs). It uses POST, body `{"ref":"main"}`, and this URL:
+
+`https://api.github.com/repos/sabersmash1412/singapore-internship-tracker/actions/workflows/refresh.yml/dispatches`
+
+Headers: `Accept: application/vnd.github+json`, `Content-Type: application/json`, `X-GitHub-Api-Version: 2026-03-10`, `User-Agent: singapore-internship-tracker`, and `Authorization: Bearer <token>`. Store the token only in the scheduler. Its expiration is independent of the job's unlimited schedule.
+
+A successful dispatch confirms GitHub accepted the request, not that collection finished. Check both cron-job.org execution history and the GitHub Actions result. Manual **Run workflow** remains available if the scheduler is unavailable. On 24 September 2026, the scheduler test returned 200 and created [this GitHub run](https://github.com/sabersmash1412/singapore-internship-tracker/actions/runs/35974750632).
 
 ## Add employers
 

@@ -31,7 +31,8 @@ Keep public job URLs as application links. Do not submit credentials, private st
 - Source IDs prevent repeat rows across runs. Cross-platform duplicate detection is not implemented; distinct requisitions remain distinct.
 - Classification uses titles and explicit employer internship/role metadata. Broad programme names can still be missed. Period extraction is deliberately limited.
 - Full descriptions are not persisted, only selected metadata and brief evidence excerpts.
-- Eligibility, allowance and application deadlines are not currently extracted.
+- Eligibility and allowance are not currently extracted. GovTech programme deadlines are read from the official page with an explicit Singapore timezone; other employers currently have no deadline extraction.
+- A known application deadline closes matching roles on the first successful refresh at or after that time, even if the catalogue still lists them or that source fails. A verified extended deadline can reopen them. If every source fails, or no workflow runs, the published snapshot stays unchanged until a successful refresh.
 - An all-source failure preserves the previous README/data and fails the run. Partial failures are shown in README source health.
 - Do not run simultaneous local updates. Tests use temporary directories.
 
@@ -45,3 +46,5 @@ Keep public job URLs as application links. Do not submit credentials, private st
 - tests/ — classification, lifecycle, source and publication checks
 
 Next priority: broaden multinational, semiconductor and startup coverage, and measure recall against a manually reviewed sample. A board being monitored does not imply that it currently has matching roles.
+
+Workday boards may specify `country_facet` to resolve Singapore from current country metadata before searching. Missing/ambiguous metadata is an incomplete collection, not evidence of zero jobs. GovTech can specify `deadline_url`; a missing or ambiguous deadline causes incomplete source status and preserves previously known deadlines.

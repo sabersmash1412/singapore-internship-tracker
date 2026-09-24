@@ -91,7 +91,7 @@ class RegionalTests(unittest.TestCase):
         groups={key:[] for key in ['cybersecurity-engineer','data-engineer','data-scientist','software-engineer','systems-engineer']}
         groups['software-engineer']=[dict(id='p1',role='Software Engineer',projectTitle='Build citizen services',projectDescription='$a',filled=filled,workLocation=location,roleSlug='software-engineer',projectSlug='citizen-services',internshipDurations=['6 months'])]
         payload='1:'+json.dumps({'internships':groups})
-        return '<script>self.__next_f.push('+json.dumps([1,payload])+')</script>'
+        return '<p>Internship applications are now open until 30 September 2026, 12pm.</p><script>self.__next_f.push('+json.dumps([1,payload])+')</script>'
 
     def test_govtech_structured_role_and_duration(self):
         result=fetch(self.gov,text=lambda _:self.gov_html())

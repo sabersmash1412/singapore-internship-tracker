@@ -5,6 +5,7 @@ from urllib.parse import quote, urlencode
 
 from .classify import category, singapore
 from .sources import rows
+from .deadlines import govtech_deadline
 
 
 def record(company, identifier, title, location, url, description='', country=None, posted=None, **extra):
@@ -69,12 +70,34 @@ def supplier(company, snapshot, post):
     raise ValueError('Career search pagination cap reached')
 
 
+def workday_facets(facets):
+    for facet in rows(facets):
+        yield facet
+        if 'facets' in facet:
+            yield from workday_facets(facet['facets'])
+        for value in facet.get('values', []):
+            if 'facetParameter' in value:
+                yield from workday_facets([value])
+            if 'facets' in value:
+                yield from workday_facets(value['facets'])
+
+
 def workday(company, snapshot, get, post):
     base = company['api_base']
     seen = set()
     expected_total = None
+    applied = {}
+    if company.get('country_facet'):
+        metadata = post(base + '/jobs', {'appliedFacets': {}, 'limit': 20, 'offset': 0, 'searchText': ''})
+        facets = [f for f in workday_facets(metadata.get('facets')) if f.get('facetParameter') == company['country_facet']]
+        if len(facets) != 1:
+            raise ValueError('Missing or ambiguous country facet')
+        ids = [v['id'] for v in rows(facets[0], 'values') if v.get('descriptor') == 'Singapore' and v.get('id')]
+        if not ids:
+            raise ValueError('Singapore absent from country facet; scope cannot be verified')
+        applied = {company['country_facet']: ids}
     for offset in range(0, 4000, 20):
-        data = post(base + '/jobs', {'appliedFacets': {}, 'limit': 20, 'offset': offset, 'searchText': 'intern'})
+        data = post(base + '/jobs', {'appliedFacets': applied, 'limit': 20, 'offset': offset, 'searchText': 'intern'})
         page = rows(data, 'jobPostings')
         total = data.get('total')
         if expected_total is None:
@@ -133,6 +156,8 @@ def flight_text(html):
 
 
 def govtech(company, snapshot, text):
+    deadline_source = company.get('deadline_url', 'https://www.tech.gov.sg/careers/students-and-graduates/internships/')
+    deadline = govtech_deadline(text(deadline_source))
     html = text(company['careers_url'])
     flight = flight_text(html)
     matches = list(re.finditer(r'"internships":', flight))
@@ -171,6 +196,7 @@ def govtech(company, snapshot, text):
             snapshot.jobs.append(record(company, project['id'], title, location,
                 company['careers_url'].rstrip('/') + '/' + quote(role, safe='') + '/' + quote(slug, safe=''),
                 description, country, employment_type='Intern',
+                application_deadline_at=deadline, deadline_source=deadline_source,
                 structured_duration=' / '.join(durations) or None,
                 role_category=category(project.get('role') or '')))
     snapshot.complete = True

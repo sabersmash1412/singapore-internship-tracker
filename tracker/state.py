@@ -5,6 +5,7 @@ import os
 from pathlib import Path
 
 from .classify import eligible, enrich
+from .deadlines import deadline_passed
 
 
 def load(path):
@@ -72,5 +73,13 @@ def merge(previous, snapshots, now):
         reports.append(dict(board=snapshot.board, complete=snapshot.complete,
                             fetched=len(snapshot.jobs), matched=len(selected),
                             error=snapshot.error, warnings=snapshot.warnings))
+    # Retained listings must expire even when their source is unavailable.
+    for identifier, job in jobs.items():
+        if job['is_open'] and deadline_passed(job, now):
+            old = previous['jobs'].get(identifier, {})
+            same_closure = (old.get('closed_reason') == 'Application deadline passed'
+                            and old.get('application_deadline_at') == job['application_deadline_at'])
+            job.update(is_open=False, closed_reason='Application deadline passed',
+                       closed_at=old['closed_at'] if same_closure else now)
     state.update(last_attempt_at=now, sources=reports)
     return state

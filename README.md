@@ -4,13 +4,13 @@ An automatically updated list of technical internships in **Singapore**, collect
 
 **[Download CSV](data/internships.csv)** · **[JSON data](data/jobs.json)** · **[Refresh status](https://github.com/sabersmash1412/singapore-internship-tracker/actions/workflows/refresh.yml)** · **[Suggest an employer](https://github.com/sabersmash1412/singapore-internship-tracker/issues)**
 
-Monitored employers: **TikTok, ByteDance, Shopee, Sea, GovTech, DBS, OCBC, UOB, Grab, ShopBack, Temus and DRW**. See [source coverage](SOURCES.md) for the official boards and collection limits. This is an early list, not comprehensive coverage of Singapore internships. Newest discoveries appear first; separate requisitions remain separate rows.
+Monitored employers: **TikTok, ByteDance, Shopee, Sea, GovTech, DBS, OCBC, UOB, Grab, ShopBack, Temus, DRW, Applied Materials, GlobalFoundries and NXP**. See [source coverage](SOURCES.md) for the official boards and collection limits. This is an early list, not comprehensive coverage of Singapore internships. Newest discoveries appear first; separate requisitions remain separate rows.
 
 <!-- INTERNSHIPS:START -->
 
-**335 current or undated listings · 14 older advertised periods · 11 employers with roles**
+**359 current or undated listings · 14 older advertised periods · 13 employers with roles**
 
-Last collection: **24 Sep 2026, 10:38 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **24 Sep 2026, 11:01 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -18,8 +18,34 @@ These roles remain listed in employer sources; confirm application availability 
 
 ## Current or undated internships
 
+**Application deadlines:** [GovTech](<https://www.tech.gov.sg/careers/students-and-graduates/internships/>): 30 Sep 2026, 12:00 SGT.
+
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| GlobalFoundries | 🆕 Testchip Design &amp; Implementation Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Testchip-Design---Implementation-Intern--Jan-Jun-2027-_JR-2604352>) | Jan-Jun 2027 | 14 Aug 2026 | 24 Sep 2026 |
+| GlobalFoundries | 🆕 Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604281>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
+| GlobalFoundries | 🆕 Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604277-1>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
+| GlobalFoundries | 🆕 Machine Learning &amp; Generative AI Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Machine-Learning---Generative-AI-Intern--Jan-Jun-2027-_JR-2604518>) | Jan-Jun 2027 | 02 Sep 2026 | 24 Sep 2026 |
+| GlobalFoundries | 🆕 Facility Engineering, Automation Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Facility-Engineering--Automation-Intern--Jan-Jun-2027-_JR-2604650>) | Jan-Jun 2027 | 23 Aug 2026 | 24 Sep 2026 |
+| GlobalFoundries | 🆕 ESD Device Design Engineer Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/ESD-Device-Design-Engineer-Intern--Jan-Jun-2027-_JR-2604348>) | Jan-Jun 2027 | 18 Aug 2026 | 24 Sep 2026 |
+| GlobalFoundries | 🆕 2H University Intern, AI-Driven Process Intern (Advanced Process Control) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern--AI-Driven-Process-Intern--Advanced-Process-Control-_JR-2502691>) | - | 11 Jan 2026 | 24 Sep 2026 |
+| GlobalFoundries | 🆕 2H University Intern - Process Integration | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Process-Integration_JR-2502759>) | - | 14 Jan 2026 | 24 Sep 2026 |
+| GlobalFoundries | 🆕 2H University Intern - Process Integration | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Process-Integration_JR-2502758>) | - | 19 Jan 2026 | 24 Sep 2026 |
+| GlobalFoundries | 🆕 2H University Intern - PVD Equipment | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---PVD-Equipment_JR-2502749>) | - | 13 Jan 2026 | 24 Sep 2026 |
+| GlobalFoundries | 🆕 2H University Intern - IP Program Management &amp; QA | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---IP-Program-Management---QA_JR-2502782>) | - | 13 Jan 2026 | 24 Sep 2026 |
+| GlobalFoundries | 🆕 2H University Intern - FR CMOS Device Engineering | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Intern---FR-CMOS_JR-2503753>) | - | 14 Jan 2026 | 24 Sep 2026 |
+| Applied Materials | 🆕 Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Technology-Development-Engineer---Hybrid-Bonding---Advanced-Packaging--Internship-_R2626901>) | - | 31 Aug 2026 | 24 Sep 2026 |
+| Applied Materials | 🆕 Process Engineering Intern (Hybrid Bonding) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-Engineering-Intern--Hybrid-Bonding-_R2626437>) | - | 31 Aug 2026 | 24 Sep 2026 |
+| Applied Materials | 🆕 Process Engineer Internship: Enhancing CVD process efficiency and film quality through systematic recipe optimization | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-Engineer-Internship--Enhancing-CVD-process-efficiency-and-film-quality-through-systematic-recipe-optimization_R2626530>) | - | 31 Aug 2026 | 24 Sep 2026 |
+| Applied Materials | 🆕 College Intern - Process Integration | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process-Integration_R2626676>) | - | 31 Aug 2026 | 24 Sep 2026 |
+| Applied Materials | 🆕 College Intern - Process &amp; product development in PVD chambers in Hybrid bonding for SOIC (advanced packaging) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process---product-development-in-PVD-chambers-in-Hybrid-bonding-for-SOIC--advanced-packaging-_R2626936>) | - | 07 Sep 2026 | 24 Sep 2026 |
+| Applied Materials | 🆕 College Intern - Process &amp; hardware development in PVD chambers for new films: AlN as thermal interface material (TIM), SiN as photonic waveguide . | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-chambers-for-new-films--AlN-as-thermal-interface-material--TIM---SiN-as-photonic-waveguide-_R2626934>) | - | 07 Sep 2026 | 24 Sep 2026 |
+| Applied Materials | 🆕 College Intern - Process &amp; hardware development in PVD chambers for emerging films in micro-OLED and Integrated voltage regulator for AI chips | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-chambers-for-emerging-films-in-micro-OLED-and-Integrated-voltage-regulator-for-AI-chips_R2626937>) | - | 07 Sep 2026 | 24 Sep 2026 |
+| Applied Materials | 🆕 College Intern - Process &amp; hardware development in PVD Al chambers for N3,N5 and more advanced nodes. | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-Al-chambers-for-N3-N5-and-more-advanced-nodes_R2626935>) | - | 07 Sep 2026 | 24 Sep 2026 |
+| Applied Materials | 🆕 College Intern - GT Indigo Inter-Die Gapfill Process and Integration for 3DIC | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---GT-Indigo-Inter-Die-Gapfill-Process-and-Integration-for-3DIC_R2626651>) | - | 07 Sep 2026 | 24 Sep 2026 |
+| Applied Materials | 🆕 College Intern - Job Description Metrology, Defect Inspection, and Data Analytics for Die-to-Wafer Hybrid Bonding | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern_R2624343>) | - | 04 Sep 2026 | 24 Sep 2026 |
+| Applied Materials | 🆕 College Intern (Hardware) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern--Hardware-_R2627095>) | - | 31 Aug 2026 | 24 Sep 2026 |
+| Applied Materials | 🆕 College Intern (Hardware) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern--Hardware-_R2627094>) | - | 31 Aug 2026 | 24 Sep 2026 |
 | TikTok | 🆕 Product Operations Project Intern (System &amp; Quality) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7598408632911317253>) | 2026 Start | - | 24 Sep 2026 |
 | ShopBack | 🆕 Site Reliability Engineer Intern | [Apply](<https://jobs.lever.co/shopback-2/df5ed7cf-eb1f-4f17-ad11-35ad6011412c>) | H1 2027 | - | 24 Sep 2026 |
 | ByteDance | 🆕 Site Reliability Engineer Intern (Video and Edge, CDN Platform) - 2027 Start | [Apply](<https://joinbytedance.com/search/7665225726098098485>) | 2027 Start | - | 24 Sep 2026 |
@@ -385,20 +411,20 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 <details>
 <summary>Recently closed / removed from scope (last 14 days)</summary>
 
-| Company | Role | Closed |
-| --- | --- | --- |
-| TikTok | Project Management Project Intern (AI Data - Eco Operations) - 2026 Start (BS/MS) | 24 Sep 2026 |
-| TikTok | Project Management Project Intern （ AI Data (Safety Model Operations) ）- 2026 Start（BS/MS） | 24 Sep 2026 |
-| TikTok | Project Management Project Intern (AI Data (Eco Governance)) - 2026 Start (BS/MS) | 24 Sep 2026 |
-| ByteDance | Data Center Business Development and Commercial Intern (Data Center Development) - 2027 Start | 24 Sep 2026 |
-| ByteDance | HR Business Partner, Project Intern (Data) - 2026 Start (BS/MS) | 24 Sep 2026 |
-| OCBC | Internship: Group Risk Management, Group Risk Portfolio Management, Credit Infrastructure &amp; Solutions \[Jan to May 2027\] | 24 Sep 2026 |
-| OCBC | Internship: Global Corporate Banking, Global Energy, Infrastructure &amp; Utilities \[Jan to May 2027\] | 24 Sep 2026 |
-| TikTok | Talent Acquisition Project Intern (AI Data Service and Operations) - 2026 Start (BS/MS) | 24 Sep 2026 |
-| TikTok | Research Engineer Intern (AI Infrastructure) - Large Model Applications - Global Frontier Tech Recruitment Program - 2027 Start (PhD) | 24 Sep 2026 |
-| ByteDance | Research Scientist Intern - Large-Scale Machine Learning Systems (SysML) - Global Frontier Tech Recruitment Program - 2027 Start (PhD) | 24 Sep 2026 |
-| ByteDance | Talent Acquisition Project Intern (Data &amp; AI) - 2026 Start (BS/MS) | 24 Sep 2026 |
-| ByteDance | Talent Acquisition Project Intern (Data &amp; AI) - 2027 Start | 24 Sep 2026 |
+| Company | Role | Closed | Reason |
+| --- | --- | --- | --- |
+| TikTok | Project Management Project Intern (AI Data - Eco Operations) - 2026 Start (BS/MS) | 24 Sep 2026 | - |
+| TikTok | Project Management Project Intern （ AI Data (Safety Model Operations) ）- 2026 Start（BS/MS） | 24 Sep 2026 | - |
+| TikTok | Project Management Project Intern (AI Data (Eco Governance)) - 2026 Start (BS/MS) | 24 Sep 2026 | - |
+| ByteDance | Data Center Business Development and Commercial Intern (Data Center Development) - 2027 Start | 24 Sep 2026 | - |
+| ByteDance | HR Business Partner, Project Intern (Data) - 2026 Start (BS/MS) | 24 Sep 2026 | - |
+| OCBC | Internship: Group Risk Management, Group Risk Portfolio Management, Credit Infrastructure &amp; Solutions \[Jan to May 2027\] | 24 Sep 2026 | - |
+| OCBC | Internship: Global Corporate Banking, Global Energy, Infrastructure &amp; Utilities \[Jan to May 2027\] | 24 Sep 2026 | - |
+| TikTok | Talent Acquisition Project Intern (AI Data Service and Operations) - 2026 Start (BS/MS) | 24 Sep 2026 | - |
+| TikTok | Research Engineer Intern (AI Infrastructure) - Large Model Applications - Global Frontier Tech Recruitment Program - 2027 Start (PhD) | 24 Sep 2026 | - |
+| ByteDance | Research Scientist Intern - Large-Scale Machine Learning Systems (SysML) - Global Frontier Tech Recruitment Program - 2027 Start (PhD) | 24 Sep 2026 | - |
+| ByteDance | Talent Acquisition Project Intern (Data &amp; AI) - 2026 Start (BS/MS) | 24 Sep 2026 | - |
+| ByteDance | Talent Acquisition Project Intern (Data &amp; AI) - 2027 Start | 24 Sep 2026 | - |
 
 </details>
 
@@ -419,6 +445,9 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:dbs | Complete | 0 |
 | workday:ocbc | Complete | 9 |
 | workday:uobgroup | Complete | 2 |
+| workday:amat | Complete | 12 |
+| workday:globalfoundries | Complete | 12 |
+| workday:nxp | Complete | 0 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

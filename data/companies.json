@@ -57,7 +57,8 @@
     "name": "GovTech",
     "platform": "govtech",
     "slug": "internships",
-    "careers_url": "https://internships.tech.gov.sg/projects"
+    "careers_url": "https://internships.tech.gov.sg/projects",
+    "deadline_url": "https://www.tech.gov.sg/careers/students-and-graduates/internships/"
   },
   {
     "name": "DBS",
@@ -79,5 +80,29 @@
     "slug": "uobgroup",
     "careers_url": "https://uobgroup.wd3.myworkdayjobs.com/UOBExternal",
     "api_base": "https://uobgroup.wd3.myworkdayjobs.com/wday/cxs/uobgroup/UOBExternal"
+  },
+  {
+    "name": "Applied Materials",
+    "platform": "workday",
+    "slug": "amat",
+    "careers_url": "https://amat.wd1.myworkdayjobs.com/External",
+    "api_base": "https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/External",
+    "country_facet": "Country"
+  },
+  {
+    "name": "GlobalFoundries",
+    "platform": "workday",
+    "slug": "globalfoundries",
+    "careers_url": "https://globalfoundries.wd1.myworkdayjobs.com/External",
+    "api_base": "https://globalfoundries.wd1.myworkdayjobs.com/wday/cxs/globalfoundries/External",
+    "country_facet": "locationCountry"
+  },
+  {
+    "name": "NXP",
+    "platform": "workday",
+    "slug": "nxp",
+    "careers_url": "https://nxp.wd3.myworkdayjobs.com/careers",
+    "api_base": "https://nxp.wd3.myworkdayjobs.com/wday/cxs/nxp/careers",
+    "country_facet": "Location_Country"
   }
 ]

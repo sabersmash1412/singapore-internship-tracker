@@ -56,6 +56,13 @@ def publish(root, state):
                           f'[Apply](<{url}>)', cell(job.get('period')), day(job.get('posted_at')), day(job['first_seen_at'])]) + ' |')
         return result
 
+    deadlines = sorted({(j['company'], j['application_deadline_at'], j['deadline_source'])
+                        for j in jobs if j.get('application_deadline_at') and j.get('deadline_source')})
+    if deadlines:
+        notes = [f"[{cell(company)}](<{quote(url, safe=':/?=&%#@+;,~!-._')}>): "
+                 + instant(deadline).astimezone(ZoneInfo('Asia/Singapore')).strftime('%d %b %Y, %H:%M SGT')
+                 for company, deadline, url in deadlines]
+        lines += ['**Application deadlines:** ' + '; '.join(notes) + '.', '']
     lines += table(current)
     if not current:
         lines += ['', 'No current or undated matching internships in the latest saved data.']
@@ -70,8 +77,8 @@ def publish(root, state):
                     key=lambda j: (j['closed_at'], j['id']), reverse=True)
     if closed:
         lines += ['', '<details>', '<summary>Recently closed / removed from scope (last 14 days)</summary>', '',
-                  '| Company | Role | Closed |', '| --- | --- | --- |']
-        lines += [f'| {cell(j["company"])} | {cell(j["title"])} | {day(j["closed_at"])} |' for j in closed]
+                  '| Company | Role | Closed | Reason |', '| --- | --- | --- | --- |']
+        lines += [f'| {cell(j["company"])} | {cell(j["title"])} | {day(j["closed_at"])} | {cell(j.get("closed_reason"))} |' for j in closed]
         lines += ['', '</details>']
     lines += ['', '<details>', '<summary>Source coverage and collection health</summary>', '',
               '| Source board | Latest check | Matching roles returned |', '| --- | --- | --- |']
@@ -85,7 +92,7 @@ def publish(root, state):
     updated = readme.split(START)[0] + START + '\n\n' + generated + '\n\n' + END + readme.split(END)[1]
     data = root / 'data'
     write_json(data / 'jobs.json', {'updated_at': state['last_attempt_at'], 'jobs': jobs, 'sources': state['sources']})
-    fields = ['company', 'title', 'category', 'location', 'period', 'duration', 'posted_at', 'first_seen_at', 'last_seen_at', 'url']
+    fields = ['company', 'title', 'category', 'location', 'period', 'duration', 'posted_at', 'first_seen_at', 'last_seen_at', 'application_deadline_at', 'url']
     with (data / 'internships.csv').open('w', newline='') as output:
         writer = csv.DictWriter(output, fields, lineterminator='\n')
         writer.writeheader()

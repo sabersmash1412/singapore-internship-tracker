@@ -38,7 +38,7 @@ def category(title):
         ("Security", r"\b(cyber\w*|security)\b"),
         ("Quant", r"\b(quant\w*|trading|trader)\b"),
         ("Software", r"\b(software|developer|backend|frontend|full.?stack|automation|devops|sre|qa)\b"),
-        ("Hardware", r"\b(hardware|firmware|embedded|semiconductor|electrical)\b"),
+        ("Hardware", r"\b(hardware|firmware|embedded|semiconductor|electrical|hybrid bonding|process integration|pvd|cvd|3dic|cmos|testchip|esd device|silicon photonics)\b"),
         ("IT & Infrastructure", r"\b(it|information technology|cloud|network|systems?|data\s?cent(?:er|re)|site reliability|(?:it|technology|cloud|network) infrastructure|infrastructure engineer(?:ing)?)\b"),
     ]
     for label, pattern in patterns:

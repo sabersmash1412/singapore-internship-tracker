@@ -29,3 +29,7 @@ jobs:
             git commit -m 'Update Singapore internships'
             git push origin HEAD:main
           fi
+      # Keep successful updates even when another employer feed is unavailable.
+      # Fail after publishing so Actions failure notifications cover partial outages.
+      - name: Check employer feed health
+        run: python run.py check

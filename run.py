@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Usage: python3 run.py update | render."""
+"""Usage: python3 run.py update | render | check."""
 import argparse
 import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -14,9 +14,18 @@ ROOT = Path(__file__).resolve().parent
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("command", choices=["update", "render"])
+    parser.add_argument("command", choices=["update", "render", "check"])
     args = parser.parse_args()
     current = state.load(ROOT / "data/state.json")
+    if args.command == "check":
+        from tracker.health import check
+        companies = json.loads((ROOT / "data/companies.json").read_text())
+        try:
+            count = check(current, companies)
+        except ValueError as exc:
+            raise SystemExit(str(exc)) from exc
+        print(f"All {count} employer feeds completed successfully in the saved snapshot.")
+        return
     if args.command == "update":
         companies = json.loads((ROOT / "data/companies.json").read_text())
         if not isinstance(companies, list) or not companies:

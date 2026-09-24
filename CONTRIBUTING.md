@@ -13,7 +13,7 @@ python3 -m unittest discover -s tests -v
 python3 run.py update
 ```
 
-`update` reads employer feeds, updates history, and regenerates README.md, data/jobs.json and data/internships.csv. `python3 run.py render` regenerates them from saved history without fetching. Do not manually edit the README section between the internship markers; text outside those markers is preserved.
+`update` reads employer feeds, updates history, and regenerates README.md, data/jobs.json and data/internships.csv. `python3 run.py render` regenerates them from saved history without fetching. `python3 run.py check` validates saved source health against the employer registry without fetching or modifying files; it does not independently establish freshness. Do not manually edit the README section between the internship markers; text outside those markers is preserved.
 
 ## GitHub automation
 
@@ -37,7 +37,7 @@ A successful dispatch confirms GitHub accepted the request, not that collection 
 
 cron-job.org alerts are enabled after the first failed dispatch, on recovery, and if the job is disabled after repeated failures. These alerts cover delivery to GitHub, not the collector's result.
 
-For collection failures, enable **Email** and **Only notify for failed workflows** under [GitHub notification settings](https://github.com/settings/notifications). See [GitHub's notification guide](https://docs.github.com/en/subscriptions-and-notifications/how-tos/managing-github-actions-notifications). Partial source failures remain visible in README source health even when the workflow succeeds.
+For collection failures, enable **Email** and **Only notify for failed workflows** under [GitHub notification settings](https://github.com/settings/notifications). See [GitHub's notification guide](https://docs.github.com/en/subscriptions-and-notifications/how-tos/managing-github-actions-notifications). The workflow publishes available updates first, then runs `python run.py check`. If any registered feed is incomplete, has an error, or has detail warnings, the final check fails the workflow so failure-only notifications can apply. Existing listings from an incomplete source remain protected by the normal lifecycle rules. A healthy feed with zero matching jobs passes. Notifications follow your GitHub account settings and may recur on successive failed runs.
 
 ## Add employers
 
@@ -53,7 +53,7 @@ Keep public job URLs as application links. Do not submit credentials, private st
 - Full descriptions are not persisted, only selected metadata and brief evidence excerpts.
 - Eligibility and allowance are not currently extracted. GovTech programme deadlines are read from the official page with an explicit Singapore timezone; other employers currently have no deadline extraction.
 - A known application deadline closes matching roles on the first successful refresh at or after that time, even if the catalogue still lists them or that source fails. A verified extended deadline can reopen them. If every source fails, or no workflow runs, the published snapshot stays unchanged until a successful refresh.
-- An all-source failure preserves the previous README/data and fails the run. Partial failures are shown in README source health.
+- An all-source failure preserves the previous README/data and fails the run. Partial failures publish available updates and source health before the final health check fails the run. A red workflow can therefore coexist with a newly updated README.
 - Do not run simultaneous local updates. Tests use temporary directories.
 
 ## Structure

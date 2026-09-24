@@ -14,7 +14,7 @@ END = '<!-- INTERNSHIPS:END -->'
 
 
 def cell(value):
-    text = html.escape(str(value or 'Not stated'), quote=False)
+    text = html.escape(str(value or '-'), quote=False)
     text = re.sub(r'\s+', ' ', text).strip()
     text = re.sub(r'([\\`*_\[\]])', r'\\\1', text)
     return text.replace('|', '&#124;')
@@ -25,7 +25,7 @@ def instant(value):
 
 
 def day(value):
-    return instant(value).astimezone(ZoneInfo('Asia/Singapore')).strftime('%d %b %Y') if value else 'Not stated'
+    return instant(value).astimezone(ZoneInfo('Asia/Singapore')).strftime('%d %b %Y') if value else '-'
 
 
 def publish(root, state):

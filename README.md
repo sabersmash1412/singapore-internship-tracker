@@ -1,71 +1,63 @@
-# Singapore Internship Tracker
+# 🇸🇬 Singapore Tech Internships
 
-A year-round tracker for technical internships located in Singapore. Built from scratch with Python's standard library and a static HTML/CSS/JavaScript dashboard. Python 3.11+; no dependencies, database, API keys, or accounts needed locally.
+An automatically updated list of technical internships in **Singapore**, collected directly from employer career feeds. Browse the table below and apply on the employer’s website.
 
-## Run locally
+**[Download CSV](data/internships.csv)** · **[JSON data](data/jobs.json)** · **[Refresh status](https://github.com/sabersmash1412/singapore-internship-tracker/actions/workflows/refresh.yml)** · **[Suggest an employer](https://github.com/sabersmash1412/singapore-internship-tracker/issues)**
 
-```sh
-python3 -m unittest discover -s tests -v
-python3 run.py update
-python3 run.py serve
-```
+Coverage currently includes **Grab, ShopBack, Temus and DRW**. This is an early list, not comprehensive coverage of Singapore internships. Newest discoveries appear first; separate requisitions remain separate rows.
 
-Open http://localhost:8000. Stop with Ctrl+C. `python3 run.py render` rebuilds the site from saved data without network requests. Commands work from any directory when given the absolute path to `run.py`.
+<!-- INTERNSHIPS:START -->
 
-## Enable your GitHub deployment
+**13 open internships · 4 employers with roles**
 
-The existing remote is `https://github.com/sabersmash1412/singapore-internship-tracker.git`.
+Last collection: **24 Sep 2026, 09:45 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
-1. Review the local files and commit/push the project to `main` (commands below).
-2. In the GitHub repository, open **Settings → Pages → Build and deployment → Source**, and select **GitHub Actions**.
-3. In **Actions**, open **Refresh and publish**, then **Run workflow** on `main`.
-4. The workflow fetches jobs, saves history to the repository, and deploys the dashboard. Its deployment step provides the site URL. Expected URL: https://sabersmash1412.github.io/singapore-internship-tracker/.
-5. After the first successful deployment, the workflow requests updates every 30 minutes. GitHub scheduled runs may be delayed; check the visible last-collection timestamp.
+🆕 = first seen within 48 hours of the collection above. First seen is when this tracker discovered a role, not when the employer posted it. Initial collection marks all newly discovered roles as new.
 
-```sh
-git add .
-git commit -m "Build initial Singapore internship tracker"
-git branch -M main
-git push -u origin main
-```
+## Open internships
 
-The workflow declares the permissions it needs. Repository/organization policies or protected branches may still prevent the data commit; inspect the failed Actions step rather than disabling branch protection blindly. No service secrets are required.
+| Company | Role | Apply | Period | Employer posted | First seen |
+| --- | --- | --- | --- | --- | --- |
+| Temus | AI/Data Intern (May - Dec 2026) | [Apply](<https://job-boards.greenhouse.io/temus/jobs/5169522008>) | May - Dec 2026 | 30 Mar 2026 | 21 Sep 2026 |
+| ShopBack | Software Engineer Intern (H1 2027) | [Apply](<https://jobs.lever.co/shopback-2/1804a30e-2d2e-4631-9e85-614c91806ddf>) | H1 2027 | Not stated | 21 Sep 2026 |
+| ShopBack | Operations Automation Engineer Intern | [Apply](<https://jobs.lever.co/shopback-2/0b3627b7-0c1a-46da-bc3d-699f8d5ca9e5>) | H2 2026 | Not stated | 21 Sep 2026 |
+| ShopBack | Data Analyst (Internship) (H1 2027) | [Apply](<https://jobs.lever.co/shopback-2/b216d68c-48b0-4fa5-8f1e-9e0375b993e1>) | H1 2027 | Not stated | 21 Sep 2026 |
+| Grab | Intern, Strategy &amp; Analytics, Transport | [Apply](<https://jobs.smartrecruiters.com/Grab/744000149793152>) | Not stated | 16 Sep 2026 | 21 Sep 2026 |
+| Grab | Intern, Fleet Systems Analyst | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147417629>) | Not stated | 04 Sep 2026 | 21 Sep 2026 |
+| Grab | Intern, Analytics &amp; Projects, GrabMart | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147417509>) | Not stated | 04 Sep 2026 | 21 Sep 2026 |
+| Grab | Intern, Analytics &amp; Projects, GrabMart | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147416979>) | Not stated | 04 Sep 2026 | 21 Sep 2026 |
+| Grab | Intern, Analytics &amp; Projects, GrabFood | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147417199>) | Not stated | 04 Sep 2026 | 21 Sep 2026 |
+| DRW | Software Engineer Intern (Data Engineering) | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8127242>) | Not stated | 13 Aug 2026 | 21 Sep 2026 |
+| DRW | Software Developer Intern (C++) | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8014910>) | Not stated | 13 Jul 2026 | 21 Sep 2026 |
+| DRW | Quantitative Research Intern | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8014915>) | Not stated | 13 Jul 2026 | 21 Sep 2026 |
+| DRW | IT Intern | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8173677>) | Not stated | 02 Sep 2026 | 21 Sep 2026 |
 
-## Initial coverage
+<details>
+<summary>Source coverage and collection health</summary>
 
-| Employer | Public feed | Official board |
+| Source board | Latest check | Matching roles returned |
 | --- | --- | --- |
-| Grab | SmartRecruiters | https://careers.smartrecruiters.com/Grab |
-| ShopBack | Lever | https://jobs.lever.co/shopback-2 |
-| Temus | Greenhouse | https://job-boards.greenhouse.io/temus |
-| DRW | Greenhouse | https://job-boards.greenhouse.io/drweng |
+| smartrecruiters:Grab | Complete | 5 |
+| lever:shopback-2 | Complete | 3 |
+| greenhouse:temus | Complete | 1 |
+| greenhouse:drweng | Complete | 4 |
 
-Add a board to `data/companies.json` with `name`, `platform`, `slug`, and `careers_url`. Supported platforms: `greenhouse`, `lever`, `smartrecruiters`. Adding a company does not imply that it has matching internships. Validate the official board token before adding it. Removed boards' historical records are retained; retiring a source needs an explicit history migration.
+A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 
-## Data policy and limitations
+</details>
 
-- Singapore is matched from the job's location or structured country, never the employer's headquarters or description. Generic remote/APAC jobs are excluded.
-- Internship and technical-role matching currently use titles. Broad programme titles and unrecognised terminology can be missed.
-- Periods are quoted from explicit title/description evidence. A bare year never becomes a season. Extraction is deliberately limited; unknown periods remain visible.
-- Posting dates use employer publication fields when available. Lever creation timestamps and Greenhouse update timestamps are not presented as publication dates. First-seen dates are tracked separately.
-- A job closes after two complete board checks fail to return it in scope. Incomplete/error responses cannot close jobs. No automatic applications or messages are sent.
-- Identity uses platform + board + source posting ID. Separate requisitions stay separate; cross-platform duplicates are not yet merged.
-- Only selected metadata and short evidence excerpts are persisted, not full descriptions. Eligibility, deadlines, salaries and inferred university credit compatibility are not extracted in this release.
-- All-source failure preserves the previous data/site and fails the run. Partial failures remain visible in source status; the site flags collection timestamps older than six hours.
-- State is committed as readable JSON. Do not run multiple local `update` processes simultaneously. Actions serialises scheduled writers and refuses a non-fast-forward push.
-- Open means present in the feed, not a guarantee that the employer is still accepting applications. Old start windows are retained if the role remains listed.
+<!-- INTERNSHIPS:END -->
 
-## Files
+## How to read this list
 
-`tracker/sources.py`: connectors and pagination. `tracker/classify.py`: Singapore/role/period rules. `tracker/state.py`: lifecycle and history. `tracker/publish.py`: dashboard and exports. `web/`: editable presentation. `data/state.json`: collected history. `docs/`: generated site (do not edit directly).
+- Every role has Singapore location evidence and a technical internship title. Generic APAC/remote listings are excluded.
+- **Period** quotes what the employer states when extractable. “Not stated” is not a guess about summer or a university semester.
+- **Employer posted** and **First seen** are different dates. Missing publication dates remain unknown.
+- Jobs are removed from the open table after two complete checks no longer return them in scope. Failed checks cannot close roles.
+- “Open” means listed in the employer feed. Confirm availability, dates, eligibility and allowance with the employer. Older start windows may remain advertised.
 
-Outputs: `docs/index.html`, `docs/api/jobs.json`, `docs/internships.csv`, and the Atom subscription feed `docs/feed.xml`.
+## Contribute or run your own tracker
 
-## Next milestones
+See [CONTRIBUTING.md](CONTRIBUTING.md) for setup, adding employers and automation. No separate application, website hosting, database or API keys are needed to use this list.
 
-1. Expand verified coverage to 30–50 employers. Audit TikTok/ByteDance, Sea/Shopee, GovTech, banks and semiconductor employers; add connectors only after checking actual feeds.
-2. Broaden programme-title detection using labelled examples, then parse start windows/duration more systematically.
-3. Add Telegram alerts with a persistent delivery ledger after deployment is stable.
-4. Add explicit eligibility, allowance and deadline evidence; do not infer these from company identity.
-
-Architecture informed by a review of [the US internship tracker](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships); this implementation is new code.
+Inspired by [the US automated internship tracker](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships); this implementation is new code.

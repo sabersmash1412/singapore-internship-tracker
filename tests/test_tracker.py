@@ -7,7 +7,7 @@ from pathlib import Path
 from tracker.classify import eligible, enrich, singapore
 from tracker.sources import Snapshot, fetch
 from tracker.state import load, merge, write_json
-from tracker.publish import publish
+from tracker.publish import publish, cell
 
 NOW = "2026-09-21T12:00:00+00:00"
 JOB = dict(id="greenhouse:test:1", board="greenhouse:test", title="Software Engineer Intern",
@@ -132,21 +132,53 @@ class LifecycleTests(unittest.TestCase):
             self.assertEqual(load(path), state)
 
     def test_export_escaping_and_consistent_counts(self):
-        import shutil
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
-            shutil.copytree(Path(__file__).resolve().parents[1] / "web", root / "web")
+            (root / "README.md").write_text("Before\n<!-- INTERNSHIPS:START -->\n<!-- INTERNSHIPS:END -->\nAfter")
             dangerous = {**JOB, "title": "Software Intern </script><script>alert(1)</script>", "company": "=BAD()"}
             state = merge(self.empty, [Snapshot("greenhouse:test", [dangerous], True)], NOW)
             publish(root, state)
-            payload = json.loads((root / "docs/api/jobs.json").read_text())
+            payload = json.loads((root / "data/jobs.json").read_text())
             self.assertEqual(len(payload["jobs"]), 1)
-            self.assertNotIn("</script><script>alert", (root / "docs/index.html").read_text())
-            self.assertIn("'=BAD()", (root / "docs/internships.csv").read_text())
-            original = (root / "docs/index.html").read_bytes()
+            self.assertNotIn("</script><script>alert", (root / "README.md").read_text())
+            self.assertIn("'=BAD()", (root / "data/internships.csv").read_text())
+            rendered = (root / "README.md").read_text()
+            self.assertTrue(rendered.startswith("Before\n"))
+            self.assertTrue(rendered.endswith("\nAfter"))
+            self.assertIn("[Apply](<https://example.com/jobs/1>)", rendered)
+            self.assertIn("🆕", rendered)
+            original = (root / "README.md").read_bytes()
             write_json(root / "state.json", state)
             publish(root, load(root / "state.json"))
-            self.assertEqual(original, (root / "docs/index.html").read_bytes())
+            self.assertEqual(original, (root / "README.md").read_bytes())
+
+    def test_readme_missing_markers_fails_without_overwrite(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / "README.md").write_text("My hand-written introduction")
+            with self.assertRaises(ValueError):
+                publish(root, self.empty)
+            self.assertEqual((root / "README.md").read_text(), "My hand-written introduction")
+
+    def test_markdown_cells_do_not_break_table(self):
+        self.assertEqual(cell("A | B\n<script>"), "A &#124; B &lt;script&gt;")
+
+    def test_closed_roles_leave_open_table_and_new_marker_expires(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / "README.md").write_text("<!-- INTERNSHIPS:START -->\n<!-- INTERNSHIPS:END -->")
+            state = merge(self.empty, [self.full], NOW)
+            later = "2026-09-24T12:00:00+00:00"
+            state = merge(state, [self.full], later)
+            publish(root, state)
+            self.assertNotIn("| 🆕 Software", (root / "README.md").read_text())
+            state = merge(state, [self.missing], later)
+            state = merge(state, [self.missing], later)
+            publish(root, state)
+            readme = (root / "README.md").read_text()
+            self.assertIn("**0 open internships", readme)
+            self.assertIn("Recently closed", readme)
+            self.assertNotIn("[Apply]", readme)
 
 
 if __name__ == "__main__":

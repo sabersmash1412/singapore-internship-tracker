@@ -14,4 +14,4 @@ jobs:
       - run: python -m compileall -q tracker run.py
       - run: python run.py render
       - name: Check published artifacts are reproducible
-        run: git diff --exit-code -- docs/
+        run: git diff --exit-code -- README.md data/jobs.json data/internships.csv

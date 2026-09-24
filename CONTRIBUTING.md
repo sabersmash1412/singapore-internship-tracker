@@ -21,7 +21,7 @@ Only `contents: write` permission is requested. No secrets are needed. Branch pr
 
 ## Add employers
 
-Edit data/companies.json. Each entry needs `name`, `platform`, `slug`, and `careers_url`. Supported platforms are Greenhouse (`greenhouse`), Lever (`lever`), and SmartRecruiters (`smartrecruiters`). Confirm the official feed token and run the collector before submitting a change. A board with zero matches can still be healthy.
+Edit data/companies.json. Each entry needs `name`, `platform`, `slug`, and `careers_url`. Supported platforms: Greenhouse, Lever, SmartRecruiters, ByteDance/TikTok public supplier search, Workday, Shopee, Sea and GovTech. See existing registry entries for each platform’s required `api_base` or `website_path` fields, and [SOURCES.md](SOURCES.md) for provenance. Confirm the official feed token and run the collector before submitting a change. A board with zero matches can still be healthy.
 
 Keep public job URLs as application links. Do not submit credentials, private student-portal data or personal applicant information. Removing a board from the registry does not remove its historical listings; retiring a source needs an explicit history migration.
 
@@ -29,7 +29,7 @@ Keep public job URLs as application links. Do not submit credentials, private st
 
 - data/state.json retains lifecycle history; do not replace it with an empty file during normal updates.
 - Source IDs prevent repeat rows across runs. Cross-platform duplicate detection is not implemented; distinct requisitions remain distinct.
-- Classification uses job titles, so broad programme names can be missed. Period extraction is deliberately limited.
+- Classification uses titles and explicit employer internship/role metadata. Broad programme names can still be missed. Period extraction is deliberately limited.
 - Full descriptions are not persisted, only selected metadata and brief evidence excerpts.
 - Eligibility, allowance and application deadlines are not currently extracted.
 - An all-source failure preserves the previous README/data and fails the run. Partial failures are shown in README source health.
@@ -38,9 +38,10 @@ Keep public job URLs as application links. Do not submit credentials, private st
 ## Structure
 
 - tracker/sources.py — public feeds and pagination
+- tracker/regional.py — Singapore employer connectors and completeness checks
 - tracker/classify.py — Singapore, technical role and period classification
 - tracker/state.py — history and closure rules
 - tracker/publish.py — README table and CSV/JSON generation
 - tests/ — classification, lifecycle, source and publication checks
 
-Next priority: verify more Singapore employer sources, especially TikTok/ByteDance, Sea/Shopee, GovTech, banks and semiconductor employers.
+Next priority: broaden multinational, semiconductor and startup coverage, and measure recall against a manually reviewed sample. A board being monitored does not imply that it currently has matching roles.

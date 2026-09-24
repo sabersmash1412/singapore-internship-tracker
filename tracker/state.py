@@ -54,6 +54,12 @@ def merge(previous, snapshots, now):
         for identifier, job in jobs.items():
             if job["board"] != snapshot.board or not job["is_open"] or identifier in selected_ids:
                 continue
+            if identifier in seen:
+                # The employer returned it, but it no longer matches our scope.
+                # This is positive evidence, not an absence needing two checks.
+                job["last_seen_at"] = now
+                job["is_open"], job["closed_at"] = False, now
+                continue
             if not snapshot.complete:
                 job["missing_runs"] = 0
                 continue

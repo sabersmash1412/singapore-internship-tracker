@@ -1,6 +1,83 @@
 [
-  {"name": "Grab", "platform": "smartrecruiters", "slug": "Grab", "careers_url": "https://careers.smartrecruiters.com/Grab"},
-  {"name": "ShopBack", "platform": "lever", "slug": "shopback-2", "careers_url": "https://jobs.lever.co/shopback-2"},
-  {"name": "Temus", "platform": "greenhouse", "slug": "temus", "careers_url": "https://job-boards.greenhouse.io/temus"},
-  {"name": "DRW", "platform": "greenhouse", "slug": "drweng", "careers_url": "https://job-boards.greenhouse.io/drweng"}
+  {
+    "name": "Grab",
+    "platform": "smartrecruiters",
+    "slug": "Grab",
+    "careers_url": "https://careers.smartrecruiters.com/Grab"
+  },
+  {
+    "name": "ShopBack",
+    "platform": "lever",
+    "slug": "shopback-2",
+    "careers_url": "https://jobs.lever.co/shopback-2"
+  },
+  {
+    "name": "Temus",
+    "platform": "greenhouse",
+    "slug": "temus",
+    "careers_url": "https://job-boards.greenhouse.io/temus"
+  },
+  {
+    "name": "DRW",
+    "platform": "greenhouse",
+    "slug": "drweng",
+    "careers_url": "https://job-boards.greenhouse.io/drweng"
+  },
+  {
+    "name": "TikTok",
+    "platform": "bytedance",
+    "slug": "tiktok",
+    "careers_url": "https://lifeattiktok.com/search",
+    "api_base": "https://api.lifeattiktok.com/api/v1/public/supplier",
+    "website_path": "tiktok"
+  },
+  {
+    "name": "ByteDance",
+    "platform": "bytedance",
+    "slug": "bytedance",
+    "careers_url": "https://joinbytedance.com/search",
+    "api_base": "https://jobs.bytedance.com/api/v1/public/supplier",
+    "website_path": "en"
+  },
+  {
+    "name": "Shopee",
+    "platform": "shopee",
+    "slug": "shopee",
+    "careers_url": "https://careers.shopee.sg/jobs",
+    "api_base": "https://ats.workatsea.com/ats/api/v1"
+  },
+  {
+    "name": "Sea",
+    "platform": "sea",
+    "slug": "sea",
+    "careers_url": "https://career.sea.com/jobs",
+    "api_base": "https://career.sea.com/api"
+  },
+  {
+    "name": "GovTech",
+    "platform": "govtech",
+    "slug": "internships",
+    "careers_url": "https://internships.tech.gov.sg/projects"
+  },
+  {
+    "name": "DBS",
+    "platform": "workday",
+    "slug": "dbs",
+    "careers_url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers",
+    "api_base": "https://dbs.wd3.myworkdayjobs.com/wday/cxs/dbs/DBS_Careers"
+  },
+  {
+    "name": "OCBC",
+    "platform": "workday",
+    "slug": "ocbc",
+    "careers_url": "https://ocbc.wd102.myworkdayjobs.com/External",
+    "api_base": "https://ocbc.wd102.myworkdayjobs.com/wday/cxs/ocbc/External"
+  },
+  {
+    "name": "UOB",
+    "platform": "workday",
+    "slug": "uobgroup",
+    "careers_url": "https://uobgroup.wd3.myworkdayjobs.com/UOBExternal",
+    "api_base": "https://uobgroup.wd3.myworkdayjobs.com/wday/cxs/uobgroup/UOBExternal"
+  }
 ]

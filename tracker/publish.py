@@ -45,8 +45,12 @@ def publish(root, state):
     for job in jobs:
         new = as_of and timedelta(0) <= as_of - instant(job['first_seen_at']) <= timedelta(hours=48)
         url = quote(job['url'], safe=':/?=&%#@+;,~!-._')
+        period = job.get('period')
+        years = [int(y) for y in re.findall(r'\b20\d{2}\b', period or '')]
+        if years and as_of and max(years) < as_of.year:
+            period = '⚠️ Older period: ' + period
         lines.append('| ' + ' | '.join([cell(job['company']), ('🆕 ' if new else '') + cell(job['title']),
-                     f'[Apply](<{url}>)', cell(job.get('period')), day(job.get('posted_at')), day(job['first_seen_at'])]) + ' |')
+                     f'[Apply](<{url}>)', cell(period), day(job.get('posted_at')), day(job['first_seen_at'])]) + ' |')
     if not jobs:
         lines += ['', 'No matching open internships in the latest saved data.']
     closed = sorted((j for j in state['jobs'].values() if not j['is_open'] and as_of and j.get('closed_at') and
@@ -71,7 +75,7 @@ def publish(root, state):
     write_json(data / 'jobs.json', {'updated_at': state['last_attempt_at'], 'jobs': jobs, 'sources': state['sources']})
     fields = ['company', 'title', 'category', 'location', 'period', 'duration', 'posted_at', 'first_seen_at', 'last_seen_at', 'url']
     with (data / 'internships.csv').open('w', newline='') as output:
-        writer = csv.DictWriter(output, fields)
+        writer = csv.DictWriter(output, fields, lineterminator='\n')
         writer.writeheader()
         for job in jobs:
             values = {key: job.get(key) or '' for key in fields}

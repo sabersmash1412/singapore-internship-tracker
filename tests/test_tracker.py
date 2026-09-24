@@ -109,6 +109,12 @@ class LifecycleTests(unittest.TestCase):
         state = merge(state, [self.missing], NOW)
         self.assertTrue(state["jobs"][JOB["id"]]["is_open"])
 
+    def test_positive_out_of_scope_evidence_closes_immediately(self):
+        state = merge(self.empty, [self.full], NOW)
+        snapshot = Snapshot("greenhouse:test", [{**JOB, "title": "Recruitment Intern"}], False)
+        state = merge(state, [snapshot], NOW)
+        self.assertFalse(state["jobs"][JOB["id"]]["is_open"])
+
     def test_corrupt_state_is_fatal(self):
         with tempfile.TemporaryDirectory() as directory:
             path = Path(directory) / "state.json"

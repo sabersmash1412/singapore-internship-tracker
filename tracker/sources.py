@@ -18,18 +18,32 @@ class Snapshot:
     warnings: list = field(default_factory=list)
 
 
-def get_json(url):
+def request(url, body=None, headers=None, as_text=False):
     for attempt in range(3):
         try:
-            request = Request(url, headers={"User-Agent": "singapore-internship-tracker/0.1", "Accept": "application/json"})
-            with urlopen(request, timeout=25) as response:
-                return json.load(response)
+            req = Request(url, data=json.dumps(body).encode() if body is not None else None,
+                          headers={"User-Agent": "singapore-internship-tracker/0.2", "Accept": "application/json",
+                                   "Content-Type": "application/json", **(headers or {})})
+            with urlopen(req, timeout=25) as response:
+                return response.read().decode('utf-8') if as_text else json.load(response)
         except (HTTPError, URLError, TimeoutError) as exc:
             if isinstance(exc, HTTPError) and exc.code not in {429, 500, 502, 503, 504}:
                 raise
             if attempt == 2:
                 raise
             time.sleep(2 ** attempt)
+
+
+def get_json(url):
+    return request(url)
+
+
+def post_json(url, body, headers=None):
+    return request(url, body=body, headers=headers)
+
+
+def get_text(url):
+    return request(url, as_text=True)
 
 
 def rows(payload, key=None):
@@ -75,10 +89,14 @@ def normalized(company, row):
                 posted_at=posted, description=description, source=platform)
 
 
-def fetch(company, get=get_json):
+def fetch(company, get=get_json, post=post_json, text=get_text):
     platform, slug = company["platform"], quote(company["slug"], safe="")
     snapshot = Snapshot(f"{platform}:{company['slug']}")
     try:
+        if platform in {"bytedance", "workday", "sea", "shopee", "govtech"}:
+            from .regional import collect
+            collect(company, snapshot, get, post, text)
+            return snapshot
         raw = []
         if platform == "greenhouse":
             raw = rows(get(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true"), "jobs")

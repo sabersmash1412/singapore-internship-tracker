@@ -2,7 +2,7 @@
 """Usage: python3 run.py update | render."""
 import argparse
 import json
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -25,9 +25,13 @@ def main():
         if len(set(keys)) != len(keys):
             raise ValueError("Duplicate company boards")
         with ThreadPoolExecutor(max_workers=4) as executor:
-            snapshots = list(executor.map(sources.fetch, companies))
-        for snapshot in snapshots:
-            print(f"{snapshot.board}: {len(snapshot.jobs)} jobs, complete={snapshot.complete}, error={snapshot.error}")
+            futures = {executor.submit(sources.fetch, company): index for index, company in enumerate(companies)}
+            completed = {}
+            for future in as_completed(futures):
+                snapshot = future.result()
+                completed[futures[future]] = snapshot
+                print(f"{snapshot.board}: {len(snapshot.jobs)} jobs, complete={snapshot.complete}, error={snapshot.error}", flush=True)
+            snapshots = [completed[index] for index in range(len(companies))]
         if not any(s.complete for s in snapshots):
             raise SystemExit("All sources failed or were incomplete. Previous README and data preserved.")
         current = state.merge(current, snapshots, datetime.now(timezone.utc).isoformat())

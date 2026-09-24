@@ -93,6 +93,10 @@ def fetch(company, get=get_json, post=post_json, text=get_text):
     platform, slug = company["platform"], quote(company["slug"], safe="")
     snapshot = Snapshot(f"{platform}:{company['slug']}")
     try:
+        if platform in {"amazon", "amd", "apple"}:
+            from .employers import collect
+            collect(company, snapshot, get, text)
+            return snapshot
         if platform in {"bytedance", "workday", "sea", "shopee", "govtech"}:
             from .regional import collect
             collect(company, snapshot, get, post, text)

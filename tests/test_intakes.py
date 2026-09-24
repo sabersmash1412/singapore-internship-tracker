@@ -58,6 +58,11 @@ class IntakeTests(unittest.TestCase):
         self.assertIsNone(self.parse(description='The internship end date: June 2027.')['period'])
         self.assertEqual(self.parse(description='The internship starts January 2027 and ends June 2027.')['period'], 'January 2027 Start')
 
+    def test_day_numbers_and_alternative_end_dates(self):
+        self.assertEqual(self.parse(description='Internship period: 4 Jan 2027 - 30 June 2027')['period'], 'Jan 2027 - June 2027')
+        self.assertEqual(self.parse(description='Internship Start Date: 4 Jan 2027, End Date: 28 May 2027 or 6 Aug 2027.')['period'], 'Jan 2027 Start')
+        self.assertIsNone(self.parse(description='Internship end date: 28 May 2027 or 6 Aug 2027.')['period'])
+
     def test_season_and_single_month_alternatives_both_survive(self):
         self.assertEqual(self.parse('Software Intern Summer 2026 / January 2027')['period'],
                          'Summer 2026 / January 2027 Start')

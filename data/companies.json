@@ -104,5 +104,41 @@
     "careers_url": "https://nxp.wd3.myworkdayjobs.com/careers",
     "api_base": "https://nxp.wd3.myworkdayjobs.com/wday/cxs/nxp/careers",
     "country_facet": "Location_Country"
+  },
+  {
+    "name": "Micron",
+    "platform": "workday",
+    "slug": "micron",
+    "careers_url": "https://micron.wd1.myworkdayjobs.com/External",
+    "api_base": "https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External",
+    "location_facet": "locations"
+  },
+  {
+    "name": "NVIDIA",
+    "platform": "workday",
+    "slug": "nvidia",
+    "careers_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+    "api_base": "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite",
+    "country_facet": "locationHierarchy1"
+  },
+  {
+    "name": "AMD",
+    "platform": "amd",
+    "slug": "amd",
+    "careers_url": "https://careers.amd.com/students/jobs",
+    "api_base": "https://careers.amd.com/api/jobs"
+  },
+  {
+    "name": "Amazon",
+    "platform": "amazon",
+    "slug": "amazon",
+    "careers_url": "https://www.amazon.jobs/en/search?base_query=intern",
+    "api_base": "https://www.amazon.jobs/en/search.json"
+  },
+  {
+    "name": "Apple",
+    "platform": "apple",
+    "slug": "apple",
+    "careers_url": "https://jobs.apple.com/en-us/search?location=singapore-SLS"
   }
 ]

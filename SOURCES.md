@@ -18,6 +18,11 @@ The tracker reads official employer sources. Checked on 24 September 2026. A mon
 | Applied Materials | [Workday postings](https://amat.wd1.myworkdayjobs.com/External) | Public Workday search, live Singapore country facet and full posting details |
 | GlobalFoundries | [Workday postings](https://globalfoundries.wd1.myworkdayjobs.com/External) | Public Workday search, nested Singapore country facet and full posting details |
 | NXP | [NXP careers](https://www.nxp.com/company/about-nxp/careers:CAREERS) → [Workday](https://nxp.wd3.myworkdayjobs.com/careers) | Public Workday search, live Singapore country facet and full posting details |
+| Micron | [Workday postings](https://micron.wd1.myworkdayjobs.com/External) | Live Singapore site facets and full posting details |
+| NVIDIA | [Workday postings](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite) | Live Singapore country hierarchy and full posting details |
+| AMD | [Student careers](https://careers.amd.com/students/jobs) | Public careers search API, keyword search and posting locations |
+| Amazon | [Amazon Jobs](https://www.amazon.jobs/en/search?base_query=intern) | Paginated public search JSON and individual posting locations |
+| Apple | [Singapore careers](https://jobs.apple.com/en-us/search?location=singapore-SLS) | Server-rendered search data, pagination and full posting details |
 | DRW | [DRW Careers](https://job-boards.greenhouse.io/drweng) | Greenhouse public job board |
 
 ## Provenance and scope
@@ -43,8 +48,20 @@ Applied Materials, GlobalFoundries and NXP are monitored through public Workday 
 
 Applied Materials' [Singapore internship programme](https://www.appliedmaterials.com/sg/en/careers/university-recruiting-programs.html) and [public job site](https://jobs.appliedmaterials.com/location/singapore-jobs/95/1880251/2) establish programme and location context. GlobalFoundries' [Singapore university internship](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/University-Intern---Year-2026_JR-2503754) links back to its corporate careers information. NXP's corporate page links directly to its Workday board.
 
-Specific hardware terms now include hybrid bonding, process integration, PVD, CVD, 3DIC, CMOS, testchip, ESD device and silicon photonics. Generic titles such as “College Intern” or “University Intern” remain outside automatic matching even if a description may contain technical work. Semiconductor coverage is consequently conservative and incomplete; employment at a chip company alone does not qualify a role. Micron was investigated but is not added in this batch.
+Specific hardware terms now include hybrid bonding, process integration, PVD, CVD, 3DIC, CMOS, testchip, ESD device and silicon photonics. Generic titles such as “College Intern” or “University Intern” remain outside automatic matching even if a description may contain technical work. Semiconductor coverage is consequently conservative and incomplete; employment at a chip company alone does not qualify a role. Micron was deferred in the initial semiconductor batch and added in the subsequent expansion below.
 
 Validation: all 15 sources completed successfully in the local live collection. Applied Materials returned 12 matching internships, GlobalFoundries 12 and NXP 0. The resulting 373 active listings include 121 GovTech projects with recorded deadlines. All 50 offline tests pass, including an in-memory cutoff simulation that removes all 121 GovTech projects from active exports while preserving closed history. New boards still need a GitHub-hosted refresh to confirm runner connectivity.
 
 Intake extraction also supports 1H/2H aliases and single-month starts from titles or internship-context sentences. The original text is retained as period evidence. A month-only start is displayed with “Start” and remains in the main table through that year; it is not used to close applications. Clear ranges/half-years take precedence over fragments in ambiguous dates, such as H1 2027 (Dec 2026/Jan 2027 to May/June 2027).
+
+## Further employer expansion — 24 September 2026
+
+Micron, NVIDIA, AMD, Amazon and Apple are now monitored. Micron exposes individual sites rather than a country facet; all current site labels explicitly containing Singapore are selected from live metadata. NVIDIA exposes a nested country hierarchy. Both still require posting-level Singapore evidence.
+
+AMD's public search wraps each posting in a `data` object and supplies the full description. Amazon's `loc_query` text alone does not restrict results to Singapore, so the collector paginates the complete internship keyword search and checks primary and additional posting locations. Apple's public HTML contains JSON-encoded search and detail records; the collector decodes these without executing JavaScript and verifies detail identity. Changed totals, repeated pages, malformed responses and failed details prevent absence-based closures.
+
+Google's official Singapore internship search returned no results during investigation. It is deferred until its nonempty posting format and pagination can be validated; it is not counted as a monitored source. Coverage remains conservative: general engineering titles without a recognized technical specialty may be omitted.
+
+The hardware title filter also recognizes optical characterization, diagnostic design, IC design and server test internships. These specific engineering terms avoid treating all packaging or manufacturing roles as technical.
+
+Validation for this expansion: all 20 sources completed successfully. Micron contributed 20 matching roles, AMD 7, Apple 2 and Amazon 2; NVIDIA currently has 0. The published snapshot has 404 active listings. All 68 offline tests pass. Cloud Logistics team names and physical-security specialist titles do not qualify a role by themselves; this conservative rule can omit technical work hidden behind a generic programme-manager title. Day-number ranges and explicit alternative end dates are handled without labelling end months as internship starts. GitHub runner connectivity remains subject to the next scheduled refresh.

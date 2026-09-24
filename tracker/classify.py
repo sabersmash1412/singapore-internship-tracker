@@ -33,12 +33,15 @@ def category(title):
     # Team names alone do not make administrative project coordination technical.
     if re.search(r"\bproject management\b", title, re.I):
         title = re.sub(r"[（(].*?[）)]", "", title)
+    title = re.sub(r"\b(?:AWS\s+)?Cloud Logistics\b", "", title, flags=re.I)
+    if re.search(r"\b(?:physical security|DC Security Specialist)\b", title, re.I):
+        return None
     patterns = [
         ("Data & AI", r"\b(data|analytics|machine learning|ai|ml|algorithm|algorithms|research scientist|computer vision)\b"),
         ("Security", r"\b(cyber\w*|security)\b"),
         ("Quant", r"\b(quant\w*|trading|trader)\b"),
         ("Software", r"\b(software|developer|backend|frontend|full.?stack|automation|devops|sre|qa)\b"),
-        ("Hardware", r"\b(hardware|firmware|embedded|semiconductor|electrical|hybrid bonding|process integration|pvd|cvd|3dic|cmos|testchip|esd device|silicon photonics)\b"),
+        ("Hardware", r"\b(hardware|firmware|embedded|semiconductor|electrical|hybrid bonding|process integration|pvd|cvd|3dic|cmos|testchip|esd device|silicon photonics|optical characterization|diagnostic design|ic design|server test)\b"),
         ("IT & Infrastructure", r"\b(it|information technology|cloud|network|systems?|data\s?cent(?:er|re)|site reliability|(?:it|technology|cloud|network) infrastructure|infrastructure engineer(?:ing)?)\b"),
     ]
     for label, pattern in patterns:
@@ -75,13 +78,17 @@ def extract_period(title, description):
             continue
         if index and not INTAKE_CONTEXT.search(evidence):
             continue
+        # Day numbers should not split a range into two apparent starts.
+        matching = re.sub(rf'\b\d{{1,2}}(?:st|nd|rd|th)?\s+(?={MONTH}\b)', '', evidence, flags=re.I)
+        # Explicit end-date clauses may contain multiple alternative end dates.
+        matching = re.split(r'\bend date\s*:', matching, maxsplit=1, flags=re.I)[0]
         periods = []
-        matches = list(PERIOD.finditer(evidence))
+        matches = list(PERIOD.finditer(matching))
         single = re.compile(rf'{MONTH}\s+20\d{{2}}', re.I)
         strong = [m for m in matches if not single.fullmatch(m.group(0))]
         # Prefer a stated range/half-year to stray month fragments inside it.
         # E.g. H1 2027 (Dec 2026/Jan 2027 to May/June 2027).
-        ambiguous = re.search(rf'{MONTH}\s*(?:20\d{{2}})?\s*/\s*{MONTH}', evidence, re.I)
+        ambiguous = re.search(rf'{MONTH}\s*(?:20\d{{2}})?\s*/\s*{MONTH}', matching, re.I)
         if ambiguous:
             if not strong:
                 continue
@@ -89,7 +96,7 @@ def extract_period(title, description):
         for match in matches:
             if single.fullmatch(match.group(0)) and re.search(
                     r'\b(?:until|through|to|ending|ends|end date|concludes)(?:\s+(?:in|on|at))?\s*:?\s*$',
-                    evidence[:match.start()], re.I):
+                    matching[:match.start()], re.I):
                 continue
             value = match.group(0)
             # Normalize aliases, retaining the original sentence as evidence.

@@ -87,15 +87,16 @@ def workday(company, snapshot, get, post):
     seen = set()
     expected_total = None
     applied = {}
-    if company.get('country_facet'):
+    facet_key = company.get('country_facet') or company.get('location_facet')
+    if facet_key:
         metadata = post(base + '/jobs', {'appliedFacets': {}, 'limit': 20, 'offset': 0, 'searchText': ''})
-        facets = [f for f in workday_facets(metadata.get('facets')) if f.get('facetParameter') == company['country_facet']]
+        facets = [f for f in workday_facets(metadata.get('facets')) if f.get('facetParameter') == facet_key]
         if len(facets) != 1:
-            raise ValueError('Missing or ambiguous country facet')
-        ids = [v['id'] for v in rows(facets[0], 'values') if v.get('descriptor') == 'Singapore' and v.get('id')]
+            raise ValueError('Missing or ambiguous location/country facet')
+        ids = [v['id'] for v in rows(facets[0], 'values') if v.get('id') and (singapore(v.get('descriptor') or '') if company.get('location_facet') else v.get('descriptor') == 'Singapore')]
         if not ids:
-            raise ValueError('Singapore absent from country facet; scope cannot be verified')
-        applied = {company['country_facet']: ids}
+            raise ValueError('Singapore absent from location/country facet; scope cannot be verified')
+        applied = {facet_key: ids}
     for offset in range(0, 4000, 20):
         data = post(base + '/jobs', {'appliedFacets': applied, 'limit': 20, 'offset': offset, 'searchText': 'intern'})
         page = rows(data, 'jobPostings')

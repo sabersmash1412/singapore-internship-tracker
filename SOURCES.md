@@ -11,7 +11,7 @@ The tracker reads official employer sources. Checked on 24 September 2026. A mon
 | GovTech | [Internship projects](https://internships.tech.gov.sg/projects) | Public server-rendered internship catalogue, technical role groups and filled status |
 | DBS | [DBS Careers](https://dbs.wd3.myworkdayjobs.com/DBS_Careers) | Workday search and posting details |
 | OCBC | [OCBC Careers](https://ocbc.wd102.myworkdayjobs.com/External) | Workday search and posting details |
-| UOB | [UOB Careers](https://uobgroup.wd3.myworkdayjobs.com/UOBExternal) | Workday search and posting details |
+| UOB | [UOB Careers](https://uobgroup.wd3.myworkdayjobs.com/UOBExternal) | Workday search with live Singapore country facet and posting details |
 | Grab | [Grab Careers](https://careers.smartrecruiters.com/Grab) | SmartRecruiters public postings |
 | ShopBack | [ShopBack Careers](https://jobs.lever.co/shopback-2) | Lever public postings |
 | Temus | [Temus Careers](https://job-boards.greenhouse.io/temus) | Greenhouse public job board |
@@ -69,3 +69,5 @@ Validation for this expansion: all 20 sources completed successfully. Micron con
 ## Post-expansion quality audit
 
 The [30-listing review](audits/2026-09-24-post-expansion.md) covers 17 employers and records source evidence, duplicate checks and remaining gaps. It recovered seven technical roles through narrow Business Intelligence, LLM/prompt engineering and silicon-design title rules, and corrected an intake following a separate graduation-requirement bullet.
+
+The [engineering follow-up](audits/2026-09-24-engineering-followup.md) reviews five more product-building, NAND-validation and test-solutions internships. Matching requires the explicit engineering specialties rather than a generic product title.

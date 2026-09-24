@@ -79,7 +79,8 @@
     "platform": "workday",
     "slug": "uobgroup",
     "careers_url": "https://uobgroup.wd3.myworkdayjobs.com/UOBExternal",
-    "api_base": "https://uobgroup.wd3.myworkdayjobs.com/wday/cxs/uobgroup/UOBExternal"
+    "api_base": "https://uobgroup.wd3.myworkdayjobs.com/wday/cxs/uobgroup/UOBExternal",
+    "country_facet": "locationCountry"
   },
   {
     "name": "Applied Materials",

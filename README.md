@@ -8,9 +8,9 @@ Monitored employers: **TikTok, ByteDance, Shopee, Sea, GovTech, DBS, OCBC, UOB, 
 
 <!-- INTERNSHIPS:START -->
 
-**397 current or undated listings · 15 older advertised periods · 17 employers with roles**
+**402 current or undated listings · 15 older advertised periods · 17 employers with roles**
 
-Last collection: **24 Sep 2026, 17:16 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **24 Sep 2026, 17:23 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -22,6 +22,11 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| ShopBack | 🆕 Product Builder Intern (Product Engineering) | [Apply](<https://jobs.lever.co/shopback-2/5e5c78b0-1b9a-4c09-843d-49ea41e991fe>) | - | - | 24 Sep 2026 |
+| Micron | 🆕 Intern- Test Solutions Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Test-Solutions-Engineer_JR106290>) | - | 28 Aug 2026 | 24 Sep 2026 |
+| ↳ | 🆕 Intern- Test Solutions Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Test-Solutions-Engineer_JR106289>) | - | 18 Sep 2026 | 24 Sep 2026 |
+| ↳ | 🆕 Intern - Test Solutions Engineering | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Test-Solutions-Engineering_JR109954>) | - | 01 Sep 2026 | 24 Sep 2026 |
+| ↳ | 🆕 Intern - Product Engineering, NAND Validation/Characterization | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Product-Engineering--NAND-Validation-Characterization_JR111131>) | Jan to May 2027 | 22 Sep 2026 | 24 Sep 2026 |
 | TikTok | 🆕 Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start | [Apply](<https://lifeattiktok.com/search/7669738564847110453>) | 2027 Start | - | 24 Sep 2026 |
 | Shopee | 🆕 Regional Large Language Model (LLM) Agent &amp; Prompt Engineering Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02042064/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | 🆕 Product Manager Intern, Traffic &amp; Content - LLM Feature (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02102662/1>) | Fall 2026 | - | 24 Sep 2026 |
@@ -473,7 +478,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | Source board | Latest check | Matching roles returned |
 | --- | --- | --- |
 | smartrecruiters:Grab | Complete | 5 |
-| lever:shopback-2 | Complete | 4 |
+| lever:shopback-2 | Complete | 5 |
 | greenhouse:temus | Complete | 1 |
 | greenhouse:drweng | Complete | 4 |
 | bytedance:tiktok | Complete | 126 |
@@ -487,7 +492,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:amat | Complete | 12 |
 | workday:globalfoundries | Complete | 12 |
 | workday:nxp | Complete | 0 |
-| workday:micron | Complete | 22 |
+| workday:micron | Complete | 26 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |

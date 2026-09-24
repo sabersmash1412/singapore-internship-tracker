@@ -38,12 +38,14 @@ def category(title):
         return None
     if re.search(r"\bbusiness intelligence\s*(?:\(BI\)\s*)?intern(?:ship)?\b", title, re.I):
         return "Data & AI"
+    if re.search(r"\bproduct builder intern(?:ship)?\s*\(product engineering\)", title, re.I):
+        return "Software"
     patterns = [
         ("Data & AI", r"\b(data|analytics|machine learning|large language model|llm|prompt engineering|ai|ml|algorithm|algorithms|research scientist|computer vision)\b"),
         ("Security", r"\b(cyber\w*|security)\b"),
         ("Quant", r"\b(quant\w*|trading|trader)\b"),
         ("Software", r"\b(software|developer|backend|frontend|full.?stack|automation|devops|sre|qa)\b"),
-        ("Hardware", r"\b(hardware|firmware|embedded|semiconductor|electrical|hybrid bonding|process integration|pvd|cvd|3dic|cmos|testchip|esd device|silicon photonics|silicon design|optical characterization|diagnostic design|ic design|server test)\b"),
+        ("Hardware", r"\b(hardware|firmware|embedded|semiconductor|electrical|hybrid bonding|process integration|pvd|cvd|3dic|cmos|testchip|esd device|silicon photonics|silicon design|nand validation|test solutions engineer(?:ing)?|optical characterization|diagnostic design|ic design|server test)\b"),
         ("IT & Infrastructure", r"\b(it|information technology|cloud|network|systems?|data\s?cent(?:er|re)|site reliability|(?:it|technology|cloud|network) infrastructure|infrastructure engineer(?:ing)?)\b"),
     ]
     for label, pattern in patterns:

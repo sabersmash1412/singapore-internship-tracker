@@ -10,7 +10,7 @@ Monitored employers: **TikTok, ByteDance, Shopee, Sea, GovTech, DBS, OCBC, UOB, 
 
 **402 current or undated listings · 15 older advertised periods · 17 employers with roles**
 
-Last collection: **24 Sep 2026, 17:23 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **24 Sep 2026, 17:32 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 

@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**440 current or undated listings · 15 older advertised periods · 30 employers with roles**
+**441 current or undated listings · 15 older advertised periods · 30 employers with roles**
 
-Last collection: **25 Sep 2026, 05:02 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **25 Sep 2026, 05:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -22,6 +22,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Stripe | 🆕 Financial Data Analyst Intern, Technical Operations | [Apply](<https://stripe.com/jobs/search?gh_jid=8186442>) | - | 25 Sep 2026 | 25 Sep 2026 |
 | Tower Research Capital | 🆕 Quantitative Researcher Intern, PhD or Postdoc | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8168634>) | - | 01 Sep 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Quantitative Researcher Intern, Bachelor's or Master's | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8168750>) | - | 01 Sep 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Quantitative Developer Intern | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8138524>) | - | 18 Aug 2026 | 24 Sep 2026 |
@@ -537,7 +538,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | Complete | 2 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -574,7 +575,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
 | workday:sggovterp | Complete | 4 |
-| greenhouse:stripe | Complete | 1 |
+| greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |
 | greenhouse:towerresearchcapital | Complete | 3 |

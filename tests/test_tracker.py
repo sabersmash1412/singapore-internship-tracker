@@ -182,7 +182,7 @@ class LifecycleTests(unittest.TestCase):
             state = merge(state, [self.missing], later)
             publish(root, state)
             readme = (root / "README.md").read_text()
-            self.assertIn("**0 open internships", readme)
+            self.assertIn("**0 current or undated listings", readme)
             self.assertIn("Recently closed", readme)
             self.assertNotIn("[Apply]", readme)
 

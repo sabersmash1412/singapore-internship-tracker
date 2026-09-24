@@ -7,6 +7,7 @@ from urllib.parse import quote
 from zoneinfo import ZoneInfo
 
 from .state import write_json
+from .periods import older_period
 
 START = '<!-- INTERNSHIPS:START -->'
 END = '<!-- INTERNSHIPS:END -->'
@@ -36,23 +37,34 @@ def publish(root, state):
                   key=lambda j: (j['first_seen_at'], j['company'], j['title'], j['id']), reverse=True)
     as_of = instant(state['last_attempt_at']) if state['last_attempt_at'] else None
     stamp = as_of.astimezone(ZoneInfo('Asia/Singapore')).strftime('%d %b %Y, %H:%M SGT') if as_of else 'Not collected yet'
-    lines = [f'**{len(jobs)} open internships · {len({j["company"] for j in jobs})} employers with roles**', '',
+    local_date = as_of.astimezone(ZoneInfo('Asia/Singapore')).date() if as_of else None
+    older = [j for j in jobs if older_period(j.get('period'), local_date)]
+    current = [j for j in jobs if not older_period(j.get('period'), local_date)]
+    lines = [f'**{len(current)} current or undated listings · {len(older)} older advertised periods · {len({j["company"] for j in jobs})} employers with roles**', '',
              f'Last collection: **{stamp}**. Scheduled every 30 minutes; runs may be delayed.', '',
+             'These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.', '',
              '🆕 = first seen within 48 hours of the collection above. First seen is when this tracker discovered a role, not when the employer posted it. Initial collection marks all newly discovered roles as new.', '',
-             '## Open internships', '',
-             '| Company | Role | Apply | Period | Employer posted | First seen |',
-             '| --- | --- | --- | --- | --- | --- |']
-    for job in jobs:
-        new = as_of and timedelta(0) <= as_of - instant(job['first_seen_at']) <= timedelta(hours=48)
-        url = quote(job['url'], safe=':/?=&%#@+;,~!-._')
-        period = job.get('period')
-        years = [int(y) for y in re.findall(r'\b20\d{2}\b', period or '')]
-        if years and as_of and max(years) < as_of.year:
-            period = '⚠️ Older period: ' + period
-        lines.append('| ' + ' | '.join([cell(job['company']), ('🆕 ' if new else '') + cell(job['title']),
-                     f'[Apply](<{url}>)', cell(period), day(job.get('posted_at')), day(job['first_seen_at'])]) + ' |')
-    if not jobs:
-        lines += ['', 'No matching open internships in the latest saved data.']
+             '## Current or undated internships', '']
+
+    def table(group):
+        result = ['| Company | Role | Apply | Period | Employer posted | First seen |',
+                  '| --- | --- | --- | --- | --- | --- |']
+        for job in group:
+            new = as_of and timedelta(0) <= as_of - instant(job['first_seen_at']) <= timedelta(hours=48)
+            url = quote(job['url'], safe=':/?=&%#@+;,~!-._')
+            result.append('| ' + ' | '.join([cell(job['company']), ('🆕 ' if new else '') + cell(job['title']),
+                          f'[Apply](<{url}>)', cell(job.get('period')), day(job.get('posted_at')), day(job['first_seen_at'])]) + ' |')
+        return result
+
+    lines += table(current)
+    if not current:
+        lines += ['', 'No current or undated matching internships in the latest saved data.']
+    if older:
+        lines += ['', '<details>', f'<summary>Older advertised periods — verify intake ({len(older)})</summary>', '',
+                  'These roles remain listed by employers, but their advertised periods appear to have passed. They are retained here for reference and in the data downloads; this does not mean applications are closed.', '',
+                  'Month ranges use their stated end month; H1/H2 end in June/December. For this display hint, Spring/Summer/Fall end in May/August/November; Winter extends through the following March. Year-only starts remain current through December. Multiple periods move here only when all have passed.', '']
+        lines += table(older)
+        lines += ['', '</details>']
     closed = sorted((j for j in state['jobs'].values() if not j['is_open'] and as_of and j.get('closed_at') and
                      timedelta(0) <= as_of - instant(j['closed_at']) <= timedelta(days=14)),
                     key=lambda j: (j['closed_at'], j['id']), reverse=True)

@@ -8,16 +8,21 @@ Monitored employers: **TikTok, ByteDance, Shopee, Sea, GovTech, DBS, OCBC, UOB, 
 
 <!-- INTERNSHIPS:START -->
 
-**351 open internships · 11 employers with roles**
+**335 current or undated listings · 14 older advertised periods · 11 employers with roles**
 
-Last collection: **24 Sep 2026, 10:17 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **24 Sep 2026, 10:29 SGT**. Scheduled every 30 minutes; runs may be delayed.
+
+These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
 🆕 = first seen within 48 hours of the collection above. First seen is when this tracker discovered a role, not when the employer posted it. Initial collection marks all newly discovered roles as new.
 
-## Open internships
+## Current or undated internships
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| TikTok | 🆕 Product Operations Project Intern (System &amp; Quality) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7598408632911317253>) | 2026 Start | Not stated | 24 Sep 2026 |
+| ShopBack | 🆕 Site Reliability Engineer Intern | [Apply](<https://jobs.lever.co/shopback-2/df5ed7cf-eb1f-4f17-ad11-35ad6011412c>) | H1 2027 | Not stated | 24 Sep 2026 |
+| ByteDance | 🆕 Site Reliability Engineer Intern (Video and Edge, CDN Platform) - 2027 Start | [Apply](<https://joinbytedance.com/search/7665225726098098485>) | 2027 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 Multimodal LLM Algorithm Engineer Intern (Global E-Commerce, Knowledge Graph) - 2027 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7666288065149372677>) | 2027 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 Multimodal LLM Algorithm Engineer Intern (Global E-Commerce, Knowledge Graph) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7666295064989419781>) | 2027 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 Large Recommendation Model Algorithm Engineer Intern (Global E-Commerce) - 2027 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7666289053178169605>) | 2027 Start | Not stated | 24 Sep 2026 |
@@ -30,7 +35,6 @@ Last collection: **24 Sep 2026, 10:17 SGT**. Scheduled every 30 minutes; runs ma
 | TikTok | 🆕 Algorithm Engineer Intern (Global Live Operation Intelligence) - 2026 Start (PHD) | [Apply](<https://lifeattiktok.com/search/7533124079211399432>) | 2026 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 Algorithm Engineer Intern (Global Live - Strategy) - 2027 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7663388217185470773>) | 2027 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 Algorithm Engineer Intern (Global Live - Strategy) - 2026 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7533083363810330887>) | 2026 Start | Not stated | 24 Sep 2026 |
-| Shopee | 🆕 Algorithm Engineer Intern, Search Guide (May - Dec 2025) | [Apply](<https://careers.shopee.sg/job-detail/J00379432/1>) | ⚠️ Older period: May - Dec 2025 | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 Algorithm Engineer Intern, Recommendation (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02057120/1>) | Fall 2026 | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 Algorithm Engineer Intern (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02151065/1>) | Fall 2026 | Not stated | 24 Sep 2026 |
 | ByteDance | 🆕 Multimodal LLM Algorithm Engineer Intern (Global E-Commerce, Knowledge Graph) - 2027 Start (PhD) | [Apply](<https://joinbytedance.com/search/7686118292033079557>) | 2027 Start | Not stated | 24 Sep 2026 |
@@ -38,8 +42,6 @@ Last collection: **24 Sep 2026, 10:17 SGT**. Scheduled every 30 minutes; runs ma
 | OCBC | 🆕 Internship: Group Risk Management, Group Risk Portfolio Management, Provision &amp; Capital Analytics \[Jan to May 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Risk-Management--Group-Risk-Portfolio-Management--Provision---Capital-Analytics--Jan-to-May-2027-_JR00010979-1>) | Jan to May 2027 | 14 Sep 2026 | 24 Sep 2026 |
 | OCBC | 🆕 Internship: Group Risk Management, Group Market Risk Management, Analytics \[Jan to May 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Risk-Management--Group-Market-Risk-Management--Analytics--Jan-to-May-2027-_JR00010966>) | Jan to May 2027 | 14 Sep 2026 | 24 Sep 2026 |
 | OCBC | 🆕 Internship: Group Risk Management, Group Data Management Office, Data Management and Data Analytics \[Jan to May 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Risk-Management--Group-Data-Management-Office--Data-Management-and-Data-Analytics--Jan-to-May-2027-_JR00010959>) | Jan to May 2027 | 14 Sep 2026 | 24 Sep 2026 |
-| OCBC | 🆕 Internship: Group Operations &amp; Technology, Group Technology Services – Data Centre &amp; Disaster Recovery \[January - May 2026\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Operations---Technology--Group-Technology-Services---Data-Centre---Disaster-Recovery--January---May-2026-_JR00011135>) | January - May 2026 | 18 Sep 2026 | 24 Sep 2026 |
-| OCBC | 🆕 Internship: Group Operations &amp; Technology, Group Engineering – Enterprise Data Management \[January - May 2026\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Operations---Technology--Group-Engineering---Enterprise-Data-Management--January---May-2026-_JR00011133>) | January - May 2026 | 18 Sep 2026 | 24 Sep 2026 |
 | OCBC | 🆕 Internship: Global Corporate Banking, Operations Support &amp; Systems, Operations Support &amp; Systems \[August - December 2026\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Corporate-Banking--Operations-Support---Systems--Operations-Support---Systems--August---December-2026-_JR00007395>) | August - December 2026 | 24 Apr 2026 | 24 Sep 2026 |
 | OCBC | 🆕 Internship: Global Corporate Banking, Operations Support &amp; Systems \[Jan to May 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Corporate-Banking--Operations-Support---Systems--Jan-to-May-2027-_JR00010996>) | Jan to May 2027 | 14 Sep 2026 | 24 Sep 2026 |
 | OCBC | 🆕 Internship: Global Commercial Banking, GWB Data Analytics \[Jan to May 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Commercial-Banking--GWB-Data-Analytics--Jan-to-May-2027-_JR00011058>) | Jan to May 2027 | 16 Sep 2026 | 24 Sep 2026 |
@@ -57,9 +59,6 @@ Last collection: **24 Sep 2026, 10:17 SGT**. Scheduled every 30 minutes; runs ma
 | TikTok | 🆕 Software Development Engineer in Test Project Intern (QA) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7618066031789541685>) | 2026 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 Site Reliability Engineer Intern (Global SRE- GMPT) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7668635915812342069>) | 2027 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 Security &amp; Threat Management Project Intern (Global Security) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7612867784582318389>) | 2026 Start | Not stated | 24 Sep 2026 |
-| TikTok | 🆕 Project Management Project Intern （ AI Data (Safety Model Operations) ）- 2026 Start（BS/MS） | [Apply](<https://lifeattiktok.com/search/7511659934863640839>) | 2026 Start | Not stated | 24 Sep 2026 |
-| TikTok | 🆕 Project Management Project Intern (AI Data - Eco Operations) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7638511888540600581>) | 2026 Start | Not stated | 24 Sep 2026 |
-| TikTok | 🆕 Project Management Project Intern (AI Data (Eco Governance)) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7277959830378301754>) | 2026 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 Product Manager Intern (AI &amp; Ecosystem Governance - TikTok LIVE) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7681183714051131701>) | 2027 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 Platform Governance Operations (AI) Project Intern (TikTok Shop) 2026 Start | [Apply](<https://lifeattiktok.com/search/7673073983383292165>) | 2026 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 PR Data Science Project Intern (TikTok Platform Responsibility) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7595507388230568245>) | 2026 Start | Not stated | 24 Sep 2026 |
@@ -105,8 +104,6 @@ Last collection: **24 Sep 2026, 10:17 SGT**. Scheduled every 30 minutes; runs ma
 | TikTok | 🆕 Data Science Intern (TikTok Integrity and Safety) - 2027 start | [Apply](<https://lifeattiktok.com/search/7670844011885299973>) | 2027 start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 Data Operations - AI Data Operations Project Intern (PGC &amp; Emerging Products) - 2026 Start (BS/MS） | [Apply](<https://lifeattiktok.com/search/7660430492630616373>) | 2026 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 Data Infrastructure &amp; Analysis Project Intern (Evaluation and Investigation) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7685327112618477829>) | 2027 Start | Not stated | 24 Sep 2026 |
-| TikTok | 🆕 Data Business Analyst Project Intern - 2025 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7566216972465441029>) | ⚠️ Older period: 2025 Start | Not stated | 24 Sep 2026 |
-| TikTok | 🆕 Data Business Analyst Project Intern (Global Business Solutions) - 2025 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7567289549716769029>) | ⚠️ Older period: 2025 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 Data Analyst Project Intern (TikTok Shop) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7592508772818946309>) | 2026 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 Data Analyst Project Intern (Safety Model Operations) - 2026 Start（BS/MS） | [Apply](<https://lifeattiktok.com/search/7591813115424246069>) | 2026 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 Data Analyst Project Intern (Safety Model Operations) - 2026 Start (BS/MS） | [Apply](<https://lifeattiktok.com/search/7504596715490019592>) | 2026 Start | Not stated | 24 Sep 2026 |
@@ -140,7 +137,6 @@ Last collection: **24 Sep 2026, 10:17 SGT**. Scheduled every 30 minutes; runs ma
 | TikTok | 🆕 AI Product Manager Intern (TikTok LIVE-Platform)- 2027 Start | [Apply](<https://lifeattiktok.com/search/7669698608341780789>) | 2027 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 AI Product Designer Project Intern (TikTok-Design-UX) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7633323482907248949>) | 2026 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 AI Product Design Intern (TikTok-Design)-2027 Start | [Apply](<https://lifeattiktok.com/search/7667861682171611397>) | 2027 Start | Not stated | 24 Sep 2026 |
-| TikTok | 🆕 AI Moderation Analyst Project Intern (TikTok Safety Product) - 2025 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7555897524908067090>) | ⚠️ Older period: 2025 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 AI Model and Agent Operation Project Intern (Business Integrity) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7685635965980821813>) | 2027 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 AI Model and Agent Operation Project Intern (Business Integrity) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7668214722702018869>) | 2026 Start | Not stated | 24 Sep 2026 |
 | TikTok | 🆕 AI Machine Learning Engineer Intern (TikTok Search) - 2026 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7531716084228278536>) | 2026 Start | Not stated | 24 Sep 2026 |
@@ -168,23 +164,16 @@ Last collection: **24 Sep 2026, 10:17 SGT**. Scheduled every 30 minutes; runs ma
 | Shopee | 🆕 Projects - Data Intern, SBS (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02034383/1>) | Spring 2027 | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 Product Management Intern - Enterprise Collaboration and AI | [Apply](<https://careers.shopee.sg/job-detail/J02115564/1>) | Not stated | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 Product Analyst Intern, Traffic &amp; Content - Business Intelligence AI Bot (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02126202/1>) | Fall 2026 | Not stated | 24 Sep 2026 |
-| Shopee | 🆕 Operations &amp; Data Analytics Intern, Regional SPX Express (Summer 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02114868/1>) | Summer 2026 | Not stated | 24 Sep 2026 |
-| Shopee | 🆕 Fraud Data Analyst Intern - Trust and Safety, Regional Operations (Spring 2025) | [Apply](<https://careers.shopee.sg/job-detail/J00108008/1>) | ⚠️ Older period: Spring 2025 | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 Data Governance Intern (President's Office) (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02011727/1>) | Spring 2027 | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 Data Analytics Intern - Brand Analytics, Regional Brand Partnerships (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J00133511/1>) | Fall 2026 | Not stated | 24 Sep 2026 |
-| Shopee | 🆕 Data Analyst Intern - Warehouse Operations, Regional Operations (Spring 2025) | [Apply](<https://careers.shopee.sg/job-detail/J00255224/1>) | ⚠️ Older period: Spring 2025 | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 Data Analyst Intern - Regional Marketing Analytics, Regional Brand &amp; Growth Marketing (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00004459/1>) | Spring 2027 | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 Data Analyst Intern - Regional BI &amp; Planning (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00110930/1>) | Spring 2027 | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 Data Analyst Intern - Product Analysis, Regional Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02056925/1>) | Spring 2027 | Not stated | 24 Sep 2026 |
-| Shopee | 🆕 Data Analyst Intern - Listing and Content, Regional Operations (Fall 2025) | [Apply](<https://careers.shopee.sg/job-detail/J00316416/1>) | ⚠️ Older period: Fall 2025 | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 Data Analyst Intern - Customer Service, Regional Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02056515/1>) | Spring 2027 | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 Data Analyst Intern - Customer Service Chatbot, Regional Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02056798/1>) | Spring 2027 | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 Data Analyst Intern - Business Intelligence, Regional Marketplace Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02057734/1>) | Spring 2027 | Not stated | 24 Sep 2026 |
-| Shopee | 🆕 Data Analyst Intern - Business Intelligence, Regional Logistics (Summer 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02059847/1>) | Summer 2026 | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 Data Analyst Intern - Business Intelligence, Regional Logistics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02145210/1>) | Spring 2027 | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 Data Analyst Applied AI Intern, Buyer &amp; Marketing - Business Intelligence (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02037906/1>) | Spring 2027 | Not stated | 24 Sep 2026 |
-| Shopee | 🆕 Data &amp; Insights Intern - President's Office (Summer 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02109327/1>) | Summer 2026 | Not stated | 24 Sep 2026 |
-| Shopee | 🆕 Data &amp; Insights Intern - President's Office (Spring 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02064723/1>) | Spring 2026 | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 Chatbot Algorithm Engineer Intern, Marketplace Intelligence &amp; Data (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02183308/1>) | Fall 2026 | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 Business Data Analyst Intern - Commercial Management, Business Development (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00250728/1>) | Spring 2027 | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 Backend Engineer Intern, Marketplace Order Operations (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02072613/1>) | Fall 2026 | Not stated | 24 Sep 2026 |
@@ -193,7 +182,6 @@ Last collection: **24 Sep 2026, 10:17 SGT**. Scheduled every 30 minutes; runs ma
 | Shopee | 🆕 Automation Operational Technology (OT) Engineer Intern - Regional Logistics | [Apply](<https://careers.shopee.sg/job-detail/J00382881/1>) | Not stated | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 AI Chatbot Product Manager Intern | [Apply](<https://careers.shopee.sg/job-detail/J02181237/1>) | Not stated | Not stated | 24 Sep 2026 |
 | Shopee | 🆕 AI Automation &amp; Operations Intelligence Intern - Regional SPX Express (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02098466/1>) | Spring 2027 | Not stated | 24 Sep 2026 |
-| Shopee | 🆕 AI Automation &amp; Operations Intelligence Intern - Regional SPX Express (Spring 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02105769/1>) | Spring 2026 | Not stated | 24 Sep 2026 |
 | Sea | 🆕 System Automation &amp; Assurance Intern (6 months) | [Apply](<https://career.sea.com/position/J02172351>) | Not stated | Not stated | 24 Sep 2026 |
 | Sea | 🆕 System Automation &amp; Assurance (6 months) | [Apply](<https://career.sea.com/position/J02173412>) | Not stated | Not stated | 24 Sep 2026 |
 | Sea | 🆕 Security Engineering Intern | [Apply](<https://career.sea.com/position/J02180598>) | Not stated | Not stated | 24 Sep 2026 |
@@ -339,12 +327,10 @@ Last collection: **24 Sep 2026, 10:17 SGT**. Scheduled every 30 minutes; runs ma
 | ByteDance | 🆕 Model Safety Policy Project Intern (AI Data &amp; Safety) - 2026 Start | [Apply](<https://joinbytedance.com/search/7673402880483346693>) | 2026 Start | Not stated | 24 Sep 2026 |
 | ByteDance | 🆕 Machine Learning Engineer Intern (Global E-Commerce, Search) - 2027 Start | [Apply](<https://joinbytedance.com/search/7686120054081014069>) | 2027 Start | Not stated | 24 Sep 2026 |
 | ByteDance | 🆕 Large Model Algorithm Engineer Intern (Data Model) - 2026 Start (PHD) | [Apply](<https://joinbytedance.com/search/7530952054316910866>) | 2026 Start | Not stated | 24 Sep 2026 |
-| ByteDance | 🆕 HR Business Partner, Project Intern (Data) - 2026 Start (BS/MS) | [Apply](<https://joinbytedance.com/search/7587060591097923893>) | 2026 Start | Not stated | 24 Sep 2026 |
 | ByteDance | 🆕 Frontend Development Software Engineer Intern (BytePlus) - 2027 Start | [Apply](<https://joinbytedance.com/search/7668280355758147893>) | 2027 Start | Not stated | 24 Sep 2026 |
 | ByteDance | 🆕 Datacenter Operations Engineer (DCO-SG) Intern (Infrastructure Engineering) - 2027 Start | [Apply](<https://joinbytedance.com/search/7667826799736703237>) | 2027 Start | Not stated | 24 Sep 2026 |
 | ByteDance | 🆕 Data Science Intern (Global Payment) - 2027 Start | [Apply](<https://joinbytedance.com/search/7668305691418315061>) | 2027 Start | Not stated | 24 Sep 2026 |
 | ByteDance | 🆕 Data Operations Project Intern (AI Data &amp; Safety) - 2026 Start (BS/MS) | [Apply](<https://joinbytedance.com/search/7631435814623807749>) | 2026 Start | Not stated | 24 Sep 2026 |
-| ByteDance | 🆕 Data Center Business Development and Commercial Intern (Data Center Development) - 2027 Start | [Apply](<https://joinbytedance.com/search/7668282746921535749>) | 2027 Start | Not stated | 24 Sep 2026 |
 | ByteDance | 🆕 Data AI Engineer Intern (Global Payment) - 2027 Start | [Apply](<https://joinbytedance.com/search/7668304154059606277>) | 2027 Start | Not stated | 24 Sep 2026 |
 | ByteDance | 🆕 Cloud Site Relibility Engineer Intern (DCS), 2027 Start | [Apply](<https://joinbytedance.com/search/7670461077579548981>) | 2027 Start | Not stated | 24 Sep 2026 |
 | ByteDance | 🆕 Big Data Engineer Intern (Data Management Suite, Data Integration) - 2027 Start | [Apply](<https://joinbytedance.com/search/7665278719988533557>) | 2027 Start | Not stated | 24 Sep 2026 |
@@ -371,10 +357,41 @@ Last collection: **24 Sep 2026, 10:17 SGT**. Scheduled every 30 minutes; runs ma
 | DRW | IT Intern | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8173677>) | Not stated | 02 Sep 2026 | 21 Sep 2026 |
 
 <details>
+<summary>Older advertised periods — verify intake (14)</summary>
+
+These roles remain listed by employers, but their advertised periods appear to have passed. They are retained here for reference and in the data downloads; this does not mean applications are closed.
+
+Month ranges use their stated end month; H1/H2 end in June/December. For this display hint, Spring/Summer/Fall end in May/August/November; Winter extends through the following March. Year-only starts remain current through December. Multiple periods move here only when all have passed.
+
+| Company | Role | Apply | Period | Employer posted | First seen |
+| --- | --- | --- | --- | --- | --- |
+| Shopee | 🆕 Algorithm Engineer Intern, Search Guide (May - Dec 2025) | [Apply](<https://careers.shopee.sg/job-detail/J00379432/1>) | May - Dec 2025 | Not stated | 24 Sep 2026 |
+| OCBC | 🆕 Internship: Group Operations &amp; Technology, Group Technology Services – Data Centre &amp; Disaster Recovery \[January - May 2026\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Operations---Technology--Group-Technology-Services---Data-Centre---Disaster-Recovery--January---May-2026-_JR00011135>) | January - May 2026 | 18 Sep 2026 | 24 Sep 2026 |
+| OCBC | 🆕 Internship: Group Operations &amp; Technology, Group Engineering – Enterprise Data Management \[January - May 2026\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Operations---Technology--Group-Engineering---Enterprise-Data-Management--January---May-2026-_JR00011133>) | January - May 2026 | 18 Sep 2026 | 24 Sep 2026 |
+| TikTok | 🆕 Data Business Analyst Project Intern - 2025 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7566216972465441029>) | 2025 Start | Not stated | 24 Sep 2026 |
+| TikTok | 🆕 Data Business Analyst Project Intern (Global Business Solutions) - 2025 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7567289549716769029>) | 2025 Start | Not stated | 24 Sep 2026 |
+| TikTok | 🆕 AI Moderation Analyst Project Intern (TikTok Safety Product) - 2025 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7555897524908067090>) | 2025 Start | Not stated | 24 Sep 2026 |
+| Shopee | 🆕 Operations &amp; Data Analytics Intern, Regional SPX Express (Summer 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02114868/1>) | Summer 2026 | Not stated | 24 Sep 2026 |
+| Shopee | 🆕 Fraud Data Analyst Intern - Trust and Safety, Regional Operations (Spring 2025) | [Apply](<https://careers.shopee.sg/job-detail/J00108008/1>) | Spring 2025 | Not stated | 24 Sep 2026 |
+| Shopee | 🆕 Data Analyst Intern - Warehouse Operations, Regional Operations (Spring 2025) | [Apply](<https://careers.shopee.sg/job-detail/J00255224/1>) | Spring 2025 | Not stated | 24 Sep 2026 |
+| Shopee | 🆕 Data Analyst Intern - Listing and Content, Regional Operations (Fall 2025) | [Apply](<https://careers.shopee.sg/job-detail/J00316416/1>) | Fall 2025 | Not stated | 24 Sep 2026 |
+| Shopee | 🆕 Data Analyst Intern - Business Intelligence, Regional Logistics (Summer 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02059847/1>) | Summer 2026 | Not stated | 24 Sep 2026 |
+| Shopee | 🆕 Data &amp; Insights Intern - President's Office (Summer 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02109327/1>) | Summer 2026 | Not stated | 24 Sep 2026 |
+| Shopee | 🆕 Data &amp; Insights Intern - President's Office (Spring 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02064723/1>) | Spring 2026 | Not stated | 24 Sep 2026 |
+| Shopee | 🆕 AI Automation &amp; Operations Intelligence Intern - Regional SPX Express (Spring 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02105769/1>) | Spring 2026 | Not stated | 24 Sep 2026 |
+
+</details>
+
+<details>
 <summary>Recently closed / removed from scope (last 14 days)</summary>
 
 | Company | Role | Closed |
 | --- | --- | --- |
+| TikTok | Project Management Project Intern (AI Data - Eco Operations) - 2026 Start (BS/MS) | 24 Sep 2026 |
+| TikTok | Project Management Project Intern （ AI Data (Safety Model Operations) ）- 2026 Start（BS/MS） | 24 Sep 2026 |
+| TikTok | Project Management Project Intern (AI Data (Eco Governance)) - 2026 Start (BS/MS) | 24 Sep 2026 |
+| ByteDance | Data Center Business Development and Commercial Intern (Data Center Development) - 2027 Start | 24 Sep 2026 |
+| ByteDance | HR Business Partner, Project Intern (Data) - 2026 Start (BS/MS) | 24 Sep 2026 |
 | OCBC | Internship: Group Risk Management, Group Risk Portfolio Management, Credit Infrastructure &amp; Solutions \[Jan to May 2027\] | 24 Sep 2026 |
 | OCBC | Internship: Global Corporate Banking, Global Energy, Infrastructure &amp; Utilities \[Jan to May 2027\] | 24 Sep 2026 |
 | TikTok | Talent Acquisition Project Intern (AI Data Service and Operations) - 2026 Start (BS/MS) | 24 Sep 2026 |
@@ -391,11 +408,11 @@ Last collection: **24 Sep 2026, 10:17 SGT**. Scheduled every 30 minutes; runs ma
 | Source board | Latest check | Matching roles returned |
 | --- | --- | --- |
 | smartrecruiters:Grab | Complete | 5 |
-| lever:shopback-2 | Complete | 3 |
+| lever:shopback-2 | Complete | 4 |
 | greenhouse:temus | Complete | 1 |
 | greenhouse:drweng | Complete | 4 |
-| bytedance:tiktok | Complete | 127 |
-| bytedance:bytedance | Complete | 34 |
+| bytedance:tiktok | Complete | 125 |
+| bytedance:bytedance | Complete | 33 |
 | shopee:shopee | Complete | 36 |
 | sea:sea | Complete | 9 |
 | govtech:internships | Complete | 121 |

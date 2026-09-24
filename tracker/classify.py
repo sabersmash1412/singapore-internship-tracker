@@ -36,12 +36,14 @@ def category(title):
     title = re.sub(r"\b(?:AWS\s+)?Cloud Logistics\b", "", title, flags=re.I)
     if re.search(r"\b(?:physical security|DC Security Specialist)\b", title, re.I):
         return None
+    if re.search(r"\bbusiness intelligence\s*(?:\(BI\)\s*)?intern(?:ship)?\b", title, re.I):
+        return "Data & AI"
     patterns = [
-        ("Data & AI", r"\b(data|analytics|machine learning|ai|ml|algorithm|algorithms|research scientist|computer vision)\b"),
+        ("Data & AI", r"\b(data|analytics|machine learning|large language model|llm|prompt engineering|ai|ml|algorithm|algorithms|research scientist|computer vision)\b"),
         ("Security", r"\b(cyber\w*|security)\b"),
         ("Quant", r"\b(quant\w*|trading|trader)\b"),
         ("Software", r"\b(software|developer|backend|frontend|full.?stack|automation|devops|sre|qa)\b"),
-        ("Hardware", r"\b(hardware|firmware|embedded|semiconductor|electrical|hybrid bonding|process integration|pvd|cvd|3dic|cmos|testchip|esd device|silicon photonics|optical characterization|diagnostic design|ic design|server test)\b"),
+        ("Hardware", r"\b(hardware|firmware|embedded|semiconductor|electrical|hybrid bonding|process integration|pvd|cvd|3dic|cmos|testchip|esd device|silicon photonics|silicon design|optical characterization|diagnostic design|ic design|server test)\b"),
         ("IT & Infrastructure", r"\b(it|information technology|cloud|network|systems?|data\s?cent(?:er|re)|site reliability|(?:it|technology|cloud|network) infrastructure|infrastructure engineer(?:ing)?)\b"),
     ]
     for label, pattern in patterns:
@@ -72,7 +74,7 @@ INTAKE_CONTEXT = re.compile(r"\b(internships?|intern|availability|start date|int
 
 
 def extract_period(title, description):
-    candidates = [title] + re.split(r"(?<=[.!?;])\s+", description)
+    candidates = [title] + re.split(r"(?<=[.!?;])\s+|\s+-\s+(?=(?:Able to|Available|Internship|Start date)\b)", description, flags=re.I)
     for index, evidence in enumerate(candidates):
         if NON_INTAKE.search(evidence):
             continue

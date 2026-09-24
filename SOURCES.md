@@ -65,3 +65,7 @@ Google's official Singapore internship search returned no results during investi
 The hardware title filter also recognizes optical characterization, diagnostic design, IC design and server test internships. These specific engineering terms avoid treating all packaging or manufacturing roles as technical.
 
 Validation for this expansion: all 20 sources completed successfully. Micron contributed 20 matching roles, AMD 7, Apple 2 and Amazon 2; NVIDIA currently has 0. The published snapshot has 404 active listings. All 68 offline tests pass. Cloud Logistics team names and physical-security specialist titles do not qualify a role by themselves; this conservative rule can omit technical work hidden behind a generic programme-manager title. Day-number ranges and explicit alternative end dates are handled without labelling end months as internship starts. GitHub runner connectivity remains subject to the next scheduled refresh.
+
+## Post-expansion quality audit
+
+The [30-listing review](audits/2026-09-24-post-expansion.md) covers 17 employers and records source evidence, duplicate checks and remaining gaps. It recovered seven technical roles through narrow Business Intelligence, LLM/prompt engineering and silicon-design title rules, and corrected an intake following a separate graduation-requirement bullet.

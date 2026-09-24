@@ -8,9 +8,9 @@ Monitored employers: **TikTok, ByteDance, Shopee, Sea, GovTech, DBS, OCBC, UOB, 
 
 <!-- INTERNSHIPS:START -->
 
-**391 current or undated listings · 14 older advertised periods · 17 employers with roles**
+**397 current or undated listings · 15 older advertised periods · 17 employers with roles**
 
-Last collection: **24 Sep 2026, 17:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **24 Sep 2026, 17:16 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -22,7 +22,13 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| Micron | 🆕 Intern - MSB Automation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---MSB-Automation-Engineer_JR112720>) | - | 24 Sep 2026 | 24 Sep 2026 |
+| TikTok | 🆕 Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start | [Apply](<https://lifeattiktok.com/search/7669738564847110453>) | 2027 Start | - | 24 Sep 2026 |
+| Shopee | 🆕 Regional Large Language Model (LLM) Agent &amp; Prompt Engineering Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02042064/1>) | Spring 2027 | - | 24 Sep 2026 |
+| ↳ | 🆕 Product Manager Intern, Traffic &amp; Content - LLM Feature (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02102662/1>) | Fall 2026 | - | 24 Sep 2026 |
+| ↳ | 🆕 Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02185576/1>) | Spring 2027 | - | 24 Sep 2026 |
+| ↳ | 🆕 Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00003615/1>) | Spring 2027 | - | 24 Sep 2026 |
+| Micron | 🆕 Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111158>) | - | 22 Sep 2026 | 24 Sep 2026 |
+| ↳ | 🆕 Intern - MSB Automation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---MSB-Automation-Engineer_JR112720>) | - | 24 Sep 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Intern- PIE PI (Product Integration Engineering, Process Integration) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--PIE-PI--Product-Integration-Engineering--Process-Integration-_JR96407>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Intern- MSB Process Integration Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--MSB-Process-Integration-Engineer_JR109767>) | Jan to May 2027 | 26 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Intern- MSB Process Integration Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--MSB-Process-Integration-Engineer_JR109764>) | - | 26 Aug 2026 | 24 Sep 2026 |
@@ -46,7 +52,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Apple | 🆕 Information Security Internship Program (FY27 Summer Intake) | [Apply](<https://jobs.apple.com/en-us/details/200684585-3278/information-security-internship-program-fy27-summer-intake>) | - | 18 Sep 2026 | 24 Sep 2026 |
 | ↳ | 🆕 2027 Apple Internship - Information Systems and Technology | [Apply](<https://jobs.apple.com/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology>) | - | 06 Aug 2026 | 24 Sep 2026 |
 | Amazon | 🆕 Software Developer Intern, Field Innovation, Security Search and Observability (SSO) | [Apply](<https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso>) | Jan 2027 - June 2027 | 16 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Program Manager Intern, APAC Data Center Delivery Operations | [Apply](<https://www.amazon.jobs/en/jobs/10529692/program-manager-intern-apac-data-center-delivery-operations>) | - | 04 Sep 2026 | 24 Sep 2026 |
+| ↳ | 🆕 Program Manager Intern, APAC Data Center Delivery Operations | [Apply](<https://www.amazon.jobs/en/jobs/10529692/program-manager-intern-apac-data-center-delivery-operations>) | Jan to Jun 2027 | 04 Sep 2026 | 24 Sep 2026 |
 | AMD | 🆕 Wafer Sort &amp; Final Test Hardware Development Engineer Intern | [Apply](<https://careers.amd.com/students/jobs/91461>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Next-Gen Server Test &amp; Qualification Intern | [Apply](<https://careers.amd.com/students/jobs/76898>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
 | ↳ | 🆕 IC Design Exploration Intern | [Apply](<https://careers.amd.com/students/jobs/76892>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
@@ -415,7 +421,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | IT Intern | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8173677>) | - | 02 Sep 2026 | 21 Sep 2026 |
 
 <details>
-<summary>Older advertised periods — verify intake (14)</summary>
+<summary>Older advertised periods — verify intake (15)</summary>
 
 These roles remain listed by employers, but their advertised periods appear to have passed. They are retained here for reference and in the data downloads; this does not mean applications are closed.
 
@@ -423,7 +429,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| Shopee | 🆕 Algorithm Engineer Intern, Search Guide (May - Dec 2025) | [Apply](<https://careers.shopee.sg/job-detail/J00379432/1>) | May - Dec 2025 | - | 24 Sep 2026 |
+| Shopee | 🆕 Business Intelligence (BI) Intern – Cross Border E-commerce (Summer 2026) | [Apply](<https://careers.shopee.sg/job-detail/J00356170/1>) | Summer 2026 | - | 24 Sep 2026 |
+| ↳ | 🆕 Algorithm Engineer Intern, Search Guide (May - Dec 2025) | [Apply](<https://careers.shopee.sg/job-detail/J00379432/1>) | May - Dec 2025 | - | 24 Sep 2026 |
 | OCBC | 🆕 Internship: Group Operations &amp; Technology, Group Technology Services – Data Centre &amp; Disaster Recovery \[January - May 2026\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Operations---Technology--Group-Technology-Services---Data-Centre---Disaster-Recovery--January---May-2026-_JR00011135>) | January - May 2026 | 18 Sep 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Internship: Group Operations &amp; Technology, Group Engineering – Enterprise Data Management \[January - May 2026\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Operations---Technology--Group-Engineering---Enterprise-Data-Management--January---May-2026-_JR00011133>) | January - May 2026 | 18 Sep 2026 | 24 Sep 2026 |
 | TikTok | 🆕 Data Business Analyst Project Intern - 2025 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7566216972465441029>) | 2025 Start | - | 24 Sep 2026 |
@@ -469,9 +476,9 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:shopback-2 | Complete | 4 |
 | greenhouse:temus | Complete | 1 |
 | greenhouse:drweng | Complete | 4 |
-| bytedance:tiktok | Complete | 125 |
+| bytedance:tiktok | Complete | 126 |
 | bytedance:bytedance | Complete | 33 |
-| shopee:shopee | Complete | 36 |
+| shopee:shopee | Complete | 41 |
 | sea:sea | Complete | 9 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 0 |
@@ -480,7 +487,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:amat | Complete | 12 |
 | workday:globalfoundries | Complete | 12 |
 | workday:nxp | Complete | 0 |
-| workday:micron | Complete | 21 |
+| workday:micron | Complete | 22 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |

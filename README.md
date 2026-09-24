@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**443 current or undated listings · 15 older advertised periods · 30 employers with roles**
+**439 current or undated listings · 15 older advertised periods · 30 employers with roles**
 
-Last collection: **25 Sep 2026, 00:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **25 Sep 2026, 00:32 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -26,8 +26,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Quantitative Researcher Intern, Bachelor's or Master's | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8168750>) | - | 01 Sep 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Quantitative Developer Intern | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8138524>) | - | 18 Aug 2026 | 24 Sep 2026 |
 | Stripe | 🆕 Software Engineer, Intern | [Apply](<https://stripe.com/jobs/search?gh_jid=8130883>) | - | 07 Sep 2026 | 24 Sep 2026 |
-| SLA Singapore Land Authority | 🆕 Intern, GeoSpatial Systems &amp; Solutions | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/SLA-REVENUE-HOUSE-LEVEL-11/Intern--GeoSpatial-Systems---Solutions_JR-10000054096>) | - | 07 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern, Finance Process Automation | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/SLA-REVENUE-HOUSE-LEVEL-11/intern_JR-10000036273>) | Oct 2026 to Feb 2027 / Jan 2027 to June 2027 | 11 Sep 2026 | 24 Sep 2026 |
+| SLA Singapore Land Authority | 🆕 Intern, Finance Process Automation | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/SLA-REVENUE-HOUSE-LEVEL-11/intern_JR-10000036273>) | Oct 2026 to Feb 2027 / Jan 2027 to June 2027 | 11 Sep 2026 | 24 Sep 2026 |
 | Portcast | 🆕 Data Analyst Intern | [Apply](<https://jobs.lever.co/portcast/f18cc64e-c34a-416c-b213-62a39906260e>) | - | - | 24 Sep 2026 |
 | Palantir Technologies | 🆕 Software Engineer, Internship | [Apply](<https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1>) | - | - | 24 Sep 2026 |
 | NLB National Library Board | 🆕 Video Analytics Intern, Properties &amp; Facilities Management | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/NLB-National-Library-Building/Video-Analytics-Intern--Properties---Facilities-Management_JR-10000055560>) | - | 15 Sep 2026 | 24 Sep 2026 |
@@ -75,12 +74,9 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00003615/1>) | Spring 2027 | - | 24 Sep 2026 |
 | Micron | 🆕 Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111158>) | - | 22 Sep 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Intern - MSB Automation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---MSB-Automation-Engineer_JR112720>) | - | 24 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern- PIE PI (Product Integration Engineering, Process Integration) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--PIE-PI--Product-Integration-Engineering--Process-Integration-_JR96407>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Intern- MSB Process Integration Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--MSB-Process-Integration-Engineer_JR109767>) | Jan to May 2027 | 26 Aug 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern- MSB Process Integration Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--MSB-Process-Integration-Engineer_JR109764>) | - | 26 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Intern, Photo Manufacturing Data Analytics and AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Photo-Manufacturing-Data-Analytics-and-AI_JR112194>) | Jan to May 2027 | 21 Sep 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Intern, Facilities AI Engineering | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170>) | Jan to Jun 2027 | 17 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern – ML/AI Engineer (Product Engineering, STPG) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---ML-AI-Engineer--Product-Engineering--STPG-_JR93102>) | - | 04 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Intern - STPG PE Firmware | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318>) | Jan to May 2027 | 08 Sep 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Intern - Probe Automation | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Probe-Automation_JR112385>) | - | 21 Sep 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Intern - PIE PI (Product Integration Engineering, Process Integration) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PIE-PI--Product-Integration-Engineering--Process-Integration-_JR112131>) | May to Aug 2027 | 18 Sep 2026 | 24 Sep 2026 |
@@ -498,6 +494,10 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| SLA Singapore Land Authority | Intern, GeoSpatial Systems &amp; Solutions | 25 Sep 2026 | - |
+| Micron | Intern- PIE PI (Product Integration Engineering, Process Integration) | 25 Sep 2026 | - |
+| ↳ | Intern- MSB Process Integration Engineer | 25 Sep 2026 | - |
+| ↳ | Intern – ML/AI Engineer (Product Engineering, STPG) | 25 Sep 2026 | - |
 | TikTok | Project Management Project Intern (AI Data - Eco Operations) - 2026 Start (BS/MS) | 24 Sep 2026 | - |
 | ↳ | Project Management Project Intern （ AI Data (Safety Model Operations) ）- 2026 Start（BS/MS） | 24 Sep 2026 | - |
 | ↳ | Project Management Project Intern (AI Data (Eco Governance)) - 2026 Start (BS/MS) | 24 Sep 2026 | - |
@@ -537,7 +537,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | Complete | 2 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

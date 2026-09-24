@@ -2,7 +2,7 @@
 
 An automatically updated list of technical internships in **Singapore**, collected directly from employer career feeds. Browse the table below and apply on the employer’s website.
 
-**[Download CSV](data/internships.csv)** · **[JSON data](data/jobs.json)** · **[Refresh status](https://github.com/sabersmash1412/singapore-internship-tracker/actions/workflows/refresh.yml)** · **[Suggest an employer](https://github.com/sabersmash1412/singapore-internship-tracker/issues)**
+**[Download CSV](data/internships.csv)** · **[JSON data](data/jobs.json)** · **[Refresh status](https://github.com/sabersmash1412/singapore-internship-tracker/actions/workflows/refresh.yml)** · **[Suggest an employer](https://github.com/sabersmash1412/singapore-internship-tracker/issues/new?template=suggest-employer.yml)** · **[Report a listing](https://github.com/sabersmash1412/singapore-internship-tracker/issues/new?template=report-listing.yml)**
 
 Monitored employers: **TikTok, ByteDance, Shopee, Sea, GovTech, DBS, OCBC, UOB, Grab, ShopBack, Temus, DRW, Applied Materials, GlobalFoundries, NXP, Micron, NVIDIA, AMD, Amazon and Apple**. See [source coverage](SOURCES.md) for the official boards and collection limits. This is an early list, not comprehensive coverage of Singapore internships. Newest discoveries appear first; separate requisitions remain separate rows.
 

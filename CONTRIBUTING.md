@@ -2,6 +2,10 @@
 
 The README is the primary publication. Python 3.11+ and its standard library are the only local requirements.
 
+## Suggest a source or report a listing
+
+Students can [suggest an employer](https://github.com/sabersmash1412/singapore-internship-tracker/issues/new?template=suggest-employer.yml) or [report an expired or incorrect listing](https://github.com/sabersmash1412/singapore-internship-tracker/issues/new?template=report-listing.yml). Include an official posting link and evidence. Reports are reviewed; submitting one does not automatically change the table.
+
 ## Run locally
 
 ```sh
@@ -29,9 +33,15 @@ Headers: `Accept: application/vnd.github+json`, `Content-Type: application/json`
 
 A successful dispatch confirms GitHub accepted the request, not that collection finished. Check both cron-job.org execution history and the GitHub Actions result. Manual **Run workflow** remains available if the scheduler is unavailable. On 24 September 2026, the scheduler test returned 200 and created [this GitHub run](https://github.com/sabersmash1412/singapore-internship-tracker/actions/runs/35974750632).
 
+### Failure alerts
+
+cron-job.org alerts are enabled after the first failed dispatch, on recovery, and if the job is disabled after repeated failures. These alerts cover delivery to GitHub, not the collector's result.
+
+For collection failures, enable **Email** and **Only notify for failed workflows** under [GitHub notification settings](https://github.com/settings/notifications). See [GitHub's notification guide](https://docs.github.com/en/subscriptions-and-notifications/how-tos/managing-github-actions-notifications). Partial source failures remain visible in README source health even when the workflow succeeds.
+
 ## Add employers
 
-Edit data/companies.json. Each entry needs `name`, `platform`, `slug`, and `careers_url`. Supported platforms: Greenhouse, Lever, SmartRecruiters, ByteDance/TikTok public supplier search, Workday, Shopee, Sea and GovTech. See existing registry entries for each platform’s required `api_base` or `website_path` fields, and [SOURCES.md](SOURCES.md) for provenance. Confirm the official feed token and run the collector before submitting a change. A board with zero matches can still be healthy.
+Edit data/companies.json. Each entry needs `name`, `platform`, `slug`, and `careers_url`. Supported platforms: Greenhouse, Lever, SmartRecruiters, ByteDance/TikTok public supplier search, Workday, Shopee, Sea, GovTech, AMD, Amazon and Apple. See existing registry entries for each platform’s required `api_base` or `website_path` fields, and [SOURCES.md](SOURCES.md) for provenance. Confirm the official feed token and run the collector before submitting a change. A board with zero matches can still be healthy.
 
 Keep public job URLs as application links. Do not submit credentials, private student-portal data or personal applicant information. Removing a board from the registry does not remove its historical listings; retiring a source needs an explicit history migration.
 

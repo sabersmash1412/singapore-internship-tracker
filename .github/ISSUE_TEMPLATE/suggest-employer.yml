@@ -1,0 +1,29 @@
+name: Suggest an employer
+description: Suggest an official source of Singapore tech internships.
+title: "[Employer] "
+body:
+  - type: input
+    id: employer
+    attributes:
+      label: Employer name
+    validations:
+      required: true
+  - type: input
+    id: careers-url
+    attributes:
+      label: Official careers page
+      placeholder: https://...
+    validations:
+      required: true
+  - type: textarea
+    id: singapore-internships
+    attributes:
+      label: Singapore internship examples
+      description: Link to relevant official postings, or explain the Singapore internship programme.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
+      description: Optional details that could help us collect these listings.

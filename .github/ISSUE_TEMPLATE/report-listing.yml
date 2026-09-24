@@ -1,0 +1,37 @@
+name: Report an expired or incorrect listing
+description: Report a closed role, broken link, or incorrect internship information.
+title: "[Listing] "
+body:
+  - type: input
+    id: employer-role
+    attributes:
+      label: Employer and role title
+    validations:
+      required: true
+  - type: input
+    id: posting-url
+    attributes:
+      label: Employer posting URL
+      description: Copy the Apply link from the README.
+      placeholder: https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What is wrong?
+      options:
+        - Applications closed or role removed
+        - Apply link is broken
+        - Not a Singapore internship
+        - Incorrect dates or other details
+        - Duplicate listing
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and date checked
+      description: Describe what the employer page says and when you checked it. Include the correct information if known.
+    validations:
+      required: true

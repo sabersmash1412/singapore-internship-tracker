@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **441 current or undated listings · 15 older advertised periods · 31 employers with roles**
 
-Last collection: **25 Sep 2026, 17:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **25 Sep 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -22,6 +22,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| OCBC | 🆕 Internship: Global Markets, Management Information Systems \[Jan - Jun 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/SGP-Head-Office/Internship--Global-Markets--Management-Information-Systems--Jan---Jun-2027-_JR00011357>) | Jan - Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
 | DRW | 🆕 Software Developer Intern (Python) | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/7981754>) | - | 13 Jul 2026 | 25 Sep 2026 |
 | NCS | 🆕 \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001436844>) | Jan till Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
 | DBS | 🆕 \[JIM LV TEST – Do NOT Apply\] 2027 DBS Internship (Technology and AI &amp; Data Science) | [Apply](<https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME--JIM-LV-TEST---Do-NOT-Apply--2027-DBS-Internship--Technology-and-AI---Data-Science-_WD89076>) | - | 25 Sep 2026 | 25 Sep 2026 |
@@ -105,8 +106,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Advanced Packaging Optical Characterization Intern | [Apply](<https://careers.amd.com/students/jobs/92029>) | Jan 2027 Start | 03 Sep 2026 | 24 Sep 2026 |
 | ↳ | 🆕 AI-Driven CPU/GPU Development &amp; Co-Optimization Intern | [Apply](<https://careers.amd.com/students/jobs/91459>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 AI-Driven BOM Generation &amp; Management Intern | [Apply](<https://careers.amd.com/students/jobs/91458>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
-| GlobalFoundries | 🆕 Testchip Design &amp; Implementation Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Testchip-Design---Implementation-Intern--Jan-Jun-2027-_JR-2604352>) | Jan-Jun 2027 | 14 Aug 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604281>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
+| GlobalFoundries | 🆕 Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604281>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604277-1>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Machine Learning &amp; Generative AI Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Machine-Learning---Generative-AI-Intern--Jan-Jun-2027-_JR-2604518>) | Jan-Jun 2027 | 02 Sep 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Facility Engineering, Automation Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Facility-Engineering--Automation-Intern--Jan-Jun-2027-_JR-2604650>) | Jan-Jun 2027 | 23 Aug 2026 | 24 Sep 2026 |
@@ -496,6 +496,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| GlobalFoundries | Testchip Design &amp; Implementation Intern (Jan-Jun 2027) | 25 Sep 2026 | - |
 | NCS | \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | 25 Sep 2026 | - |
 | Shopee | Product Manager Intern, Traffic &amp; Content - LLM Feature (Fall 2026) | 25 Sep 2026 | - |
 | ↳ | Backend Engineer Intern, Marketplace Order Operations (Fall 2026) | 25 Sep 2026 | - |
@@ -532,7 +533,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 9 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | Complete | 9 |
+| workday:ocbc | Complete | 10 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 12 |
 | workday:globalfoundries | Complete | 11 |

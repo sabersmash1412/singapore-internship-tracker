@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**440 current or undated listings · 15 older advertised periods · 31 employers with roles**
+**441 current or undated listings · 15 older advertised periods · 31 employers with roles**
 
-Last collection: **25 Sep 2026, 15:32 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **25 Sep 2026, 16:02 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -22,6 +22,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| DRW | 🆕 Software Developer Intern (Python) | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/7981754>) | - | 13 Jul 2026 | 25 Sep 2026 |
 | NCS | 🆕 \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001436844>) | Jan till Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
 | DBS | 🆕 \[JIM LV TEST – Do NOT Apply\] 2027 DBS Internship (Technology and AI &amp; Data Science) | [Apply](<https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME--JIM-LV-TEST---Do-NOT-Apply--2027-DBS-Internship--Technology-and-AI---Data-Science-_WD89076>) | - | 25 Sep 2026 | 25 Sep 2026 |
 | Stripe | 🆕 Financial Data Analyst Intern, Technical Operations | [Apply](<https://stripe.com/jobs/search?gh_jid=8186442>) | - | 25 Sep 2026 | 25 Sep 2026 |
@@ -524,7 +525,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:Grab | Complete | 5 |
 | lever:shopback-2 | Complete | 5 |
 | greenhouse:temus | Complete | 1 |
-| greenhouse:drweng | Complete | 4 |
+| greenhouse:drweng | Complete | 5 |
 | bytedance:tiktok | Complete | 126 |
 | bytedance:bytedance | Complete | 33 |
 | shopee:shopee | Complete | 39 |

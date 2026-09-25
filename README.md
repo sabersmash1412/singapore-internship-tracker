@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**441 current or undated listings · 15 older advertised periods · 31 employers with roles**
+**440 current or undated listings · 15 older advertised periods · 31 employers with roles**
 
-Last collection: **25 Sep 2026, 12:02 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **25 Sep 2026, 12:32 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -39,7 +39,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 \[Uni - Jan till Jun 2027\] Software Engineering Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287270>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 \[Uni - Jan till Jun 2027\] Software Engineer/ Business Analyst Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287535>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 \[Uni - Jan till Jun 2027\] Software Engineer and Data Analytics Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001308503>) | Jan till Jun 2027 | 12 Aug 2026 | 24 Sep 2026 |
-| ↳ | 🆕 \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001303212>) | Jan till Jun 2027 | 11 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 \[Uni - Jan till Jun 2027\] Robotics Hardware Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001369044>) | Jan till Jun 2027 | 02 Sep 2026 | 24 Sep 2026 |
 | ↳ | 🆕 \[Uni - Jan till Jun 2027\] Physical AI Security Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001344206>) | Jan till Jun 2027 | 24 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 \[Uni - Jan till Jun 2027\] Legal AI Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287841>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
@@ -496,6 +495,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| NCS | \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | 25 Sep 2026 | - |
 | Shopee | Product Manager Intern, Traffic &amp; Content - LLM Feature (Fall 2026) | 25 Sep 2026 | - |
 | ↳ | Backend Engineer Intern, Marketplace Order Operations (Fall 2026) | 25 Sep 2026 | - |
 | Micron | Intern- PIE PI (Product Integration Engineering, Process Integration) | 25 Sep 2026 | - |
@@ -540,7 +540,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | Complete | 2 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

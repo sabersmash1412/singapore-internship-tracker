@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **441 current or undated listings · 15 older advertised periods · 30 employers with roles**
 
-Last collection: **25 Sep 2026, 07:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **25 Sep 2026, 08:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 

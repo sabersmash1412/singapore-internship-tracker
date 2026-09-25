@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**441 current or undated listings · 15 older advertised periods · 30 employers with roles**
+**441 current or undated listings · 15 older advertised periods · 31 employers with roles**
 
-Last collection: **25 Sep 2026, 11:32 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **25 Sep 2026, 12:02 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -22,6 +22,8 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| NCS | 🆕 \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001436844>) | Jan till Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
+| DBS | 🆕 \[JIM LV TEST – Do NOT Apply\] 2027 DBS Internship (Technology and AI &amp; Data Science) | [Apply](<https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME--JIM-LV-TEST---Do-NOT-Apply--2027-DBS-Internship--Technology-and-AI---Data-Science-_WD89076>) | - | 25 Sep 2026 | 25 Sep 2026 |
 | Stripe | 🆕 Financial Data Analyst Intern, Technical Operations | [Apply](<https://stripe.com/jobs/search?gh_jid=8186442>) | - | 25 Sep 2026 | 25 Sep 2026 |
 | Tower Research Capital | 🆕 Quantitative Researcher Intern, PhD or Postdoc | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8168634>) | - | 01 Sep 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Quantitative Researcher Intern, Bachelor's or Master's | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8168750>) | - | 01 Sep 2026 | 24 Sep 2026 |
@@ -71,7 +73,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Intern - Product Engineering, NAND Validation/Characterization | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Product-Engineering--NAND-Validation-Characterization_JR111131>) | Jan to May 2027 | 22 Sep 2026 | 24 Sep 2026 |
 | TikTok | 🆕 Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start | [Apply](<https://lifeattiktok.com/search/7669738564847110453>) | 2027 Start | - | 24 Sep 2026 |
 | Shopee | 🆕 Regional Large Language Model (LLM) Agent &amp; Prompt Engineering Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02042064/1>) | Spring 2027 | - | 24 Sep 2026 |
-| ↳ | 🆕 Product Manager Intern, Traffic &amp; Content - LLM Feature (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02102662/1>) | Fall 2026 | - | 24 Sep 2026 |
 | ↳ | 🆕 Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02185576/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | 🆕 Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00003615/1>) | Spring 2027 | - | 24 Sep 2026 |
 | Micron | 🆕 Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111158>) | - | 22 Sep 2026 | 24 Sep 2026 |
@@ -284,7 +285,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Data Analyst Applied AI Intern, Buyer &amp; Marketing - Business Intelligence (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02037906/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | 🆕 Chatbot Algorithm Engineer Intern, Marketplace Intelligence &amp; Data (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02183308/1>) | Fall 2026 | - | 24 Sep 2026 |
 | ↳ | 🆕 Business Data Analyst Intern - Commercial Management, Business Development (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00250728/1>) | Spring 2027 | - | 24 Sep 2026 |
-| ↳ | 🆕 Backend Engineer Intern, Marketplace Order Operations (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02072613/1>) | Fall 2026 | - | 24 Sep 2026 |
 | ↳ | 🆕 Backend Engineer Intern, Data Infrastructure - OLAP (Fall 2026/ Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02191248/1>) | Fall 2026 / Spring 2027 | - | 24 Sep 2026 |
 | ↳ | 🆕 Backend Engineer Intern (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02151045/1>) | Fall 2026 | - | 24 Sep 2026 |
 | ↳ | 🆕 Automation Operational Technology (OT) Engineer Intern - Regional Logistics | [Apply](<https://careers.shopee.sg/job-detail/J00382881/1>) | - | - | 24 Sep 2026 |
@@ -496,6 +496,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Shopee | Product Manager Intern, Traffic &amp; Content - LLM Feature (Fall 2026) | 25 Sep 2026 | - |
+| ↳ | Backend Engineer Intern, Marketplace Order Operations (Fall 2026) | 25 Sep 2026 | - |
 | Micron | Intern- PIE PI (Product Integration Engineering, Process Integration) | 25 Sep 2026 | - |
 | ↳ | Intern- MSB Process Integration Engineer | 25 Sep 2026 | - |
 | ↳ | Intern – ML/AI Engineer (Product Engineering, STPG) | 25 Sep 2026 | - |
@@ -528,17 +530,17 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | shopee:shopee | Complete | 39 |
 | sea:sea | Complete | 9 |
 | govtech:internships | Complete | 121 |
-| workday:dbs | Complete | 0 |
+| workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 9 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 12 |
-| workday:globalfoundries | ⚠️ Incomplete — previous listings retained | 7 |
+| workday:globalfoundries | Complete | 12 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 23 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

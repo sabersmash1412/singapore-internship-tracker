@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**441 current or undated listings · 15 older advertised periods · 30 employers with roles**
+**442 current or undated listings · 15 older advertised periods · 31 employers with roles**
 
-Last collection: **26 Sep 2026, 13:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Sep 2026, 13:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -97,6 +97,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Intern - Assembly Post Electrical | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Assembly-Post-Electrical_JR109872>) | - | 26 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Intern - ADTS ATI Process Integration Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---ADTS-ATI-Process-Integration-Engineer_JR103501>) | January 2027 to June 2027 | 31 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 AI, Data &amp; Digital Solutions Internship (Singapore) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/AI--Data---Digital-Solutions-Internship--Singapore-_JR106776>) | Jan–Jun 2027 | 22 Jul 2026 | 24 Sep 2026 |
+| Apple | 🆕 Information Security Internship Program (FY27 Summer Intake) | [Apply](<https://jobs.apple.com/en-us/details/200684585-3278/information-security-internship-program-fy27-summer-intake>) | - | 18 Sep 2026 | 24 Sep 2026 |
 | Amazon | 🆕 Software Developer Intern, Field Innovation, Security Search and Observability (SSO) | [Apply](<https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso>) | Jan 2027 - June 2027 | 16 Sep 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Program Manager Intern, APAC Data Center Delivery Operations | [Apply](<https://www.amazon.jobs/en/jobs/10529692/program-manager-intern-apac-data-center-delivery-operations>) | Jan to Jun 2027 | 04 Sep 2026 | 24 Sep 2026 |
 | AMD | 🆕 Wafer Sort &amp; Final Test Hardware Development Engineer Intern | [Apply](<https://careers.amd.com/students/jobs/91461>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
@@ -496,8 +497,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
-| Apple | Information Security Internship Program (FY27 Summer Intake) | 26 Sep 2026 | - |
-| ↳ | 2027 Apple Internship - Information Systems and Technology | 26 Sep 2026 | - |
+| Apple | 2027 Apple Internship - Information Systems and Technology | 26 Sep 2026 | - |
 | GlobalFoundries | Testchip Design &amp; Implementation Intern (Jan-Jun 2027) | 25 Sep 2026 | - |
 | NCS | \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | 25 Sep 2026 | - |
 | Shopee | Product Manager Intern, Traffic &amp; Content - LLM Feature (Fall 2026) | 25 Sep 2026 | - |
@@ -544,7 +544,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | Complete | 0 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

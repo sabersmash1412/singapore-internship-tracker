@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **443 current or undated listings · 15 older advertised periods · 31 employers with roles**
 
-Last collection: **26 Sep 2026, 14:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Sep 2026, 14:32 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -534,14 +534,14 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | shopee:shopee | Complete | 39 |
 | sea:sea | Complete | 9 |
 | govtech:internships | Complete | 121 |
-| workday:dbs | Complete | 1 |
+| workday:dbs | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:ocbc | Complete | 11 |
-| workday:uobgroup | Complete | 2 |
-| workday:amat | Complete | 12 |
-| workday:globalfoundries | Complete | 11 |
-| workday:nxp | Complete | 0 |
-| workday:micron | Complete | 23 |
-| workday:nvidia | Complete | 0 |
+| workday:uobgroup | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:amat | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:globalfoundries | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:nxp | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:micron | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:nvidia | ⚠️ Incomplete — previous listings retained | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
 | apple:apple | Complete | 2 |

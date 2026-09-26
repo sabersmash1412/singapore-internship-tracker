@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **443 current or undated listings · 15 older advertised periods · 31 employers with roles**
 
-Last collection: **26 Sep 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Sep 2026, 17:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -79,35 +79,35 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02185576/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | 🆕 Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00003615/1>) | Spring 2027 | - | 24 Sep 2026 |
 | Micron | 🆕 Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111158>) | - | 22 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern - MSB Automation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---MSB-Automation-Engineer_JR112720>) | - | 24 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern- MSB Process Integration Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--MSB-Process-Integration-Engineer_JR109767>) | Jan to May 2027 | 26 Aug 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern, Photo Manufacturing Data Analytics and AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Photo-Manufacturing-Data-Analytics-and-AI_JR112194>) | Jan to May 2027 | 21 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern, Facilities AI Engineering | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170>) | Jan to Jun 2027 | 17 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern - STPG PE Firmware | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318>) | Jan to May 2027 | 08 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern - Probe Automation | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Probe-Automation_JR112385>) | - | 21 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern - PIE PI (Product Integration Engineering, Process Integration) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PIE-PI--Product-Integration-Engineering--Process-Integration-_JR112131>) | May to Aug 2027 | 18 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern - PEE CVD/PVD | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CVD-PVD_JR111619>) | - | 22 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern - NTI Process Integration - AI Track | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NTI-Process-Integration---AI-Track_JR96179>) | - | 09 Apr 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern - NAND Product Engineering - Probe AI/ML | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Product-Engineering---Probe-AI-ML_JR110821>) | Jan to May 2027 | 07 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern - NAND Device Engineering AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Device-Engineering-AI_JR112107>) | - | 15 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern - Facilities Sustainability AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586>) | January to May 2027 | 22 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern - F10 QEM Product Quality Engineering Yield Data Analytics | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-QEM-Product-Quality-Engineering-Yield-Data-Analaytics_JR109828>) | Jan to May 2027 | 03 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern - F10 Process Integration Analytics | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-Process-Integration-Analytics_JR111305>) | January 2027 to June 2027 | 18 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern - F10 CVD PEE | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-CVD-PEE_JR97726>) | - | 03 Aug 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern - Assembly Post Electrical | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Assembly-Post-Electrical_JR109872>) | - | 26 Aug 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern - ADTS ATI Process Integration Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---ADTS-ATI-Process-Integration-Engineer_JR103501>) | January 2027 to June 2027 | 31 Aug 2026 | 24 Sep 2026 |
-| ↳ | 🆕 AI, Data &amp; Digital Solutions Internship (Singapore) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/AI--Data---Digital-Solutions-Internship--Singapore-_JR106776>) | Jan–Jun 2027 | 22 Jul 2026 | 24 Sep 2026 |
-| Apple | 🆕 Information Security Internship Program (FY27 Summer Intake) | [Apply](<https://jobs.apple.com/en-us/details/200684585-3278/information-security-internship-program-fy27-summer-intake>) | - | 18 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 2027 Apple Internship - Information Systems and Technology | [Apply](<https://jobs.apple.com/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology>) | - | 06 Aug 2026 | 24 Sep 2026 |
-| Amazon | 🆕 Software Developer Intern, Field Innovation, Security Search and Observability (SSO) | [Apply](<https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso>) | Jan 2027 - June 2027 | 16 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Program Manager Intern, APAC Data Center Delivery Operations | [Apply](<https://www.amazon.jobs/en/jobs/10529692/program-manager-intern-apac-data-center-delivery-operations>) | Jan to Jun 2027 | 04 Sep 2026 | 24 Sep 2026 |
-| AMD | 🆕 Wafer Sort &amp; Final Test Hardware Development Engineer Intern | [Apply](<https://careers.amd.com/students/jobs/91461>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Next-Gen Server Test &amp; Qualification Intern | [Apply](<https://careers.amd.com/students/jobs/76898>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
-| ↳ | 🆕 IC Design Exploration Intern | [Apply](<https://careers.amd.com/students/jobs/76892>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Diagnostic Design Engineering Intern | [Apply](<https://careers.amd.com/students/jobs/76894>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Advanced Packaging Optical Characterization Intern | [Apply](<https://careers.amd.com/students/jobs/92029>) | Jan 2027 Start | 03 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 AI-Driven CPU/GPU Development &amp; Co-Optimization Intern | [Apply](<https://careers.amd.com/students/jobs/91459>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
-| ↳ | 🆕 AI-Driven BOM Generation &amp; Management Intern | [Apply](<https://careers.amd.com/students/jobs/91458>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
+| ↳ | Intern - MSB Automation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---MSB-Automation-Engineer_JR112720>) | - | 24 Sep 2026 | 24 Sep 2026 |
+| ↳ | Intern- MSB Process Integration Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--MSB-Process-Integration-Engineer_JR109767>) | Jan to May 2027 | 26 Aug 2026 | 24 Sep 2026 |
+| ↳ | Intern, Photo Manufacturing Data Analytics and AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Photo-Manufacturing-Data-Analytics-and-AI_JR112194>) | Jan to May 2027 | 21 Sep 2026 | 24 Sep 2026 |
+| ↳ | Intern, Facilities AI Engineering | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170>) | Jan to Jun 2027 | 17 Sep 2026 | 24 Sep 2026 |
+| ↳ | Intern - STPG PE Firmware | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318>) | Jan to May 2027 | 08 Sep 2026 | 24 Sep 2026 |
+| ↳ | Intern - Probe Automation | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Probe-Automation_JR112385>) | - | 21 Sep 2026 | 24 Sep 2026 |
+| ↳ | Intern - PIE PI (Product Integration Engineering, Process Integration) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PIE-PI--Product-Integration-Engineering--Process-Integration-_JR112131>) | May to Aug 2027 | 18 Sep 2026 | 24 Sep 2026 |
+| ↳ | Intern - PEE CVD/PVD | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CVD-PVD_JR111619>) | - | 22 Sep 2026 | 24 Sep 2026 |
+| ↳ | Intern - NTI Process Integration - AI Track | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NTI-Process-Integration---AI-Track_JR96179>) | - | 09 Apr 2026 | 24 Sep 2026 |
+| ↳ | Intern - NAND Product Engineering - Probe AI/ML | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Product-Engineering---Probe-AI-ML_JR110821>) | Jan to May 2027 | 07 Sep 2026 | 24 Sep 2026 |
+| ↳ | Intern - NAND Device Engineering AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Device-Engineering-AI_JR112107>) | - | 15 Sep 2026 | 24 Sep 2026 |
+| ↳ | Intern - Facilities Sustainability AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586>) | January to May 2027 | 22 Sep 2026 | 24 Sep 2026 |
+| ↳ | Intern - F10 QEM Product Quality Engineering Yield Data Analytics | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-QEM-Product-Quality-Engineering-Yield-Data-Analaytics_JR109828>) | Jan to May 2027 | 03 Sep 2026 | 24 Sep 2026 |
+| ↳ | Intern - F10 Process Integration Analytics | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-Process-Integration-Analytics_JR111305>) | January 2027 to June 2027 | 18 Sep 2026 | 24 Sep 2026 |
+| ↳ | Intern - F10 CVD PEE | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-CVD-PEE_JR97726>) | - | 03 Aug 2026 | 24 Sep 2026 |
+| ↳ | Intern - Assembly Post Electrical | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Assembly-Post-Electrical_JR109872>) | - | 26 Aug 2026 | 24 Sep 2026 |
+| ↳ | Intern - ADTS ATI Process Integration Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---ADTS-ATI-Process-Integration-Engineer_JR103501>) | January 2027 to June 2027 | 31 Aug 2026 | 24 Sep 2026 |
+| ↳ | AI, Data &amp; Digital Solutions Internship (Singapore) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/AI--Data---Digital-Solutions-Internship--Singapore-_JR106776>) | Jan–Jun 2027 | 22 Jul 2026 | 24 Sep 2026 |
+| Apple | Information Security Internship Program (FY27 Summer Intake) | [Apply](<https://jobs.apple.com/en-us/details/200684585-3278/information-security-internship-program-fy27-summer-intake>) | - | 18 Sep 2026 | 24 Sep 2026 |
+| ↳ | 2027 Apple Internship - Information Systems and Technology | [Apply](<https://jobs.apple.com/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology>) | - | 06 Aug 2026 | 24 Sep 2026 |
+| Amazon | Software Developer Intern, Field Innovation, Security Search and Observability (SSO) | [Apply](<https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso>) | Jan 2027 - June 2027 | 16 Sep 2026 | 24 Sep 2026 |
+| ↳ | Program Manager Intern, APAC Data Center Delivery Operations | [Apply](<https://www.amazon.jobs/en/jobs/10529692/program-manager-intern-apac-data-center-delivery-operations>) | Jan to Jun 2027 | 04 Sep 2026 | 24 Sep 2026 |
+| AMD | Wafer Sort &amp; Final Test Hardware Development Engineer Intern | [Apply](<https://careers.amd.com/students/jobs/91461>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
+| ↳ | Next-Gen Server Test &amp; Qualification Intern | [Apply](<https://careers.amd.com/students/jobs/76898>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
+| ↳ | IC Design Exploration Intern | [Apply](<https://careers.amd.com/students/jobs/76892>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
+| ↳ | Diagnostic Design Engineering Intern | [Apply](<https://careers.amd.com/students/jobs/76894>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
+| ↳ | Advanced Packaging Optical Characterization Intern | [Apply](<https://careers.amd.com/students/jobs/92029>) | Jan 2027 Start | 03 Sep 2026 | 24 Sep 2026 |
+| ↳ | AI-Driven CPU/GPU Development &amp; Co-Optimization Intern | [Apply](<https://careers.amd.com/students/jobs/91459>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
+| ↳ | AI-Driven BOM Generation &amp; Management Intern | [Apply](<https://careers.amd.com/students/jobs/91458>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
 | GlobalFoundries | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604281>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
 | ↳ | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604277-1>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
 | ↳ | Machine Learning &amp; Generative AI Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Machine-Learning---Generative-AI-Intern--Jan-Jun-2027-_JR-2604518>) | Jan-Jun 2027 | 02 Sep 2026 | 24 Sep 2026 |
@@ -535,7 +535,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 9 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | Complete | 11 |
+| workday:ocbc | ⚠️ Incomplete — previous listings retained | 10 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 12 |
 | workday:globalfoundries | Complete | 11 |
@@ -544,7 +544,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | Complete | 2 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

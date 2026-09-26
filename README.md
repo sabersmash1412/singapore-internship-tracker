@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **443 current or undated listings · 15 older advertised periods · 31 employers with roles**
 
-Last collection: **26 Sep 2026, 17:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Sep 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -69,16 +69,16 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Intern, AI Research | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000150014319>) | - | 17 Sep 2026 | 24 Sep 2026 |
 | Airwallex | 🆕 Software Engineer Intern (Summer 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795>) | Summer 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | 🆕 Software Engineer Intern (Jan to Jun 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441>) | Jan to Jun 2027 | 14 Aug 2026 | 24 Sep 2026 |
-| ShopBack | 🆕 Product Builder Intern (Product Engineering) | [Apply](<https://jobs.lever.co/shopback-2/5e5c78b0-1b9a-4c09-843d-49ea41e991fe>) | - | - | 24 Sep 2026 |
-| Micron | 🆕 Intern- Test Solutions Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Test-Solutions-Engineer_JR106290>) | - | 28 Aug 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern- Test Solutions Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Test-Solutions-Engineer_JR106289>) | - | 18 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern - Test Solutions Engineering | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Test-Solutions-Engineering_JR109954>) | - | 01 Sep 2026 | 24 Sep 2026 |
-| ↳ | 🆕 Intern - Product Engineering, NAND Validation/Characterization | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Product-Engineering--NAND-Validation-Characterization_JR111131>) | Jan to May 2027 | 22 Sep 2026 | 24 Sep 2026 |
-| TikTok | 🆕 Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start | [Apply](<https://lifeattiktok.com/search/7669738564847110453>) | 2027 Start | - | 24 Sep 2026 |
-| Shopee | 🆕 Regional Large Language Model (LLM) Agent &amp; Prompt Engineering Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02042064/1>) | Spring 2027 | - | 24 Sep 2026 |
-| ↳ | 🆕 Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02185576/1>) | Spring 2027 | - | 24 Sep 2026 |
-| ↳ | 🆕 Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00003615/1>) | Spring 2027 | - | 24 Sep 2026 |
-| Micron | 🆕 Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111158>) | - | 22 Sep 2026 | 24 Sep 2026 |
+| ShopBack | Product Builder Intern (Product Engineering) | [Apply](<https://jobs.lever.co/shopback-2/5e5c78b0-1b9a-4c09-843d-49ea41e991fe>) | - | - | 24 Sep 2026 |
+| Micron | Intern- Test Solutions Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Test-Solutions-Engineer_JR106290>) | - | 28 Aug 2026 | 24 Sep 2026 |
+| ↳ | Intern- Test Solutions Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Test-Solutions-Engineer_JR106289>) | - | 18 Sep 2026 | 24 Sep 2026 |
+| ↳ | Intern - Test Solutions Engineering | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Test-Solutions-Engineering_JR109954>) | - | 01 Sep 2026 | 24 Sep 2026 |
+| ↳ | Intern - Product Engineering, NAND Validation/Characterization | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Product-Engineering--NAND-Validation-Characterization_JR111131>) | Jan to May 2027 | 22 Sep 2026 | 24 Sep 2026 |
+| TikTok | Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start | [Apply](<https://lifeattiktok.com/search/7669738564847110453>) | 2027 Start | - | 24 Sep 2026 |
+| Shopee | Regional Large Language Model (LLM) Agent &amp; Prompt Engineering Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02042064/1>) | Spring 2027 | - | 24 Sep 2026 |
+| ↳ | Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02185576/1>) | Spring 2027 | - | 24 Sep 2026 |
+| ↳ | Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00003615/1>) | Spring 2027 | - | 24 Sep 2026 |
+| Micron | Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111158>) | - | 22 Sep 2026 | 24 Sep 2026 |
 | ↳ | Intern - MSB Automation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---MSB-Automation-Engineer_JR112720>) | - | 24 Sep 2026 | 24 Sep 2026 |
 | ↳ | Intern- MSB Process Integration Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--MSB-Process-Integration-Engineer_JR109767>) | Jan to May 2027 | 26 Aug 2026 | 24 Sep 2026 |
 | ↳ | Intern, Photo Manufacturing Data Analytics and AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Photo-Manufacturing-Data-Analytics-and-AI_JR112194>) | Jan to May 2027 | 21 Sep 2026 | 24 Sep 2026 |
@@ -475,7 +475,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| Shopee | 🆕 Business Intelligence (BI) Intern – Cross Border E-commerce (Summer 2026) | [Apply](<https://careers.shopee.sg/job-detail/J00356170/1>) | Summer 2026 | - | 24 Sep 2026 |
+| Shopee | Business Intelligence (BI) Intern – Cross Border E-commerce (Summer 2026) | [Apply](<https://careers.shopee.sg/job-detail/J00356170/1>) | Summer 2026 | - | 24 Sep 2026 |
 | ↳ | Algorithm Engineer Intern, Search Guide (May - Dec 2025) | [Apply](<https://careers.shopee.sg/job-detail/J00379432/1>) | May - Dec 2025 | - | 24 Sep 2026 |
 | OCBC | Internship: Group Operations &amp; Technology, Group Technology Services – Data Centre &amp; Disaster Recovery \[January - May 2026\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Operations---Technology--Group-Technology-Services---Data-Centre---Disaster-Recovery--January---May-2026-_JR00011135>) | January - May 2026 | 18 Sep 2026 | 24 Sep 2026 |
 | ↳ | Internship: Group Operations &amp; Technology, Group Engineering – Enterprise Data Management \[January - May 2026\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Operations---Technology--Group-Engineering---Enterprise-Data-Management--January---May-2026-_JR00011133>) | January - May 2026 | 18 Sep 2026 | 24 Sep 2026 |
@@ -535,7 +535,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 9 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | ⚠️ Incomplete — previous listings retained | 10 |
+| workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 12 |
 | workday:globalfoundries | Complete | 11 |
@@ -544,7 +544,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -580,7 +580,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | Complete | 4 |
+| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 4 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |

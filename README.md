@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**501 current or undated listings · 15 older advertised periods · 47 employers with roles**
+**500 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **29 Sep 2026, 00:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **29 Sep 2026, 00:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -96,7 +96,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Intern, Finance Process Automation | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/SLA-REVENUE-HOUSE-LEVEL-11/intern_JR-10000036273>) | Oct 2026 to Feb 2027 / Jan 2027 to June 2027 | 11 Sep 2026 | 24 Sep 2026 |
 | Portcast | Data Analyst Intern | [Apply](<https://jobs.lever.co/portcast/f18cc64e-c34a-416c-b213-62a39906260e>) | - | - | 24 Sep 2026 |
 | Palantir Technologies | Software Engineer, Internship | [Apply](<https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1>) | - | - | 24 Sep 2026 |
-| NLB National Library Board | Video Analytics Intern, Properties &amp; Facilities Management | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/NLB-National-Library-Building/Video-Analytics-Intern--Properties---Facilities-Management_JR-10000055560>) | - | 15 Sep 2026 | 24 Sep 2026 |
 | NCS | \[Uni – Jan till Jun 2027\] Agentic AI Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001275993>) | Jan till Jun 2027 | 31 Jul 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] Software Engineering Intern (Low Code) | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287390>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] Software Engineering Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287270>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
@@ -556,6 +555,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| NLB National Library Board | Video Analytics Intern, Properties &amp; Facilities Management | 29 Sep 2026 | - |
 | Sea | Research Intern - AI for Science | 28 Sep 2026 | - |
 | GlobalFoundries | Testchip Design &amp; Implementation Intern (Jan-Jun 2027) | 25 Sep 2026 | - |
 | NCS | \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | 25 Sep 2026 | - |
@@ -637,7 +637,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:portcast | Complete | 1 |
 | smartrecruiters:RenesasElectronics | Complete | 0 |
 | greenhouse:rubrik | Complete | 0 |
-| smartrecruiters:ServiceNow | Complete | 0 |
+| smartrecruiters:ServiceNow | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:simplifynext | Complete | 0 |
 | workday:sggovterp | Complete | 3 |
 | greenhouse:stripe | Complete | 2 |
@@ -734,7 +734,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
-| successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
+| successfactors:stengg | Complete | 0 |
 | successfactors:temasek | Complete | 14 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.

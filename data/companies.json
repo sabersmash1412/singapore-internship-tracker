@@ -407,5 +407,571 @@
     "platform": "smartrecruiters",
     "slug": "Wise",
     "careers_url": "https://careers.smartrecruiters.com/Wise"
+  },
+  {
+    "name": "Accor",
+    "platform": "smartrecruiters",
+    "slug": "AccorHotel",
+    "careers_url": "https://careers.smartrecruiters.com/AccorHotel"
+  },
+  {
+    "name": "AIA",
+    "platform": "workday",
+    "slug": "aia",
+    "careers_url": "https://aia.wd3.myworkdayjobs.com/External",
+    "api_base": "https://aia.wd3.myworkdayjobs.com/wday/cxs/aia/External",
+    "country_facet": "locationCountry"
+  },
+  {
+    "name": "Airalo",
+    "platform": "lever",
+    "slug": "airalo",
+    "careers_url": "https://jobs.lever.co/airalo"
+  },
+  {
+    "name": "Airbnb",
+    "platform": "greenhouse",
+    "slug": "airbnb",
+    "careers_url": "https://job-boards.greenhouse.io/airbnb"
+  },
+  {
+    "name": "Analog Devices",
+    "platform": "workday",
+    "slug": "analogdevices",
+    "careers_url": "https://analogdevices.wd1.myworkdayjobs.com/External",
+    "api_base": "https://analogdevices.wd1.myworkdayjobs.com/wday/cxs/analogdevices/External",
+    "country_facet": "locationCountry"
+  },
+  {
+    "name": "Anthropic",
+    "platform": "greenhouse",
+    "slug": "anthropic",
+    "careers_url": "https://job-boards.greenhouse.io/anthropic"
+  },
+  {
+    "name": "Autodesk",
+    "platform": "workday",
+    "slug": "autodesk",
+    "careers_url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+    "api_base": "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext",
+    "country_facet": "locationCountry"
+  },
+  {
+    "name": "BlackRock",
+    "platform": "workday",
+    "slug": "blackrock",
+    "careers_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional",
+    "api_base": "https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professional",
+    "location_facet": "locations"
+  },
+  {
+    "name": "Braze",
+    "platform": "greenhouse",
+    "slug": "braze",
+    "careers_url": "https://job-boards.greenhouse.io/braze"
+  },
+  {
+    "name": "Broadcom",
+    "platform": "workday",
+    "slug": "broadcom",
+    "careers_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career",
+    "api_base": "https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career",
+    "location_facet": "locations"
+  },
+  {
+    "name": "Carrier",
+    "platform": "workday",
+    "slug": "carrier",
+    "careers_url": "https://carrier.wd5.myworkdayjobs.com/jobs",
+    "api_base": "https://carrier.wd5.myworkdayjobs.com/wday/cxs/carrier/jobs",
+    "country_facet": "location_Country"
+  },
+  {
+    "name": "Chalk",
+    "platform": "ashby",
+    "slug": "chalk",
+    "careers_url": "https://jobs.ashbyhq.com/chalk"
+  },
+  {
+    "name": "Citi",
+    "platform": "workday",
+    "slug": "citi",
+    "careers_url": "https://citi.wd5.myworkdayjobs.com/2",
+    "api_base": "https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2",
+    "country_facet": "Country_and_Jurisdiction"
+  },
+  {
+    "name": "Clifford Chance",
+    "platform": "smartrecruiters",
+    "slug": "CliffordChance",
+    "careers_url": "https://careers.smartrecruiters.com/CliffordChance"
+  },
+  {
+    "name": "Cockroach Labs",
+    "platform": "greenhouse",
+    "slug": "cockroachlabs",
+    "careers_url": "https://job-boards.greenhouse.io/cockroachlabs"
+  },
+  {
+    "name": "Coins.ph",
+    "platform": "lever",
+    "slug": "coins",
+    "careers_url": "https://jobs.lever.co/coins"
+  },
+  {
+    "name": "CoverGo",
+    "platform": "workable",
+    "slug": "covergo",
+    "careers_url": "https://apply.workable.com/covergo/"
+  },
+  {
+    "name": "Cursor",
+    "platform": "ashby",
+    "slug": "cursor",
+    "careers_url": "https://jobs.ashbyhq.com/cursor"
+  },
+  {
+    "name": "Deepgram",
+    "platform": "ashby",
+    "slug": "deepgram",
+    "careers_url": "https://jobs.ashbyhq.com/deepgram"
+  },
+  {
+    "name": "Delivery Hero",
+    "platform": "smartrecruiters",
+    "slug": "DeliveryHero",
+    "careers_url": "https://careers.smartrecruiters.com/DeliveryHero"
+  },
+  {
+    "name": "Disney",
+    "platform": "workday",
+    "slug": "disney",
+    "careers_url": "https://disney.wd5.myworkdayjobs.com/disneycareer",
+    "api_base": "https://disney.wd5.myworkdayjobs.com/wday/cxs/disney/disneycareer",
+    "location_facet": "locations"
+  },
+  {
+    "name": "Dyson",
+    "platform": "workday",
+    "slug": "dyson",
+    "careers_url": "https://dyson.wd3.myworkdayjobs.com/dyson_careers",
+    "api_base": "https://dyson.wd3.myworkdayjobs.com/wday/cxs/dyson/dyson_careers",
+    "location_facet": "locations"
+  },
+  {
+    "name": "Egis Group",
+    "platform": "smartrecruiters",
+    "slug": "EgisGroup",
+    "careers_url": "https://careers.smartrecruiters.com/EgisGroup"
+  },
+  {
+    "name": "EPOS",
+    "platform": "workable",
+    "slug": "epos",
+    "careers_url": "https://apply.workable.com/epos/"
+  },
+  {
+    "name": "Eurofins",
+    "platform": "smartrecruiters",
+    "slug": "Eurofins",
+    "careers_url": "https://careers.smartrecruiters.com/Eurofins"
+  },
+  {
+    "name": "Expeditors",
+    "platform": "smartrecruiters",
+    "slug": "Expeditors",
+    "careers_url": "https://careers.smartrecruiters.com/Expeditors"
+  },
+  {
+    "name": "Experian",
+    "platform": "smartrecruiters",
+    "slug": "Experian",
+    "careers_url": "https://careers.smartrecruiters.com/Experian"
+  },
+  {
+    "name": "Fastmarkets",
+    "platform": "smartrecruiters",
+    "slug": "Fastmarkets",
+    "careers_url": "https://careers.smartrecruiters.com/Fastmarkets"
+  },
+  {
+    "name": "First Circle",
+    "platform": "workable",
+    "slug": "first-circle",
+    "careers_url": "https://apply.workable.com/first-circle/"
+  },
+  {
+    "name": "Flexport",
+    "platform": "greenhouse",
+    "slug": "flexport",
+    "careers_url": "https://job-boards.greenhouse.io/flexport"
+  },
+  {
+    "name": "Forter",
+    "platform": "greenhouse",
+    "slug": "forter",
+    "careers_url": "https://job-boards.greenhouse.io/forter"
+  },
+  {
+    "name": "Freshworks",
+    "platform": "smartrecruiters",
+    "slug": "Freshworks",
+    "careers_url": "https://careers.smartrecruiters.com/Freshworks"
+  },
+  {
+    "name": "Funding Societies | Modalku Group",
+    "platform": "workable",
+    "slug": "fundingsocieties",
+    "careers_url": "https://apply.workable.com/fundingsocieties/"
+  },
+  {
+    "name": "GitLab",
+    "platform": "greenhouse",
+    "slug": "gitlab",
+    "careers_url": "https://job-boards.greenhouse.io/gitlab"
+  },
+  {
+    "name": "Grafana Labs",
+    "platform": "greenhouse",
+    "slug": "grafanalabs",
+    "careers_url": "https://job-boards.greenhouse.io/grafanalabs"
+  },
+  {
+    "name": "Harvey",
+    "platform": "ashby",
+    "slug": "harvey",
+    "careers_url": "https://jobs.ashbyhq.com/harvey"
+  },
+  {
+    "name": "Hitachi",
+    "platform": "workday",
+    "slug": "hitachi",
+    "careers_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi",
+    "api_base": "https://hitachi.wd1.myworkdayjobs.com/wday/cxs/hitachi/hitachi",
+    "country_facet": "locationCountry"
+  },
+  {
+    "name": "HP",
+    "platform": "workday",
+    "slug": "hp",
+    "careers_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite",
+    "api_base": "https://hp.wd5.myworkdayjobs.com/wday/cxs/hp/ExternalCareerSite",
+    "country_facet": "Location_Country"
+  },
+  {
+    "name": "Igloo",
+    "platform": "workable",
+    "slug": "iglooinsure",
+    "careers_url": "https://apply.workable.com/iglooinsure/"
+  },
+  {
+    "name": "Illumina",
+    "platform": "workday",
+    "slug": "illumina",
+    "careers_url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers",
+    "api_base": "https://illumina.wd1.myworkdayjobs.com/wday/cxs/illumina/illumina-careers",
+    "country_facet": "locationCountry"
+  },
+  {
+    "name": "Intuitive",
+    "platform": "smartrecruiters",
+    "slug": "Intuitive",
+    "careers_url": "https://careers.smartrecruiters.com/Intuitive"
+  },
+  {
+    "name": "JLL",
+    "platform": "workday",
+    "slug": "jll",
+    "careers_url": "https://jll.wd1.myworkdayjobs.com/jllcareers",
+    "api_base": "https://jll.wd1.myworkdayjobs.com/wday/cxs/jll/jllcareers",
+    "country_facet": "locationCountry"
+  },
+  {
+    "name": "Johnson Controls",
+    "platform": "workday",
+    "slug": "jci",
+    "careers_url": "https://jci.wd5.myworkdayjobs.com/JCI",
+    "api_base": "https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/JCI",
+    "location_facet": "locations"
+  },
+  {
+    "name": "KLA",
+    "platform": "workday",
+    "slug": "kla",
+    "careers_url": "https://kla.wd1.myworkdayjobs.com/Search",
+    "api_base": "https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/Search",
+    "country_facet": "Country"
+  },
+  {
+    "name": "LangChain",
+    "platform": "ashby",
+    "slug": "langchain",
+    "careers_url": "https://jobs.ashbyhq.com/langchain"
+  },
+  {
+    "name": "LaunchDarkly",
+    "platform": "greenhouse",
+    "slug": "launchdarkly",
+    "careers_url": "https://job-boards.greenhouse.io/launchdarkly"
+  },
+  {
+    "name": "Logitech",
+    "platform": "workday",
+    "slug": "logitech",
+    "careers_url": "https://logitech.wd5.myworkdayjobs.com/Logitech",
+    "api_base": "https://logitech.wd5.myworkdayjobs.com/wday/cxs/logitech/Logitech",
+    "country_facet": "locationCountry"
+  },
+  {
+    "name": "Louis Dreyfus Company",
+    "platform": "smartrecruiters",
+    "slug": "LouisDreyfusCompany",
+    "careers_url": "https://careers.smartrecruiters.com/LouisDreyfusCompany"
+  },
+  {
+    "name": "Manulife",
+    "platform": "workday",
+    "slug": "manulife",
+    "careers_url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs",
+    "api_base": "https://manulife.wd3.myworkdayjobs.com/wday/cxs/manulife/MFCJH_Jobs",
+    "country_facet": "Location_Country"
+  },
+  {
+    "name": "Marvell",
+    "platform": "workday",
+    "slug": "marvell",
+    "careers_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers",
+    "api_base": "https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers",
+    "country_facet": "Country"
+  },
+  {
+    "name": "Mastercard",
+    "platform": "workday",
+    "slug": "mastercard",
+    "careers_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers",
+    "api_base": "https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers",
+    "country_facet": "locations"
+  },
+  {
+    "name": "Match Group",
+    "platform": "lever",
+    "slug": "matchgroup",
+    "careers_url": "https://jobs.lever.co/matchgroup"
+  },
+  {
+    "name": "Mixpanel",
+    "platform": "greenhouse",
+    "slug": "mixpanel",
+    "careers_url": "https://job-boards.greenhouse.io/mixpanel"
+  },
+  {
+    "name": "Moloco",
+    "platform": "greenhouse",
+    "slug": "moloco",
+    "careers_url": "https://job-boards.greenhouse.io/moloco"
+  },
+  {
+    "name": "MUFG Investor Services",
+    "platform": "smartrecruiters",
+    "slug": "MUFGInvestorServices",
+    "careers_url": "https://careers.smartrecruiters.com/MUFGInvestorServices"
+  },
+  {
+    "name": "New Relic",
+    "platform": "greenhouse",
+    "slug": "newrelic",
+    "careers_url": "https://job-boards.greenhouse.io/newrelic"
+  },
+  {
+    "name": "NielsenIQ",
+    "platform": "smartrecruiters",
+    "slug": "NielsenIQ",
+    "careers_url": "https://careers.smartrecruiters.com/NielsenIQ"
+  },
+  {
+    "name": "PayPal",
+    "platform": "workday",
+    "slug": "paypal",
+    "careers_url": "https://paypal.wd1.myworkdayjobs.com/jobs",
+    "api_base": "https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs",
+    "location_facet": "locations"
+  },
+  {
+    "name": "Ping Identity",
+    "platform": "greenhouse",
+    "slug": "pingidentity",
+    "careers_url": "https://job-boards.greenhouse.io/pingidentity"
+  },
+  {
+    "name": "Pinterest",
+    "platform": "greenhouse",
+    "slug": "pinterest",
+    "careers_url": "https://job-boards.greenhouse.io/pinterest"
+  },
+  {
+    "name": "Porsche Asia Pacific",
+    "platform": "workable",
+    "slug": "porsche-asia-pacific",
+    "careers_url": "https://apply.workable.com/porsche-asia-pacific/"
+  },
+  {
+    "name": "QCP",
+    "platform": "workable",
+    "slug": "qcp-group",
+    "careers_url": "https://apply.workable.com/qcp-group/"
+  },
+  {
+    "name": "Qualtrics",
+    "platform": "greenhouse",
+    "slug": "qualtrics",
+    "careers_url": "https://job-boards.greenhouse.io/qualtrics"
+  },
+  {
+    "name": "Razer",
+    "platform": "workday",
+    "slug": "razer",
+    "careers_url": "https://razer.wd3.myworkdayjobs.com/Careers",
+    "api_base": "https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers",
+    "country_facet": "locationCountry"
+  },
+  {
+    "name": "RELEX Solutions",
+    "platform": "greenhouse",
+    "slug": "relex",
+    "careers_url": "https://job-boards.greenhouse.io/relex"
+  },
+  {
+    "name": "Replit",
+    "platform": "ashby",
+    "slug": "replit",
+    "careers_url": "https://jobs.ashbyhq.com/replit"
+  },
+  {
+    "name": "Ripple",
+    "platform": "greenhouse",
+    "slug": "ripple",
+    "careers_url": "https://job-boards.greenhouse.io/ripple"
+  },
+  {
+    "name": "Roche",
+    "platform": "workday",
+    "slug": "roche",
+    "careers_url": "https://roche.wd3.myworkdayjobs.com/roche-ext",
+    "api_base": "https://roche.wd3.myworkdayjobs.com/wday/cxs/roche/roche-ext",
+    "country_facet": "locations"
+  },
+  {
+    "name": "S&P Global",
+    "platform": "workday",
+    "slug": "spgi",
+    "careers_url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers",
+    "api_base": "https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/SPGI_Careers",
+    "country_facet": "Location_Country"
+  },
+  {
+    "name": "Salesforce",
+    "platform": "workday",
+    "slug": "salesforce",
+    "careers_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
+    "api_base": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site",
+    "country_facet": "CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended"
+  },
+  {
+    "name": "Samsung",
+    "platform": "workday",
+    "slug": "sec",
+    "careers_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers",
+    "api_base": "https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers",
+    "country_facet": "Location_Country"
+  },
+  {
+    "name": "Sanofi",
+    "platform": "workday",
+    "slug": "sanofi",
+    "careers_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers",
+    "api_base": "https://sanofi.wd3.myworkdayjobs.com/wday/cxs/sanofi/SanofiCareers",
+    "country_facet": "locationCountry"
+  },
+  {
+    "name": "SentinelOne",
+    "platform": "greenhouse",
+    "slug": "sentinellabs",
+    "careers_url": "https://job-boards.greenhouse.io/sentinellabs"
+  },
+  {
+    "name": "SGS",
+    "platform": "smartrecruiters",
+    "slug": "SGS",
+    "careers_url": "https://careers.smartrecruiters.com/SGS"
+  },
+  {
+    "name": "Shield AI",
+    "platform": "lever",
+    "slug": "shieldai",
+    "careers_url": "https://jobs.lever.co/shieldai"
+  },
+  {
+    "name": "Smartly",
+    "platform": "greenhouse",
+    "slug": "smartlyio",
+    "careers_url": "https://job-boards.greenhouse.io/smartlyio"
+  },
+  {
+    "name": "Sony",
+    "platform": "workday",
+    "slug": "sonyglobal",
+    "careers_url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers",
+    "api_base": "https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers",
+    "country_facet": "locationCountry"
+  },
+  {
+    "name": "Thales",
+    "platform": "workday",
+    "slug": "thales",
+    "careers_url": "https://thales.wd3.myworkdayjobs.com/Careers",
+    "api_base": "https://thales.wd3.myworkdayjobs.com/wday/cxs/thales/Careers",
+    "country_facet": "locationCountry"
+  },
+  {
+    "name": "The Trade Desk",
+    "platform": "greenhouse",
+    "slug": "thetradedesk",
+    "careers_url": "https://job-boards.greenhouse.io/thetradedesk"
+  },
+  {
+    "name": "The Wonderful Company",
+    "platform": "smartrecruiters",
+    "slug": "TheWonderfulCompany",
+    "careers_url": "https://careers.smartrecruiters.com/TheWonderfulCompany"
+  },
+  {
+    "name": "Twilio",
+    "platform": "greenhouse",
+    "slug": "twilio",
+    "careers_url": "https://job-boards.greenhouse.io/twilio"
+  },
+  {
+    "name": "Workato",
+    "platform": "greenhouse",
+    "slug": "workato",
+    "careers_url": "https://job-boards.greenhouse.io/workato"
+  },
+  {
+    "name": "Xendit",
+    "platform": "greenhouse",
+    "slug": "xendit",
+    "careers_url": "https://job-boards.greenhouse.io/xendit"
+  },
+  {
+    "name": "YouTrip",
+    "platform": "workable",
+    "slug": "youtrip",
+    "careers_url": "https://apply.workable.com/youtrip/"
+  },
+  {
+    "name": "Zscaler",
+    "platform": "greenhouse",
+    "slug": "zscaler",
+    "careers_url": "https://job-boards.greenhouse.io/zscaler"
   }
 ]

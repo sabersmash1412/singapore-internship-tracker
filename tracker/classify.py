@@ -34,6 +34,10 @@ def category(title):
     if re.search(r"\b(?:project management|business\s*(?:&|and)\s*strategy)\b", title, re.I):
         title = re.sub(r"[（(].*?[）)]", "", title)
     title = re.sub(r"\b(?:AWS\s+)?Cloud Logistics\b", "", title, flags=re.I)
+    # Corporate protection and pharmaceutical compliance are not IT systems.
+    if re.search(r'\b(?:global security operations|quality system(?:s)? management)\b', title, re.I):
+        if not re.search(r'\b(?:cyber\w*|information security|software|IT)\b', title, re.I):
+            return None
     if re.search(r"\b(?:physical security|DC Security Specialist)\b", title, re.I):
         return None
     if re.search(r"\bbusiness intelligence\s*(?:\(BI\)\s*)?intern(?:ship)?\b", title, re.I):

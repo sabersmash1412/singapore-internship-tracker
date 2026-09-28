@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**442 current or undated listings · 15 older advertised periods · 31 employers with roles**
+**486 current or undated listings · 15 older advertised periods · 45 employers with roles**
 
-Last collection: **28 Sep 2026, 14:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **28 Sep 2026, 14:35 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -22,6 +22,50 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| YouTrip | 🆕 Data Analytics Intern | [Apply](<https://apply.workable.com/j/34787A0AE7>) | - | 02 Sep 2026 | 28 Sep 2026 |
+| Workato | 🆕 Intern, Data Engineering | [Apply](<https://www.workato.com/careers?gh_jid=8731177002#open-roles>) | - | 02 Sep 2026 | 28 Sep 2026 |
+| Thales | 🆕 Software Engineer Intern - Middleware (IBS) | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782>) | - | 02 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Software Engineer Intern (C#) | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/Software-Engineer-Intern--C--_R0324316>) | - | 30 Jul 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Software Engineer Intern | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_R0339658>) | - | 09 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Software Development and Integration Engineer (Intern) | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339158>) | - | 04 Sep 2026 | 28 Sep 2026 |
+| Razer | 🆕 Software Engineer Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_JR2026007809>) | - | 11 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Product Developer Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Developer-Intern_JR2026007822>) | - | 11 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Large Language Model Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Large-Language-Model-Intern_JR2026007862>) | - | 11 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Generative AI Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Generative-AI-Intern_JR2026007735>) | - | 17 Aug 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Computer Vision Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Computer-Vision-Intern_JR2026007731>) | - | 17 Aug 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Applied AI Intern (Voice) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784>) | - | 28 Aug 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Applied AI Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern_JR2026007785>) | - | 28 Aug 2026 | 28 Sep 2026 |
+| ↳ | 🆕 AI Engineer Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/AI-Engineer-Intern_JR2026006947>) | - | 11 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 AI Data Engineer Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/AI-Data-Engineer-Intern_JR2026007475-1>) | - | 15 Sep 2026 | 28 Sep 2026 |
+| QCP | 🆕 Intern, Trading - ALM (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/4599D0F542>) | Jan - Jun 2027 | 26 Aug 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Intern, Quantitative Developer - Trading (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/ABEB48A3E4>) | Jan - Jun 2027 | 24 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Intern, IT Governance &amp; Security (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/1030A7B64B>) | Jan - Jun 2027 | 18 Aug 2026 | 28 Sep 2026 |
+| Porsche Asia Pacific | 🆕 Intern Marketing Analytics &amp; Digital Enablement | [Apply](<https://apply.workable.com/j/1AD8810B73>) | - | 22 Sep 2026 | 28 Sep 2026 |
+| Marvell | 🆕 Silicon Photonics Intern - Ph.D | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Silicon-Photonics-Intern---PhD_2502472>) | - | 07 Jul 2026 | 28 Sep 2026 |
+| Johnson Controls | 🆕 Intern, Data Analytics | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analytics_WD30266779>) | - | 28 Apr 2026 | 28 Sep 2026 |
+| Hitachi | 🆕 UXUI / AI Transformation Intern | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/UXUI---AI-Transformation-Intern_R1010137-1>) | - | 07 Jul 2026 | 28 Sep 2026 |
+| HP | 🆕 College Intern – System Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---System-Engineer_UNI4549-1>) | January 2027 Start | 26 Aug 2026 | 28 Sep 2026 |
+| ↳ | 🆕 College Intern - Product Engineering (System Interaction) | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Product-Engineering--System-Interaction-_UNI4552-1>) | January 2027 Start | 26 Aug 2026 | 28 Sep 2026 |
+| ↳ | 🆕 College Intern - Pen Health &amp; Servicing Algorithm Development Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Machine-Learning-and-Artificial-Intelligence_UNI4651-1>) | January 2027 Start | 27 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 College Intern - New Product Introduction Engineering (NPI IT Control Systems) | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---New-Product-Introduction-Engineering--NPI-IT-Control-Systems-_UNI4546-1>) | - | 26 Aug 2026 | 28 Sep 2026 |
+| ↳ | 🆕 College Intern - NPI System Interaction Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---NPI-System-Interaction-Engineer_UNI4911>) | - | 30 Aug 2026 | 28 Sep 2026 |
+| ↳ | 🆕 College Intern - Manufacturing AI Solutions | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Manufacturing-AI-Solutions_UNI4551-1>) | - | 26 Aug 2026 | 28 Sep 2026 |
+| ↳ | 🆕 College Intern - Electrical/Electronics | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Science_UNI4035-1>) | January 2027 Start | 11 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 College Intern - NPI System Interaction Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern----NPI-System-Interaction-Engineer_UNI4548-1>) | January 2027 Start | 26 Aug 2026 | 28 Sep 2026 |
+| Funding Societies &#124; Modalku Group | 🆕 People Analytics &amp; Reporting Intern | [Apply](<https://apply.workable.com/j/E437A5580D>) | - | 27 Aug 2026 | 28 Sep 2026 |
+| EPOS | 🆕 Sales Operations &amp; Automation Intern | [Apply](<https://apply.workable.com/j/61DE89D60B>) | - | 27 Aug 2026 | 28 Sep 2026 |
+| ↳ | 🆕 AI Product Manager Intern | [Apply](<https://apply.workable.com/j/FB1EE7D84F>) | - | 26 Mar 2026 | 28 Sep 2026 |
+| Disney | 🆕 Intern, APAC Data Analytics (Subscriber Analytics), Disney+ - Jan to Jun 2027 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Singapore-Singapore/Intern--APAC-Data-Analytics--Subscriber-Analytics---Disney----Jan-to-Jun-2027_10161268>) | Jan to Jun 2027 | 24 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Intern, APAC Data Analytics (Marketing Analytics), Disney+ - Jan to Jun 2027 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Singapore-Singapore/Intern--APAC-Data-Analytics--Marketing-Analytics---Disney----Jan-to-Jun-2027_10161183>) | Jan to Jun 2027 | 22 Sep 2026 | 28 Sep 2026 |
+| Autodesk | 🆕 Intern, Software Development Engineer \[PSET-Localization\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100998-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Intern, Software Development Engineer \[PSET-Localization\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997-2>) | October - November 2026 | 25 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Intern, Software Development Engineer \[PSET-Connected Delivery\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100989-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100988-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100986-2>) | October - November 2026 | 25 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985-2>) | October - November 2026 | 25 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Intern, Software Development Engineer \[PSET - Product Data - Document Management\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET---Product-Data----Document-Management-_26WD100984>) | - | 25 Sep 2026 | 28 Sep 2026 |
 | TikTok | Business Data Analyst Project Intern (GBS) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7689364323701901573>) | 2026 Start | - | 26 Sep 2026 |
 | OCBC | Internship: Global Markets, Business Management Unit/System Solution Analytics \[Jan - Jun 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Markets--Business-Management-Unit-System-Solution-Analytics--Jan---Jun-2027-_JR00011364>) | Jan - Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
 | ↳ | Internship: Global Markets, Management Information Systems \[Jan - Jun 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/SGP-Head-Office/Internship--Global-Markets--Management-Information-Systems--Jan---Jun-2027-_JR00011357>) | Jan - Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
@@ -544,7 +588,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -589,6 +633,91 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
+| smartrecruiters:AccorHotel | Complete | 0 |
+| workday:aia | Complete | 0 |
+| lever:airalo | Complete | 0 |
+| greenhouse:airbnb | Complete | 0 |
+| workday:analogdevices | Complete | 0 |
+| greenhouse:anthropic | Complete | 0 |
+| workday:autodesk | Complete | 9 |
+| workday:blackrock | Complete | 0 |
+| greenhouse:braze | Complete | 0 |
+| workday:broadcom | Complete | 0 |
+| workday:carrier | Complete | 0 |
+| ashby:chalk | Complete | 0 |
+| workday:citi | Complete | 0 |
+| smartrecruiters:CliffordChance | Complete | 0 |
+| greenhouse:cockroachlabs | Complete | 0 |
+| lever:coins | Complete | 0 |
+| workable:covergo | Complete | 0 |
+| ashby:cursor | Complete | 0 |
+| ashby:deepgram | Complete | 0 |
+| smartrecruiters:DeliveryHero | Complete | 0 |
+| workday:disney | Complete | 2 |
+| workday:dyson | Complete | 0 |
+| smartrecruiters:EgisGroup | Complete | 0 |
+| workable:epos | Complete | 2 |
+| smartrecruiters:Eurofins | Complete | 0 |
+| smartrecruiters:Expeditors | Complete | 0 |
+| smartrecruiters:Experian | Complete | 0 |
+| smartrecruiters:Fastmarkets | Complete | 0 |
+| workable:first-circle | Complete | 0 |
+| greenhouse:flexport | Complete | 0 |
+| greenhouse:forter | Complete | 0 |
+| smartrecruiters:Freshworks | Complete | 0 |
+| workable:fundingsocieties | Complete | 1 |
+| greenhouse:gitlab | Complete | 0 |
+| greenhouse:grafanalabs | Complete | 0 |
+| ashby:harvey | Complete | 0 |
+| workday:hitachi | Complete | 1 |
+| workday:hp | Complete | 8 |
+| workable:iglooinsure | Complete | 0 |
+| workday:illumina | Complete | 0 |
+| smartrecruiters:Intuitive | Complete | 0 |
+| workday:jll | Complete | 0 |
+| workday:jci | Complete | 1 |
+| workday:kla | Complete | 0 |
+| ashby:langchain | Complete | 0 |
+| greenhouse:launchdarkly | Complete | 0 |
+| workday:logitech | Complete | 0 |
+| smartrecruiters:LouisDreyfusCompany | Complete | 0 |
+| workday:manulife | Complete | 0 |
+| workday:marvell | Complete | 1 |
+| workday:mastercard | Complete | 0 |
+| lever:matchgroup | Complete | 0 |
+| greenhouse:mixpanel | Complete | 0 |
+| greenhouse:moloco | Complete | 0 |
+| smartrecruiters:MUFGInvestorServices | Complete | 0 |
+| greenhouse:newrelic | Complete | 0 |
+| smartrecruiters:NielsenIQ | Complete | 0 |
+| workday:paypal | Complete | 0 |
+| greenhouse:pingidentity | Complete | 0 |
+| greenhouse:pinterest | Complete | 0 |
+| workable:porsche-asia-pacific | Complete | 1 |
+| workable:qcp-group | Complete | 3 |
+| greenhouse:qualtrics | Complete | 0 |
+| workday:razer | Complete | 9 |
+| greenhouse:relex | Complete | 0 |
+| ashby:replit | Complete | 0 |
+| greenhouse:ripple | Complete | 0 |
+| workday:roche | Complete | 0 |
+| workday:spgi | Complete | 0 |
+| workday:salesforce | Complete | 0 |
+| workday:sec | Complete | 0 |
+| workday:sanofi | Complete | 0 |
+| greenhouse:sentinellabs | Complete | 0 |
+| smartrecruiters:SGS | Complete | 0 |
+| lever:shieldai | Complete | 0 |
+| greenhouse:smartlyio | Complete | 0 |
+| workday:sonyglobal | Complete | 0 |
+| workday:thales | Complete | 4 |
+| greenhouse:thetradedesk | Complete | 0 |
+| smartrecruiters:TheWonderfulCompany | Complete | 0 |
+| greenhouse:twilio | Complete | 0 |
+| greenhouse:workato | Complete | 1 |
+| greenhouse:xendit | Complete | 0 |
+| workable:youtrip | Complete | 1 |
+| greenhouse:zscaler | Complete | 0 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

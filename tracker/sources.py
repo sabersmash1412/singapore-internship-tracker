@@ -1,12 +1,27 @@
 """Public read-only feeds. Completeness is required before considering closures."""
 import json
 import time
+from threading import Lock
 from dataclasses import dataclass, field
 from urllib.error import HTTPError, URLError
 from urllib.parse import quote, urlsplit
 from urllib.request import Request, urlopen
 
 from .classify import eligible, plain
+
+
+_workable_lock = Lock()
+_workable_next_request = 0.0
+
+
+def pace_workable(url):
+    """All Workable accounts share a host; avoid bursts across worker threads."""
+    global _workable_next_request
+    if urlsplit(url).hostname != 'apply.workable.com':
+        return
+    with _workable_lock:
+        time.sleep(max(0, _workable_next_request - time.monotonic()))
+        _workable_next_request = time.monotonic() + 3.0
 
 
 @dataclass
@@ -21,6 +36,7 @@ class Snapshot:
 def request(url, body=None, headers=None, as_text=False):
     for attempt in range(3):
         try:
+            pace_workable(url)
             req = Request(url, data=json.dumps(body).encode() if body is not None else None,
                           headers={"User-Agent": "singapore-internship-tracker/0.2", "Accept": "application/json",
                                    "Content-Type": "application/json", **(headers or {})})
@@ -31,7 +47,12 @@ def request(url, body=None, headers=None, as_text=False):
                 raise
             if attempt == 2:
                 raise
-            time.sleep(2 ** attempt)
+            delay = 2 ** attempt
+            if isinstance(exc, HTTPError) and exc.code == 429 and urlsplit(url).hostname == 'apply.workable.com':
+                # Give the shared public feed time to recover before retrying.
+                retry_after = exc.headers.get('Retry-After', '') if exc.headers else ''
+                delay = max(30, min(120, int(retry_after))) if retry_after.isdigit() else 30
+            time.sleep(delay)
 
 
 def get_json(url):
@@ -93,6 +114,10 @@ def fetch(company, get=get_json, post=post_json, text=get_text):
     platform, slug = company["platform"], quote(company["slug"], safe="")
     snapshot = Snapshot(f"{platform}:{company['slug']}")
     try:
+        if platform == 'workable':
+            from .publicboards import workable
+            workable(company, snapshot, get)
+            return snapshot
         if platform == "ashby":
             from .regional import record
             payload = get(f"https://api.ashbyhq.com/posting-api/job-board/{slug}")

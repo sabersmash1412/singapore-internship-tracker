@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **501 current or undated listings · 15 older advertised periods · 47 employers with roles**
 
-Last collection: **28 Sep 2026, 19:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **28 Sep 2026, 19:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -735,7 +735,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | Complete | 0 |
-| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 6 |
+| successfactors:temasek | Complete | 14 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

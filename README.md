@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**500 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**501 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **29 Sep 2026, 05:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **29 Sep 2026, 05:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -22,6 +22,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| ByteDance | 🆕 Security Analyst Project Intern (Global Corporate Security Operations Center) - 2027 Start | [Apply](<https://joinbytedance.com/search/7690422566842386693>) | 2027 Start | - | 29 Sep 2026 |
 | Temasek | 🆕 Strategy and Programme Management Intern, Cybersecurity, Centre of Excellence (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Strategy-and-Programme-Management-Intern%2C-Cybersecurity%2C-Centre-of-Excellence-%28Jan-Jun-2027%29-238891/1369202157/>) | Jan - Jun 2027 | 09 Sep 2026 | 28 Sep 2026 |
 | ↳ | 🆕 RPA &amp; GenAI Automation Intern, Operations (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/RPA-&-GenAI-Automation-Intern%2C-Operations-%28Jan-Jun-2027%29-238891/1369197757/>) | Jan - Jun 2027 | 09 Sep 2026 | 28 Sep 2026 |
 | ↳ | 🆕 Quantitative Research Intern, Quantitative Strategy (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Quantitative-Research-Intern%2C-Quantitative-Strategy-%28Jan-Jun-2027%29-238891/1368996757/>) | Jan - Jun 2027 | 07 Sep 2026 | 28 Sep 2026 |
@@ -485,8 +486,8 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Software Engineer Intern (Global Payment-Compliance) - 2027 Start | [Apply](<https://joinbytedance.com/search/7668622698050439477>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Software Engineer Intern (Global Payment Product &amp; Solutions) - 2027 Start | [Apply](<https://joinbytedance.com/search/7668649931755227397>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Software Engineer Intern (Data Management Suite, Traffic Infrastructure) - 2027 Start | [Apply](<https://joinbytedance.com/search/7665222364315420933>) | 2027 Start | - | 24 Sep 2026 |
-| ↳ | Software Engineer (SRE - Platform Services) Intern (Infrastructure Engineering) - 2027 Start | [Apply](<https://joinbytedance.com/search/7667854463549868341>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Site Reliability Engineer Intern, System - System Service Global (Infrastructure Engineering), 2027 Start | [Apply](<https://joinbytedance.com/search/7670464055076849973>) | 2027 Start | - | 24 Sep 2026 |
+| ↳ | Site Reliability Engineer Intern (Platform Services) - 2027 Start | [Apply](<https://joinbytedance.com/search/7667854463549868341>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Security Software Engineer Intern (Security Assurance) - 2027 Start | [Apply](<https://joinbytedance.com/search/7668239347681954101>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Production System Engineer Intern (Infrastructure Engineering) - 2027 Start | [Apply](<https://joinbytedance.com/search/7667888875239278853>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Network Reliability Engineer Intern (Network Infrastructure) - 2027 Start | [Apply](<https://joinbytedance.com/search/7675665753714542853>) | 2027 Start | - | 24 Sep 2026 |
@@ -589,7 +590,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:temus | Complete | 1 |
 | greenhouse:drweng | Complete | 5 |
 | bytedance:tiktok | Complete | 127 |
-| bytedance:bytedance | Complete | 33 |
+| bytedance:bytedance | Complete | 34 |
 | shopee:shopee | Complete | 39 |
 | sea:sea | Complete | 8 |
 | govtech:internships | Complete | 121 |
@@ -734,7 +735,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
-| successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
+| successfactors:stengg | Complete | 0 |
 | successfactors:temasek | Complete | 14 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.

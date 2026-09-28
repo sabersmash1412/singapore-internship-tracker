@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**443 current or undated listings · 15 older advertised periods · 31 employers with roles**
+**442 current or undated listings · 15 older advertised periods · 31 employers with roles**
 
-Last collection: **28 Sep 2026, 11:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **28 Sep 2026, 12:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -295,7 +295,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Sea | System Automation &amp; Assurance Intern (6 months) | [Apply](<https://career.sea.com/position/J02172351>) | - | - | 24 Sep 2026 |
 | ↳ | System Automation &amp; Assurance (6 months) | [Apply](<https://career.sea.com/position/J02173412>) | - | - | 24 Sep 2026 |
 | ↳ | Security Engineering Intern | [Apply](<https://career.sea.com/position/J02180598>) | - | - | 24 Sep 2026 |
-| ↳ | Research Intern - AI for Science | [Apply](<https://career.sea.com/position/J02129654>) | - | - | 24 Sep 2026 |
 | ↳ | IT Support intern (6 months) | [Apply](<https://career.sea.com/position/J02172545>) | - | - | 24 Sep 2026 |
 | ↳ | IT Security Intern (6 months) | [Apply](<https://career.sea.com/position/J02164189>) | - | - | 24 Sep 2026 |
 | ↳ | IT Project Management Intern (6 Months) | [Apply](<https://career.sea.com/position/J02164599>) | - | - | 24 Sep 2026 |
@@ -498,6 +497,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Sea | Research Intern - AI for Science | 28 Sep 2026 | - |
 | GlobalFoundries | Testchip Design &amp; Implementation Intern (Jan-Jun 2027) | 25 Sep 2026 | - |
 | NCS | \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | 25 Sep 2026 | - |
 | Shopee | Product Manager Intern, Traffic &amp; Content - LLM Feature (Fall 2026) | 25 Sep 2026 | - |
@@ -532,7 +532,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | bytedance:tiktok | Complete | 127 |
 | bytedance:bytedance | Complete | 33 |
 | shopee:shopee | Complete | 39 |
-| sea:sea | Complete | 9 |
+| sea:sea | Complete | 8 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
@@ -544,7 +544,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | Complete | 0 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -580,7 +580,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 4 |
+| workday:sggovterp | Complete | 4 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |

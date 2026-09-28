@@ -28,7 +28,7 @@ def singapore(location, country=None):
 
 def category(title):
     # A recruiting role for an AI team is still recruiting, not an AI internship.
-    if re.search(r'\b(talent acquisition|recruiter|recruitment|human resources|people\s*(?:&|and)\s*culture|hr operations|hr business partner|hrbp|business development and commercial|learning developer|AI strategy\s*(?:&|and)\s*planning)\b', title, re.I):
+    if re.search(r'\b(talent acquisition|recruiter|recruitment|employer branding|human resources|people\s*(?:&|and)\s*culture|hr operations|hr business partner|hrbp|business development and commercial|learning developer|AI strategy\s*(?:&|and)\s*planning)\b', title, re.I):
         return None
     # Team names alone do not make administrative project coordination technical.
     if re.search(r"\b(?:project management|business\s*(?:&|and)\s*strategy)\b", title, re.I):

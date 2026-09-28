@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**486 current or undated listings · 15 older advertised periods · 45 employers with roles**
+**501 current or undated listings · 15 older advertised periods · 47 employers with roles**
 
-Last collection: **28 Sep 2026, 14:35 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **28 Sep 2026, 14:59 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -22,6 +22,21 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Temasek | 🆕 Strategy and Programme Management Intern, Cybersecurity, Centre of Excellence (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Strategy-and-Programme-Management-Intern%2C-Cybersecurity%2C-Centre-of-Excellence-%28Jan-Jun-2027%29-238891/1369202157/>) | Jan - Jun 2027 | 09 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 RPA &amp; GenAI Automation Intern, Operations (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/RPA-&-GenAI-Automation-Intern%2C-Operations-%28Jan-Jun-2027%29-238891/1369197757/>) | Jan - Jun 2027 | 09 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Quantitative Research Intern, Quantitative Strategy (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Quantitative-Research-Intern%2C-Quantitative-Strategy-%28Jan-Jun-2027%29-238891/1368996757/>) | Jan - Jun 2027 | 07 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Internal Audit Analytics &amp; AI Intern, Internal Audit (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Internal-Audit-Analytics-&-AI-Intern%2C-Internal-Audit-%28Jan-Jun-2027%29-238891/1368995957/>) | Jan - Jun 2027 | 07 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Generative AI Citizen Developer Intern, Technology (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Generative-AI-Citizen-Developer-Intern%2C-Technology-%28Jan-Jun-2027%29-238891/1369160257/>) | Jan - Jun 2027 | 09 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Data Engineer Intern, Technology (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Data-Engineer-Intern%2C-Technology-%28Jan-Jun-2027%29-238891/1369169257/>) | Jan - Jun 2027 | 09 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Data Analytics/Science Intern, People Technology (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Data-AnalyticsScience-Intern%2C-People-Technology-%28Jan-Jun-2027%29-238891/1369202457/>) | Jan - Jun 2027 | 09 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Data Analytics Intern, Performance Analytics (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Data-Analytics-Intern%2C-Performance-Analytics-%28Jan-Jun-2027%29-238891/1368996857/>) | Jan - Jun 2027 | 07 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Data &amp; Finance Intern, Finance (Governance &amp; Technology) - Jan - Jun 2027 | [Apply](<https://jobs.temasek.com.sg/job/Data-&-Finance-Intern%2C-Finance-%28Governance-&-Technology%29-Jan-Jun-2027-238891/1369148557/>) | Jan - Jun 2027 | 09 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Cybersecurity Intern, Cybersecurity (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Cybersecurity-Intern%2C-Cybersecurity-%28Jan-Jun-2027%29-238891/1368748057/>) | Jan - Jun 2027 | 04 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Automation Intern, Financial Management (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Automation-Intern%2C-Financial-Management-%28Jan-Jun-2027%29-238891/1369154157/>) | Jan - Jun 2027 | 09 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 AI/Machine Learning Intern, Technology (Jan - June 2027) | [Apply](<https://jobs.temasek.com.sg/job/AIMachine-Learning-Intern%2C-Technology-%28Jan-June-2027%29-238891/1369200757/>) | Jan - June 2027 | 09 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 AI &amp; Automation Intern, Procurement (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/AI-&-Automation-Intern%2C-Procurement-%28Jan-Jun-2027%29-238891/1369203757/>) | Jan - Jun 2027 | 09 Sep 2026 | 28 Sep 2026 |
+| ↳ | 🆕 AI &amp; Analytics Intern, Financial Management (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/AI-&-Analytics-Intern%2C-Financial-Management-%28Jan-Jun-2027%29-238891/1369196257/>) | Jan - Jun 2027 | 09 Sep 2026 | 28 Sep 2026 |
+| Singtel | 🆕 Data Analyst Intern (Reporting &amp; Insights) | [Apply](<https://groupcareers.singtel.com/job/Data-Analyst-Intern-%28Reporting-&-Insights%29-Sing/1367826466/>) | - | 23 Sep 2026 | 28 Sep 2026 |
 | YouTrip | 🆕 Data Analytics Intern | [Apply](<https://apply.workable.com/j/34787A0AE7>) | - | 02 Sep 2026 | 28 Sep 2026 |
 | Workato | 🆕 Intern, Data Engineering | [Apply](<https://www.workato.com/careers?gh_jid=8731177002#open-roles>) | - | 02 Sep 2026 | 28 Sep 2026 |
 | Thales | 🆕 Software Engineer Intern - Middleware (IBS) | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782>) | - | 02 Sep 2026 | 28 Sep 2026 |
@@ -584,7 +599,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:amat | Complete | 12 |
 | workday:globalfoundries | Complete | 11 |
 | workday:nxp | Complete | 0 |
-| workday:micron | ⚠️ Incomplete — previous listings retained | 12 |
+| workday:micron | Complete | 23 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
@@ -718,6 +733,9 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
+| successfactors:singtel | Complete | 1 |
+| successfactors:stengg | Complete | 0 |
+| successfactors:temasek | Complete | 14 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

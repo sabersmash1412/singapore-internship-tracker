@@ -1,6 +1,6 @@
 # Employer coverage
 
-The tracker reads official employer sources. Coverage expanded on 28 September 2026. **149 registered sources**; the shared Public Service board covers multiple agencies. A monitored employer may have no matching open technical internships. The README’s source-health table reports each actual run.
+The tracker reads official employer sources. Coverage expanded on 28 September 2026. **152 registered sources**; the shared Public Service board covers multiple agencies. A monitored employer may have no matching open technical internships. The README’s source-health table reports each actual run.
 
 | Employer / shared board | Official careers source | Collection method |
 | --- | --- | --- |
@@ -153,6 +153,9 @@ The tracker reads official employer sources. Coverage expanded on 28 September 2
 | Xendit | [Careers](https://job-boards.greenhouse.io/xendit) | Greenhouse public job board |
 | YouTrip | [Careers](https://apply.workable.com/youtrip/) | Public published-job widget with full descriptions and merged locations |
 | Zscaler | [Careers](https://job-boards.greenhouse.io/zscaler) | Greenhouse public job board |
+| Singtel | [Careers](https://groupcareers.singtel.com) | Public SuccessFactors tables and full details; Singtel department only |
+| ST Engineering | [Careers](https://careers.stengg.com) | Public SuccessFactors tables and full details |
+| Temasek | [Careers](https://jobs.temasek.com.sg) | Public SuccessFactors tables and full details |
 
 ## Provenance and scope
 
@@ -225,3 +228,22 @@ Workable feeds added: Funding Societies / Modalku Group, QCP, EPOS, CoverGo, Igl
 Additional Workday feeds use Singapore country/site facets read from each live search response. Workday boards returning no internships can still be monitored when their live facets explicitly establish Singapore coverage. The new title review excludes corporate Global Security Operations and Quality System Management unless an explicit IT/software/cybersecurity qualifier is present.
 
 See the [28 September expansion audit](audits/2026-09-28-employer-expansion.md) for per-source matching counts, validation and remaining limitations.
+
+
+## Micron repair and local career boards — 28 September 2026
+
+Micron's broad `intern` keyword query also matched regular roles containing terms such as “internal.” One regular facilities requisition, JR106128, appeared as a bare requisition ID with no title or application path, correctly failing completeness. The collector now resolves Micron's official **Interns** job-family facet from live metadata and collects that category across verified Singapore sites. No malformed records are ignored, and missing categories, repeated IDs or failed details still make the source incomplete.
+
+The corrected query returned 82 internship records. Every retained Micron internship still returned by exact-ID search was present in that category. One retained role absent from the category, JR97726, also returned zero results from exact-ID search; its normal two-complete-run closure rule remains in force. Source identity and historical first-seen dates are unchanged.
+
+Singtel, ST Engineering and Temasek now use a public SuccessFactors HTML collector. It validates each page's explicit result range/total, uses the site's date-sort controls, rejects repeated IDs and mismatched details, and reads full descriptions and publication microdata. Explicit zero-result notices are handled before SAP's unrelated recent-job suggestions. Employer-coded Singapore locations are verified from location cells. Singtel is restricted to the **Singtel** department to avoid duplicating NCS's existing feed or attributing NCS/Optus roles to Singtel. Employer-branding jobs attached to AI teams are excluded.
+
+### Other investigated internship routes
+
+These are useful official application routes, **not fully automated sources**:
+
+- [DSTA internships](https://www.dsta.gov.sg/join-us): its university/polytechnic instructions direct students to project listings on their institution portal. We do not scrape private student portals or invent public job rows.
+- [GIC Internship Programme](https://gic.careers/programmes/gic-internship-programme/): offers a Technology pathway, with applications linked to a separate chatbot. The general careers search returned no internship-title listings during this check; it is not treated as coverage of the student programme.
+- [A*STAR careers](https://careers.a-star.edu.sg/): the current search uses a different dynamic interface. Its advertised RSS query returned 20 broad keyword matches, no internship titles, and no total/pagination metadata. This cannot safely establish a complete internship snapshot. A previously indexed Uni Jan 2027 attachment posting returned “not available” when opened, so it was not published as an active internship.
+
+See the [repair and expansion audit](audits/2026-09-28-local-career-boards.md) for validation results.

@@ -120,3 +120,37 @@ class RegionalTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class InternshipFacetTests(unittest.TestCase):
+    company = dict(name='Example', platform='workday', slug='example',
+                   api_base='https://example.com/api', careers_url='https://example.com/careers',
+                   internship_facet={'parameter':'family','labels':['Interns']})
+
+    def test_live_internship_facet_and_structured_status(self):
+        calls=[]
+        def post(url, body):
+            calls.append(body)
+            if not body['appliedFacets']:
+                return {'facets':[{'facetParameter':'family','values':[{'id':'live-id','descriptor':'Interns'}]}]}
+            return {'total':1,'jobPostings':[{'title':'Software Engineer','externalPath':'/job/Office/Software_JR1'}]}
+        detail={'jobPostingInfo':dict(title='Software Engineer',location='Singapore',jobDescription='Build software')}
+        result=fetch(self.company,post=post,get=lambda _:detail)
+        self.assertTrue(result.complete)
+        self.assertEqual(calls[-1]['appliedFacets'],{'family':['live-id']})
+        self.assertEqual(calls[-1]['searchText'],'')
+        self.assertTrue(eligible(result.jobs[0]))
+        self.assertEqual(result.jobs[0]['board'],'workday:example')
+
+    def test_missing_intern_category_is_not_an_empty_success(self):
+        result=fetch(self.company,post=lambda *a:{'facets':[{'facetParameter':'family','values':[]}]})
+        self.assertFalse(result.complete)
+        for configuration in [{}, {'parameter':'family','labels':[]}]:
+            self.assertFalse(fetch({**self.company,'internship_facet':configuration}).complete)
+
+    def test_malformed_intern_record_still_fails(self):
+        def post(url,body):
+            if not body['appliedFacets']:
+                return {'facets':[{'facetParameter':'family','values':[{'id':'intern','descriptor':'Interns'}]}]}
+            return {'total':1,'jobPostings':[{'bulletFields':['JR1']}]}
+        self.assertFalse(fetch(self.company,post=post).complete)

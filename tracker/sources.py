@@ -114,6 +114,10 @@ def fetch(company, get=get_json, post=post_json, text=get_text):
     platform, slug = company["platform"], quote(company["slug"], safe="")
     snapshot = Snapshot(f"{platform}:{company['slug']}")
     try:
+        if platform == 'successfactors':
+            from .successfactors import collect
+            collect(company, snapshot, text)
+            return snapshot
         if platform == 'workable':
             from .publicboards import workable
             workable(company, snapshot, get)

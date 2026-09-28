@@ -112,7 +112,13 @@
     "slug": "micron",
     "careers_url": "https://micron.wd1.myworkdayjobs.com/External",
     "api_base": "https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External",
-    "location_facet": "locations"
+    "location_facet": "locations",
+    "internship_facet": {
+      "parameter": "jobFamilyGroup",
+      "labels": [
+        "Interns"
+      ]
+    }
   },
   {
     "name": "NVIDIA",
@@ -973,5 +979,26 @@
     "platform": "greenhouse",
     "slug": "zscaler",
     "careers_url": "https://job-boards.greenhouse.io/zscaler"
+  },
+  {
+    "name": "Singtel",
+    "platform": "successfactors",
+    "slug": "singtel",
+    "careers_url": "https://groupcareers.singtel.com",
+    "departments": [
+      "Singtel"
+    ]
+  },
+  {
+    "name": "ST Engineering",
+    "platform": "successfactors",
+    "slug": "stengg",
+    "careers_url": "https://careers.stengg.com"
+  },
+  {
+    "name": "Temasek",
+    "platform": "successfactors",
+    "slug": "temasek",
+    "careers_url": "https://jobs.temasek.com.sg"
   }
 ]

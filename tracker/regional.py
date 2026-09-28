@@ -87,18 +87,34 @@ def workday(company, snapshot, get, post):
     seen = set()
     expected_total = None
     applied = {}
+    internship_facet = company.get('internship_facet')
+    if internship_facet is not None and (
+            not isinstance(internship_facet, dict) or not internship_facet.get('parameter')
+            or not isinstance(internship_facet.get('labels'), list) or not internship_facet['labels']
+            or any(not isinstance(v, str) or not v for v in internship_facet['labels'])):
+        raise ValueError('Invalid internship facet configuration')
     facet_key = company.get('country_facet') or company.get('location_facet')
-    if facet_key:
+    if facet_key or internship_facet:
         metadata = post(base + '/jobs', {'appliedFacets': {}, 'limit': 20, 'offset': 0, 'searchText': ''})
-        facets = [f for f in workday_facets(metadata.get('facets')) if f.get('facetParameter') == facet_key]
+        all_facets = list(workday_facets(metadata.get('facets')))
+    if facet_key:
+        facets = [f for f in all_facets if f.get('facetParameter') == facet_key]
         if len(facets) != 1:
             raise ValueError('Missing or ambiguous location/country facet')
         ids = [v['id'] for v in rows(facets[0], 'values') if v.get('id') and (singapore(v.get('descriptor') or '') if company.get('location_facet') else v.get('descriptor') == 'Singapore')]
         if not ids:
             raise ValueError('Singapore absent from location/country facet; scope cannot be verified')
         applied = {facet_key: ids}
+    if internship_facet:
+        facets = [f for f in all_facets if f.get('facetParameter') == internship_facet['parameter']]
+        if len(facets) != 1:
+            raise ValueError('Missing or ambiguous internship facet')
+        values = [v for v in rows(facets[0], 'values') if v.get('descriptor') in internship_facet['labels']]
+        if {v.get('descriptor') for v in values} != set(internship_facet['labels']) or any(not v.get('id') for v in values):
+            raise ValueError('Internship category absent; scope cannot be verified')
+        applied[internship_facet['parameter']] = [v['id'] for v in values]
     for offset in range(0, 4000, 20):
-        data = post(base + '/jobs', {'appliedFacets': applied, 'limit': 20, 'offset': offset, 'searchText': 'intern'})
+        data = post(base + '/jobs', {'appliedFacets': applied, 'limit': 20, 'offset': offset, 'searchText': '' if internship_facet else 'intern'})
         page = rows(data, 'jobPostings')
         total = data.get('total')
         if expected_total is None:
@@ -112,9 +128,9 @@ def workday(company, snapshot, get, post):
             path, title = row['externalPath'], row.get('title')
             if not isinstance(title, str) or not title.strip() or not path.startswith('/job/'):
                 raise ValueError('Malformed Workday job')
-            # Search may match descriptions, including "internal". Only detail
-            # requests for internship titles are needed for this tracker scope.
-            if not re.search(r'\b(intern|internships?|co[ -]?op)\b', title, re.I):
+            # Keyword searches may match "internal". A verified internship
+            # category supplies internship status even without it in the title.
+            if not internship_facet and not re.search(r'\b(intern|internships?|co[ -]?op)\b', title, re.I):
                 continue
             location = row.get('locationsText') or 'Location not stated'
             description, country, posted = '', None, None
@@ -141,6 +157,8 @@ def workday(company, snapshot, get, post):
                 employer = {**company, 'name': agency}
             job = record(employer, identifier, title, location,
                          company['careers_url'].rstrip('/') + path, description, country, posted)
+            if internship_facet:
+                job['employment_type'] = 'Intern'
             if not description:
                 job['detail_unavailable'] = True
             snapshot.jobs.append(job)

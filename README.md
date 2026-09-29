@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**502 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**503 current or undated listings · 15 older advertised periods · 47 employers with roles**
 
-Last collection: **29 Sep 2026, 18:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **29 Sep 2026, 19:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -22,6 +22,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| NLB National Library Board | 🆕 Marketing Analytics Intern, Marketing &amp; Corporate Solutions | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/NLB-National-Library-Building/Marketing-Intern--Marketing---Corporate-Solutions_JR-10000053281>) | - | 29 Sep 2026 | 29 Sep 2026 |
 | Micron | 🆕 Intern - STPG Product System | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-Product-System_JR111189>) | - | 29 Sep 2026 | 29 Sep 2026 |
 | Razer | 🆕 Software Cloud Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Cloud-Intern_JR2026007798>) | - | 29 Sep 2026 | 29 Sep 2026 |
 | Micron | 🆕 Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111156>) | Jan to May 2027 | 29 Sep 2026 | 29 Sep 2026 |
@@ -643,7 +644,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 3 |
+| workday:sggovterp | Complete | 4 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |
@@ -738,8 +739,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
-| successfactors:stengg | Complete | 0 |
-| successfactors:temasek | Complete | 14 |
+| successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 3 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

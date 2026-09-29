@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**501 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**502 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **29 Sep 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **29 Sep 2026, 17:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -22,6 +22,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Micron | 🆕 Intern - STPG Product System | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-Product-System_JR111189>) | - | 29 Sep 2026 | 29 Sep 2026 |
 | Razer | 🆕 Software Cloud Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Cloud-Intern_JR2026007798>) | - | 29 Sep 2026 | 29 Sep 2026 |
 | Micron | 🆕 Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111156>) | Jan to May 2027 | 29 Sep 2026 | 29 Sep 2026 |
 | ByteDance | 🆕 Security Analyst Project Intern (Global Corporate Security Operations Center) - 2027 Start | [Apply](<https://joinbytedance.com/search/7690422566842386693>) | 2027 Start | - | 29 Sep 2026 |
@@ -602,11 +603,11 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:amat | Complete | 12 |
 | workday:globalfoundries | Complete | 11 |
 | workday:nxp | Complete | 0 |
-| workday:micron | Complete | 24 |
+| workday:micron | Complete | 25 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
+| apple:apple | Complete | 0 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -632,7 +633,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:lalamove | Complete | 0 |
 | ashby:lumilens | Complete | 0 |
 | greenhouse:mongodb | Complete | 0 |
-| smartrecruiters:NCS3 | Complete | 19 |
+| smartrecruiters:NCS3 | Complete | 18 |
 | lever:nium | Complete | 0 |
 | greenhouse:okx | Complete | 0 |
 | ashby:openai | Complete | 0 |
@@ -675,7 +676,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
-| smartrecruiters:Eurofins | Complete | 0 |
+| smartrecruiters:Eurofins | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
 | smartrecruiters:Experian | Complete | 0 |
 | smartrecruiters:Fastmarkets | Complete | 0 |
@@ -737,8 +738,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
-| successfactors:stengg | Complete | 0 |
-| successfactors:temasek | Complete | 14 |
+| successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 13 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

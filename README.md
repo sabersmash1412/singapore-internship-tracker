@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**501 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**502 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **29 Sep 2026, 18:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **29 Sep 2026, 18:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -52,6 +52,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Large Language Model Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Large-Language-Model-Intern_JR2026007862>) | - | 11 Sep 2026 | 28 Sep 2026 |
 | ↳ | 🆕 Generative AI Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Generative-AI-Intern_JR2026007735>) | - | 17 Aug 2026 | 28 Sep 2026 |
 | ↳ | 🆕 Computer Vision Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Computer-Vision-Intern_JR2026007731>) | - | 17 Aug 2026 | 28 Sep 2026 |
+| ↳ | 🆕 Applied AI Intern (Voice) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784>) | - | 29 Sep 2026 | 28 Sep 2026 |
 | ↳ | 🆕 Applied AI Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern_JR2026007785>) | - | 28 Aug 2026 | 28 Sep 2026 |
 | ↳ | 🆕 AI Engineer Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/AI-Engineer-Intern_JR2026006947>) | - | 11 Sep 2026 | 28 Sep 2026 |
 | ↳ | 🆕 AI Data Engineer Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/AI-Data-Engineer-Intern_JR2026007475-1>) | - | 15 Sep 2026 | 28 Sep 2026 |
@@ -557,7 +558,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
 | NCS | \[Uni - Jan till Jun 2027\] Robotics Hardware Intern | 29 Sep 2026 | - |
-| Razer | Applied AI Intern (Voice) | 29 Sep 2026 | - |
 | HP | College Intern - Manufacturing AI Solutions | 29 Sep 2026 | - |
 | NLB National Library Board | Video Analytics Intern, Properties &amp; Facilities Management | 29 Sep 2026 | - |
 | Sea | Research Intern - AI for Science | 28 Sep 2026 | - |
@@ -607,7 +607,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -643,7 +643,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | Complete | 3 |
+| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 3 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |
@@ -701,21 +701,21 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:logitech | Complete | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
 | workday:manulife | Complete | 0 |
-| workday:marvell | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:mastercard | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:marvell | Complete | 1 |
+| workday:mastercard | Complete | 0 |
 | lever:matchgroup | Complete | 0 |
 | greenhouse:mixpanel | Complete | 0 |
 | greenhouse:moloco | Complete | 0 |
 | smartrecruiters:MUFGInvestorServices | Complete | 0 |
 | greenhouse:newrelic | Complete | 0 |
 | smartrecruiters:NielsenIQ | Complete | 0 |
-| workday:paypal | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:paypal | Complete | 0 |
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |
 | workable:porsche-asia-pacific | Complete | 1 |
 | workable:qcp-group | Complete | 3 |
 | greenhouse:qualtrics | Complete | 0 |
-| workday:razer | Complete | 9 |
+| workday:razer | Complete | 10 |
 | greenhouse:relex | Complete | 0 |
 | ashby:replit | Complete | 0 |
 | greenhouse:ripple | Complete | 0 |
@@ -739,7 +739,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | Complete | 0 |
-| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 12 |
+| successfactors:temasek | Complete | 14 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

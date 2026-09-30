@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**376 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**378 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **30 Sep 2026, 16:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **30 Sep 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,7 +20,8 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| Marvell | 🆕 Hardware Validation Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Validation-Intern---Bachelor-s-Master-s-Degree_2603741>) | - | 30 Sep 2026 | 30 Sep 2026 |
+| Marvell | 🆕 Business Planning System Analyst Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Business-Planning-System-Analyst-Intern---Bachelor-s-Degree_2603816>) | - | 30 Sep 2026 | 30 Sep 2026 |
+| ↳ | 🆕 Hardware Validation Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Validation-Intern---Bachelor-s-Master-s-Degree_2603741>) | - | 30 Sep 2026 | 30 Sep 2026 |
 | ↳ | 🆕 Hardware Design Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Design-Intern---Bachelor-s-Master-s-Degree_2604427>) | - | 30 Sep 2026 | 30 Sep 2026 |
 | NLB National Library Board | 🆕 Marketing Analytics Intern, Marketing &amp; Corporate Solutions | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/NLB-National-Library-Building/Marketing-Intern--Marketing---Corporate-Solutions_JR-10000053281>) | - | 29 Sep 2026 | 29 Sep 2026 |
 | Micron | 🆕 Intern - STPG Product System | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-Product-System_JR111189>) | - | 29 Sep 2026 | 29 Sep 2026 |
@@ -165,6 +166,7 @@ These roles remain listed in employer sources; confirm application availability 
 | GlobalFoundries | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604281>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
 | ↳ | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604277-1>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
 | ↳ | Machine Learning &amp; Generative AI Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Machine-Learning---Generative-AI-Intern--Jan-Jun-2027-_JR-2604518>) | Jan-Jun 2027 | 02 Sep 2026 | 24 Sep 2026 |
+| ↳ | Facility Engineering, Automation Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Facility-Engineering--Automation-Intern--Jan-Jun-2027-_JR-2604650>) | Jan-Jun 2027 | 30 Sep 2026 | 24 Sep 2026 |
 | ↳ | ESD Device Design Engineer Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/ESD-Device-Design-Engineer-Intern--Jan-Jun-2027-_JR-2604348>) | Jan-Jun 2027 | 18 Aug 2026 | 24 Sep 2026 |
 | ↳ | 2H University Intern, AI-Driven Process Intern (Advanced Process Control) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern--AI-Driven-Process-Intern--Advanced-Process-Control-_JR-2502691>) | June 2026 Start | 11 Jan 2026 | 24 Sep 2026 |
 | ↳ | 2H University Intern - Process Integration | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Process-Integration_JR-2502759>) | June 2026 Start | 14 Jan 2026 | 24 Sep 2026 |
@@ -429,7 +431,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
-| GlobalFoundries | Facility Engineering, Automation Intern (Jan-Jun 2027) | 30 Sep 2026 | - |
 | Razer | Applied AI Intern | 30 Sep 2026 | - |
 | GovTech | Tech – Software Engineer: CIOO Applications &amp; Products | 30 Sep 2026 | Application deadline passed |
 | ↳ | Tech – Cybersecurity Engineer: Crowdsourced Vulnerability Discovery Programme | 30 Sep 2026 | Application deadline passed |
@@ -602,7 +603,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 12 |
-| workday:globalfoundries | Complete | 10 |
+| workday:globalfoundries | Complete | 11 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 19 |
 | workday:nvidia | Complete | 0 |
@@ -702,7 +703,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:logitech | Complete | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
 | workday:manulife | Complete | 0 |
-| workday:marvell | Complete | 3 |
+| workday:marvell | Complete | 4 |
 | workday:mastercard | Complete | 0 |
 | lever:matchgroup | Complete | 0 |
 | greenhouse:mixpanel | Complete | 0 |

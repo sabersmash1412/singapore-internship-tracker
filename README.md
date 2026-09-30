@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **376 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **30 Sep 2026, 13:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **30 Sep 2026, 14:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -690,7 +690,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:grafanalabs | Complete | 0 |
 | ashby:harvey | Complete | 0 |
 | workday:hitachi | Complete | 1 |
-| workday:hp | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:hp | Complete | 7 |
 | workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
@@ -739,7 +739,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
-| successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
+| successfactors:stengg | Complete | 0 |
 | successfactors:temasek | Complete | 14 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.

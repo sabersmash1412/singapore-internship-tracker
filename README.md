@@ -8,17 +8,15 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**499 current or undated listings · 15 older advertised periods · 47 employers with roles**
+**377 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **30 Sep 2026, 11:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **30 Sep 2026, 12:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
 🆕 = first seen within 48 hours of the collection above. First seen is when this tracker discovered a role, not when the employer posted it. Initial collection marks all newly discovered roles as new.
 
 ## Current or undated internships
-
-**Application deadlines:** [GovTech](<https://www.tech.gov.sg/careers/students-and-graduates/internships/>): 30 Sep 2026, 12:00 SGT.
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
@@ -56,7 +54,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Generative AI Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Generative-AI-Intern_JR2026007735>) | - | 17 Aug 2026 | 28 Sep 2026 |
 | ↳ | 🆕 Computer Vision Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Computer-Vision-Intern_JR2026007731>) | - | 17 Aug 2026 | 28 Sep 2026 |
 | ↳ | 🆕 Applied AI Intern (Voice) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784>) | - | 29 Sep 2026 | 28 Sep 2026 |
-| ↳ | 🆕 Applied AI Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern_JR2026007785>) | - | 28 Aug 2026 | 28 Sep 2026 |
 | ↳ | 🆕 AI Engineer Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/AI-Engineer-Intern_JR2026006947>) | - | 11 Sep 2026 | 28 Sep 2026 |
 | ↳ | 🆕 AI Data Engineer Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/AI-Data-Engineer-Intern_JR2026007475-1>) | - | 15 Sep 2026 | 28 Sep 2026 |
 | QCP | 🆕 Intern, Trading - ALM (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/4599D0F542>) | Jan - Jun 2027 | 26 Aug 2026 | 28 Sep 2026 |
@@ -357,127 +354,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | IT Project Management Intern (6 Months) | [Apply](<https://career.sea.com/position/J02164599>) | - | - | 24 Sep 2026 |
 | ↳ | IT Operations Specialist intern (6 months) | [Apply](<https://career.sea.com/position/J02163472>) | - | - | 24 Sep 2026 |
 | ↳ | Backend Engineer Intern | [Apply](<https://career.sea.com/position/J02044564>) | Jan 2027 Start | - | 24 Sep 2026 |
-| GovTech | Tech – Systems Engineer: Systems Technologies | [Apply](<https://internships.tech.gov.sg/projects/systems-engineer/systems-technologies>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Systems Engineer: MSF DataSphere | [Apply](<https://internships.tech.gov.sg/projects/systems-engineer/msf-data-sphere-central-administration-and-social>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Systems Engineer: MOE DXD Resilience Operations and Development | [Apply](<https://internships.tech.gov.sg/projects/systems-engineer/moe-dxd-resilience-operations-and-development>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Systems Engineer: IT Infrastructure Engineering | [Apply](<https://internships.tech.gov.sg/projects/systems-engineer/it-infrastructure-engineering>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Systems Engineer: IM8 CONOPS | [Apply](<https://internships.tech.gov.sg/projects/systems-engineer/im-8-conops>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Systems Engineer: DevOps Infrastructure Automation | [Apply](<https://internships.tech.gov.sg/projects/systems-engineer/dev-ops-infrastructure-automation>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: enTRUST | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/en-trust>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Workplace Experience Programme (B) | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/workplace-experience-programme-b>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Workplace Experience Programme (A) | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/workplace-experience-programme-a>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Workpal Mobile Platform (B) | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/workpal-mobile-platform-b>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Workpal Mobile Platform (A) | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/workpal-mobile-platform-a>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: WINS Work Permit | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/wins-work-permit>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Usability &amp; Accessibility | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/usability-and-accessibility>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: TradeNet | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/trade-net-consulting>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Test Automation Toolkits | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/test-automation-toolkits>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: TechPass | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/tech-pass>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Standard Data Platforms (SDP) | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/standard-data-platforms-sdp>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Singpass Authentication | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/singpass-authentication>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Singpass Admin Portal Operational Tooling | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/singpass-admin-portal-operational-tooling>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Singapore Government Developer Portal | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/singapore-government-developer-portal>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: ServiceNow CoE | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/service-now-co-e>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: SecOps Internal Tooling &amp; Services Development | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/sec-ops-internal-tooling-and-services-development>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Scam Analytics &amp; Tactical Intervention System | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/scam-analytics-and-tactical-intervention-system>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Salesforce CoE | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/salesforce-co-e>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Safer Online Spaces (SOS) - My First Phone | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/safer-online-spaces-sos-my-first-phone>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: SSOE equip4work | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/ssoe-equip4work-central-administration-and-social>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: SHIPHATS - AI Coding Tools | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/shiphats-ai-coding-tools>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: SEED | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/seed>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Runtime (Container Stack/Airbase/GovPaaS) | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/runtime-container-stack-airbase-gov-paa-s>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Retina | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/retina>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Public Statistics Platform | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/public-statistics-platform>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Product Scorecard, Craft, Elevate | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/product-scorecard-craft-elevate>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Physical AI Across Robot Embodiments | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/physical-ai-across-robot-embodiments>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Partner Experience for Singpass Integrations | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/partner-experience-for-singpass-integrations>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: PA Community Portal | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/pa-community-portal-central-administration-and-social>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: One Client View (OneCV) | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/one-client-view-one-cv>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: OS2.0 Programme | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/os-2-0-programme>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Network Monitoring Agent for Multi-Cloud | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/network-monitoring-agent-for-multi-cloud>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: MySkillsFuture 2.0 | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/my-skills-future-2-0>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Modernisation Initiatives - Consulting | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/modernisation-initiatives-consulting-consulting>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Modernisation Initiatives | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/modernisation-initiatives>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: LifeSG | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/life-sg-apps-products-digital-society-products>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Labour Market Data Platform | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/labour-market-data-platform>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Integrated Digital Workspace | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/integrated-digital-workspace>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Infrastructure and Services for Schools | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/infrastructure-and-services-for-schools>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Infrastructure Observability Tools | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/infrastructure-observability-tools>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Information Services Programme (Applied AI) | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/information-services-programme-applied-ai>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Info Concierge | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/info-concierge>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Government on Commercial Cloud (GCC) | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/government-on-commercial-cloud-gcc>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Government Commercial Cloud | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/government-commercial-cloud>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: GovWallet | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/gov-wallet>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: GovEntry (B) | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/gov-entry-b>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: GovEntry (A) | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/gov-entry-a>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: GovAssure Enterprise Risk Management | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/gov-assure-enterprise-risk-management>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: GovAssure | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/gov-assure>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: GatherSG | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/gather-sg>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: GCSOC Agency Self-Service Portal | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/gcsoc-agency-self-service-portal>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: GCC2.0 - Customer Success | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/gcc-2-0-customer-success>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Engineering the Future of GRC | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/engineering-the-future-of-grc>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Enablement, DataTable | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/enablement-data-table>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: EmPOWER Workplace Fairness | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/em-power-workplace-fairness>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Digital Survey Platform | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/digital-survey-platform>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Digital Records Management | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/digital-records-management>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Digital Accelerator Programme | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/digital-accelerator-programme>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: DataHive | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/data-hive>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Data Exchange Platform | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/data-exchange-platform>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: DLP Rule Processing Engine Development | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/dlp-rule-processing-engine-development>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Cybersecurity Tools &amp; Automation | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/cybersecurity-tools-and-automation>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: CrowdTaskSG | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/crowd-task-sg>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Consulting - Rapid AI Modernisation Programme | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/consulting-rapid-ai-modernisation-programme>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Console (TechBiz) | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/console-tech-biz>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Console | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/console>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Cloud Ready Infra &amp; Security Platform (CRISP) | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/cloud-ready-infra-and-security-platform-crisp>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: CIOO Applications &amp; Products | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/cioo-applications-and-products-cioo>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Automation &amp; AI Solutions | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/automation-and-ai-solutions>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Authorisation System Modernisation | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/authorisation-system-modernisation>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Augment Resource Buddy | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/augment-resource-buddy>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: AssuranceAI - Litmus / Sentinel / Indepth | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/assurance-ai-litmus-sentinel-indepth>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Applied GenAI for Workplace Productivity | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/applied-gen-ai-for-workplace-productivity>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Applications/Tools Development &amp; Enhancement | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/applications-tools-development-and-enhancement>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: Appeal Management System | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/appeal-management-system>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: APEX Cloud | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/apex-cloud>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: AI-Powered MOMGPT Platform | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/ai-powered-momgpt-platform>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: AI-Enabled Procurement Solutions | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/ai-enabled-procurement-solutions>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: AI-Augmented Infrastructure Automation | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/ai-augmented-infrastructure-automation>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: AI-Assisted Incident Response &amp; RCA | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/ai-assisted-incident-response-and-rca>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: AI Solutions to Improve Software Delivery | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/ai-solutions-to-improve-software-delivery>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: AI Programme | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/ai-programme>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: AI Product Governance Platform | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/ai-product-governance-platform>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: AI Enablement for Government Digital Transformation | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/ai-enablement-for-government-digital-transformation>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: AI Cloud Security Platform | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/ai-cloud-security-platform>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Software Engineer: AI Assistant | [Apply](<https://internships.tech.gov.sg/projects/software-engineer/ai-assistant>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Scientist: Tech for Public Good - AI Innovation Team | [Apply](<https://internships.tech.gov.sg/projects/data-scientist/tech-for-public-good-ai-innovation-team>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Scientist: Singpass | [Apply](<https://internships.tech.gov.sg/projects/data-scientist/singpass>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Scientist: Responsible AI | [Apply](<https://internships.tech.gov.sg/projects/data-scientist/responsible-ai>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Scientist: Research of MOE DXD Products | [Apply](<https://internships.tech.gov.sg/projects/data-scientist/research-of-moe-dxd-products>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Scientist: LLM-Driven Red Team &amp; Payload Automation | [Apply](<https://internships.tech.gov.sg/projects/data-scientist/llm-driven-red-team-and-payload-automation>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Scientist: Graph Analytics &amp; Predictions Hub (GRAPH) | [Apply](<https://internships.tech.gov.sg/projects/data-scientist/graph-analytics-and-predictions-hub-graph>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Scientist: GovTech Anti-Scam Products (GASP) | [Apply](<https://internships.tech.gov.sg/projects/data-scientist/gov-tech-anti-scam-products-gasp>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Scientist: GASP - Mother Memory | [Apply](<https://internships.tech.gov.sg/projects/data-scientist/gasp-mother-memory>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Scientist: Enabling Responsible Data Use for AI in Government | [Apply](<https://internships.tech.gov.sg/projects/data-scientist/enabling-responsible-data-use-for-ai-in-government>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Scientist: EmPOWER Workplace Fairness | [Apply](<https://internships.tech.gov.sg/projects/data-scientist/em-power-workplace-fairness-economic-and-national-development>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Scientist: Audit Automation | [Apply](<https://internships.tech.gov.sg/projects/data-scientist/audit-automation>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Scientist: AssureAI | [Apply](<https://internships.tech.gov.sg/projects/data-scientist/assure-ai>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Scientist: AI-Assisted Red Team Reconnaissance | [Apply](<https://internships.tech.gov.sg/projects/data-scientist/ai-assisted-red-team-reconnaissance>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Scientist: AI Evaluation of MOE DXD Products | [Apply](<https://internships.tech.gov.sg/projects/data-scientist/ai-evaluation-of-moe-dxd-products>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Engineer: StellarNet and Nuclear Command Center Ops | [Apply](<https://internships.tech.gov.sg/projects/data-engineer/stellar-net-and-nuclear-command-center-ops>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Engineer: Singpass Data Platform | [Apply](<https://internships.tech.gov.sg/projects/data-engineer/singpass-data-platform>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Engineer: SSOE - Data-as-a-Service | [Apply](<https://internships.tech.gov.sg/projects/data-engineer/ssoe-data-as-a-service>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Engineer: MSF DataSphere | [Apply](<https://internships.tech.gov.sg/projects/data-engineer/msf-data-sphere>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Engineer: Finance | [Apply](<https://internships.tech.gov.sg/projects/data-engineer/finance>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Data Engineer: Build &amp; Automate WOG ICT Spend Data Pipeline | [Apply](<https://internships.tech.gov.sg/projects/data-engineer/build-and-automate-wog-ict-spend-data-pipeline>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Cybersecurity Engineer: Use of AI in Cybersecurity Operations | [Apply](<https://internships.tech.gov.sg/projects/cybersecurity-engineer/use-of-ai-in-cybersecurity-operations>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Cybersecurity Engineer: Post-Quantum Cryptography Engineering | [Apply](<https://internships.tech.gov.sg/projects/cybersecurity-engineer/post-quantum-cryptography-engineering>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Cybersecurity Engineer: Operationalising WOG CyberSec Initiatives | [Apply](<https://internships.tech.gov.sg/projects/cybersecurity-engineer/operationalising-wog-cyber-sec-initiatives>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Cybersecurity Engineer: Enhancement of CyberSec Ops &amp; IR | [Apply](<https://internships.tech.gov.sg/projects/cybersecurity-engineer/enhancement-of-cyber-sec-ops-and-ir>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Cybersecurity Engineer: Develop Knowledge Hub from Pen Test Findings | [Apply](<https://internships.tech.gov.sg/projects/cybersecurity-engineer/develop-knowledge-hub-from-pen-test-findings>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Cybersecurity Engineer: Cybersecurity Threat Modelling | [Apply](<https://internships.tech.gov.sg/projects/cybersecurity-engineer/cybersecurity-threat-modelling>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Cybersecurity Engineer: Crowdsourced Vulnerability Discovery Programme | [Apply](<https://internships.tech.gov.sg/projects/cybersecurity-engineer/crowdsourced-vulnerability-discovery-programme>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Cybersecurity Engineer: AI Tooling for Mobile Security | [Apply](<https://internships.tech.gov.sg/projects/cybersecurity-engineer/ai-tooling-for-mobile-security>) | - | - | 24 Sep 2026 |
-| ↳ | Tech – Cybersecurity Engineer: AI Security &amp; Architecture Solutioning | [Apply](<https://internships.tech.gov.sg/projects/cybersecurity-engineer/ai-security-and-architecture-solutioning>) | - | - | 24 Sep 2026 |
 | ByteDance | Software Engineer Intern (Traffic Architecture) - 2027 Start | [Apply](<https://joinbytedance.com/search/7667819980343593269>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Software Engineer Intern (Global Payment-Payment Network) - 2027 Start | [Apply](<https://joinbytedance.com/search/7669697232158640389>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Software Engineer Intern (Global Payment-Financial Product) - 2027 Start | [Apply](<https://joinbytedance.com/search/7669741311945935109>) | 2027 Start | - | 24 Sep 2026 |
@@ -554,6 +430,128 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Razer | Applied AI Intern | 30 Sep 2026 | - |
+| GovTech | Tech – Software Engineer: CIOO Applications &amp; Products | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Cybersecurity Engineer: Crowdsourced Vulnerability Discovery Programme | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Cybersecurity Engineer: Cybersecurity Threat Modelling | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Consulting - Rapid AI Modernisation Programme | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Modernisation Initiatives - Consulting | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Scientist: AI-Assisted Red Team Reconnaissance | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Scientist: LLM-Driven Red Team &amp; Payload Automation | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: LifeSG | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Cybersecurity Engineer: Operationalising WOG CyberSec Initiatives | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: GCSOC Agency Self-Service Portal | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Cybersecurity Tools &amp; Automation | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: SecOps Internal Tooling &amp; Services Development | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Safer Online Spaces (SOS) - My First Phone | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Scientist: GASP - Mother Memory | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Scientist: Graph Analytics &amp; Predictions Hub (GRAPH) | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Engineer: Build &amp; Automate WOG ICT Spend Data Pipeline | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Engineering the Future of GRC | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Cybersecurity Engineer: AI Security &amp; Architecture Solutioning | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Systems Engineer: IM8 CONOPS | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Augment Resource Buddy | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Systems Engineer: DevOps Infrastructure Automation | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: AI-Enabled Procurement Solutions | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Applications/Tools Development &amp; Enhancement | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Appeal Management System | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Engineer: Finance | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Automation &amp; AI Solutions | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Cybersecurity Engineer: Post-Quantum Cryptography Engineering | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: GatherSG | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Scientist: Research of MOE DXD Products | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: AI Programme | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Scientist: AI Evaluation of MOE DXD Products | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Scientist: EmPOWER Workplace Fairness | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: EmPOWER Workplace Fairness | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Cybersecurity Engineer: Use of AI in Cybersecurity Operations | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Cybersecurity Engineer: Enhancement of CyberSec Ops &amp; IR | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Product Scorecard, Craft, Elevate | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Cybersecurity Engineer: AI Tooling for Mobile Security | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Workplace Experience Programme (B) | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Information Services Programme (Applied AI) | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Systems Engineer: Systems Technologies | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Scientist: Responsible AI | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Runtime (Container Stack/Airbase/GovPaaS) | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Workplace Experience Programme (A) | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: TradeNet | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: SHIPHATS - AI Coding Tools | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: SSOE equip4work | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: ServiceNow CoE | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: AI Cloud Security Platform | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: AI Product Governance Platform | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Retina | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: DataHive | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Partner Experience for Singpass Integrations | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Singpass Admin Portal Operational Tooling | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: PA Community Portal | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Scientist: Singpass | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Infrastructure and Services for Schools | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Infrastructure Observability Tools | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: One Client View (OneCV) | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: MySkillsFuture 2.0 | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Scientist: AssureAI | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Applied GenAI for Workplace Productivity | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Standard Data Platforms (SDP) | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: OS2.0 Programme | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: DLP Rule Processing Engine Development | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Integrated Digital Workspace | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Data Exchange Platform | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Labour Market Data Platform | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: AI-Powered MOMGPT Platform | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Digital Records Management | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Public Statistics Platform | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Digital Survey Platform | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: GCC2.0 - Customer Success | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Cybersecurity Engineer: Develop Knowledge Hub from Pen Test Findings | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: AI-Augmented Infrastructure Automation | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Salesforce CoE | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: CrowdTaskSG | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: AI Solutions to Improve Software Delivery | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Enablement, DataTable | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Systems Engineer: MSF DataSphere | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Engineer: MSF DataSphere | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Singpass Authentication | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Authorisation System Modernisation | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Engineer: StellarNet and Nuclear Command Center Ops | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Cloud Ready Infra &amp; Security Platform (CRISP) | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Systems Engineer: IT Infrastructure Engineering | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Systems Engineer: MOE DXD Resilience Operations and Development | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: APEX Cloud | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Singapore Government Developer Portal | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: AI-Assisted Incident Response &amp; RCA | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Modernisation Initiatives | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Engineer: Singpass Data Platform | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Workpal Mobile Platform (B) | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Workpal Mobile Platform (A) | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: GovAssure Enterprise Risk Management | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Government on Commercial Cloud (GCC) | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: GovAssure | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: SEED | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Console | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: enTRUST | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Digital Accelerator Programme | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Usability &amp; Accessibility | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: WINS Work Permit | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Scientist: GovTech Anti-Scam Products (GASP) | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Scam Analytics &amp; Tactical Intervention System | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Network Monitoring Agent for Multi-Cloud | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Scientist: Tech for Public Good - AI Innovation Team | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: TechPass | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: AI Assistant | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Engineer: SSOE - Data-as-a-Service | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Government Commercial Cloud | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Test Automation Toolkits | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: GovEntry (B) | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Info Concierge | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: AssuranceAI - Litmus / Sentinel / Indepth | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Physical AI Across Robot Embodiments | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: GovEntry (A) | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: GovWallet | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Scientist: Enabling Responsible Data Use for AI in Government | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: Console (TechBiz) | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Software Engineer: AI Enablement for Government Digital Transformation | 30 Sep 2026 | Application deadline passed |
+| ↳ | Tech – Data Scientist: Audit Automation | 30 Sep 2026 | Application deadline passed |
 | Micron | Intern- Test Solutions Engineer | 30 Sep 2026 | - |
 | ↳ | Intern- Test Solutions Engineer | 30 Sep 2026 | - |
 | ↳ | Intern- MSB Process Integration Engineer | 30 Sep 2026 | - |
@@ -602,9 +600,9 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
-| workday:uobgroup | Complete | 2 |
+| workday:uobgroup | ⚠️ Incomplete — previous listings retained | 2 |
 | workday:amat | Complete | 12 |
-| workday:globalfoundries | ⚠️ Incomplete — previous listings retained | 7 |
+| workday:globalfoundries | Complete | 10 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 19 |
 | workday:nvidia | Complete | 0 |
@@ -646,7 +644,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | Complete | 4 |
+| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 4 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |

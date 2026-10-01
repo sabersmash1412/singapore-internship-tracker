@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**379 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**378 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **01 Oct 2026, 15:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **01 Oct 2026, 15:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -27,8 +27,8 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Hardware Design Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Design-Intern---Bachelor-s-Master-s-Degree_2604427>) | - | 30 Sep 2026 | 30 Sep 2026 |
 | NLB National Library Board | 🆕 Marketing Analytics Intern, Marketing &amp; Corporate Solutions | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/NLB-National-Library-Building/Marketing-Intern--Marketing---Corporate-Solutions_JR-10000053281>) | - | 29 Sep 2026 | 29 Sep 2026 |
 | Micron | 🆕 Intern - STPG Product System | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-Product-System_JR111189>) | - | 29 Sep 2026 | 29 Sep 2026 |
-| Razer | 🆕 Software Cloud Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Cloud-Intern_JR2026007798>) | - | 29 Sep 2026 | 29 Sep 2026 |
-| Micron | 🆕 Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111156>) | Jan to May 2027 | 29 Sep 2026 | 29 Sep 2026 |
+| Razer | Software Cloud Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Cloud-Intern_JR2026007798>) | - | 29 Sep 2026 | 29 Sep 2026 |
+| Micron | Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111156>) | Jan to May 2027 | 29 Sep 2026 | 29 Sep 2026 |
 | ByteDance | Security Analyst Project Intern (Global Corporate Security Operations Center) - 2027 Start | [Apply](<https://joinbytedance.com/search/7690422566842386693>) | 2027 Start | - | 29 Sep 2026 |
 | Temasek | Strategy and Programme Management Intern, Cybersecurity, Centre of Excellence (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Strategy-and-Programme-Management-Intern%2C-Cybersecurity%2C-Centre-of-Excellence-%28Jan-Jun-2027%29-238891/1369202157/>) | Jan - Jun 2027 | 09 Sep 2026 | 28 Sep 2026 |
 | ↳ | RPA &amp; GenAI Automation Intern, Operations (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/RPA-&-GenAI-Automation-Intern%2C-Operations-%28Jan-Jun-2027%29-238891/1369197757/>) | Jan - Jun 2027 | 09 Sep 2026 | 28 Sep 2026 |
@@ -58,7 +58,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Computer Vision Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Computer-Vision-Intern_JR2026007731>) | - | 17 Aug 2026 | 28 Sep 2026 |
 | ↳ | Applied AI Intern (Voice) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784>) | - | 29 Sep 2026 | 28 Sep 2026 |
 | ↳ | AI Engineer Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/AI-Engineer-Intern_JR2026006947>) | - | 11 Sep 2026 | 28 Sep 2026 |
-| ↳ | AI Data Engineer Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/AI-Data-Engineer-Intern_JR2026007475-1>) | - | 15 Sep 2026 | 28 Sep 2026 |
 | QCP | Intern, Trading - ALM (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/4599D0F542>) | Jan - Jun 2027 | 26 Aug 2026 | 28 Sep 2026 |
 | ↳ | Intern, Quantitative Developer - Trading (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/ABEB48A3E4>) | Jan - Jun 2027 | 24 Sep 2026 | 28 Sep 2026 |
 | ↳ | Intern, IT Governance &amp; Security (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/1030A7B64B>) | Jan - Jun 2027 | 18 Aug 2026 | 28 Sep 2026 |
@@ -432,6 +431,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Razer | AI Data Engineer Intern | 01 Oct 2026 | - |
 | Sea | Backend Engineer Intern | 01 Oct 2026 | - |
 | Razer | Applied AI Intern | 30 Sep 2026 | - |
 | GovTech | Tech – Software Engineer: CIOO Applications &amp; Products | 30 Sep 2026 | Application deadline passed |
@@ -656,7 +656,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:AccorHotel | Complete | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |

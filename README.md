@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**379 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**378 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **02 Oct 2026, 00:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **02 Oct 2026, 00:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -24,8 +24,8 @@ These roles remain listed in employer sources; confirm application availability 
 | Thales | 🆕 Software Engineer Intern (Python) | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/Software-Engineer-Intern--Python-_R0342044>) | - | 01 Oct 2026 | 01 Oct 2026 |
 | Sea | 🆕 Product Engineer Intern - Backend Focused | [Apply](<https://career.sea.com/position/J02195534>) | Jan 2027 Start | - | 01 Oct 2026 |
 | Marvell | 🆕 Business Planning System Analyst Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Business-Planning-System-Analyst-Intern---Bachelor-s-Degree_2603816>) | - | 30 Sep 2026 | 30 Sep 2026 |
-| ↳ | 🆕 Hardware Validation Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Validation-Intern---Bachelor-s-Master-s-Degree_2603741>) | - | 30 Sep 2026 | 30 Sep 2026 |
-| ↳ | 🆕 Hardware Design Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Design-Intern---Bachelor-s-Master-s-Degree_2604427>) | - | 30 Sep 2026 | 30 Sep 2026 |
+| ↳ | Hardware Validation Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Validation-Intern---Bachelor-s-Master-s-Degree_2603741>) | - | 30 Sep 2026 | 30 Sep 2026 |
+| ↳ | Hardware Design Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Design-Intern---Bachelor-s-Master-s-Degree_2604427>) | - | 30 Sep 2026 | 30 Sep 2026 |
 | NLB National Library Board | Marketing Analytics Intern, Marketing &amp; Corporate Solutions | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/NLB-National-Library-Building/Marketing-Intern--Marketing---Corporate-Solutions_JR-10000053281>) | - | 29 Sep 2026 | 29 Sep 2026 |
 | Micron | Intern - STPG Product System | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-Product-System_JR111189>) | - | 29 Sep 2026 | 29 Sep 2026 |
 | Razer | Software Cloud Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Cloud-Intern_JR2026007798>) | - | 29 Sep 2026 | 29 Sep 2026 |
@@ -99,7 +99,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Quantitative Developer Intern | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8138524>) | - | 18 Aug 2026 | 24 Sep 2026 |
 | Stripe | Software Engineer, Intern | [Apply](<https://stripe.com/jobs/search?gh_jid=8130883>) | - | 07 Sep 2026 | 24 Sep 2026 |
 | SLA Singapore Land Authority | Intern, GeoSpatial Systems &amp; Solutions | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/SLA-REVENUE-HOUSE-LEVEL-11/Intern--GeoSpatial-Systems---Solutions_JR-10000054096>) | - | 25 Sep 2026 | 24 Sep 2026 |
-| ↳ | Intern, Finance Process Automation | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/SLA-REVENUE-HOUSE-LEVEL-11/intern_JR-10000036273>) | Oct 2026 to Feb 2027 / Jan 2027 to June 2027 | 11 Sep 2026 | 24 Sep 2026 |
 | Portcast | Data Analyst Intern | [Apply](<https://jobs.lever.co/portcast/f18cc64e-c34a-416c-b213-62a39906260e>) | - | - | 24 Sep 2026 |
 | Palantir Technologies | Software Engineer, Internship | [Apply](<https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1>) | - | - | 24 Sep 2026 |
 | NCS | \[Uni – Jan till Jun 2027\] Agentic AI Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001275993>) | Jan till Jun 2027 | 31 Jul 2026 | 24 Sep 2026 |
@@ -432,6 +431,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| SLA Singapore Land Authority | Intern, Finance Process Automation | 02 Oct 2026 | - |
 | Razer | AI Data Engineer Intern | 01 Oct 2026 | - |
 | Sea | Backend Engineer Intern | 01 Oct 2026 | - |
 | Razer | Applied AI Intern | 30 Sep 2026 | - |
@@ -742,7 +742,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
-| successfactors:singtel | ⚠️ Incomplete — previous listings retained | 0 |
+| successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:temasek | Complete | 14 |
 

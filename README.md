@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **379 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **01 Oct 2026, 20:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **01 Oct 2026, 20:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -612,7 +612,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -657,7 +657,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | Complete | 0 |
+| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |
@@ -698,13 +698,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
-| workday:jll | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:jll | Complete | 0 |
 | workday:jci | Complete | 1 |
 | workday:kla | Complete | 0 |
 | ashby:langchain | Complete | 0 |
 | greenhouse:launchdarkly | Complete | 0 |
 | workday:logitech | Complete | 0 |
-| smartrecruiters:LouisDreyfusCompany | Complete | 0 |
+| smartrecruiters:LouisDreyfusCompany | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:manulife | Complete | 0 |
 | workday:marvell | Complete | 4 |
 | workday:mastercard | Complete | 0 |
@@ -730,7 +730,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 0 |
 | greenhouse:sentinellabs | Complete | 0 |
-| smartrecruiters:SGS | Complete | 0 |
+| smartrecruiters:SGS | ⚠️ Incomplete — previous listings retained | 0 |
 | lever:shieldai | Complete | 0 |
 | greenhouse:smartlyio | Complete | 0 |
 | workday:sonyglobal | Complete | 0 |

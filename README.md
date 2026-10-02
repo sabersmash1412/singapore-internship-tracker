@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**379 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**377 current or undated listings · 15 older advertised periods · 45 employers with roles**
 
-Last collection: **03 Oct 2026, 00:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **03 Oct 2026, 01:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -154,8 +154,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Intern - F10 QEM Product Quality Engineering Yield Data Analytics | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-QEM-Product-Quality-Engineering-Yield-Data-Analaytics_JR109828>) | Jan to May 2027 | 03 Sep 2026 | 24 Sep 2026 |
 | ↳ | Intern - F10 Process Integration Analytics | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-Process-Integration-Analytics_JR111305>) | January 2027 to June 2027 | 18 Sep 2026 | 24 Sep 2026 |
 | ↳ | Intern - F10 CVD PEE | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-CVD-PEE_JR97726>) | - | 03 Aug 2026 | 24 Sep 2026 |
-| Apple | Information Security Internship Program (FY27 Summer Intake) | [Apply](<https://jobs.apple.com/en-us/details/200684585-3278/information-security-internship-program-fy27-summer-intake>) | - | 18 Sep 2026 | 24 Sep 2026 |
-| ↳ | 2027 Apple Internship - Information Systems and Technology | [Apply](<https://jobs.apple.com/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology>) | - | 06 Aug 2026 | 24 Sep 2026 |
 | Amazon | Software Developer Intern, Field Innovation, Security Search and Observability (SSO) | [Apply](<https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso>) | Jan 2027 - June 2027 | 16 Sep 2026 | 24 Sep 2026 |
 | ↳ | Program Manager Intern, APAC Data Center Delivery Operations | [Apply](<https://www.amazon.jobs/en/jobs/10529692/program-manager-intern-apac-data-center-delivery-operations>) | Jan to Jun 2027 | 04 Sep 2026 | 24 Sep 2026 |
 | AMD | Wafer Sort &amp; Final Test Hardware Development Engineer Intern | [Apply](<https://careers.amd.com/students/jobs/91461>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
@@ -432,6 +430,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Apple | Information Security Internship Program (FY27 Summer Intake) | 03 Oct 2026 | - |
+| ↳ | 2027 Apple Internship - Information Systems and Technology | 03 Oct 2026 | - |
 | Applied Materials | Intern - Intellectual Property Analytics | 02 Oct 2026 | - |
 | Razer | AI Data Engineer Intern | 01 Oct 2026 | - |
 | Sea | Backend Engineer Intern | 01 Oct 2026 | - |
@@ -604,7 +604,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 8 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 12 |
 | workday:globalfoundries | Complete | 11 |
@@ -745,7 +745,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 14 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 13 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

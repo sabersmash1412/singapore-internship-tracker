@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**380 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**379 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **02 Oct 2026, 17:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **02 Oct 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,7 +20,6 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| Applied Materials | 🆕 Intern - Intellectual Property Analytics | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Intern---Intellectual-Property-Analytics_R2627448>) | - | 02 Oct 2026 | 02 Oct 2026 |
 | TikTok | 🆕 AI Agent Project Intern (Open Platform) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7691567961421728053>) | 2026 Start | - | 01 Oct 2026 |
 | Thales | 🆕 Software Engineer Intern (Python) | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/Software-Engineer-Intern--Python-_R0342044>) | - | 01 Oct 2026 | 01 Oct 2026 |
 | Sea | 🆕 Product Engineer Intern - Backend Focused | [Apply](<https://career.sea.com/position/J02195534>) | Jan 2027 Start | - | 01 Oct 2026 |
@@ -433,6 +432,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Applied Materials | Intern - Intellectual Property Analytics | 02 Oct 2026 | - |
 | Razer | AI Data Engineer Intern | 01 Oct 2026 | - |
 | Sea | Backend Engineer Intern | 01 Oct 2026 | - |
 | Razer | Applied AI Intern | 30 Sep 2026 | - |
@@ -613,13 +613,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
 | lever:binance | Complete | 0 |
 | greenhouse:bitgo | Complete | 0 |
-| smartrecruiters:BoschGroup | Complete | 2 |
+| smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
 | ashby:cantina | Complete | 1 |
 | smartrecruiters:CarousellGroup | Complete | 1 |
 | ashby:clickhouse | Complete | 0 |

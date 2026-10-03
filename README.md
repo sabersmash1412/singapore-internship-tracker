@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **379 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **03 Oct 2026, 15:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **03 Oct 2026, 15:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -606,14 +606,14 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:dbs | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:amat | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:globalfoundries | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:amat | Complete | 12 |
+| workday:globalfoundries | Complete | 11 |
 | workday:nxp | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:micron | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:micron | Complete | 19 |
 | workday:nvidia | ⚠️ Incomplete — previous listings retained | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | Complete | 2 |
+| apple:apple | Complete | 0 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -662,12 +662,12 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:aia | ⚠️ Incomplete — previous listings retained | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |
-| workday:analogdevices | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:analogdevices | Complete | 0 |
 | greenhouse:anthropic | Complete | 0 |
-| workday:autodesk | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:blackrock | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:autodesk | Complete | 9 |
+| workday:blackrock | Complete | 0 |
 | greenhouse:braze | Complete | 0 |
-| workday:broadcom | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:broadcom | Complete | 0 |
 | workday:carrier | ⚠️ Incomplete — previous listings retained | 0 |
 | ashby:chalk | Complete | 0 |
 | workday:citi | ⚠️ Incomplete — previous listings retained | 0 |
@@ -694,28 +694,28 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:gitlab | Complete | 0 |
 | greenhouse:grafanalabs | Complete | 0 |
 | ashby:harvey | Complete | 0 |
-| workday:hitachi | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:hitachi | Complete | 1 |
 | workday:hp | ⚠️ Incomplete — previous listings retained | 0 |
 | workable:iglooinsure | Complete | 0 |
-| workday:illumina | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
-| workday:jll | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:jll | Complete | 0 |
 | workday:jci | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:kla | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:kla | Complete | 0 |
 | ashby:langchain | Complete | 0 |
 | greenhouse:launchdarkly | Complete | 0 |
 | workday:logitech | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
 | workday:manulife | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:marvell | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:mastercard | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:marvell | Complete | 4 |
+| workday:mastercard | Complete | 0 |
 | lever:matchgroup | Complete | 0 |
 | greenhouse:mixpanel | Complete | 0 |
 | greenhouse:moloco | Complete | 0 |
 | smartrecruiters:MUFGInvestorServices | Complete | 0 |
 | greenhouse:newrelic | Complete | 0 |
 | smartrecruiters:NielsenIQ | Complete | 0 |
-| workday:paypal | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:paypal | Complete | 0 |
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |
 | workable:porsche-asia-pacific | Complete | 1 |
@@ -734,7 +734,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:SGS | Complete | 0 |
 | lever:shieldai | Complete | 0 |
 | greenhouse:smartlyio | Complete | 0 |
-| workday:sonyglobal | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:sonyglobal | Complete | 0 |
 | workday:thales | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:thetradedesk | Complete | 0 |
 | smartrecruiters:TheWonderfulCompany | Complete | 0 |

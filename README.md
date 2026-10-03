@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **379 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **03 Oct 2026, 23:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **04 Oct 2026, 00:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -599,7 +599,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:temus | Complete | 1 |
 | greenhouse:drweng | Complete | 5 |
 | bytedance:tiktok | Complete | 128 |
-| bytedance:bytedance | Complete | 34 |
+| bytedance:bytedance | ⚠️ Incomplete — previous listings retained | 0 |
 | shopee:shopee | Complete | 39 |
 | sea:sea | Complete | 8 |
 | govtech:internships | Complete | 121 |
@@ -743,7 +743,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
-| successfactors:singtel | Complete | 1 |
+| successfactors:singtel | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:temasek | Complete | 14 |
 

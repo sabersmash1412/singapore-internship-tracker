@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **384 current or undated listings · 15 older advertised periods · 47 employers with roles**
 
-Last collection: **05 Oct 2026, 23:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **06 Oct 2026, 00:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -657,7 +657,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | Complete | 4 |
+| workday:sggovterp | Complete | 3 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |
@@ -666,7 +666,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 1 |
-| smartrecruiters:AccorHotel | Complete | 0 |
+| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |
@@ -678,7 +678,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:broadcom | Complete | 0 |
 | workday:carrier | Complete | 0 |
 | ashby:chalk | Complete | 0 |
-| workday:citi | Complete | 0 |
+| workday:citi | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:CliffordChance | Complete | 0 |
 | greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |
@@ -739,7 +739,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 0 |
 | greenhouse:sentinellabs | Complete | 0 |
-| smartrecruiters:SGS | Complete | 0 |
+| smartrecruiters:SGS | ⚠️ Incomplete — previous listings retained | 0 |
 | lever:shieldai | Complete | 0 |
 | greenhouse:smartlyio | Complete | 0 |
 | workday:sonyglobal | Complete | 0 |
@@ -751,7 +751,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
-| successfactors:singtel | Complete | 1 |
+| successfactors:singtel | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:temasek | Complete | 14 |
 

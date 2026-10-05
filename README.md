@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**382 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**383 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **05 Oct 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **05 Oct 2026, 18:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,7 +20,8 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| Autodesk | 🆕 Intern, DevOps Engineer \[AEC-Connected Infrastructure Engineering\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363-1>) | - | 05 Oct 2026 | 05 Oct 2026 |
+| Autodesk | 🆕 Intern, Software Engineer in Test \[AEC Autocad Engineering\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362-1>) | - | 05 Oct 2026 | 05 Oct 2026 |
+| ↳ | 🆕 Intern, DevOps Engineer \[AEC-Connected Infrastructure Engineering\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363-1>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | Applied Materials | 🆕 Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Technology-Development-Engineer---Hybrid-Bonding---Advanced-Packaging--Internship-_R2626900>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | Autodesk | 🆕 Intern, Software Development Engineer \[AEC-AutoCAD Backend\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365-1>) | January - June 2027 | 05 Oct 2026 | 05 Oct 2026 |
 | Marvell | 🆕 Supply Chain Technology &amp; Analytics Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Supply-Chain-Technology---Analytics-Intern---Bachelor-s-Degree_2603845>) | - | 05 Oct 2026 | 05 Oct 2026 |
@@ -166,8 +167,8 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | IC Design Exploration Intern | [Apply](<https://careers.amd.com/students/jobs/76892>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
 | ↳ | Diagnostic Design Engineering Intern | [Apply](<https://careers.amd.com/students/jobs/76894>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
 | ↳ | Advanced Packaging Optical Characterization Intern (PhD, Master) | [Apply](<https://careers.amd.com/students/jobs/92029>) | Jan 2027 Start | 03 Sep 2026 | 24 Sep 2026 |
-| ↳ | AI-Driven CPU/GPU Development &amp; Co-Optimization Intern | [Apply](<https://careers.amd.com/students/jobs/91459>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
-| ↳ | AI-Driven BOM Generation &amp; Management Intern | [Apply](<https://careers.amd.com/students/jobs/91458>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
+| ↳ | 2027 Term 1 Internship – Developing AI &amp; Data Science Solutions to Accelerate AMD's Product Development | [Apply](<https://careers.amd.com/students/jobs/91459>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
+| ↳ | 2027 Term 1 Internship – AI-Driven BOM Generation &amp; Management | [Apply](<https://careers.amd.com/students/jobs/91458>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
 | GlobalFoundries | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604281>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
 | ↳ | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604277-1>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
 | ↳ | Machine Learning &amp; Generative AI Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Machine-Learning---Generative-AI-Intern--Jan-Jun-2027-_JR-2604518>) | Jan-Jun 2027 | 02 Sep 2026 | 24 Sep 2026 |
@@ -618,7 +619,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 7 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -669,7 +670,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:airbnb | Complete | 0 |
 | workday:analogdevices | Complete | 0 |
 | greenhouse:anthropic | Complete | 0 |
-| workday:autodesk | Complete | 11 |
+| workday:autodesk | Complete | 12 |
 | workday:blackrock | Complete | 0 |
 | greenhouse:braze | Complete | 0 |
 | workday:broadcom | Complete | 0 |
@@ -687,7 +688,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
-| smartrecruiters:Eurofins | Complete | 0 |
+| smartrecruiters:Eurofins | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
 | smartrecruiters:Experian | Complete | 0 |
 | smartrecruiters:Fastmarkets | Complete | 0 |
@@ -731,7 +732,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:replit | Complete | 0 |
 | greenhouse:ripple | Complete | 0 |
 | workday:roche | Complete | 0 |
-| workday:spgi | Complete | 0 |
+| workday:spgi | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:salesforce | Complete | 0 |
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 0 |

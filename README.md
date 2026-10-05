@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**384 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**383 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **05 Oct 2026, 18:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **05 Oct 2026, 19:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -163,12 +163,11 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 2027 Apple Internship - Information Systems and Technology | [Apply](<https://jobs.apple.com/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology>) | - | 06 Aug 2026 | 24 Sep 2026 |
 | Amazon | Software Developer Intern, Field Innovation, Security Search and Observability (SSO) | [Apply](<https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso>) | Jan 2027 - June 2027 | 16 Sep 2026 | 24 Sep 2026 |
 | ↳ | Program Manager Intern, APAC Data Center Delivery Operations | [Apply](<https://www.amazon.jobs/en/jobs/10529692/program-manager-intern-apac-data-center-delivery-operations>) | Jan to Jun 2027 | 04 Sep 2026 | 24 Sep 2026 |
-| AMD | Wafer Sort &amp; Final Test Hardware Development Engineer Intern | [Apply](<https://careers.amd.com/students/jobs/91461>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
-| ↳ | IC Design Exploration Intern | [Apply](<https://careers.amd.com/students/jobs/76892>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
-| ↳ | Advanced Packaging Optical Characterization Intern (PhD, Master) | [Apply](<https://careers.amd.com/students/jobs/92029>) | Jan 2027 Start | 03 Sep 2026 | 24 Sep 2026 |
-| ↳ | 2027 Term 1 Internship – Next-Gen Server Test &amp; Qualification | [Apply](<https://careers.amd.com/students/jobs/76898>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
+| AMD | 2027 Term 1 Internship – Next-Gen Server Test &amp; Qualification | [Apply](<https://careers.amd.com/students/jobs/76898>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
+| ↳ | 2027 Term 1 Internship – IC Design Exploration Intern | [Apply](<https://careers.amd.com/students/jobs/76892>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
 | ↳ | 2027 Term 1 Internship – Diagnostic Design Engineering | [Apply](<https://careers.amd.com/students/jobs/76894>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
 | ↳ | 2027 Term 1 Internship – Developing AI &amp; Data Science Solutions to Accelerate AMD's Product Development | [Apply](<https://careers.amd.com/students/jobs/91459>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
+| ↳ | 2027 Term 1 Internship – Advanced Packaging Optical Characterization Intern | [Apply](<https://careers.amd.com/students/jobs/92029>) | Jan 2027 Start | 03 Sep 2026 | 24 Sep 2026 |
 | ↳ | 2027 Term 1 Internship – AI-Driven BOM Generation &amp; Management | [Apply](<https://careers.amd.com/students/jobs/91458>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
 | GlobalFoundries | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604281>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
 | ↳ | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604277-1>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
@@ -437,6 +436,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| AMD | Wafer Sort &amp; Final Test Hardware Development Engineer Intern | 05 Oct 2026 | - |
 | Applied Materials | Intern - Field Operations Excellence Agent (Agentic AI) Development | 05 Oct 2026 | - |
 | HP | College Intern - Pen Health &amp; Servicing Algorithm Development Engineer | 05 Oct 2026 | - |
 | Applied Materials | Intern - Intellectual Property Analytics | 02 Oct 2026 | - |
@@ -752,7 +752,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 14 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 14 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

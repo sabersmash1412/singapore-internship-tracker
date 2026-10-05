@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**383 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**384 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **05 Oct 2026, 18:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **05 Oct 2026, 18:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Marvell | 🆕 Test Solutions Engineering Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Test-Solutions-Engineering-Intern---Bachelor-s-Degree_2604801>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | Autodesk | 🆕 Intern, Software Engineer in Test \[AEC Autocad Engineering\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362-1>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | ↳ | 🆕 Intern, DevOps Engineer \[AEC-Connected Infrastructure Engineering\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363-1>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | Applied Materials | 🆕 Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Technology-Development-Engineer---Hybrid-Bonding---Advanced-Packaging--Internship-_R2626900>) | - | 05 Oct 2026 | 05 Oct 2026 |
@@ -163,10 +164,10 @@ These roles remain listed in employer sources; confirm application availability 
 | Amazon | Software Developer Intern, Field Innovation, Security Search and Observability (SSO) | [Apply](<https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso>) | Jan 2027 - June 2027 | 16 Sep 2026 | 24 Sep 2026 |
 | ↳ | Program Manager Intern, APAC Data Center Delivery Operations | [Apply](<https://www.amazon.jobs/en/jobs/10529692/program-manager-intern-apac-data-center-delivery-operations>) | Jan to Jun 2027 | 04 Sep 2026 | 24 Sep 2026 |
 | AMD | Wafer Sort &amp; Final Test Hardware Development Engineer Intern | [Apply](<https://careers.amd.com/students/jobs/91461>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
-| ↳ | Next-Gen Server Test &amp; Qualification Intern | [Apply](<https://careers.amd.com/students/jobs/76898>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
 | ↳ | IC Design Exploration Intern | [Apply](<https://careers.amd.com/students/jobs/76892>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
-| ↳ | Diagnostic Design Engineering Intern | [Apply](<https://careers.amd.com/students/jobs/76894>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
 | ↳ | Advanced Packaging Optical Characterization Intern (PhD, Master) | [Apply](<https://careers.amd.com/students/jobs/92029>) | Jan 2027 Start | 03 Sep 2026 | 24 Sep 2026 |
+| ↳ | 2027 Term 1 Internship – Next-Gen Server Test &amp; Qualification | [Apply](<https://careers.amd.com/students/jobs/76898>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
+| ↳ | 2027 Term 1 Internship – Diagnostic Design Engineering | [Apply](<https://careers.amd.com/students/jobs/76894>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
 | ↳ | 2027 Term 1 Internship – Developing AI &amp; Data Science Solutions to Accelerate AMD's Product Development | [Apply](<https://careers.amd.com/students/jobs/91459>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
 | ↳ | 2027 Term 1 Internship – AI-Driven BOM Generation &amp; Management | [Apply](<https://careers.amd.com/students/jobs/91458>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
 | GlobalFoundries | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604281>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
@@ -617,7 +618,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 19 |
 | workday:nvidia | Complete | 0 |
-| amd:amd | Complete | 7 |
+| amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
 | apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
@@ -688,7 +689,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
-| smartrecruiters:Eurofins | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:Eurofins | Complete | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
 | smartrecruiters:Experian | Complete | 0 |
 | smartrecruiters:Fastmarkets | Complete | 0 |
@@ -713,7 +714,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:logitech | Complete | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
 | workday:manulife | Complete | 0 |
-| workday:marvell | Complete | 5 |
+| workday:marvell | Complete | 6 |
 | workday:mastercard | Complete | 0 |
 | lever:matchgroup | Complete | 0 |
 | greenhouse:mixpanel | Complete | 0 |
@@ -732,7 +733,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:replit | Complete | 0 |
 | greenhouse:ripple | Complete | 0 |
 | workday:roche | Complete | 0 |
-| workday:spgi | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:spgi | Complete | 0 |
 | workday:salesforce | Complete | 0 |
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 0 |

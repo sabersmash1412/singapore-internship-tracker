@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **383 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **05 Oct 2026, 20:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **05 Oct 2026, 20:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -714,7 +714,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:logitech | Complete | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
 | workday:manulife | Complete | 0 |
-| workday:marvell | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:marvell | Complete | 6 |
 | workday:mastercard | Complete | 0 |
 | lever:matchgroup | Complete | 0 |
 | greenhouse:mixpanel | Complete | 0 |

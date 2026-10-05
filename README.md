@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **379 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **05 Oct 2026, 14:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **05 Oct 2026, 14:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -162,7 +162,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Next-Gen Server Test &amp; Qualification Intern | [Apply](<https://careers.amd.com/students/jobs/76898>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
 | ↳ | IC Design Exploration Intern | [Apply](<https://careers.amd.com/students/jobs/76892>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
 | ↳ | Diagnostic Design Engineering Intern | [Apply](<https://careers.amd.com/students/jobs/76894>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
-| ↳ | Advanced Packaging Optical Characterization Intern | [Apply](<https://careers.amd.com/students/jobs/92029>) | Jan 2027 Start | 03 Sep 2026 | 24 Sep 2026 |
+| ↳ | Advanced Packaging Optical Characterization Intern (PhD, Master) | [Apply](<https://careers.amd.com/students/jobs/92029>) | Jan 2027 Start | 03 Sep 2026 | 24 Sep 2026 |
 | ↳ | AI-Driven CPU/GPU Development &amp; Co-Optimization Intern | [Apply](<https://careers.amd.com/students/jobs/91459>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
 | ↳ | AI-Driven BOM Generation &amp; Management Intern | [Apply](<https://careers.amd.com/students/jobs/91458>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
 | GlobalFoundries | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604281>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
@@ -746,7 +746,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 14 |
+| successfactors:temasek | Complete | 14 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**382 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**383 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **06 Oct 2026, 16:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **06 Oct 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Micron | 🆕 Intern- PIE RAM (Agentic AI) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--PIE-RAM--Agentic-AI-_JR112779>) | Jan to May 2027 | 06 Oct 2026 | 06 Oct 2026 |
 | Wise | 🆕 Analytics Intern | [Apply](<https://jobs.smartrecruiters.com/Wise/744000153502789>) | January 2027- June 2027 | 05 Oct 2026 | 05 Oct 2026 |
 | Marvell | 🆕 Test Solutions Engineering Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Test-Solutions-Engineering-Intern---Bachelor-s-Degree_2604801>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | Autodesk | 🆕 Intern, Software Engineer in Test \[AEC Autocad Engineering\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362-1>) | - | 05 Oct 2026 | 05 Oct 2026 |
@@ -615,13 +616,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 13 |
-| workday:globalfoundries | ⚠️ Incomplete — previous listings retained | 7 |
+| workday:globalfoundries | Complete | 11 |
 | workday:nxp | Complete | 0 |
-| workday:micron | Complete | 19 |
+| workday:micron | Complete | 20 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 0 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

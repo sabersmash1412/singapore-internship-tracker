@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**383 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**382 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **06 Oct 2026, 11:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **06 Oct 2026, 12:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -83,7 +83,6 @@ These roles remain listed in employer sources; confirm application availability 
 | EPOS | Sales Operations &amp; Automation Intern | [Apply](<https://apply.workable.com/j/61DE89D60B>) | - | 27 Aug 2026 | 28 Sep 2026 |
 | ↳ | AI Product Manager Intern | [Apply](<https://apply.workable.com/j/FB1EE7D84F>) | - | 26 Mar 2026 | 28 Sep 2026 |
 | Disney | Intern, APAC Data Analytics (Subscriber Analytics), Disney+ - Jan to Jun 2027 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Singapore-Singapore/Intern--APAC-Data-Analytics--Subscriber-Analytics---Disney----Jan-to-Jun-2027_10161268>) | Jan to Jun 2027 | 24 Sep 2026 | 28 Sep 2026 |
-| ↳ | Intern, APAC Data Analytics (Marketing Analytics), Disney+ - Jan to Jun 2027 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Singapore-Singapore/Intern--APAC-Data-Analytics--Marketing-Analytics---Disney----Jan-to-Jun-2027_10161183>) | Jan to Jun 2027 | 22 Sep 2026 | 28 Sep 2026 |
 | Autodesk | Intern, Software Development Engineer \[PSET-Localization\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100998-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
 | ↳ | Intern, Software Development Engineer \[PSET-Localization\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997-2>) | October - November 2026 | 25 Sep 2026 | 28 Sep 2026 |
 | ↳ | Intern, Software Development Engineer \[PSET-Connected Delivery\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
@@ -436,6 +435,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Disney | Intern, APAC Data Analytics (Marketing Analytics), Disney+ - Jan to Jun 2027 | 06 Oct 2026 | - |
 | NAC National Arts Council | Intern, Data &amp; Research (Data) - 6 Months Contract | 06 Oct 2026 | - |
 | AMD | Wafer Sort &amp; Final Test Hardware Development Engineer Intern | 05 Oct 2026 | - |
 | Applied Materials | Intern - Field Operations Excellence Agent (Agentic AI) Development | 05 Oct 2026 | - |
@@ -621,7 +621,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | Complete | 2 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -707,7 +707,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
-| workday:jll | Complete | 0 |
+| workday:jll | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:jci | Complete | 1 |
 | workday:kla | Complete | 0 |
 | ashby:langchain | Complete | 0 |
@@ -740,7 +740,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:sanofi | Complete | 0 |
 | greenhouse:sentinellabs | Complete | 0 |
 | smartrecruiters:SGS | Complete | 0 |
-| lever:shieldai | ⚠️ Incomplete — previous listings retained | 0 |
+| lever:shieldai | Complete | 0 |
 | greenhouse:smartlyio | Complete | 0 |
 | workday:sonyglobal | Complete | 0 |
 | workday:thales | Complete | 5 |
@@ -753,7 +753,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 14 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 4 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

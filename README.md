@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **383 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **07 Oct 2026, 09:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **07 Oct 2026, 10:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -425,7 +425,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | Data Analyst Intern - Warehouse Operations, Regional Operations (Spring 2025) | [Apply](<https://careers.shopee.sg/job-detail/J00255224/1>) | Spring 2025 | - | 24 Sep 2026 |
 | ↳ | Data Analyst Intern - Listing and Content, Regional Operations (Fall 2025) | [Apply](<https://careers.shopee.sg/job-detail/J00316416/1>) | Fall 2025 | - | 24 Sep 2026 |
 | ↳ | Data Analyst Intern - Business Intelligence, Regional Logistics (Summer 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02059847/1>) | Summer 2026 | - | 24 Sep 2026 |
-| ↳ | Data &amp; Insights Intern - President's Office (Summer 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02109327/1>) | Summer 2026 | - | 24 Sep 2026 |
+| ↳ | Data &amp; Insights Intern - President's Office (Spring 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02109327/1>) | Spring 2026 | - | 24 Sep 2026 |
 | ↳ | Data &amp; Insights Intern - President's Office (Spring 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02064723/1>) | Spring 2026 | - | 24 Sep 2026 |
 | ↳ | AI Automation &amp; Operations Intelligence Intern - Regional SPX Express (Spring 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02105769/1>) | Spring 2026 | - | 24 Sep 2026 |
 
@@ -622,7 +622,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -704,7 +704,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:grafanalabs | Complete | 0 |
 | ashby:harvey | Complete | 0 |
 | workday:hitachi | Complete | 1 |
-| workday:hp | Complete | 6 |
+| workday:hp | ⚠️ Incomplete — previous listings retained | 0 |
 | workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
@@ -717,7 +717,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
 | workday:manulife | Complete | 0 |
 | workday:marvell | Complete | 6 |
-| workday:mastercard | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:mastercard | Complete | 0 |
 | lever:matchgroup | Complete | 0 |
 | greenhouse:mixpanel | Complete | 0 |
 | greenhouse:moloco | Complete | 0 |

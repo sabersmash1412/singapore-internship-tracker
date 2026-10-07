@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **385 current or undated listings · 15 older advertised periods · 47 employers with roles**
 
-Last collection: **07 Oct 2026, 15:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **07 Oct 2026, 15:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -29,7 +29,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Intern, DevOps Engineer \[AEC-Connected Infrastructure Engineering\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363-1>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | Applied Materials | 🆕 Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Technology-Development-Engineer---Hybrid-Bonding---Advanced-Packaging--Internship-_R2626900>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | Autodesk | 🆕 Intern, Software Development Engineer \[AEC-AutoCAD Backend\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365-1>) | January - June 2027 | 05 Oct 2026 | 05 Oct 2026 |
-| Marvell | 🆕 Supply Chain Technology &amp; Analytics Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Supply-Chain-Technology---Analytics-Intern---Bachelor-s-Degree_2603845>) | - | 05 Oct 2026 | 05 Oct 2026 |
+| Marvell | Supply Chain Technology &amp; Analytics Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Supply-Chain-Technology---Analytics-Intern---Bachelor-s-Degree_2603845>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | TikTok | AI Agent Project Intern (Open Platform) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7691567961421728053>) | 2026 Start | - | 01 Oct 2026 |
 | Thales | Software Engineer Intern (Python) | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/Software-Engineer-Intern--Python-_R0342044>) | - | 01 Oct 2026 | 01 Oct 2026 |
 | Sea | Product Engineer Intern - Backend Focused | [Apply](<https://career.sea.com/position/J02195534>) | Jan 2027 Start | - | 01 Oct 2026 |
@@ -613,7 +613,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | bytedance:bytedance | Complete | 34 |
 | shopee:shopee | Complete | 39 |
 | sea:sea | Complete | 8 |
-| govtech:internships | Complete | 121 |
+| govtech:internships | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
@@ -624,7 +624,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -756,7 +756,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 4 |
+| successfactors:temasek | Complete | 14 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

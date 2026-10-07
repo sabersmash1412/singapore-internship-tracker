@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **386 current or undated listings · 15 older advertised periods · 47 employers with roles**
 
-Last collection: **07 Oct 2026, 21:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **07 Oct 2026, 21:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -726,7 +726,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:moloco | Complete | 0 |
 | smartrecruiters:MUFGInvestorServices | Complete | 0 |
 | greenhouse:newrelic | Complete | 0 |
-| smartrecruiters:NielsenIQ | Complete | 0 |
+| smartrecruiters:NielsenIQ | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:paypal | Complete | 0 |
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |

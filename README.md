@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**385 current or undated listings · 15 older advertised periods · 47 employers with roles**
+**384 current or undated listings · 15 older advertised periods · 47 employers with roles**
 
-Last collection: **08 Oct 2026, 12:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **08 Oct 2026, 13:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -401,8 +401,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Intern, Analytics &amp; Projects, GrabMart | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147417509>) | January 2027 Start | 04 Sep 2026 | 21 Sep 2026 |
 | ↳ | Intern, Analytics &amp; Projects, GrabMart | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147416979>) | January 2027 Start | 04 Sep 2026 | 21 Sep 2026 |
 | ↳ | Intern, Analytics &amp; Projects, GrabFood | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147417199>) | January 2027 Start | 04 Sep 2026 | 21 Sep 2026 |
-| DRW | Software Engineer Intern (Data Engineering) | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8127242>) | - | 13 Aug 2026 | 21 Sep 2026 |
-| ↳ | Software Developer Intern (C++) | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8014910>) | - | 13 Jul 2026 | 21 Sep 2026 |
+| DRW | Software Developer Intern (C++) | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8014910>) | - | 13 Jul 2026 | 21 Sep 2026 |
 | ↳ | Quantitative Research Intern | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8014915>) | - | 13 Jul 2026 | 21 Sep 2026 |
 | ↳ | IT Intern | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8173677>) | - | 02 Sep 2026 | 21 Sep 2026 |
 
@@ -438,6 +437,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| DRW | Software Engineer Intern (Data Engineering) | 08 Oct 2026 | - |
 | TikTok | AI Data Project Intern (Eco &amp; Social Creation) - 2027 Start | 08 Oct 2026 | - |
 | Disney | Intern, APAC Data Analytics (Marketing Analytics), Disney+ - Jan to Jun 2027 | 06 Oct 2026 | - |
 | NAC National Arts Council | Intern, Data &amp; Research (Data) - 6 Months Contract | 06 Oct 2026 | - |

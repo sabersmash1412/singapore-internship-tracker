@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**384 current or undated listings · 15 older advertised periods · 48 employers with roles**
+**382 current or undated listings · 15 older advertised periods · 48 employers with roles**
 
-Last collection: **09 Oct 2026, 00:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **09 Oct 2026, 00:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -141,8 +141,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Airwallex | Software Engineer Intern (Summer 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795>) | Summer 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | Software Engineer Intern (Jan to Jun 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441>) | Jan to Jun 2027 | 14 Aug 2026 | 24 Sep 2026 |
 | ShopBack | Product Builder Intern (Product Engineering) | [Apply](<https://jobs.lever.co/shopback-2/5e5c78b0-1b9a-4c09-843d-49ea41e991fe>) | - | - | 24 Sep 2026 |
-| Micron | Intern - Test Solutions Engineering | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Test-Solutions-Engineering_JR109954>) | - | 01 Sep 2026 | 24 Sep 2026 |
-| ↳ | Intern - Product Engineering, NAND Validation/Characterization | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Product-Engineering--NAND-Validation-Characterization_JR111131>) | Jan to May 2027 | 22 Sep 2026 | 24 Sep 2026 |
+| Micron | Intern - Product Engineering, NAND Validation/Characterization | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Product-Engineering--NAND-Validation-Characterization_JR111131>) | Jan to May 2027 | 22 Sep 2026 | 24 Sep 2026 |
 | TikTok | Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start | [Apply](<https://lifeattiktok.com/search/7669738564847110453>) | 2027 Start | - | 24 Sep 2026 |
 | Shopee | Regional Large Language Model (LLM) Agent &amp; Prompt Engineering Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02042064/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02185576/1>) | Spring 2027 | - | 24 Sep 2026 |
@@ -159,7 +158,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Intern - NAND Product Engineering - Probe AI/ML | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Product-Engineering---Probe-AI-ML_JR110821>) | Jan to May 2027 | 07 Sep 2026 | 24 Sep 2026 |
 | ↳ | Intern - NAND Device Engineering AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Device-Engineering-AI_JR112107>) | - | 15 Sep 2026 | 24 Sep 2026 |
 | ↳ | Intern - Facilities Sustainability AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586>) | January to May 2027 | 22 Sep 2026 | 24 Sep 2026 |
-| ↳ | Intern - F10 QEM Product Quality Engineering Yield Data Analytics | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-QEM-Product-Quality-Engineering-Yield-Data-Analaytics_JR109828>) | Jan to May 2027 | 03 Sep 2026 | 24 Sep 2026 |
 | ↳ | Intern - F10 Process Integration Analytics | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-Process-Integration-Analytics_JR111305>) | January 2027 to June 2027 | 18 Sep 2026 | 24 Sep 2026 |
 | ↳ | Intern - F10 CVD PEE | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-CVD-PEE_JR97726>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | Apple | Information Security Internship Program (FY27 Summer Intake) | [Apply](<https://jobs.apple.com/en-us/details/200684585-3278/information-security-internship-program-fy27-summer-intake>) | - | 18 Sep 2026 | 24 Sep 2026 |
@@ -437,6 +435,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Micron | Intern - Test Solutions Engineering | 09 Oct 2026 | - |
+| ↳ | Intern - F10 QEM Product Quality Engineering Yield Data Analytics | 09 Oct 2026 | - |
 | HP | College Intern - NPI System Interaction Engineer | 08 Oct 2026 | - |
 | Bosch | Intern, AI Research | 08 Oct 2026 | - |
 | DRW | Software Engineer Intern (Data Engineering) | 08 Oct 2026 | - |
@@ -585,9 +585,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | NCS | \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | 25 Sep 2026 | - |
 | Shopee | Product Manager Intern, Traffic &amp; Content - LLM Feature (Fall 2026) | 25 Sep 2026 | - |
 | ↳ | Backend Engineer Intern, Marketplace Order Operations (Fall 2026) | 25 Sep 2026 | - |
-| Micron | Intern- PIE PI (Product Integration Engineering, Process Integration) | 25 Sep 2026 | - |
-| ↳ | Intern- MSB Process Integration Engineer | 25 Sep 2026 | - |
-| ↳ | Intern – ML/AI Engineer (Product Engineering, STPG) | 25 Sep 2026 | - |
 
 </details>
 

@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**384 current or undated listings · 15 older advertised periods · 47 employers with roles**
+**382 current or undated listings · 15 older advertised periods · 47 employers with roles**
 
-Last collection: **08 Oct 2026, 14:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **08 Oct 2026, 14:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -82,7 +82,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | College Intern - New Product Introduction Engineering (NPI IT Control Systems) | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---New-Product-Introduction-Engineering--NPI-IT-Control-Systems-_UNI4546-1>) | - | 26 Aug 2026 | 28 Sep 2026 |
 | ↳ | College Intern - NPI System Interaction Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---NPI-System-Interaction-Engineer_UNI4911>) | - | 30 Aug 2026 | 28 Sep 2026 |
 | ↳ | College Intern - Electrical/Electronics | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Science_UNI4035-1>) | January 2027 Start | 11 Sep 2026 | 28 Sep 2026 |
-| ↳ | College Intern - NPI System Interaction Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern----NPI-System-Interaction-Engineer_UNI4548-1>) | January 2027 Start | 26 Aug 2026 | 28 Sep 2026 |
 | Funding Societies &#124; Modalku Group | People Analytics &amp; Reporting Intern | [Apply](<https://apply.workable.com/j/E437A5580D>) | - | 27 Aug 2026 | 28 Sep 2026 |
 | EPOS | Sales Operations &amp; Automation Intern | [Apply](<https://apply.workable.com/j/61DE89D60B>) | - | 27 Aug 2026 | 28 Sep 2026 |
 | ↳ | AI Product Manager Intern | [Apply](<https://apply.workable.com/j/FB1EE7D84F>) | - | 26 Mar 2026 | 28 Sep 2026 |
@@ -137,7 +136,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Carousell Group | Forward Deployed Engineering Intern (AI Adoption Pod) | [Apply](<https://jobs.smartrecruiters.com/CarousellGroup/744000151263724>) | Oct 2026-Jun 2027 / Oct–Dec 2026 / Jan-Jun 2027 | 23 Sep 2026 | 24 Sep 2026 |
 | Cantina | Machine Learning Intern | [Apply](<https://jobs.ashbyhq.com/cantina/16c7915e-9fd7-413f-b7ee-590589fbdc01>) | October 2026 Start | 07 Sep 2026 | 24 Sep 2026 |
 | Bosch | Intern, Sales Excellence Data Analyst | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000150013555>) | - | 17 Sep 2026 | 24 Sep 2026 |
-| ↳ | Intern, AI Research | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000150014319>) | - | 17 Sep 2026 | 24 Sep 2026 |
 | Airwallex | Software Engineer Intern (Summer 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795>) | Summer 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | Software Engineer Intern (Jan to Jun 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441>) | Jan to Jun 2027 | 14 Aug 2026 | 24 Sep 2026 |
 | ShopBack | Product Builder Intern (Product Engineering) | [Apply](<https://jobs.lever.co/shopback-2/5e5c78b0-1b9a-4c09-843d-49ea41e991fe>) | - | - | 24 Sep 2026 |
@@ -437,6 +435,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| HP | College Intern - NPI System Interaction Engineer | 08 Oct 2026 | - |
+| Bosch | Intern, AI Research | 08 Oct 2026 | - |
 | DRW | Software Engineer Intern (Data Engineering) | 08 Oct 2026 | - |
 | TikTok | AI Data Project Intern (Eco &amp; Social Creation) - 2027 Start | 08 Oct 2026 | - |
 | Disney | Intern, APAC Data Analytics (Marketing Analytics), Disney+ - Jan to Jun 2027 | 06 Oct 2026 | - |
@@ -603,7 +603,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | shopee:shopee | Complete | 39 |
 | sea:sea | Complete | 8 |
 | govtech:internships | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:dbs | Complete | 1 |
+| workday:dbs | ⚠️ Incomplete — previous listings retained | 1 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 13 |
@@ -670,7 +670,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:broadcom | Complete | 0 |
 | workday:carrier | Complete | 0 |
 | ashby:chalk | Complete | 0 |
-| workday:citi | Complete | 0 |
+| workday:citi | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:CliffordChance | Complete | 0 |
 | greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |
@@ -706,7 +706,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:launchdarkly | Complete | 0 |
 | workday:logitech | Complete | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
-| workday:manulife | Complete | 0 |
+| workday:manulife | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:marvell | Complete | 6 |
 | workday:mastercard | Complete | 0 |
 | lever:matchgroup | Complete | 0 |

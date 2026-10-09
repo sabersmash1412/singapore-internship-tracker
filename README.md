@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **384 current or undated listings · 15 older advertised periods · 48 employers with roles**
 
-Last collection: **09 Oct 2026, 14:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **09 Oct 2026, 14:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -25,7 +25,7 @@ These roles remain listed in employer sources; confirm application availability 
 | NVIDIA | 🆕 PhD Research Intern, Autonomous Systems and Physical AI Research - 2027 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Remote/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2026322>) | - | 08 Oct 2026 | 08 Oct 2026 |
 | Micron | 🆕 Intern - HVM PEE Photo (AI) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979>) | - | 08 Oct 2026 | 08 Oct 2026 |
 | Autodesk | 🆕 Intern, Software Engineer \[PDMS-DPM-Engineering\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277-1>) | - | 07 Oct 2026 | 07 Oct 2026 |
-| Bosch | 🆕 Intern, Data Analyst | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000154012744>) | - | 07 Oct 2026 | 07 Oct 2026 |
+| Bosch | Intern, Data Analyst | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000154012744>) | - | 07 Oct 2026 | 07 Oct 2026 |
 | AIA | Intern, Enterprise Analytics | [Apply](<https://aia.wd3.myworkdayjobs.com/External/job/Singapore-SG-AIA-Singapore/Intern--Enterprise-Analytics_JR-69874>) | - | 07 Oct 2026 | 07 Oct 2026 |
 | Micron | Intern- PIE RAM (Agentic AI) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--PIE-RAM--Agentic-AI-_JR112779>) | Jan to May 2027 | 06 Oct 2026 | 06 Oct 2026 |
 | Wise | Analytics Intern | [Apply](<https://jobs.smartrecruiters.com/Wise/744000153502789>) | January 2027- June 2027 | 05 Oct 2026 | 05 Oct 2026 |
@@ -595,13 +595,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:Grab | Complete | 5 |
 | lever:shopback-2 | Complete | 5 |
 | greenhouse:temus | Complete | 1 |
-| greenhouse:drweng | Complete | 4 |
+| greenhouse:drweng | Complete | 3 |
 | bytedance:tiktok | Complete | 127 |
 | bytedance:bytedance | Complete | 34 |
 | shopee:shopee | Complete | 39 |
 | sea:sea | Complete | 8 |
 | govtech:internships | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:dbs | ⚠️ Incomplete — previous listings retained | 1 |
+| workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 13 |
@@ -617,7 +617,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:bifrost | Complete | 0 |
 | lever:binance | Complete | 0 |
 | greenhouse:bitgo | Complete | 0 |
-| smartrecruiters:BoschGroup | Complete | 2 |
+| smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
 | ashby:cantina | Complete | 1 |
 | smartrecruiters:CarousellGroup | Complete | 1 |
 | ashby:clickhouse | Complete | 0 |
@@ -677,7 +677,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:deepgram | Complete | 0 |
 | smartrecruiters:DeliveryHero | Complete | 0 |
 | workday:disney | Complete | 1 |
-| workday:dyson | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
 | smartrecruiters:Eurofins | Complete | 0 |

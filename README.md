@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **384 current or undated listings · 15 older advertised periods · 48 employers with roles**
 
-Last collection: **09 Oct 2026, 12:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **09 Oct 2026, 12:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -584,7 +584,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | NLB National Library Board | Video Analytics Intern, Properties &amp; Facilities Management | 29 Sep 2026 | - |
 | Sea | Research Intern - AI for Science | 28 Sep 2026 | - |
 | GlobalFoundries | Testchip Design &amp; Implementation Intern (Jan-Jun 2027) | 25 Sep 2026 | - |
-| NCS | \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | 25 Sep 2026 | - |
 
 </details>
 
@@ -612,7 +611,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 1 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

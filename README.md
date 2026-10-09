@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**384 current or undated listings · 15 older advertised periods · 47 employers with roles**
+**382 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **10 Oct 2026, 00:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **10 Oct 2026, 01:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -25,7 +25,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Marvell | 🆕 Quality Systems Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Quality-Systems-Intern---Bachelor-s-Degree_2603821>) | - | 09 Oct 2026 | 09 Oct 2026 |
 | GlobalFoundries | 🆕 Semiconductor IP Analytics &amp; Automation Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/IP-Program-Management---Quality-Intern--Jan-Jun-2027-_JR-2604350>) | Jan-Jun 2027 | 08 Oct 2026 | 09 Oct 2026 |
 | ↳ | 🆕 Automation &amp; AI Engineer Intern, Quality (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME---Engineer-Quality-QMS-Intern--Jan-Jun-2027-_JR-2604510-1>) | Jan-Jun 2027 | 08 Oct 2026 | 09 Oct 2026 |
-| NVIDIA | 🆕 PhD Research Intern, Autonomous Systems and Physical AI Research - 2027 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Remote/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2026322>) | - | 08 Oct 2026 | 08 Oct 2026 |
 | Micron | 🆕 Intern - HVM PEE Photo (AI) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979>) | - | 08 Oct 2026 | 08 Oct 2026 |
 | Autodesk | Intern, Software Engineer \[PDMS-DPM-Engineering\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277-1>) | - | 07 Oct 2026 | 07 Oct 2026 |
 | Bosch | Intern, Data Analyst | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000154012744>) | - | 07 Oct 2026 | 07 Oct 2026 |
@@ -103,7 +102,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Intern, Software Development Engineer \[PSET - Product Data - Document Management\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET---Product-Data----Document-Management-_26WD100984>) | - | 25 Sep 2026 | 28 Sep 2026 |
 | TikTok | Business Data Analyst Project Intern (GBS) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7689364323701901573>) | 2026 Start | - | 26 Sep 2026 |
 | OCBC | Internship: Global Markets, Business Management Unit/System Solution Analytics \[Jan - Jun 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Markets--Business-Management-Unit-System-Solution-Analytics--Jan---Jun-2027-_JR00011364>) | Jan - Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
-| ↳ | Internship: Global Markets, Management Information Systems \[Jan - Jun 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/SGP-Head-Office/Internship--Global-Markets--Management-Information-Systems--Jan---Jun-2027-_JR00011357>) | Jan - Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
 | NCS | \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001436844>) | Jan till Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
 | DBS | \[JIM LV TEST – Do NOT Apply\] 2027 DBS Internship (Technology and AI &amp; Data Science) | [Apply](<https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME--JIM-LV-TEST---Do-NOT-Apply--2027-DBS-Internship--Technology-and-AI---Data-Science-_WD89076>) | - | 25 Sep 2026 | 25 Sep 2026 |
 | Stripe | Financial Data Analyst Intern, Technical Operations | [Apply](<https://stripe.com/jobs/search?gh_jid=8186442>) | - | 25 Sep 2026 | 25 Sep 2026 |
@@ -437,6 +435,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| OCBC | Internship: Global Markets, Management Information Systems \[Jan - Jun 2027\] | 10 Oct 2026 | - |
+| NVIDIA | PhD Research Intern, Autonomous Systems and Physical AI Research - 2027 | 10 Oct 2026 | - |
 | Wise | Analytics Intern | 09 Oct 2026 | - |
 | GlobalFoundries | ESD Device Design Engineer Intern (Jan-Jun 2027) | 09 Oct 2026 | - |
 | DRW | Software Developer Intern (Python) | 09 Oct 2026 | - |
@@ -604,7 +604,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 8 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | ⚠️ Incomplete — previous listings retained | 9 |
+| workday:ocbc | ⚠️ Incomplete — previous listings retained; 6 details unavailable | 1 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 13 |
 | workday:globalfoundries | Complete | 12 |
@@ -649,7 +649,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:sggovterp | ⚠️ Incomplete — previous listings retained; 1 details unavailable | 0 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |

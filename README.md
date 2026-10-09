@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **384 current or undated listings · 15 older advertised periods · 48 employers with roles**
 
-Last collection: **09 Oct 2026, 13:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **09 Oct 2026, 14:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -26,7 +26,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Micron | 🆕 Intern - HVM PEE Photo (AI) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979>) | - | 08 Oct 2026 | 08 Oct 2026 |
 | Autodesk | 🆕 Intern, Software Engineer \[PDMS-DPM-Engineering\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277-1>) | - | 07 Oct 2026 | 07 Oct 2026 |
 | Bosch | 🆕 Intern, Data Analyst | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000154012744>) | - | 07 Oct 2026 | 07 Oct 2026 |
-| AIA | 🆕 Intern, Enterprise Analytics | [Apply](<https://aia.wd3.myworkdayjobs.com/External/job/Singapore-SG-AIA-Singapore/Intern--Enterprise-Analytics_JR-69874>) | - | 07 Oct 2026 | 07 Oct 2026 |
+| AIA | Intern, Enterprise Analytics | [Apply](<https://aia.wd3.myworkdayjobs.com/External/job/Singapore-SG-AIA-Singapore/Intern--Enterprise-Analytics_JR-69874>) | - | 07 Oct 2026 | 07 Oct 2026 |
 | Micron | Intern- PIE RAM (Agentic AI) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--PIE-RAM--Agentic-AI-_JR112779>) | Jan to May 2027 | 06 Oct 2026 | 06 Oct 2026 |
 | Wise | Analytics Intern | [Apply](<https://jobs.smartrecruiters.com/Wise/744000153502789>) | January 2027- June 2027 | 05 Oct 2026 | 05 Oct 2026 |
 | Marvell | Test Solutions Engineering Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Test-Solutions-Engineering-Intern---Bachelor-s-Degree_2604801>) | - | 05 Oct 2026 | 05 Oct 2026 |
@@ -677,7 +677,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:deepgram | Complete | 0 |
 | smartrecruiters:DeliveryHero | Complete | 0 |
 | workday:disney | Complete | 1 |
-| workday:dyson | Complete | 0 |
+| workday:dyson | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
 | smartrecruiters:Eurofins | Complete | 0 |

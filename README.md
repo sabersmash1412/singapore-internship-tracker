@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**383 current or undated listings · 15 older advertised periods · 48 employers with roles**
+**384 current or undated listings · 15 older advertised periods · 47 employers with roles**
 
-Last collection: **09 Oct 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **09 Oct 2026, 18:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,8 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Razer | 🆕 Data Science Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Science-Intern_JR2026007795>) | - | 09 Oct 2026 | 09 Oct 2026 |
+| ↳ | 🆕 Data Analytics and Product Support Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Analytics-and-Product-Support-Intern_JR2026007954>) | - | 09 Oct 2026 | 09 Oct 2026 |
 | Marvell | 🆕 Quality Systems Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Quality-Systems-Intern---Bachelor-s-Degree_2603821>) | - | 09 Oct 2026 | 09 Oct 2026 |
 | GlobalFoundries | 🆕 Semiconductor IP Analytics &amp; Automation Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/IP-Program-Management---Quality-Intern--Jan-Jun-2027-_JR-2604350>) | Jan-Jun 2027 | 08 Oct 2026 | 09 Oct 2026 |
 | ↳ | 🆕 Automation &amp; AI Engineer Intern, Quality (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME---Engineer-Quality-QMS-Intern--Jan-Jun-2027-_JR-2604510-1>) | Jan-Jun 2027 | 08 Oct 2026 | 09 Oct 2026 |
@@ -29,7 +31,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Bosch | Intern, Data Analyst | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000154012744>) | - | 07 Oct 2026 | 07 Oct 2026 |
 | AIA | Intern, Enterprise Analytics | [Apply](<https://aia.wd3.myworkdayjobs.com/External/job/Singapore-SG-AIA-Singapore/Intern--Enterprise-Analytics_JR-69874>) | - | 07 Oct 2026 | 07 Oct 2026 |
 | Micron | Intern- PIE RAM (Agentic AI) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--PIE-RAM--Agentic-AI-_JR112779>) | Jan to May 2027 | 06 Oct 2026 | 06 Oct 2026 |
-| Wise | Analytics Intern | [Apply](<https://jobs.smartrecruiters.com/Wise/744000153502789>) | January 2027- June 2027 | 05 Oct 2026 | 05 Oct 2026 |
 | Marvell | Test Solutions Engineering Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Test-Solutions-Engineering-Intern---Bachelor-s-Degree_2604801>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | Autodesk | Intern, Software Engineer in Test \[AEC Autocad Engineering\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362-1>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | ↳ | Intern, DevOps Engineer \[AEC-Connected Infrastructure Engineering\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363-1>) | - | 05 Oct 2026 | 05 Oct 2026 |
@@ -436,6 +437,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Wise | Analytics Intern | 09 Oct 2026 | - |
 | GlobalFoundries | ESD Device Design Engineer Intern (Jan-Jun 2027) | 09 Oct 2026 | - |
 | DRW | Software Developer Intern (Python) | 09 Oct 2026 | - |
 | Micron | Intern - Test Solutions Engineering | 09 Oct 2026 | - |
@@ -668,7 +670,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:broadcom | Complete | 0 |
 | workday:carrier | Complete | 0 |
 | ashby:chalk | Complete | 0 |
-| workday:citi | Complete | 0 |
+| workday:citi | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:CliffordChance | Complete | 0 |
 | greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |
@@ -719,7 +721,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:porsche-asia-pacific | Complete | 1 |
 | workable:qcp-group | Complete | 3 |
 | greenhouse:qualtrics | Complete | 0 |
-| workday:razer | Complete | 8 |
+| workday:razer | Complete | 10 |
 | greenhouse:relex | Complete | 0 |
 | ashby:replit | Complete | 0 |
 | greenhouse:ripple | Complete | 0 |

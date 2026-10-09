@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**384 current or undated listings · 15 older advertised periods · 48 employers with roles**
+**383 current or undated listings · 15 older advertised periods · 48 employers with roles**
 
-Last collection: **09 Oct 2026, 14:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **09 Oct 2026, 15:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -102,7 +102,6 @@ These roles remain listed in employer sources; confirm application availability 
 | TikTok | Business Data Analyst Project Intern (GBS) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7689364323701901573>) | 2026 Start | - | 26 Sep 2026 |
 | OCBC | Internship: Global Markets, Business Management Unit/System Solution Analytics \[Jan - Jun 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Markets--Business-Management-Unit-System-Solution-Analytics--Jan---Jun-2027-_JR00011364>) | Jan - Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
 | ↳ | Internship: Global Markets, Management Information Systems \[Jan - Jun 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/SGP-Head-Office/Internship--Global-Markets--Management-Information-Systems--Jan---Jun-2027-_JR00011357>) | Jan - Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
-| DRW | Software Developer Intern (Python) | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/7981754>) | - | 13 Jul 2026 | 25 Sep 2026 |
 | NCS | \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001436844>) | Jan till Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
 | DBS | \[JIM LV TEST – Do NOT Apply\] 2027 DBS Internship (Technology and AI &amp; Data Science) | [Apply](<https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME--JIM-LV-TEST---Do-NOT-Apply--2027-DBS-Internship--Technology-and-AI---Data-Science-_WD89076>) | - | 25 Sep 2026 | 25 Sep 2026 |
 | Stripe | Financial Data Analyst Intern, Technical Operations | [Apply](<https://stripe.com/jobs/search?gh_jid=8186442>) | - | 25 Sep 2026 | 25 Sep 2026 |
@@ -437,6 +436,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| DRW | Software Developer Intern (Python) | 09 Oct 2026 | - |
 | Micron | Intern - Test Solutions Engineering | 09 Oct 2026 | - |
 | ↳ | Intern - F10 QEM Product Quality Engineering Yield Data Analytics | 09 Oct 2026 | - |
 | HP | College Intern - NPI System Interaction Engineer | 08 Oct 2026 | - |
@@ -605,7 +605,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 13 |
-| workday:globalfoundries | Complete | 13 |
+| workday:globalfoundries | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 19 |
 | workday:nvidia | Complete | 1 |
@@ -617,7 +617,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:bifrost | Complete | 0 |
 | lever:binance | Complete | 0 |
 | greenhouse:bitgo | Complete | 0 |
-| smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:BoschGroup | Complete | 2 |
 | ashby:cantina | Complete | 1 |
 | smartrecruiters:CarousellGroup | Complete | 1 |
 | ashby:clickhouse | Complete | 0 |
@@ -697,7 +697,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
-| workday:jll | Complete | 0 |
+| workday:jll | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:jci | Complete | 1 |
 | workday:kla | Complete | 0 |
 | ashby:langchain | Complete | 0 |

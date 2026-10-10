@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **383 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **10 Oct 2026, 15:35 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **10 Oct 2026, 16:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -25,7 +25,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Marvell | 🆕 Quality Systems Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Quality-Systems-Intern---Bachelor-s-Degree_2603821>) | - | 09 Oct 2026 | 09 Oct 2026 |
 | GlobalFoundries | 🆕 Semiconductor IP Analytics &amp; Automation Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/IP-Program-Management---Quality-Intern--Jan-Jun-2027-_JR-2604350>) | Jan-Jun 2027 | 08 Oct 2026 | 09 Oct 2026 |
 | ↳ | 🆕 Automation &amp; AI Engineer Intern, Quality (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME---Engineer-Quality-QMS-Intern--Jan-Jun-2027-_JR-2604510-1>) | Jan-Jun 2027 | 08 Oct 2026 | 09 Oct 2026 |
-| Micron | 🆕 Intern - HVM PEE Photo (AI) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979>) | - | 08 Oct 2026 | 08 Oct 2026 |
+| Micron | Intern - HVM PEE Photo (AI) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979>) | - | 08 Oct 2026 | 08 Oct 2026 |
 | Autodesk | Intern, Software Engineer \[PDMS-DPM-Engineering\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277-1>) | - | 07 Oct 2026 | 07 Oct 2026 |
 | Bosch | Intern, Data Analyst | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000154012744>) | - | 07 Oct 2026 | 07 Oct 2026 |
 | AIA | Intern, Enterprise Analytics | [Apply](<https://aia.wd3.myworkdayjobs.com/External/job/Singapore-SG-AIA-Singapore/Intern--Enterprise-Analytics_JR-69874>) | - | 07 Oct 2026 | 07 Oct 2026 |
@@ -606,11 +606,11 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
-| workday:amat | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:globalfoundries | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:amat | Complete | 13 |
+| workday:globalfoundries | Complete | 12 |
 | workday:nxp | Complete | 0 |
-| workday:micron | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:nvidia | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:micron | Complete | 19 |
+| workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
 | apple:apple | Complete | 2 |
@@ -662,15 +662,15 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:aia | Complete | 1 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |
-| workday:analogdevices | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:analogdevices | Complete | 0 |
 | greenhouse:anthropic | Complete | 0 |
-| workday:autodesk | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:blackrock | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:autodesk | Complete | 13 |
+| workday:blackrock | Complete | 0 |
 | greenhouse:braze | Complete | 0 |
-| workday:broadcom | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:carrier | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:broadcom | Complete | 0 |
+| workday:carrier | Complete | 0 |
 | ashby:chalk | Complete | 0 |
-| workday:citi | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:citi | Complete | 0 |
 | smartrecruiters:CliffordChance | Complete | 0 |
 | greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |
@@ -678,7 +678,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:cursor | Complete | 0 |
 | ashby:deepgram | Complete | 0 |
 | smartrecruiters:DeliveryHero | Complete | 0 |
-| workday:disney | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:disney | Complete | 1 |
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
@@ -694,28 +694,28 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:gitlab | Complete | 0 |
 | greenhouse:grafanalabs | Complete | 0 |
 | ashby:harvey | Complete | 0 |
-| workday:hitachi | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:hp | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:hitachi | Complete | 1 |
+| workday:hp | Complete | 5 |
 | workable:iglooinsure | Complete | 0 |
-| workday:illumina | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
-| workday:jll | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:jci | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:kla | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:jll | Complete | 0 |
+| workday:jci | Complete | 1 |
+| workday:kla | Complete | 0 |
 | ashby:langchain | Complete | 0 |
 | greenhouse:launchdarkly | Complete | 0 |
-| workday:logitech | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:logitech | Complete | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
 | workday:manulife | Complete | 0 |
-| workday:marvell | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:mastercard | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:marvell | Complete | 7 |
+| workday:mastercard | Complete | 0 |
 | lever:matchgroup | Complete | 0 |
 | greenhouse:mixpanel | Complete | 0 |
 | greenhouse:moloco | Complete | 0 |
 | smartrecruiters:MUFGInvestorServices | Complete | 0 |
 | greenhouse:newrelic | Complete | 0 |
 | smartrecruiters:NielsenIQ | Complete | 0 |
-| workday:paypal | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:paypal | Complete | 0 |
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |
 | workable:porsche-asia-pacific | Complete | 1 |
@@ -726,7 +726,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:replit | Complete | 0 |
 | greenhouse:ripple | Complete | 0 |
 | workday:roche | Complete | 0 |
-| workday:spgi | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:spgi | Complete | 0 |
 | workday:salesforce | Complete | 0 |
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 0 |
@@ -734,7 +734,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:SGS | Complete | 0 |
 | lever:shieldai | Complete | 0 |
 | greenhouse:smartlyio | Complete | 0 |
-| workday:sonyglobal | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:sonyglobal | Complete | 0 |
 | workday:thales | Complete | 5 |
 | greenhouse:thetradedesk | Complete | 0 |
 | smartrecruiters:TheWonderfulCompany | Complete | 0 |

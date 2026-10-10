@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **383 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **10 Oct 2026, 14:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **10 Oct 2026, 14:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -603,17 +603,17 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | shopee:shopee | Complete | 39 |
 | sea:sea | Complete | 8 |
 | govtech:internships | Complete | 121 |
-| workday:dbs | Complete | 1 |
+| workday:dbs | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:ocbc | Complete | 11 |
-| workday:uobgroup | Complete | 2 |
-| workday:amat | Complete | 13 |
-| workday:globalfoundries | Complete | 12 |
-| workday:nxp | Complete | 0 |
-| workday:micron | Complete | 19 |
-| workday:nvidia | Complete | 0 |
+| workday:uobgroup | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:amat | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:globalfoundries | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:nxp | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:micron | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:nvidia | ⚠️ Incomplete — previous listings retained | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | Complete | 2 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -659,18 +659,18 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
 | smartrecruiters:AccorHotel | Complete | 0 |
-| workday:aia | Complete | 1 |
+| workday:aia | ⚠️ Incomplete — previous listings retained | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |
-| workday:analogdevices | Complete | 0 |
+| workday:analogdevices | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:anthropic | Complete | 0 |
-| workday:autodesk | Complete | 13 |
-| workday:blackrock | Complete | 0 |
+| workday:autodesk | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:blackrock | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:braze | Complete | 0 |
-| workday:broadcom | Complete | 0 |
-| workday:carrier | Complete | 0 |
+| workday:broadcom | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:carrier | ⚠️ Incomplete — previous listings retained | 0 |
 | ashby:chalk | Complete | 0 |
-| workday:citi | Complete | 0 |
+| workday:citi | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:CliffordChance | Complete | 0 |
 | greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |
@@ -678,8 +678,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:cursor | Complete | 0 |
 | ashby:deepgram | Complete | 0 |
 | smartrecruiters:DeliveryHero | Complete | 0 |
-| workday:disney | Complete | 1 |
-| workday:dyson | Complete | 0 |
+| workday:disney | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:dyson | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
 | smartrecruiters:Eurofins | Complete | 0 |
@@ -694,48 +694,48 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:gitlab | Complete | 0 |
 | greenhouse:grafanalabs | Complete | 0 |
 | ashby:harvey | Complete | 0 |
-| workday:hitachi | Complete | 1 |
-| workday:hp | Complete | 5 |
+| workday:hitachi | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:hp | ⚠️ Incomplete — previous listings retained | 0 |
 | workable:iglooinsure | Complete | 0 |
-| workday:illumina | Complete | 0 |
+| workday:illumina | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
-| workday:jll | Complete | 0 |
-| workday:jci | Complete | 1 |
-| workday:kla | Complete | 0 |
+| workday:jll | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:jci | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:kla | ⚠️ Incomplete — previous listings retained | 0 |
 | ashby:langchain | Complete | 0 |
 | greenhouse:launchdarkly | Complete | 0 |
-| workday:logitech | Complete | 0 |
+| workday:logitech | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
-| workday:manulife | Complete | 0 |
-| workday:marvell | Complete | 7 |
-| workday:mastercard | Complete | 0 |
+| workday:manulife | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:marvell | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:mastercard | ⚠️ Incomplete — previous listings retained | 0 |
 | lever:matchgroup | Complete | 0 |
 | greenhouse:mixpanel | Complete | 0 |
 | greenhouse:moloco | Complete | 0 |
 | smartrecruiters:MUFGInvestorServices | Complete | 0 |
 | greenhouse:newrelic | Complete | 0 |
 | smartrecruiters:NielsenIQ | Complete | 0 |
-| workday:paypal | Complete | 0 |
+| workday:paypal | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |
 | workable:porsche-asia-pacific | Complete | 1 |
 | workable:qcp-group | Complete | 3 |
 | greenhouse:qualtrics | Complete | 0 |
-| workday:razer | Complete | 10 |
+| workday:razer | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:relex | Complete | 0 |
 | ashby:replit | Complete | 0 |
 | greenhouse:ripple | Complete | 0 |
-| workday:roche | Complete | 0 |
-| workday:spgi | Complete | 0 |
+| workday:roche | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:spgi | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:salesforce | Complete | 0 |
-| workday:sec | Complete | 0 |
-| workday:sanofi | Complete | 0 |
+| workday:sec | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:sanofi | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:sentinellabs | Complete | 0 |
 | smartrecruiters:SGS | Complete | 0 |
 | lever:shieldai | Complete | 0 |
 | greenhouse:smartlyio | Complete | 0 |
-| workday:sonyglobal | Complete | 0 |
-| workday:thales | Complete | 5 |
+| workday:sonyglobal | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:thales | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:thetradedesk | Complete | 0 |
 | smartrecruiters:TheWonderfulCompany | Complete | 0 |
 | greenhouse:twilio | Complete | 0 |

@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**377 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**378 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **12 Oct 2026, 19:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **12 Oct 2026, 20:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -314,6 +314,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | AI Full-Stack Engineer Intern (TikTok Shop - SEA) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7668566238498408709>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Feature/Computing/Storage Engineer Intern (TikTok Recommendation Ecosystem) - 2027 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7667928179986827573>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Feature/Computing/Storage Engineer Intern (TikTok Recommendation Ecosystem) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7667920029161654581>) | 2027 Start | - | 24 Sep 2026 |
+| ↳ | AI Data Project Intern (Eco &amp; Social Creation) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7682638844458240309>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Data Project Intern (AI Data Service and Operations - Eco &amp; Social Creation) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7651452649767930117>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | AI Automation Project Intern (TnS-OPS-Automation &amp; Business Insights) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7664538232974559493>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | AI Agent Machine Learning Engineer Intern (Global E-Commerce, Supply Chain and Logistics) - 2027 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7666289679172831541>) | 2027 Start | - | 24 Sep 2026 |
@@ -447,7 +448,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | HP | College Intern - NPI System Interaction Engineer | 08 Oct 2026 | - |
 | Bosch | Intern, AI Research | 08 Oct 2026 | - |
 | DRW | Software Engineer Intern (Data Engineering) | 08 Oct 2026 | - |
-| TikTok | AI Data Project Intern (Eco &amp; Social Creation) - 2027 Start | 08 Oct 2026 | - |
 | Disney | Intern, APAC Data Analytics (Marketing Analytics), Disney+ - Jan to Jun 2027 | 06 Oct 2026 | - |
 | NAC National Arts Council | Intern, Data &amp; Research (Data) - 6 Months Contract | 06 Oct 2026 | - |
 | AMD | Wafer Sort &amp; Final Test Hardware Development Engineer Intern | 05 Oct 2026 | - |
@@ -597,12 +597,12 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:shopback-2 | Complete | 5 |
 | greenhouse:temus | Complete | 1 |
 | greenhouse:drweng | Complete | 3 |
-| bytedance:tiktok | Complete | 127 |
+| bytedance:tiktok | Complete | 128 |
 | bytedance:bytedance | Complete | 34 |
 | shopee:shopee | Complete | 39 |
 | sea:sea | Complete | 8 |
 | govtech:internships | Complete | 121 |
-| workday:dbs | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 13 |
@@ -612,7 +612,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 0 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

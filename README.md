@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**381 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**378 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **12 Oct 2026, 17:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **12 Oct 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -114,17 +114,14 @@ These roles remain listed in employer sources; confirm application availability 
 | Palantir Technologies | Software Engineer, Internship | [Apply](<https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1>) | - | - | 24 Sep 2026 |
 | NCS | \[Uni – Jan till Jun 2027\] Agentic AI Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001275993>) | Jan till Jun 2027 | 31 Jul 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] Software Engineering Intern (Low Code) | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287390>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
-| ↳ | \[Uni - Jan till Jun 2027\] Software Engineering Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287270>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] Software Engineer/ Business Analyst Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287535>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] Software Engineer and Data Analytics Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001308503>) | Jan till Jun 2027 | 12 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] Physical AI Security Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001344206>) | Jan till Jun 2027 | 24 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] Legal AI Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287841>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] IT Operations &amp; Service Management Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287819>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
-| ↳ | \[Uni - Jan till Jun 2027\] GenAI Software Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001307002>) | Jan till Jun 2027 | 12 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] DevOps &amp; Enterprise Architect Assistant Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001288434>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] AI Software Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287295>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] AI Presales &amp; Solution Engineering Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287889>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
-| ↳ | \[Uni - Jan till Jun 2027\] AI Platform Intern (AI Ops and Digital Platforms) | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287414>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] AI Engineer Intern (Middleware) | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001288481>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] AI Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287239>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | AI &amp; Workplace Transformation Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001363449>) | - | 31 Aug 2026 | 24 Sep 2026 |
@@ -434,7 +431,10 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
-| NCS | \[Uni - Jan till Jun 2027\] IT Infrastructure Project Management Intern | 12 Oct 2026 | - |
+| NCS | \[Uni - Jan till Jun 2027\] GenAI Software Engineer Intern | 12 Oct 2026 | - |
+| ↳ | \[Uni - Jan till Jun 2027\] AI Platform Intern (AI Ops and Digital Platforms) | 12 Oct 2026 | - |
+| ↳ | \[Uni - Jan till Jun 2027\] Software Engineering Intern | 12 Oct 2026 | - |
+| ↳ | \[Uni - Jan till Jun 2027\] IT Infrastructure Project Management Intern | 12 Oct 2026 | - |
 | GlobalFoundries | Facility Engineering, Automation Intern (Jan-Jun 2027) | 12 Oct 2026 | - |
 | HP | College Intern - Product Engineering (System Interaction) | 12 Oct 2026 | - |
 | ↳ | College Intern - Electrical/Electronics | 12 Oct 2026 | - |
@@ -618,7 +618,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:bifrost | Complete | 0 |
 | lever:binance | Complete | 0 |
 | greenhouse:bitgo | Complete | 0 |
-| smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:BoschGroup | Complete | 2 |
 | ashby:cantina | Complete | 1 |
 | smartrecruiters:CarousellGroup | Complete | 1 |
 | ashby:clickhouse | Complete | 0 |
@@ -744,7 +744,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 9 |
+| successfactors:temasek | Complete | 14 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

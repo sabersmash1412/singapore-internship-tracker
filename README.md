@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **377 current or undated listings · 15 older advertised periods · 45 employers with roles**
 
-Last collection: **13 Oct 2026, 00:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **13 Oct 2026, 01:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -584,7 +584,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | AI, Data &amp; Digital Solutions Internship (Singapore) | 30 Sep 2026 | - |
 | NCS | \[Uni - Jan till Jun 2027\] Robotics Hardware Intern | 29 Sep 2026 | - |
 | HP | College Intern - Manufacturing AI Solutions | 29 Sep 2026 | - |
-| NLB National Library Board | Video Analytics Intern, Properties &amp; Facilities Management | 29 Sep 2026 | - |
 
 </details>
 
@@ -742,7 +741,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
-| successfactors:singtel | Complete | 1 |
+| successfactors:singtel | ⚠️ Incomplete — previous listings retained | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:temasek | Complete | 14 |
 

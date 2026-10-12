@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**381 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**380 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **12 Oct 2026, 09:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **12 Oct 2026, 10:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -173,7 +173,6 @@ These roles remain listed in employer sources; confirm application availability 
 | GlobalFoundries | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604281>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
 | ↳ | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604277-1>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
 | ↳ | Machine Learning &amp; Generative AI Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Machine-Learning---Generative-AI-Intern--Jan-Jun-2027-_JR-2604518>) | Jan-Jun 2027 | 02 Sep 2026 | 24 Sep 2026 |
-| ↳ | Facility Engineering, Automation Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Facility-Engineering--Automation-Intern--Jan-Jun-2027-_JR-2604650>) | Jan-Jun 2027 | 30 Sep 2026 | 24 Sep 2026 |
 | ↳ | 2H University Intern, AI-Driven Process Intern (Advanced Process Control) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern--AI-Driven-Process-Intern--Advanced-Process-Control-_JR-2502691>) | June 2026 Start | 11 Jan 2026 | 24 Sep 2026 |
 | ↳ | 2H University Intern - Process Integration | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Process-Integration_JR-2502759>) | June 2026 Start | 14 Jan 2026 | 24 Sep 2026 |
 | ↳ | 2H University Intern - Process Integration | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Process-Integration_JR-2502758>) | June 2026 Start | 19 Jan 2026 | 24 Sep 2026 |
@@ -434,6 +433,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| GlobalFoundries | Facility Engineering, Automation Intern (Jan-Jun 2027) | 12 Oct 2026 | - |
 | HP | College Intern - Product Engineering (System Interaction) | 12 Oct 2026 | - |
 | ↳ | College Intern - Electrical/Electronics | 12 Oct 2026 | - |
 | NVIDIA | PhD Research Intern, Autonomous Systems and Physical AI Research - 2027 | 10 Oct 2026 | - |
@@ -613,13 +613,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | Complete | 2 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
 | lever:binance | Complete | 0 |
 | greenhouse:bitgo | Complete | 0 |
-| smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:BoschGroup | Complete | 2 |
 | ashby:cantina | Complete | 1 |
 | smartrecruiters:CarousellGroup | Complete | 1 |
 | ashby:clickhouse | Complete | 0 |
@@ -743,7 +743,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
-| successfactors:singtel | Complete | 1 |
+| successfactors:singtel | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:temasek | Complete | 14 |
 

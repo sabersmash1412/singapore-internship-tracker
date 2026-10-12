@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**379 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**380 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **12 Oct 2026, 12:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **12 Oct 2026, 12:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -140,7 +140,8 @@ These roles remain listed in employer sources; confirm application availability 
 | Airwallex | Software Engineer Intern (Summer 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795>) | Summer 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | Software Engineer Intern (Jan to Jun 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441>) | Jan to Jun 2027 | 14 Aug 2026 | 24 Sep 2026 |
 | ShopBack | Product Builder Intern (Product Engineering) | [Apply](<https://jobs.lever.co/shopback-2/5e5c78b0-1b9a-4c09-843d-49ea41e991fe>) | - | - | 24 Sep 2026 |
-| Micron | Intern - Product Engineering, NAND Validation/Characterization | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Product-Engineering--NAND-Validation-Characterization_JR111131>) | Jan to May 2027 | 22 Sep 2026 | 24 Sep 2026 |
+| Micron | Intern- Test Solutions Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Test-Solutions-Engineer_JR106290>) | - | 12 Oct 2026 | 24 Sep 2026 |
+| ↳ | Intern - Product Engineering, NAND Validation/Characterization | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Product-Engineering--NAND-Validation-Characterization_JR111131>) | Jan to May 2027 | 22 Sep 2026 | 24 Sep 2026 |
 | TikTok | Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start | [Apply](<https://lifeattiktok.com/search/7669738564847110453>) | 2027 Start | - | 24 Sep 2026 |
 | Shopee | Regional Large Language Model (LLM) Agent &amp; Prompt Engineering Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02042064/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02185576/1>) | Spring 2027 | - | 24 Sep 2026 |
@@ -577,7 +578,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | Tech – Software Engineer: AI Enablement for Government Digital Transformation | 30 Sep 2026 | Application deadline passed |
 | ↳ | Tech – Data Scientist: Audit Automation | 30 Sep 2026 | Application deadline passed |
 | Micron | Intern- Test Solutions Engineer | 30 Sep 2026 | - |
-| ↳ | Intern- Test Solutions Engineer | 30 Sep 2026 | - |
 | ↳ | Intern- MSB Process Integration Engineer | 30 Sep 2026 | - |
 | ↳ | Intern - Assembly Post Electrical | 30 Sep 2026 | - |
 | ↳ | Intern - ADTS ATI Process Integration Engineer | 30 Sep 2026 | - |
@@ -608,7 +608,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:amat | Complete | 13 |
 | workday:globalfoundries | Complete | 11 |
 | workday:nxp | Complete | 0 |
-| workday:micron | Complete | 19 |
+| workday:micron | Complete | 20 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
@@ -744,7 +744,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 14 |
+| successfactors:temasek | Complete | 14 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

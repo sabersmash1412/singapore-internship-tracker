@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **377 current or undated listings · 15 older advertised periods · 45 employers with roles**
 
-Last collection: **12 Oct 2026, 23:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **13 Oct 2026, 00:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -612,13 +612,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
 | lever:binance | Complete | 0 |
 | greenhouse:bitgo | Complete | 0 |
-| smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:BoschGroup | Complete | 2 |
 | ashby:cantina | Complete | 1 |
 | smartrecruiters:CarousellGroup | Complete | 1 |
 | ashby:clickhouse | Complete | 0 |
@@ -694,7 +694,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:grafanalabs | Complete | 0 |
 | ashby:harvey | Complete | 0 |
 | workday:hitachi | Complete | 1 |
-| workday:hp | Complete | 3 |
+| workday:hp | ⚠️ Incomplete — previous listings retained | 0 |
 | workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
@@ -742,7 +742,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
-| successfactors:singtel | Complete | 1 |
+| successfactors:singtel | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:temasek | Complete | 14 |
 

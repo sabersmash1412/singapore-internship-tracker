@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **381 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **12 Oct 2026, 16:35 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **12 Oct 2026, 17:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -638,7 +638,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:lalamove | Complete | 0 |
 | ashby:lumilens | Complete | 0 |
 | greenhouse:mongodb | Complete | 0 |
-| smartrecruiters:NCS3 | Complete | 17 |
+| smartrecruiters:NCS3 | Complete | 14 |
 | lever:nium | Complete | 0 |
 | greenhouse:okx | Complete | 0 |
 | ashby:openai | Complete | 0 |
@@ -657,7 +657,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:AccorHotel | Complete | 0 |
 | workday:aia | Complete | 1 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |
@@ -734,7 +734,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:shieldai | Complete | 0 |
 | greenhouse:smartlyio | Complete | 0 |
 | workday:sonyglobal | Complete | 0 |
-| workday:thales | Complete | 5 |
+| workday:thales | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:thetradedesk | Complete | 0 |
 | smartrecruiters:TheWonderfulCompany | Complete | 0 |
 | greenhouse:twilio | Complete | 0 |
@@ -744,7 +744,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 14 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 9 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

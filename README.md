@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**380 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**381 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **12 Oct 2026, 13:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **12 Oct 2026, 14:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -148,6 +148,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00003615/1>) | Spring 2027 | - | 24 Sep 2026 |
 | Micron | Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111158>) | - | 22 Sep 2026 | 24 Sep 2026 |
 | ↳ | Intern - MSB Automation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---MSB-Automation-Engineer_JR112720>) | - | 24 Sep 2026 | 24 Sep 2026 |
+| ↳ | Intern- MSB Process Integration Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--MSB-Process-Integration-Engineer_JR109767>) | Jan to May 2027 | 12 Oct 2026 | 24 Sep 2026 |
 | ↳ | Intern, Photo Manufacturing Data Analytics and AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Photo-Manufacturing-Data-Analytics-and-AI_JR112194>) | Jan to May 2027 | 21 Sep 2026 | 24 Sep 2026 |
 | ↳ | Intern, Facilities AI Engineering | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170>) | Jan to Jun 2027 | 17 Sep 2026 | 24 Sep 2026 |
 | ↳ | Intern - STPG PE Firmware | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318>) | Jan to May 2027 | 08 Sep 2026 | 24 Sep 2026 |
@@ -578,7 +579,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | Tech – Software Engineer: AI Enablement for Government Digital Transformation | 30 Sep 2026 | Application deadline passed |
 | ↳ | Tech – Data Scientist: Audit Automation | 30 Sep 2026 | Application deadline passed |
 | Micron | Intern- Test Solutions Engineer | 30 Sep 2026 | - |
-| ↳ | Intern- MSB Process Integration Engineer | 30 Sep 2026 | - |
 | ↳ | Intern - Assembly Post Electrical | 30 Sep 2026 | - |
 | ↳ | Intern - ADTS ATI Process Integration Engineer | 30 Sep 2026 | - |
 | ↳ | AI, Data &amp; Digital Solutions Internship (Singapore) | 30 Sep 2026 | - |
@@ -608,7 +608,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:amat | Complete | 13 |
 | workday:globalfoundries | Complete | 11 |
 | workday:nxp | Complete | 0 |
-| workday:micron | Complete | 20 |
+| workday:micron | Complete | 21 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
@@ -696,7 +696,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:hitachi | Complete | 1 |
 | workday:hp | Complete | 3 |
 | workable:iglooinsure | Complete | 0 |
-| workday:illumina | Complete | 0 |
+| workday:illumina | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
 | workday:jll | Complete | 0 |
 | workday:jci | Complete | 1 |
@@ -744,7 +744,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 14 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 9 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

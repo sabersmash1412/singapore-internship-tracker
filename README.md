@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **377 current or undated listings · 15 older advertised periods · 45 employers with roles**
 
-Last collection: **13 Oct 2026, 14:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **13 Oct 2026, 14:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Applied Materials | 🆕 College intern - Process development in degas, preclean, PVD chambers for RLD/Bump application | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-intern---Process-development-in-degas--preclean--PVD-chambers-for-RLD-Bump-application_R2630102>) | - | 13 Oct 2026 | 13 Oct 2026 |
 | Razer | Data Science Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Science-Intern_JR2026007795>) | - | 09 Oct 2026 | 09 Oct 2026 |
 | ↳ | Data Analytics and Product Support Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Analytics-and-Product-Support-Intern_JR2026007954>) | - | 09 Oct 2026 | 09 Oct 2026 |
 | Marvell | Quality Systems Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Quality-Systems-Intern---Bachelor-s-Degree_2603821>) | - | 09 Oct 2026 | 09 Oct 2026 |
@@ -173,7 +174,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 2H University Intern - Process Integration | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Process-Integration_JR-2502759>) | June 2026 Start | 14 Jan 2026 | 24 Sep 2026 |
 | ↳ | 2H University Intern - Process Integration | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Process-Integration_JR-2502758>) | June 2026 Start | 19 Jan 2026 | 24 Sep 2026 |
 | ↳ | 2H University Intern - PVD Equipment | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---PVD-Equipment_JR-2502749>) | June 2026 Start | 13 Jan 2026 | 24 Sep 2026 |
-| ↳ | 2H University Intern - IP Program Management &amp; QA | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---IP-Program-Management---QA_JR-2502782>) | June 2026 Start | 13 Jan 2026 | 24 Sep 2026 |
 | ↳ | 2H University Intern - FR CMOS Device Engineering | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Intern---FR-CMOS_JR-2503753>) | - | 14 Jan 2026 | 24 Sep 2026 |
 | Applied Materials | Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Technology-Development-Engineer---Hybrid-Bonding---Advanced-Packaging--Internship-_R2626901>) | - | 31 Aug 2026 | 24 Sep 2026 |
 | ↳ | Process Engineering Intern (Hybrid Bonding) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-Engineering-Intern--Hybrid-Bonding-_R2626437>) | - | 31 Aug 2026 | 24 Sep 2026 |
@@ -430,6 +430,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| GlobalFoundries | 2H University Intern - IP Program Management &amp; QA | 13 Oct 2026 | - |
 | Disney | Intern, APAC Data Analytics (Subscriber Analytics), Disney+ - Jan to Jun 2027 | 12 Oct 2026 | - |
 | NCS | AI &amp; Workplace Transformation Intern | 12 Oct 2026 | - |
 | ↳ | \[Uni - Jan till Jun 2027\] GenAI Software Engineer Intern | 12 Oct 2026 | - |
@@ -603,14 +604,14 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
-| workday:amat | Complete | 13 |
-| workday:globalfoundries | Complete | 11 |
+| workday:amat | Complete | 14 |
+| workday:globalfoundries | ⚠️ Incomplete — previous listings retained; 1 details unavailable | 10 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 21 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | Complete | 2 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -655,7 +656,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:AccorHotel | Complete | 0 |
 | workday:aia | Complete | 1 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |
@@ -667,7 +668,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:broadcom | Complete | 0 |
 | workday:carrier | Complete | 0 |
 | ashby:chalk | Complete | 0 |
-| workday:citi | Complete | 0 |
+| workday:citi | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:CliffordChance | Complete | 0 |
 | greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |
@@ -742,7 +743,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 14 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 10 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **382 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **13 Oct 2026, 20:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **13 Oct 2026, 20:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -626,7 +626,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:clickhouse | Complete | 0 |
 | ashby:cohere | Complete | 0 |
 | greenhouse:coinbase | Complete | 0 |
-| smartrecruiters:Continental | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:Continental | Complete | 0 |
 | lever:crypto | Complete | 0 |
 | greenhouse:databricks | Complete | 0 |
 | greenhouse:datadog | Complete | 0 |
@@ -678,13 +678,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:covergo | Complete | 0 |
 | ashby:cursor | Complete | 0 |
 | ashby:deepgram | Complete | 0 |
-| smartrecruiters:DeliveryHero | Complete | 0 |
+| smartrecruiters:DeliveryHero | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:disney | Complete | 0 |
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
 | smartrecruiters:Eurofins | Complete | 0 |
-| smartrecruiters:Expeditors | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:Expeditors | Complete | 0 |
 | smartrecruiters:Experian | Complete | 0 |
 | smartrecruiters:Fastmarkets | Complete | 0 |
 | workable:first-circle | Complete | 0 |

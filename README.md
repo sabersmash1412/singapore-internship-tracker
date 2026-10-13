@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**380 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**382 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **13 Oct 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **13 Oct 2026, 18:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,8 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| UOB | 🆕 GenAI and Data Analytics Intern (Jan - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Jan---July-2027-_JR96235>) | Jan - July 2027 | 13 Oct 2026 | 13 Oct 2026 |
+| Marvell | 🆕 AI Solutions Engineer Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/AI-Solutions-Engineer-Intern---Bachelor-s-Master-s-Degree_2604441>) | - | 13 Oct 2026 | 13 Oct 2026 |
 | Sanofi | 🆕 Audit Data Analytics Intern | [Apply](<https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/City-of-Singapore/Audit-Data-Analytics-Intern_R2874778>) | - | 13 Oct 2026 | 13 Oct 2026 |
 | OCBC | 🆕 Internship: Group Operations and Technology, Risk &amp; Prevention – Technology Risk Management (Technology Risk Assessment &amp; Automation) \[January - May 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Operations-and-Technology--Risk---Prevention---Technology-Risk-Management--January---May-2027-_JR00011046>) | - | 13 Oct 2026 | 13 Oct 2026 |
 | Applied Materials | 🆕 College intern - Process development in degas, preclean, PVD chambers for RLD/Bump application | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-intern---Process-development-in-degas--preclean--PVD-chambers-for-RLD-Bump-application_R2630102>) | - | 13 Oct 2026 | 13 Oct 2026 |
@@ -585,7 +587,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | Intern - Assembly Post Electrical | 30 Sep 2026 | - |
 | ↳ | Intern - ADTS ATI Process Integration Engineer | 30 Sep 2026 | - |
 | ↳ | AI, Data &amp; Digital Solutions Internship (Singapore) | 30 Sep 2026 | - |
-| NCS | \[Uni - Jan till Jun 2027\] Robotics Hardware Intern | 29 Sep 2026 | - |
 
 </details>
 
@@ -603,9 +604,9 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | shopee:shopee | Complete | 39 |
 | sea:sea | Complete | 8 |
 | govtech:internships | Complete | 121 |
-| workday:dbs | Complete | 1 |
-| workday:ocbc | ⚠️ Incomplete — previous listings retained | 10 |
-| workday:uobgroup | Complete | 2 |
+| workday:dbs | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:ocbc | Complete | 12 |
+| workday:uobgroup | Complete | 3 |
 | workday:amat | Complete | 14 |
 | workday:globalfoundries | Complete | 11 |
 | workday:nxp | Complete | 0 |
@@ -613,7 +614,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | Complete | 0 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -680,9 +681,9 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:DeliveryHero | Complete | 0 |
 | workday:disney | Complete | 0 |
 | workday:dyson | Complete | 0 |
-| smartrecruiters:EgisGroup | Complete | 0 |
+| smartrecruiters:EgisGroup | ⚠️ Incomplete — previous listings retained | 0 |
 | workable:epos | Complete | 2 |
-| smartrecruiters:Eurofins | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:Eurofins | Complete | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
 | smartrecruiters:Experian | Complete | 0 |
 | smartrecruiters:Fastmarkets | Complete | 0 |
@@ -707,7 +708,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:logitech | Complete | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
 | workday:manulife | Complete | 0 |
-| workday:marvell | Complete | 7 |
+| workday:marvell | Complete | 8 |
 | workday:mastercard | Complete | 0 |
 | lever:matchgroup | Complete | 0 |
 | greenhouse:mixpanel | Complete | 0 |
@@ -745,7 +746,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 14 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 9 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **379 current or undated listings · 15 older advertised periods · 45 employers with roles**
 
-Last collection: **13 Oct 2026, 16:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **13 Oct 2026, 17:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -612,7 +612,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | Complete | 2 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -656,7 +656,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:trustbank | Complete | 0 |
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
-| smartrecruiters:Wise | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:Wise | Complete | 0 |
 | smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 1 |
 | lever:airalo | Complete | 0 |
@@ -676,7 +676,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:covergo | Complete | 0 |
 | ashby:cursor | Complete | 0 |
 | ashby:deepgram | Complete | 0 |
-| smartrecruiters:DeliveryHero | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:DeliveryHero | Complete | 0 |
 | workday:disney | Complete | 0 |
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
@@ -697,7 +697,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:hp | Complete | 3 |
 | workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
-| smartrecruiters:Intuitive | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:Intuitive | Complete | 0 |
 | workday:jll | Complete | 0 |
 | workday:jci | Complete | 1 |
 | workday:kla | Complete | 0 |
@@ -713,7 +713,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:moloco | Complete | 0 |
 | smartrecruiters:MUFGInvestorServices | Complete | 0 |
 | greenhouse:newrelic | Complete | 0 |
-| smartrecruiters:NielsenIQ | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:NielsenIQ | Complete | 0 |
 | workday:paypal | Complete | 0 |
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |
@@ -744,7 +744,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 14 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 9 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

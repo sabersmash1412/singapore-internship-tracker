@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **382 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **13 Oct 2026, 21:05 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **13 Oct 2026, 21:36 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -595,7 +595,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Source board | Latest check | Matching roles returned |
 | --- | --- | --- |
-| smartrecruiters:Grab | Complete | 5 |
+| smartrecruiters:Grab | Complete; 2 details unavailable | 5 |
 | lever:shopback-2 | Complete | 5 |
 | greenhouse:temus | Complete | 1 |
 | greenhouse:drweng | Complete | 3 |
@@ -622,7 +622,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:bitgo | Complete | 0 |
 | smartrecruiters:BoschGroup | Complete | 2 |
 | ashby:cantina | Complete | 1 |
-| smartrecruiters:CarousellGroup | Complete | 1 |
+| smartrecruiters:CarousellGroup | Complete; 1 details unavailable | 1 |
 | ashby:clickhouse | Complete | 0 |
 | ashby:cohere | Complete | 0 |
 | greenhouse:coinbase | Complete | 0 |
@@ -646,7 +646,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:openai | Complete | 0 |
 | lever:palantir | Complete | 1 |
 | lever:portcast | Complete | 1 |
-| smartrecruiters:RenesasElectronics | Complete | 0 |
+| smartrecruiters:RenesasElectronics | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
@@ -658,8 +658,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:trustbank | Complete | 0 |
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
-| smartrecruiters:Wise | ⚠️ Incomplete — previous listings retained | 0 |
-| smartrecruiters:AccorHotel | Complete | 0 |
+| smartrecruiters:Wise | Complete | 0 |
+| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 1 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |
@@ -681,7 +681,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:DeliveryHero | Complete | 0 |
 | workday:disney | Complete | 0 |
 | workday:dyson | Complete | 0 |
-| smartrecruiters:EgisGroup | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
 | smartrecruiters:Eurofins | Complete | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |

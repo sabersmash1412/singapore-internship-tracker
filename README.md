@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **382 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **13 Oct 2026, 19:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **13 Oct 2026, 20:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -622,7 +622,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:bitgo | Complete | 0 |
 | smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
 | ashby:cantina | Complete | 1 |
-| smartrecruiters:CarousellGroup | Complete; 1 details unavailable | 1 |
+| smartrecruiters:CarousellGroup | Complete | 1 |
 | ashby:clickhouse | Complete | 0 |
 | ashby:cohere | Complete | 0 |
 | greenhouse:coinbase | Complete | 0 |
@@ -684,7 +684,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
 | smartrecruiters:Eurofins | Complete | 0 |
-| smartrecruiters:Expeditors | Complete | 0 |
+| smartrecruiters:Expeditors | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Experian | Complete | 0 |
 | smartrecruiters:Fastmarkets | Complete | 0 |
 | workable:first-circle | Complete | 0 |

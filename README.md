@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **380 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **14 Oct 2026, 11:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **14 Oct 2026, 12:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -461,128 +461,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | Applied Materials | Intern - Intellectual Property Analytics | 02 Oct 2026 | - |
 | Razer | AI Data Engineer Intern | 01 Oct 2026 | - |
 | Sea | Backend Engineer Intern | 01 Oct 2026 | - |
-| Razer | Applied AI Intern | 30 Sep 2026 | - |
-| GovTech | Tech – Software Engineer: CIOO Applications &amp; Products | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Cybersecurity Engineer: Crowdsourced Vulnerability Discovery Programme | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Cybersecurity Engineer: Cybersecurity Threat Modelling | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Consulting - Rapid AI Modernisation Programme | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Modernisation Initiatives - Consulting | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Scientist: AI-Assisted Red Team Reconnaissance | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Scientist: LLM-Driven Red Team &amp; Payload Automation | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: LifeSG | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Cybersecurity Engineer: Operationalising WOG CyberSec Initiatives | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: GCSOC Agency Self-Service Portal | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Cybersecurity Tools &amp; Automation | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: SecOps Internal Tooling &amp; Services Development | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Safer Online Spaces (SOS) - My First Phone | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Scientist: GASP - Mother Memory | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Scientist: Graph Analytics &amp; Predictions Hub (GRAPH) | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Engineer: Build &amp; Automate WOG ICT Spend Data Pipeline | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Engineering the Future of GRC | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Cybersecurity Engineer: AI Security &amp; Architecture Solutioning | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Systems Engineer: IM8 CONOPS | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Augment Resource Buddy | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Systems Engineer: DevOps Infrastructure Automation | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: AI-Enabled Procurement Solutions | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Applications/Tools Development &amp; Enhancement | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Appeal Management System | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Engineer: Finance | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Automation &amp; AI Solutions | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Cybersecurity Engineer: Post-Quantum Cryptography Engineering | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: GatherSG | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Scientist: Research of MOE DXD Products | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: AI Programme | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Scientist: AI Evaluation of MOE DXD Products | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Scientist: EmPOWER Workplace Fairness | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: EmPOWER Workplace Fairness | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Cybersecurity Engineer: Use of AI in Cybersecurity Operations | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Cybersecurity Engineer: Enhancement of CyberSec Ops &amp; IR | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Product Scorecard, Craft, Elevate | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Cybersecurity Engineer: AI Tooling for Mobile Security | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Workplace Experience Programme (B) | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Information Services Programme (Applied AI) | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Systems Engineer: Systems Technologies | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Scientist: Responsible AI | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Runtime (Container Stack/Airbase/GovPaaS) | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Workplace Experience Programme (A) | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: TradeNet | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: SHIPHATS - AI Coding Tools | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: SSOE equip4work | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: ServiceNow CoE | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: AI Cloud Security Platform | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: AI Product Governance Platform | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Retina | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: DataHive | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Partner Experience for Singpass Integrations | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Singpass Admin Portal Operational Tooling | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: PA Community Portal | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Scientist: Singpass | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Infrastructure and Services for Schools | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Infrastructure Observability Tools | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: One Client View (OneCV) | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: MySkillsFuture 2.0 | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Scientist: AssureAI | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Applied GenAI for Workplace Productivity | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Standard Data Platforms (SDP) | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: OS2.0 Programme | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: DLP Rule Processing Engine Development | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Integrated Digital Workspace | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Data Exchange Platform | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Labour Market Data Platform | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: AI-Powered MOMGPT Platform | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Digital Records Management | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Public Statistics Platform | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Digital Survey Platform | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: GCC2.0 - Customer Success | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Cybersecurity Engineer: Develop Knowledge Hub from Pen Test Findings | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: AI-Augmented Infrastructure Automation | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Salesforce CoE | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: CrowdTaskSG | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: AI Solutions to Improve Software Delivery | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Enablement, DataTable | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Systems Engineer: MSF DataSphere | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Engineer: MSF DataSphere | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Singpass Authentication | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Authorisation System Modernisation | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Engineer: StellarNet and Nuclear Command Center Ops | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Cloud Ready Infra &amp; Security Platform (CRISP) | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Systems Engineer: IT Infrastructure Engineering | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Systems Engineer: MOE DXD Resilience Operations and Development | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: APEX Cloud | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Singapore Government Developer Portal | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: AI-Assisted Incident Response &amp; RCA | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Modernisation Initiatives | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Engineer: Singpass Data Platform | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Workpal Mobile Platform (B) | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Workpal Mobile Platform (A) | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: GovAssure Enterprise Risk Management | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Government on Commercial Cloud (GCC) | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: GovAssure | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: SEED | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Console | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: enTRUST | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Digital Accelerator Programme | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Usability &amp; Accessibility | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: WINS Work Permit | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Scientist: GovTech Anti-Scam Products (GASP) | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Scam Analytics &amp; Tactical Intervention System | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Network Monitoring Agent for Multi-Cloud | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Scientist: Tech for Public Good - AI Innovation Team | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: TechPass | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: AI Assistant | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Engineer: SSOE - Data-as-a-Service | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Government Commercial Cloud | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Test Automation Toolkits | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: GovEntry (B) | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Info Concierge | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: AssuranceAI - Litmus / Sentinel / Indepth | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Physical AI Across Robot Embodiments | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: GovEntry (A) | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: GovWallet | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Scientist: Enabling Responsible Data Use for AI in Government | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: Console (TechBiz) | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Software Engineer: AI Enablement for Government Digital Transformation | 30 Sep 2026 | Application deadline passed |
-| ↳ | Tech – Data Scientist: Audit Automation | 30 Sep 2026 | Application deadline passed |
 
 </details>
 
@@ -610,7 +488,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

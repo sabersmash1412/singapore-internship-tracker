@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**380 current or undated listings · 12 older advertised periods · 46 employers with roles**
+**381 current or undated listings · 11 older advertised periods · 46 employers with roles**
 
-Last collection: **14 Oct 2026, 16:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **14 Oct 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Shopee | 🆕 Data Governance Intern (President's Office) (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02199842/1>) | Spring 2027 | - | 14 Oct 2026 |
 | Marvell | 🆕 AI Solutions Engineer Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/AI-Solutions-Engineer-Intern---Bachelor-s-Master-s-Degree_2604441>) | - | 13 Oct 2026 | 13 Oct 2026 |
 | Sanofi | 🆕 Audit Data Analytics Intern | [Apply](<https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/City-of-Singapore/Audit-Data-Analytics-Intern_R2874778>) | - | 13 Oct 2026 | 13 Oct 2026 |
 | OCBC | 🆕 Internship: Group Operations and Technology, Risk &amp; Prevention – Technology Risk Management (Technology Risk Assessment &amp; Automation) \[January - May 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Operations-and-Technology--Risk---Prevention---Technology-Risk-Management--January---May-2027-_JR00011046>) | - | 13 Oct 2026 | 13 Oct 2026 |
@@ -402,7 +403,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | IT Intern | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8173677>) | - | 02 Sep 2026 | 21 Sep 2026 |
 
 <details>
-<summary>Older advertised periods — verify intake (12)</summary>
+<summary>Older advertised periods — verify intake (11)</summary>
 
 These roles remain listed by employers, but their advertised periods appear to have passed. They are retained here for reference and in the data downloads; this does not mean applications are closed.
 
@@ -419,7 +420,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | AI Moderation Analyst Project Intern (TikTok Safety Product) - 2025 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7555897524908067090>) | 2025 Start | - | 24 Sep 2026 |
 | Shopee | Operations &amp; Data Analytics Intern, Regional SPX Express (Summer 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02114868/1>) | Summer 2026 | - | 24 Sep 2026 |
 | ↳ | Data Analyst Intern - Business Intelligence, Regional Logistics (Summer 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02059847/1>) | Summer 2026 | - | 24 Sep 2026 |
-| ↳ | Data &amp; Insights Intern - President's Office (Spring 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02109327/1>) | Spring 2026 | - | 24 Sep 2026 |
 | ↳ | Data &amp; Insights Intern - President's Office (Spring 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02064723/1>) | Spring 2026 | - | 24 Sep 2026 |
 | ↳ | AI Automation &amp; Operations Intelligence Intern - Regional SPX Express (Spring 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02105769/1>) | Spring 2026 | - | 24 Sep 2026 |
 
@@ -430,7 +430,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
-| Shopee | Data Analyst Intern - Listing and Content, Regional Operations (Fall 2025) | 14 Oct 2026 | - |
+| Shopee | Data &amp; Insights Intern - President's Office (Spring 2026) | 14 Oct 2026 | - |
+| ↳ | Data Analyst Intern - Listing and Content, Regional Operations (Fall 2025) | 14 Oct 2026 | - |
 | ↳ | Data Analyst Intern - Warehouse Operations, Regional Operations (Spring 2025) | 14 Oct 2026 | - |
 | ↳ | Fraud Data Analyst Intern - Trust and Safety, Regional Operations (Spring 2025) | 14 Oct 2026 | - |
 | UOB | GenAI and Data Analytics Intern (Jan - July 2027) | 14 Oct 2026 | - |
@@ -478,7 +479,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | shopee:shopee | Complete | 35 |
 | sea:sea | Complete | 8 |
 | govtech:internships | Complete | 121 |
-| workday:dbs | Complete | 1 |
+| workday:dbs | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 14 |
@@ -545,7 +546,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:broadcom | Complete | 0 |
 | workday:carrier | Complete | 0 |
 | ashby:chalk | Complete | 0 |
-| workday:citi | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:citi | Complete | 0 |
 | smartrecruiters:CliffordChance | Complete | 0 |
 | greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |

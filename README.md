@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**380 current or undated listings · 11 older advertised periods · 46 employers with roles**
+**381 current or undated listings · 11 older advertised periods · 46 employers with roles**
 
-Last collection: **14 Oct 2026, 18:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **14 Oct 2026, 19:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Grab | 🆕 Intern, Software Engineer | [Apply](<https://jobs.smartrecruiters.com/Grab/744000155475389>) | - | 14 Oct 2026 | 14 Oct 2026 |
 | Shopee | 🆕 Data Governance Intern (President's Office) (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02199842/1>) | Spring 2027 | - | 14 Oct 2026 |
 | Marvell | 🆕 AI Solutions Engineer Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/AI-Solutions-Engineer-Intern---Bachelor-s-Master-s-Degree_2604441>) | - | 13 Oct 2026 | 13 Oct 2026 |
 | Sanofi | 🆕 Audit Data Analytics Intern | [Apply](<https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/City-of-Singapore/Audit-Data-Analytics-Intern_R2874778>) | - | 13 Oct 2026 | 13 Oct 2026 |
@@ -470,7 +471,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Source board | Latest check | Matching roles returned |
 | --- | --- | --- |
-| smartrecruiters:Grab | Complete | 5 |
+| smartrecruiters:Grab | Complete | 6 |
 | lever:shopback-2 | Complete | 5 |
 | greenhouse:temus | Complete | 1 |
 | greenhouse:drweng | Complete | 3 |
@@ -489,7 +490,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 0 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -534,7 +535,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | Complete | 0 |
+| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 1 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |

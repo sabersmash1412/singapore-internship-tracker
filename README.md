@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**381 current or undated listings · 11 older advertised periods · 46 employers with roles**
+**380 current or undated listings · 11 older advertised periods · 46 employers with roles**
 
-Last collection: **14 Oct 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **14 Oct 2026, 17:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -335,7 +335,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Projects - Data Intern, SBS (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02034383/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Product Management Intern - Enterprise Collaboration and AI | [Apply](<https://careers.shopee.sg/job-detail/J02115564/1>) | - | - | 24 Sep 2026 |
 | ↳ | Product Analyst Intern, Traffic &amp; Content - Business Intelligence AI Bot (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02126202/1>) | Fall 2026 | - | 24 Sep 2026 |
-| ↳ | Data Governance Intern (President's Office) (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02011727/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Data Analytics Intern - Brand Analytics, Regional Brand Partnerships (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J00133511/1>) | Fall 2026 | - | 24 Sep 2026 |
 | ↳ | Data Analyst Intern - Regional Marketing Analytics, Regional Brand &amp; Growth Marketing (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00004459/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Data Analyst Intern - Regional BI &amp; Planning (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00110930/1>) | Spring 2027 | - | 24 Sep 2026 |
@@ -430,7 +429,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
-| Shopee | Data &amp; Insights Intern - President's Office (Spring 2026) | 14 Oct 2026 | - |
+| Shopee | Data Governance Intern (President's Office) (Spring 2027) | 14 Oct 2026 | - |
+| ↳ | Data &amp; Insights Intern - President's Office (Spring 2026) | 14 Oct 2026 | - |
 | ↳ | Data Analyst Intern - Listing and Content, Regional Operations (Fall 2025) | 14 Oct 2026 | - |
 | ↳ | Data Analyst Intern - Warehouse Operations, Regional Operations (Spring 2025) | 14 Oct 2026 | - |
 | ↳ | Fraud Data Analyst Intern - Trust and Safety, Regional Operations (Spring 2025) | 14 Oct 2026 | - |
@@ -479,7 +479,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | shopee:shopee | Complete | 35 |
 | sea:sea | Complete | 8 |
 | govtech:internships | Complete | 121 |
-| workday:dbs | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 14 |
@@ -489,7 +489,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 0 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -525,7 +525,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | Complete | 3 |
+| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 3 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |
@@ -554,7 +554,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:cursor | Complete | 0 |
 | ashby:deepgram | Complete | 0 |
 | smartrecruiters:DeliveryHero | Complete | 0 |
-| workday:disney | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:disney | Complete | 0 |
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
@@ -573,7 +573,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:hitachi | Complete | 1 |
 | workday:hp | Complete | 3 |
 | workable:iglooinsure | Complete | 0 |
-| workday:illumina | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
 | workday:jll | Complete | 0 |
 | workday:jci | Complete | 1 |

@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **382 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **14 Oct 2026, 09:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **14 Oct 2026, 09:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -601,7 +601,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 8 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | ⚠️ Incomplete — previous listings retained | 10 |
+| workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 3 |
 | workday:amat | Complete | 14 |
 | workday:globalfoundries | Complete | 11 |

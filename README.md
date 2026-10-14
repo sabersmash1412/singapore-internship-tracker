@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**382 current or undated listings · 15 older advertised periods · 46 employers with roles**
+**381 current or undated listings · 15 older advertised periods · 46 employers with roles**
 
-Last collection: **14 Oct 2026, 09:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **14 Oct 2026, 10:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -217,7 +217,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Internship: Global Corporate Banking, Operations Support &amp; Systems, Operations Support &amp; Systems \[August - December 2026\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Corporate-Banking--Operations-Support---Systems--Operations-Support---Systems--August---December-2026-_JR00007395>) | August - December 2026 | 24 Apr 2026 | 24 Sep 2026 |
 | ↳ | Internship: Global Corporate Banking, Operations Support &amp; Systems \[Jan to May 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Corporate-Banking--Operations-Support---Systems--Jan-to-May-2027-_JR00010996>) | Jan to May 2027 | 14 Sep 2026 | 24 Sep 2026 |
 | ↳ | Internship: Global Commercial Banking, GWB Data Analytics \[Jan to May 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Commercial-Banking--GWB-Data-Analytics--Jan-to-May-2027-_JR00011058>) | Jan to May 2027 | 16 Sep 2026 | 24 Sep 2026 |
-| ↳ | Internship, Global Markets, Business Management Unit/ System Solution Analytics \[Aug to Dec 2026\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Markets--Business-Management-Unit--System-Solution-Analytics--Aug-to-Dec-2026-_JR00010282>) | Aug to Dec 2026 | 17 Aug 2026 | 24 Sep 2026 |
 | UOB | Sustainability Reporting &amp; Data Analytics Intern (Jan - Jun 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/Sustainability-Reporting---Data-Analytics-Intern--Jan---Jun-2027-_JR96493>) | Jan - Jun 2027 | 23 Sep 2026 | 24 Sep 2026 |
 | ↳ | GenAI and Data Analytics Intern (Jan - Dec 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Jan---Dec-2027-_JR96223>) | Jan - Dec 2027 | 22 Sep 2026 | 24 Sep 2026 |
 | TikTok | \[Mobile Software Engineer\] Intern (Global Live Revenue) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7672397362020862213>) | 2027 Start | - | 24 Sep 2026 |
@@ -435,6 +434,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| OCBC | Internship, Global Markets, Business Management Unit/ System Solution Analytics \[Aug to Dec 2026\] | 14 Oct 2026 | - |
 | Disney | Intern, APAC Data Analytics (Subscriber Analytics), Disney+ - Jan to Jun 2027 | 12 Oct 2026 | - |
 | NCS | AI &amp; Workplace Transformation Intern | 12 Oct 2026 | - |
 | ↳ | \[Uni - Jan till Jun 2027\] GenAI Software Engineer Intern | 12 Oct 2026 | - |
@@ -602,7 +602,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
-| workday:uobgroup | Complete | 3 |
+| workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 14 |
 | workday:globalfoundries | Complete | 11 |
 | workday:nxp | Complete | 0 |
@@ -742,7 +742,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 14 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 9 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **380 current or undated listings · 11 older advertised periods · 46 employers with roles**
 
-Last collection: **14 Oct 2026, 17:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **14 Oct 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -525,7 +525,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 3 |
+| workday:sggovterp | Complete | 3 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |

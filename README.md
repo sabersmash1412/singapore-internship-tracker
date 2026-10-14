@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **380 current or undated listings · 12 older advertised periods · 46 employers with roles**
 
-Last collection: **14 Oct 2026, 15:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **14 Oct 2026, 16:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -475,7 +475,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:drweng | Complete | 3 |
 | bytedance:tiktok | Complete | 128 |
 | bytedance:bytedance | Complete | 34 |
-| shopee:shopee | Complete | 36 |
+| shopee:shopee | Complete | 35 |
 | sea:sea | Complete | 8 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
@@ -488,7 +488,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 2 |
-| apple:apple | Complete | 2 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -553,7 +553,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:cursor | Complete | 0 |
 | ashby:deepgram | Complete | 0 |
 | smartrecruiters:DeliveryHero | Complete | 0 |
-| workday:disney | Complete | 0 |
+| workday:disney | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
@@ -572,7 +572,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:hitachi | Complete | 1 |
 | workday:hp | Complete | 3 |
 | workable:iglooinsure | Complete | 0 |
-| workday:illumina | Complete | 0 |
+| workday:illumina | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
 | workday:jll | Complete | 0 |
 | workday:jci | Complete | 1 |

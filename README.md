@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**382 current or undated listings · 11 older advertised periods · 46 employers with roles**
+**379 current or undated listings · 11 older advertised periods · 46 employers with roles**
 
-Last collection: **15 Oct 2026, 15:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **15 Oct 2026, 16:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -396,9 +396,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Data Analyst (Internship) (H1 2027) | [Apply](<https://jobs.lever.co/shopback-2/b216d68c-48b0-4fa5-8f1e-9e0375b993e1>) | H1 2027 | - | 21 Sep 2026 |
 | Grab | Intern, Strategy &amp; Analytics, Transport | [Apply](<https://jobs.smartrecruiters.com/Grab/744000149793152>) | - | 16 Sep 2026 | 21 Sep 2026 |
 | ↳ | Intern, Fleet Systems Analyst | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147417629>) | January 2027 Start | 04 Sep 2026 | 21 Sep 2026 |
-| ↳ | Intern, Analytics &amp; Projects, GrabMart | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147417509>) | January 2027 Start | 04 Sep 2026 | 21 Sep 2026 |
-| ↳ | Intern, Analytics &amp; Projects, GrabMart | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147416979>) | January 2027 Start | 04 Sep 2026 | 21 Sep 2026 |
-| ↳ | Intern, Analytics &amp; Projects, GrabFood | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147417199>) | January 2027 Start | 04 Sep 2026 | 21 Sep 2026 |
 | DRW | Software Developer Intern (C++) | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8014910>) | - | 13 Jul 2026 | 21 Sep 2026 |
 | ↳ | Quantitative Research Intern | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8014915>) | - | 13 Jul 2026 | 21 Sep 2026 |
 | ↳ | IT Intern | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8173677>) | - | 02 Sep 2026 | 21 Sep 2026 |
@@ -431,6 +428,9 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Grab | Intern, Analytics &amp; Projects, GrabMart | 15 Oct 2026 | - |
+| ↳ | Intern, Analytics &amp; Projects, GrabFood | 15 Oct 2026 | - |
+| ↳ | Intern, Analytics &amp; Projects, GrabMart | 15 Oct 2026 | - |
 | GlobalFoundries | Semiconductor IP Analytics &amp; Automation Intern (Jan-Jun 2027) | 15 Oct 2026 | - |
 | Shopee | Data Governance Intern (President's Office) (Spring 2027) | 14 Oct 2026 | - |
 | ↳ | Data &amp; Insights Intern - President's Office (Spring 2026) | 14 Oct 2026 | - |
@@ -490,7 +490,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 3 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -574,7 +574,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:hitachi | Complete | 1 |
 | workday:hp | Complete | 3 |
 | workable:iglooinsure | Complete | 0 |
-| workday:illumina | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
 | workday:jll | Complete | 0 |
 | workday:jci | Complete | 1 |

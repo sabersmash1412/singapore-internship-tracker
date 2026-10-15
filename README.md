@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**382 current or undated listings · 11 older advertised periods · 46 employers with roles**
+**381 current or undated listings · 11 older advertised periods · 46 employers with roles**
 
-Last collection: **15 Oct 2026, 09:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **15 Oct 2026, 09:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -30,8 +30,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Razer | Data Science Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Science-Intern_JR2026007795>) | - | 09 Oct 2026 | 09 Oct 2026 |
 | ↳ | Data Analytics and Product Support Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Analytics-and-Product-Support-Intern_JR2026007954>) | - | 09 Oct 2026 | 09 Oct 2026 |
 | Marvell | Quality Systems Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Quality-Systems-Intern---Bachelor-s-Degree_2603821>) | - | 09 Oct 2026 | 09 Oct 2026 |
-| GlobalFoundries | Semiconductor IP Analytics &amp; Automation Intern (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/IP-Program-Management---Quality-Intern--Jan-Jun-2027-_JR-2604350>) | Jan-Jun 2027 | 08 Oct 2026 | 09 Oct 2026 |
-| ↳ | Automation &amp; AI Engineer Intern, Quality (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME---Engineer-Quality-QMS-Intern--Jan-Jun-2027-_JR-2604510-1>) | Jan-Jun 2027 | 08 Oct 2026 | 09 Oct 2026 |
+| GlobalFoundries | Automation &amp; AI Engineer Intern, Quality (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME---Engineer-Quality-QMS-Intern--Jan-Jun-2027-_JR-2604510-1>) | Jan-Jun 2027 | 08 Oct 2026 | 09 Oct 2026 |
 | Micron | Intern - HVM PEE Photo (AI) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979>) | - | 08 Oct 2026 | 08 Oct 2026 |
 | Autodesk | Intern, Software Engineer \[PDMS-DPM-Engineering\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277-1>) | - | 07 Oct 2026 | 07 Oct 2026 |
 | Bosch | Intern, Data Analyst | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000154012744>) | - | 07 Oct 2026 | 07 Oct 2026 |
@@ -431,6 +430,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| GlobalFoundries | Semiconductor IP Analytics &amp; Automation Intern (Jan-Jun 2027) | 15 Oct 2026 | - |
 | Shopee | Data Governance Intern (President's Office) (Spring 2027) | 14 Oct 2026 | - |
 | ↳ | Data &amp; Insights Intern - President's Office (Spring 2026) | 14 Oct 2026 | - |
 | ↳ | Data Analyst Intern - Listing and Content, Regional Operations (Fall 2025) | 14 Oct 2026 | - |
@@ -491,7 +491,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 3 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

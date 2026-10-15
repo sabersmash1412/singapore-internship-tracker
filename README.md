@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**381 current or undated listings · 11 older advertised periods · 46 employers with roles**
+**382 current or undated listings · 11 older advertised periods · 46 employers with roles**
 
-Last collection: **15 Oct 2026, 08:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **15 Oct 2026, 09:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Amazon | 🆕 Control Engineer Intern, AWS Data Center Controls Deployment &amp; Services team | [Apply](<https://www.amazon.jobs/en/jobs/10579407/control-engineer-intern-aws-data-center-controls-deployment-services-team>) | Jan 2027 - June 2027 | 15 Oct 2026 | 15 Oct 2026 |
 | Grab | 🆕 Intern, Software Engineer | [Apply](<https://jobs.smartrecruiters.com/Grab/744000155475389>) | - | 14 Oct 2026 | 14 Oct 2026 |
 | Shopee | 🆕 Data Governance Intern (President's Office) (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02199842/1>) | Spring 2027 | - | 14 Oct 2026 |
 | Marvell | 🆕 AI Solutions Engineer Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/AI-Solutions-Engineer-Intern---Bachelor-s-Master-s-Degree_2604441>) | - | 13 Oct 2026 | 13 Oct 2026 |
@@ -484,13 +485,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 14 |
-| workday:globalfoundries | Complete | 11 |
+| workday:globalfoundries | Complete | 10 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 21 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
-| amazon:amazon | Complete | 2 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
+| amazon:amazon | Complete | 3 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

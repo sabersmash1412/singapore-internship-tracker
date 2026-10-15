@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**381 current or undated listings · 11 older advertised periods · 46 employers with roles**
+**379 current or undated listings · 11 older advertised periods · 46 employers with roles**
 
-Last collection: **15 Oct 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **15 Oct 2026, 18:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -346,7 +346,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Data Analyst Intern - Customer Service, Regional Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02056515/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Data Analyst Intern - Customer Service Chatbot, Regional Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02056798/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Data Analyst Intern - Business Intelligence, Regional Marketplace Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02057734/1>) | Spring 2027 | - | 24 Sep 2026 |
-| ↳ | Data Analyst Intern - Business Intelligence, Regional Logistics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02145210/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Data Analyst Applied AI Intern, Buyer &amp; Marketing - Business Intelligence (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02037906/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Chatbot Algorithm Engineer Intern, Marketplace Intelligence &amp; Data (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02183308/1>) | Fall 2026 | - | 24 Sep 2026 |
 | ↳ | Business Data Analyst Intern - Commercial Management, Business Development (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00250728/1>) | Spring 2027 | - | 24 Sep 2026 |
@@ -354,7 +353,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Backend Engineer Intern (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02151045/1>) | Fall 2026 | - | 24 Sep 2026 |
 | ↳ | Automation Operational Technology (OT) Engineer Intern - Regional Logistics | [Apply](<https://careers.shopee.sg/job-detail/J00382881/1>) | - | - | 24 Sep 2026 |
 | ↳ | AI Chatbot Product Manager Intern | [Apply](<https://careers.shopee.sg/job-detail/J02181237/1>) | - | - | 24 Sep 2026 |
-| ↳ | AI Automation &amp; Operations Intelligence Intern - Regional SPX Express (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02098466/1>) | Spring 2027 | - | 24 Sep 2026 |
 | Sea | System Automation &amp; Assurance Intern (6 months) | [Apply](<https://career.sea.com/position/J02172351>) | - | - | 24 Sep 2026 |
 | ↳ | System Automation &amp; Assurance (6 months) | [Apply](<https://career.sea.com/position/J02173412>) | - | - | 24 Sep 2026 |
 | ↳ | Security Engineering Intern | [Apply](<https://career.sea.com/position/J02180598>) | - | - | 24 Sep 2026 |
@@ -430,6 +428,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Shopee | Data Analyst Intern - Business Intelligence, Regional Logistics (Spring 2027) | 15 Oct 2026 | - |
+| ↳ | AI Automation &amp; Operations Intelligence Intern - Regional SPX Express (Spring 2027) | 15 Oct 2026 | - |
 | Grab | Intern, Analytics &amp; Projects, GrabMart | 15 Oct 2026 | - |
 | ↳ | Intern, Analytics &amp; Projects, GrabFood | 15 Oct 2026 | - |
 | ↳ | Intern, Analytics &amp; Projects, GrabMart | 15 Oct 2026 | - |
@@ -492,7 +492,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 3 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 0 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -537,7 +537,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | Complete | 0 |
+| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 1 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |
@@ -585,7 +585,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:launchdarkly | Complete | 0 |
 | workday:logitech | Complete | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
-| workday:manulife | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:manulife | Complete | 0 |
 | workday:marvell | Complete | 8 |
 | workday:mastercard | Complete | 0 |
 | lever:matchgroup | Complete | 0 |
@@ -624,7 +624,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 14 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 5 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

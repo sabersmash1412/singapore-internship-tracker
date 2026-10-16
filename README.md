@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**381 current or undated listings · 11 older advertised periods · 45 employers with roles**
+**380 current or undated listings · 11 older advertised periods · 45 employers with roles**
 
-Last collection: **17 Oct 2026, 00:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **17 Oct 2026, 00:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -361,7 +361,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | IT Support intern (6 months) | [Apply](<https://career.sea.com/position/J02172545>) | - | - | 24 Sep 2026 |
 | ↳ | IT Security Intern (6 months) | [Apply](<https://career.sea.com/position/J02164189>) | - | - | 24 Sep 2026 |
 | ↳ | IT Project Management Intern (6 Months) | [Apply](<https://career.sea.com/position/J02164599>) | - | - | 24 Sep 2026 |
-| ↳ | IT Operations Specialist intern (6 months) | [Apply](<https://career.sea.com/position/J02163472>) | - | - | 24 Sep 2026 |
 | ByteDance | Software Engineer Intern (Traffic Architecture) - 2027 Start | [Apply](<https://joinbytedance.com/search/7667819980343593269>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Software Engineer Intern (Global Payment-Payment Network) - 2027 Start | [Apply](<https://joinbytedance.com/search/7669697232158640389>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Software Engineer Intern (Global Payment-Financial Product) - 2027 Start | [Apply](<https://joinbytedance.com/search/7669741311945935109>) | 2027 Start | - | 24 Sep 2026 |
@@ -430,6 +429,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Sea | IT Operations Specialist intern (6 months) | 17 Oct 2026 | - |
 | Grab | Intern, Software Engineer | 16 Oct 2026 | - |
 | DBS | \[JIM LV TEST – Do NOT Apply\] 2027 DBS Internship (Technology and AI &amp; Data Science) | 16 Oct 2026 | - |
 | AIA | Intern, Enterprise Analytics | 16 Oct 2026 | - |
@@ -487,7 +487,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | Complete | 11 |
+| workday:ocbc | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 14 |
 | workday:globalfoundries | Complete | 10 |
@@ -532,7 +532,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | Complete | 3 |
+| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |
@@ -565,9 +565,9 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
-| smartrecruiters:Eurofins | Complete | 0 |
+| smartrecruiters:Eurofins | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
-| smartrecruiters:Experian | Complete | 0 |
+| smartrecruiters:Experian | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Fastmarkets | Complete | 0 |
 | workable:first-circle | Complete | 0 |
 | greenhouse:flexport | Complete | 0 |

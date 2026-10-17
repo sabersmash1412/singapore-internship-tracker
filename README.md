@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **380 current or undated listings · 11 older advertised periods · 45 employers with roles**
 
-Last collection: **17 Oct 2026, 08:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **17 Oct 2026, 09:07 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -28,7 +28,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Shopee | 🆕 Data Analyst Intern - Business Intelligence, Regional Logistics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02200192/1>) | Spring 2027 | - | 15 Oct 2026 |
 | ↳ | 🆕 AI Automation &amp; Operations Intelligence Intern - Regional SPX Express (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02200208/1>) | Spring 2027 | - | 15 Oct 2026 |
 | Grab | 🆕 Intern, Software Engineer - Backend | [Apply](<https://jobs.smartrecruiters.com/Grab/744000155671079>) | - | 15 Oct 2026 | 15 Oct 2026 |
-| Amazon | 🆕 Control Engineer Intern, AWS Data Center Controls Deployment &amp; Services team | [Apply](<https://www.amazon.jobs/en/jobs/10579407/control-engineer-intern-aws-data-center-controls-deployment-services-team>) | Jan 2027 - June 2027 | 15 Oct 2026 | 15 Oct 2026 |
+| Amazon | Control Engineer Intern, AWS Data Center Controls Deployment &amp; Services team | [Apply](<https://www.amazon.jobs/en/jobs/10579407/control-engineer-intern-aws-data-center-controls-deployment-services-team>) | Jan 2027 - June 2027 | 15 Oct 2026 | 15 Oct 2026 |
 | Shopee | Data Governance Intern (President's Office) (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02199842/1>) | Spring 2027 | - | 14 Oct 2026 |
 | Marvell | AI Solutions Engineer Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/AI-Solutions-Engineer-Intern---Bachelor-s-Master-s-Degree_2604441>) | - | 13 Oct 2026 | 13 Oct 2026 |
 | Sanofi | Audit Data Analytics Intern | [Apply](<https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/City-of-Singapore/Audit-Data-Analytics-Intern_R2874778>) | - | 13 Oct 2026 | 13 Oct 2026 |
@@ -614,7 +614,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 1 |
 | greenhouse:sentinellabs | Complete | 0 |
-| smartrecruiters:SGS | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:SGS | Complete | 0 |
 | lever:shieldai | Complete | 0 |
 | greenhouse:smartlyio | Complete | 0 |
 | workday:sonyglobal | Complete | 0 |

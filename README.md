@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**380 current or undated listings · 11 older advertised periods · 45 employers with roles**
+**381 current or undated listings · 11 older advertised periods · 45 employers with roles**
 
-Last collection: **17 Oct 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **17 Oct 2026, 18:06 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,13 +20,14 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| Amazon | 🆕 Commissioning Program Analyst Intern, Data Center Capacity Delivery APJC | [Apply](<https://www.amazon.jobs/en/jobs/10563228/commissioning-program-analyst-intern-data-center-capacity-delivery-apjc>) | Jan 2027 – June 2027 | 13 Oct 2026 | 16 Oct 2026 |
+| Amazon | 🆕 Data Center Infrastructure Engineering Intern, Colocation Regional Engineering | [Apply](<https://www.amazon.jobs/en/jobs/10507775/data-center-infrastructure-engineering-intern-colocation-regional-engineering>) | - | 06 Oct 2026 | 17 Oct 2026 |
+| ↳ | 🆕 Commissioning Program Analyst Intern, Data Center Capacity Delivery APJC | [Apply](<https://www.amazon.jobs/en/jobs/10563228/commissioning-program-analyst-intern-data-center-capacity-delivery-apjc>) | Jan 2027 – June 2027 | 13 Oct 2026 | 16 Oct 2026 |
 | Grab | 🆕 Intern, Software Engineer | [Apply](<https://jobs.smartrecruiters.com/Grab/744000155926216>) | - | 16 Oct 2026 | 16 Oct 2026 |
 | DBS | 🆕 2027 DBS Internship (Technology and AI &amp; Data Science) | [Apply](<https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME-2027-DBS-Internship--Technology-and-AI---Data-Science-_WD89681>) | - | 16 Oct 2026 | 16 Oct 2026 |
 | Thales | 🆕 HR Automation Intern | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/HR-Automation-Intern_R0344795>) | - | 16 Oct 2026 | 16 Oct 2026 |
 | Micron | 🆕 Intern - PEE CVD | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CVD_JR112661>) | - | 15 Oct 2026 | 15 Oct 2026 |
-| Shopee | 🆕 Data Analyst Intern - Business Intelligence, Regional Logistics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02200192/1>) | Spring 2027 | - | 15 Oct 2026 |
-| ↳ | 🆕 AI Automation &amp; Operations Intelligence Intern - Regional SPX Express (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02200208/1>) | Spring 2027 | - | 15 Oct 2026 |
+| Shopee | Data Analyst Intern - Business Intelligence, Regional Logistics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02200192/1>) | Spring 2027 | - | 15 Oct 2026 |
+| ↳ | AI Automation &amp; Operations Intelligence Intern - Regional SPX Express (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02200208/1>) | Spring 2027 | - | 15 Oct 2026 |
 | Grab | Intern, Software Engineer - Backend | [Apply](<https://jobs.smartrecruiters.com/Grab/744000155671079>) | - | 15 Oct 2026 | 15 Oct 2026 |
 | Amazon | Control Engineer Intern, AWS Data Center Controls Deployment &amp; Services team | [Apply](<https://www.amazon.jobs/en/jobs/10579407/control-engineer-intern-aws-data-center-controls-deployment-services-team>) | Jan 2027 - June 2027 | 15 Oct 2026 | 15 Oct 2026 |
 | Shopee | Data Governance Intern (President's Office) (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02199842/1>) | Spring 2027 | - | 14 Oct 2026 |
@@ -495,8 +496,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:micron | Complete | 22 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
-| amazon:amazon | Complete | 4 |
-| apple:apple | Complete | 2 |
+| amazon:amazon | Complete | 5 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -541,7 +542,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | Complete | 0 |
+| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |
@@ -610,7 +611,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:ripple | Complete | 0 |
 | workday:roche | Complete | 0 |
 | workday:spgi | Complete | 0 |
-| workday:salesforce | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:salesforce | Complete | 0 |
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 1 |
 | greenhouse:sentinellabs | Complete | 0 |
@@ -628,7 +629,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 14 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 13 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

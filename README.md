@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **380 current or undated listings · 11 older advertised periods · 45 employers with roles**
 
-Last collection: **17 Oct 2026, 17:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **17 Oct 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -493,10 +493,10 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:globalfoundries | Complete | 10 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 22 |
-| workday:nvidia | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 4 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 0 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -551,9 +551,9 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:blackrock | Complete | 0 |
 | greenhouse:braze | Complete | 0 |
 | workday:broadcom | Complete | 0 |
-| workday:carrier | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:carrier | Complete | 0 |
 | ashby:chalk | Complete | 0 |
-| workday:citi | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:citi | Complete | 0 |
 | smartrecruiters:CliffordChance | Complete | 0 |
 | greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |
@@ -561,7 +561,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:cursor | Complete | 0 |
 | ashby:deepgram | Complete | 0 |
 | smartrecruiters:DeliveryHero | Complete | 0 |
-| workday:disney | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:disney | Complete | 0 |
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
@@ -583,11 +583,11 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:jll | Complete | 0 |
-| workday:jci | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:jci | Complete | 1 |
 | workday:kla | Complete | 0 |
 | ashby:langchain | Complete | 0 |
 | greenhouse:launchdarkly | Complete | 0 |
-| workday:logitech | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:logitech | Complete | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
 | workday:manulife | Complete | 0 |
 | workday:marvell | Complete | 8 |
@@ -609,10 +609,10 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:replit | Complete | 0 |
 | greenhouse:ripple | Complete | 0 |
 | workday:roche | Complete | 0 |
-| workday:spgi | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:spgi | Complete | 0 |
 | workday:salesforce | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:sec | Complete | 0 |
-| workday:sanofi | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:sanofi | Complete | 1 |
 | greenhouse:sentinellabs | Complete | 0 |
 | smartrecruiters:SGS | Complete | 0 |
 | lever:shieldai | Complete | 0 |

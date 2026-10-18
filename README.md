@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**379 current or undated listings · 11 older advertised periods · 44 employers with roles**
+**378 current or undated listings · 11 older advertised periods · 44 employers with roles**
 
-Last collection: **18 Oct 2026, 16:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **18 Oct 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -22,7 +22,7 @@ These roles remain listed in employer sources; confirm application availability 
 | --- | --- | --- | --- | --- | --- |
 | Amazon | 🆕 Data Center Infrastructure Engineering Intern, Colocation Regional Engineering | [Apply](<https://www.amazon.jobs/en/jobs/10507775/data-center-infrastructure-engineering-intern-colocation-regional-engineering>) | - | 06 Oct 2026 | 17 Oct 2026 |
 | ↳ | 🆕 Commissioning Program Analyst Intern, Data Center Capacity Delivery APJC | [Apply](<https://www.amazon.jobs/en/jobs/10563228/commissioning-program-analyst-intern-data-center-capacity-delivery-apjc>) | Jan 2027 – June 2027 | 13 Oct 2026 | 16 Oct 2026 |
-| Grab | 🆕 Intern, Software Engineer | [Apply](<https://jobs.smartrecruiters.com/Grab/744000155926216>) | - | 16 Oct 2026 | 16 Oct 2026 |
+| Grab | Intern, Software Engineer | [Apply](<https://jobs.smartrecruiters.com/Grab/744000155926216>) | - | 16 Oct 2026 | 16 Oct 2026 |
 | DBS | 2027 DBS Internship (Technology and AI &amp; Data Science) | [Apply](<https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME-2027-DBS-Internship--Technology-and-AI---Data-Science-_WD89681>) | - | 16 Oct 2026 | 16 Oct 2026 |
 | Thales | HR Automation Intern | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/HR-Automation-Intern_R0344795>) | - | 16 Oct 2026 | 16 Oct 2026 |
 | Micron | Intern - PEE CVD | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CVD_JR112661>) | - | 15 Oct 2026 | 15 Oct 2026 |
@@ -92,7 +92,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Intern, Quantitative Developer - Trading (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/ABEB48A3E4>) | Jan - Jun 2027 | 24 Sep 2026 | 28 Sep 2026 |
 | ↳ | Intern, IT Governance &amp; Security (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/1030A7B64B>) | Jan - Jun 2027 | 18 Aug 2026 | 28 Sep 2026 |
 | Porsche Asia Pacific | Intern Marketing Analytics &amp; Digital Enablement | [Apply](<https://apply.workable.com/j/1AD8810B73>) | - | 22 Sep 2026 | 28 Sep 2026 |
-| Marvell | Silicon Photonics Intern - Ph.D | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Silicon-Photonics-Intern---PhD_2502472>) | - | 07 Jul 2026 | 28 Sep 2026 |
 | Johnson Controls | Intern, Data Analytics | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analytics_WD30266779>) | - | 28 Apr 2026 | 28 Sep 2026 |
 | Hitachi | UXUI / AI Transformation Intern | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/UXUI---AI-Transformation-Intern_R1010137-1>) | - | 07 Jul 2026 | 28 Sep 2026 |
 | HP | College Intern – System Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---System-Engineer_UNI4549-1>) | January 2027 Start | 26 Aug 2026 | 28 Sep 2026 |
@@ -428,6 +427,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Marvell | Silicon Photonics Intern - Ph.D | 18 Oct 2026 | - |
 | Apple | Information Security Internship Program (FY27 Summer Intake) | 18 Oct 2026 | - |
 | ↳ | 2027 Apple Internship - Information Systems and Technology | 18 Oct 2026 | - |
 | Sea | IT Operations Specialist intern (6 months) | 17 Oct 2026 | - |
@@ -497,7 +497,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | Complete | 0 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

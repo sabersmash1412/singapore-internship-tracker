@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **380 current or undated listings · 11 older advertised periods · 45 employers with roles**
 
-Last collection: **18 Oct 2026, 18:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **18 Oct 2026, 18:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -21,7 +21,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
 | Amazon | 🆕 Data Center Infrastructure Engineering Intern, Colocation Regional Engineering | [Apply](<https://www.amazon.jobs/en/jobs/10507775/data-center-infrastructure-engineering-intern-colocation-regional-engineering>) | - | 06 Oct 2026 | 17 Oct 2026 |
-| ↳ | 🆕 Commissioning Program Analyst Intern, Data Center Capacity Delivery APJC | [Apply](<https://www.amazon.jobs/en/jobs/10563228/commissioning-program-analyst-intern-data-center-capacity-delivery-apjc>) | Jan 2027 – June 2027 | 13 Oct 2026 | 16 Oct 2026 |
+| ↳ | Commissioning Program Analyst Intern, Data Center Capacity Delivery APJC | [Apply](<https://www.amazon.jobs/en/jobs/10563228/commissioning-program-analyst-intern-data-center-capacity-delivery-apjc>) | Jan 2027 – June 2027 | 13 Oct 2026 | 16 Oct 2026 |
 | Grab | Intern, Software Engineer | [Apply](<https://jobs.smartrecruiters.com/Grab/744000155926216>) | - | 16 Oct 2026 | 16 Oct 2026 |
 | DBS | 2027 DBS Internship (Technology and AI &amp; Data Science) | [Apply](<https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME-2027-DBS-Internship--Technology-and-AI---Data-Science-_WD89681>) | - | 16 Oct 2026 | 16 Oct 2026 |
 | Thales | HR Automation Intern | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/HR-Automation-Intern_R0344795>) | - | 16 Oct 2026 | 16 Oct 2026 |

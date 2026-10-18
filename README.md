@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **381 current or undated listings · 11 older advertised periods · 45 employers with roles**
 
-Last collection: **18 Oct 2026, 11:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **18 Oct 2026, 12:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -24,7 +24,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Commissioning Program Analyst Intern, Data Center Capacity Delivery APJC | [Apply](<https://www.amazon.jobs/en/jobs/10563228/commissioning-program-analyst-intern-data-center-capacity-delivery-apjc>) | Jan 2027 – June 2027 | 13 Oct 2026 | 16 Oct 2026 |
 | Grab | 🆕 Intern, Software Engineer | [Apply](<https://jobs.smartrecruiters.com/Grab/744000155926216>) | - | 16 Oct 2026 | 16 Oct 2026 |
 | DBS | 🆕 2027 DBS Internship (Technology and AI &amp; Data Science) | [Apply](<https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME-2027-DBS-Internship--Technology-and-AI---Data-Science-_WD89681>) | - | 16 Oct 2026 | 16 Oct 2026 |
-| Thales | 🆕 HR Automation Intern | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/HR-Automation-Intern_R0344795>) | - | 16 Oct 2026 | 16 Oct 2026 |
+| Thales | HR Automation Intern | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/HR-Automation-Intern_R0344795>) | - | 16 Oct 2026 | 16 Oct 2026 |
 | Micron | Intern - PEE CVD | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CVD_JR112661>) | - | 15 Oct 2026 | 15 Oct 2026 |
 | Shopee | Data Analyst Intern - Business Intelligence, Regional Logistics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02200192/1>) | Spring 2027 | - | 15 Oct 2026 |
 | ↳ | AI Automation &amp; Operations Intelligence Intern - Regional SPX Express (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02200208/1>) | Spring 2027 | - | 15 Oct 2026 |
@@ -497,7 +497,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

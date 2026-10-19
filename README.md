@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**377 current or undated listings · 11 older advertised periods · 44 employers with roles**
+**376 current or undated listings · 11 older advertised periods · 44 employers with roles**
 
-Last collection: **19 Oct 2026, 14:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **19 Oct 2026, 15:05 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -25,7 +25,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Commissioning Program Analyst Intern, Data Center Capacity Delivery APJC | [Apply](<https://www.amazon.jobs/en/jobs/10563228/commissioning-program-analyst-intern-data-center-capacity-delivery-apjc>) | Jan 2027 – June 2027 | 13 Oct 2026 | 16 Oct 2026 |
 | Grab | Intern, Software Engineer | [Apply](<https://jobs.smartrecruiters.com/Grab/744000155926216>) | - | 16 Oct 2026 | 16 Oct 2026 |
 | DBS | 2027 DBS Internship (Technology and AI &amp; Data Science) | [Apply](<https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME-2027-DBS-Internship--Technology-and-AI---Data-Science-_WD89681>) | - | 16 Oct 2026 | 16 Oct 2026 |
-| Thales | HR Automation Intern | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/HR-Automation-Intern_R0344795>) | - | 16 Oct 2026 | 16 Oct 2026 |
+| Thales | HR Automation Intern (Jan 2027 intake) | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/HR-Automation-Intern_R0344795>) | Jan 2027 intake | 19 Oct 2026 | 16 Oct 2026 |
 | Micron | Intern - PEE CVD | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CVD_JR112661>) | - | 15 Oct 2026 | 15 Oct 2026 |
 | Shopee | Data Analyst Intern - Business Intelligence, Regional Logistics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02200192/1>) | Spring 2027 | - | 15 Oct 2026 |
 | ↳ | AI Automation &amp; Operations Intelligence Intern - Regional SPX Express (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02200208/1>) | Spring 2027 | - | 15 Oct 2026 |
@@ -90,7 +90,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Applied AI Intern (Voice) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784>) | - | 29 Sep 2026 | 28 Sep 2026 |
 | ↳ | AI Engineer Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/AI-Engineer-Intern_JR2026006947>) | - | 11 Sep 2026 | 28 Sep 2026 |
 | QCP | Intern, Trading - ALM (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/4599D0F542>) | Jan - Jun 2027 | 26 Aug 2026 | 28 Sep 2026 |
-| ↳ | Intern, Quantitative Developer - Trading (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/ABEB48A3E4>) | Jan - Jun 2027 | 24 Sep 2026 | 28 Sep 2026 |
 | ↳ | Intern, IT Governance &amp; Security (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/1030A7B64B>) | Jan - Jun 2027 | 18 Aug 2026 | 28 Sep 2026 |
 | Porsche Asia Pacific | Intern Marketing Analytics &amp; Digital Enablement | [Apply](<https://apply.workable.com/j/1AD8810B73>) | - | 22 Sep 2026 | 28 Sep 2026 |
 | Johnson Controls | Intern, Data Analytics | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analytics_WD30266779>) | - | 28 Apr 2026 | 28 Sep 2026 |
@@ -426,6 +425,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| QCP | Intern, Quantitative Developer - Trading (Jan - Jun 2027) | 19 Oct 2026 | - |
 | Carousell Group | Forward Deployed Engineering Intern (AI Adoption Pod) | 19 Oct 2026 | - |
 | Autodesk | Intern, Software Development Engineer \[PSET-Connected Delivery\] | 19 Oct 2026 | - |
 | DRW | IT Intern | 19 Oct 2026 | - |
@@ -478,7 +478,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Source board | Latest check | Matching roles returned |
 | --- | --- | --- |
-| smartrecruiters:Grab | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:Grab | Complete | 4 |
 | lever:shopback-2 | Complete | 5 |
 | greenhouse:temus | Complete | 1 |
 | greenhouse:drweng | Complete | 1 |
@@ -488,7 +488,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | ⚠️ Incomplete — previous listings retained | 10 |
+| workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 14 |
 | workday:globalfoundries | Complete | 10 |
@@ -611,7 +611,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:ripple | Complete | 0 |
 | workday:roche | Complete | 0 |
 | workday:spgi | Complete | 0 |
-| workday:salesforce | Complete | 0 |
+| workday:salesforce | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 1 |
 | greenhouse:sentinellabs | Complete | 0 |

@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**380 current or undated listings · 11 older advertised periods · 45 employers with roles**
+**379 current or undated listings · 11 older advertised periods · 45 employers with roles**
 
-Last collection: **19 Oct 2026, 11:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **19 Oct 2026, 12:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -399,7 +399,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Grab | Intern, Strategy &amp; Analytics, Transport | [Apply](<https://jobs.smartrecruiters.com/Grab/744000149793152>) | - | 16 Sep 2026 | 21 Sep 2026 |
 | ↳ | Intern, Fleet Systems Analyst | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147417629>) | January 2027 Start | 04 Sep 2026 | 21 Sep 2026 |
 | DRW | Quantitative Research Intern | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8014915>) | - | 13 Jul 2026 | 21 Sep 2026 |
-| ↳ | IT Intern | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8173677>) | - | 02 Sep 2026 | 21 Sep 2026 |
 
 <details>
 <summary>Older advertised periods — verify intake (11)</summary>
@@ -429,7 +428,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
-| DRW | Software Developer Intern (C++) | 19 Oct 2026 | - |
+| DRW | IT Intern | 19 Oct 2026 | - |
+| ↳ | Software Developer Intern (C++) | 19 Oct 2026 | - |
 | Marvell | Silicon Photonics Intern - Ph.D | 18 Oct 2026 | - |
 | Sea | IT Operations Specialist intern (6 months) | 17 Oct 2026 | - |
 | Grab | Intern, Software Engineer | 16 Oct 2026 | - |
@@ -470,7 +470,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | NAC National Arts Council | Intern, Data &amp; Research (Data) - 6 Months Contract | 06 Oct 2026 | - |
 | AMD | Wafer Sort &amp; Final Test Hardware Development Engineer Intern | 05 Oct 2026 | - |
 | Applied Materials | Intern - Field Operations Excellence Agent (Agentic AI) Development | 05 Oct 2026 | - |
-| HP | College Intern - Pen Health &amp; Servicing Algorithm Development Engineer | 05 Oct 2026 | - |
 
 </details>
 
@@ -491,14 +490,14 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
-| workday:amat | Complete | 14 |
+| workday:amat | ⚠️ Incomplete — previous listings retained | 14 |
 | workday:globalfoundries | Complete | 10 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 22 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -630,7 +629,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 14 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 13 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

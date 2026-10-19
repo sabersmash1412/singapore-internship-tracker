@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**378 current or undated listings · 11 older advertised periods · 45 employers with roles**
+**377 current or undated listings · 11 older advertised periods · 44 employers with roles**
 
-Last collection: **19 Oct 2026, 14:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **19 Oct 2026, 14:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -140,7 +140,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Campus Python Software Engineer (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027955>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | ↳ | Campus C++ Software Engineer (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027946>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | ↳ | Campus AI/ML Researcher (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027938>) | - | 24 Aug 2026 | 24 Sep 2026 |
-| Carousell Group | Forward Deployed Engineering Intern (AI Adoption Pod) | [Apply](<https://jobs.smartrecruiters.com/CarousellGroup/744000151263724>) | Oct 2026-Jun 2027 / Oct–Dec 2026 / Jan-Jun 2027 | 23 Sep 2026 | 24 Sep 2026 |
 | Cantina | Machine Learning Intern | [Apply](<https://jobs.ashbyhq.com/cantina/16c7915e-9fd7-413f-b7ee-590589fbdc01>) | October 2026 Start | 07 Sep 2026 | 24 Sep 2026 |
 | Bosch | Intern, Sales Excellence Data Analyst | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000150013555>) | - | 17 Sep 2026 | 24 Sep 2026 |
 | Airwallex | Software Engineer Intern (Summer 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795>) | Summer 2027 | 05 Aug 2026 | 24 Sep 2026 |
@@ -427,6 +426,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Carousell Group | Forward Deployed Engineering Intern (AI Adoption Pod) | 19 Oct 2026 | - |
 | Autodesk | Intern, Software Development Engineer \[PSET-Connected Delivery\] | 19 Oct 2026 | - |
 | DRW | IT Intern | 19 Oct 2026 | - |
 | ↳ | Software Developer Intern (C++) | 19 Oct 2026 | - |
@@ -478,7 +478,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Source board | Latest check | Matching roles returned |
 | --- | --- | --- |
-| smartrecruiters:Grab | Complete | 4 |
+| smartrecruiters:Grab | ⚠️ Incomplete — previous listings retained | 0 |
 | lever:shopback-2 | Complete | 5 |
 | greenhouse:temus | Complete | 1 |
 | greenhouse:drweng | Complete | 1 |
@@ -488,7 +488,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | Complete | 11 |
+| workday:ocbc | ⚠️ Incomplete — previous listings retained | 10 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 14 |
 | workday:globalfoundries | Complete | 10 |
@@ -503,7 +503,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:bifrost | Complete | 0 |
 | lever:binance | Complete | 0 |
 | greenhouse:bitgo | Complete | 0 |
-| smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:BoschGroup | Complete | 2 |
 | ashby:cantina | Complete | 1 |
 | smartrecruiters:CarousellGroup | Complete | 0 |
 | ashby:clickhouse | Complete | 0 |
@@ -603,7 +603,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |
 | workable:porsche-asia-pacific | Complete | 1 |
-| workable:qcp-group | Complete | 3 |
+| workable:qcp-group | Complete | 2 |
 | greenhouse:qualtrics | Complete | 0 |
 | workday:razer | Complete | 10 |
 | greenhouse:relex | Complete | 0 |
@@ -629,7 +629,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 6 |
+| successfactors:temasek | Complete | 14 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

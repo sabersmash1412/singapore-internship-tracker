@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**379 current or undated listings · 11 older advertised periods · 45 employers with roles**
+**378 current or undated listings · 11 older advertised periods · 45 employers with roles**
 
-Last collection: **19 Oct 2026, 13:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **19 Oct 2026, 13:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -103,7 +103,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | AI Product Manager Intern | [Apply](<https://apply.workable.com/j/FB1EE7D84F>) | - | 26 Mar 2026 | 28 Sep 2026 |
 | Autodesk | Intern, Software Development Engineer \[PSET-Localization\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100998-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
 | ↳ | Intern, Software Development Engineer \[PSET-Localization\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997-2>) | October - November 2026 | 25 Sep 2026 | 28 Sep 2026 |
-| ↳ | Intern, Software Development Engineer \[PSET-Connected Delivery\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
 | ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100989-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
 | ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100988-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
 | ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
@@ -428,6 +427,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Autodesk | Intern, Software Development Engineer \[PSET-Connected Delivery\] | 19 Oct 2026 | - |
 | DRW | IT Intern | 19 Oct 2026 | - |
 | ↳ | Software Developer Intern (C++) | 19 Oct 2026 | - |
 | Marvell | Silicon Photonics Intern - Ph.D | 18 Oct 2026 | - |
@@ -497,13 +497,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 0 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
 | lever:binance | Complete | 0 |
 | greenhouse:bitgo | Complete | 0 |
-| smartrecruiters:BoschGroup | Complete | 2 |
+| smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
 | ashby:cantina | Complete | 1 |
 | smartrecruiters:CarousellGroup | Complete | 1 |
 | ashby:clickhouse | Complete | 0 |
@@ -627,9 +627,9 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
-| successfactors:singtel | Complete | 1 |
+| successfactors:singtel | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 13 |
+| successfactors:temasek | Complete | 14 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

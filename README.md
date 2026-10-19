@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **375 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **20 Oct 2026, 06:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **20 Oct 2026, 06:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -529,7 +529,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:portcast | Complete | 1 |
 | smartrecruiters:RenesasElectronics | Complete | 0 |
 | greenhouse:rubrik | Complete | 0 |
-| smartrecruiters:ServiceNow | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
 | workday:sggovterp | Complete | 2 |
 | greenhouse:stripe | Complete | 2 |
@@ -562,7 +562,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:DeliveryHero | Complete | 0 |
 | workday:disney | Complete | 0 |
 | workday:dyson | Complete | 0 |
-| smartrecruiters:EgisGroup | Complete | 0 |
+| smartrecruiters:EgisGroup | ⚠️ Incomplete — previous listings retained | 0 |
 | workable:epos | Complete | 2 |
 | smartrecruiters:Eurofins | Complete | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
@@ -609,7 +609,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:ripple | Complete | 0 |
 | workday:roche | Complete | 0 |
 | workday:spgi | Complete | 0 |
-| workday:salesforce | Complete | 0 |
+| workday:salesforce | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 1 |
 | greenhouse:sentinellabs | Complete | 0 |

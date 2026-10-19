@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**375 current or undated listings · 11 older advertised periods · 44 employers with roles**
+**374 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **20 Oct 2026, 00:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **20 Oct 2026, 00:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -56,7 +56,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Marvell | Business Planning System Analyst Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Business-Planning-System-Analyst-Intern---Bachelor-s-Degree_2603816>) | - | 30 Sep 2026 | 30 Sep 2026 |
 | ↳ | Hardware Validation Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Validation-Intern---Bachelor-s-Master-s-Degree_2603741>) | - | 30 Sep 2026 | 30 Sep 2026 |
 | ↳ | Hardware Design Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Design-Intern---Bachelor-s-Master-s-Degree_2604427>) | - | 30 Sep 2026 | 30 Sep 2026 |
-| NLB National Library Board | Marketing Analytics Intern, Marketing &amp; Corporate Solutions | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/NLB-National-Library-Building/Marketing-Intern--Marketing---Corporate-Solutions_JR-10000053281>) | - | 08 Oct 2026 | 29 Sep 2026 |
 | Micron | Intern - STPG Product System | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-Product-System_JR111189>) | - | 29 Sep 2026 | 29 Sep 2026 |
 | Razer | Software Cloud Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Cloud-Intern_JR2026007798>) | - | 29 Sep 2026 | 29 Sep 2026 |
 | Micron | Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111156>) | Jan to May 2027 | 29 Sep 2026 | 29 Sep 2026 |
@@ -424,6 +423,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| NLB National Library Board | Marketing Analytics Intern, Marketing &amp; Corporate Solutions | 20 Oct 2026 | - |
 | GlobalFoundries | Machine Learning &amp; Generative AI Intern (Jan-Jun 2027) | 19 Oct 2026 | - |
 | QCP | Intern, Quantitative Developer - Trading (Jan - Jun 2027) | 19 Oct 2026 | - |
 | Carousell Group | Forward Deployed Engineering Intern (AI Adoption Pod) | 19 Oct 2026 | - |
@@ -467,7 +467,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | Bosch | Intern, AI Research | 08 Oct 2026 | - |
 | DRW | Software Engineer Intern (Data Engineering) | 08 Oct 2026 | - |
 | Disney | Intern, APAC Data Analytics (Marketing Analytics), Disney+ - Jan to Jun 2027 | 06 Oct 2026 | - |
-| NAC National Arts Council | Intern, Data &amp; Research (Data) - 6 Months Contract | 06 Oct 2026 | - |
 
 </details>
 
@@ -495,7 +494,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

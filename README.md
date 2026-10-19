@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**380 current or undated listings · 11 older advertised periods · 45 employers with roles**
+**381 current or undated listings · 11 older advertised periods · 45 employers with roles**
 
-Last collection: **19 Oct 2026, 10:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **19 Oct 2026, 11:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Tower Research Capital | 🆕 Software Engineer, C++ - 6 Month Internship Opportunity | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8299894>) | - | 19 Oct 2026 | 19 Oct 2026 |
 | Amazon | 🆕 Data Center Infrastructure Engineering Intern, Colocation Regional Engineering | [Apply](<https://www.amazon.jobs/en/jobs/10507775/data-center-infrastructure-engineering-intern-colocation-regional-engineering>) | - | 06 Oct 2026 | 17 Oct 2026 |
 | ↳ | Commissioning Program Analyst Intern, Data Center Capacity Delivery APJC | [Apply](<https://www.amazon.jobs/en/jobs/10563228/commissioning-program-analyst-intern-data-center-capacity-delivery-apjc>) | Jan 2027 – June 2027 | 13 Oct 2026 | 16 Oct 2026 |
 | Grab | Intern, Software Engineer | [Apply](<https://jobs.smartrecruiters.com/Grab/744000155926216>) | - | 16 Oct 2026 | 16 Oct 2026 |
@@ -481,7 +482,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:Grab | Complete | 4 |
 | lever:shopback-2 | Complete | 5 |
 | greenhouse:temus | Complete | 1 |
-| greenhouse:drweng | Complete | 3 |
+| greenhouse:drweng | Complete | 2 |
 | bytedance:tiktok | Complete | 128 |
 | bytedance:bytedance | Complete | 34 |
 | shopee:shopee | Complete | 35 |
@@ -497,7 +498,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | Complete | 2 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -537,7 +538,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |
-| greenhouse:towerresearchcapital | Complete | 3 |
+| greenhouse:towerresearchcapital | Complete | 4 |
 | greenhouse:trustbank | Complete | 0 |
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
@@ -554,7 +555,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:broadcom | Complete | 0 |
 | workday:carrier | Complete | 0 |
 | ashby:chalk | Complete | 0 |
-| workday:citi | Complete | 0 |
+| workday:citi | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:CliffordChance | Complete | 0 |
 | greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |
@@ -611,7 +612,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:ripple | Complete | 0 |
 | workday:roche | Complete | 0 |
 | workday:spgi | Complete | 0 |
-| workday:salesforce | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:salesforce | Complete | 0 |
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 1 |
 | greenhouse:sentinellabs | Complete | 0 |
@@ -629,7 +630,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 13 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 4 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

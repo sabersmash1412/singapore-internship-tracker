@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **375 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **20 Oct 2026, 02:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **20 Oct 2026, 02:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -495,13 +495,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | Complete | 0 |
+| apple:apple | Complete | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
 | lever:binance | Complete | 0 |
 | greenhouse:bitgo | Complete | 0 |
-| smartrecruiters:BoschGroup | Complete | 2 |
+| smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
 | ashby:cantina | Complete | 1 |
 | smartrecruiters:CarousellGroup | Complete | 0 |
 | ashby:clickhouse | Complete | 0 |
@@ -527,7 +527,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:openai | Complete | 0 |
 | lever:palantir | Complete | 1 |
 | lever:portcast | Complete | 1 |
-| smartrecruiters:RenesasElectronics | Complete | 0 |
+| smartrecruiters:RenesasElectronics | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
@@ -546,7 +546,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:airbnb | Complete | 0 |
 | workday:analogdevices | Complete | 0 |
 | greenhouse:anthropic | Complete | 0 |
-| workday:autodesk | Complete | 12 |
+| workday:autodesk | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:blackrock | Complete | 0 |
 | greenhouse:braze | Complete | 0 |
 | workday:broadcom | Complete | 0 |
@@ -613,7 +613,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 1 |
 | greenhouse:sentinellabs | Complete | 0 |
-| smartrecruiters:SGS | Complete | 0 |
+| smartrecruiters:SGS | ⚠️ Incomplete — previous listings retained | 0 |
 | lever:shieldai | Complete | 0 |
 | greenhouse:smartlyio | Complete | 0 |
 | workday:sonyglobal | Complete | 0 |

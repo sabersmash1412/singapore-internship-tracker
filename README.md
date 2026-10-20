@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**371 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**361 current or undated listings · 11 older advertised periods · 42 employers with roles**
 
-Last collection: **21 Oct 2026, 03:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **21 Oct 2026, 04:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -44,14 +44,10 @@ These roles remain listed in employer sources; confirm application availability 
 | Marvell | Quality Systems Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Quality-Systems-Intern---Bachelor-s-Degree_2603821>) | - | 09 Oct 2026 | 09 Oct 2026 |
 | GlobalFoundries | Automation &amp; AI Engineer Intern, Quality (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME---Engineer-Quality-QMS-Intern--Jan-Jun-2027-_JR-2604510-1>) | Jan-Jun 2027 | 08 Oct 2026 | 09 Oct 2026 |
 | Micron | Intern - HVM PEE Photo (AI) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979>) | - | 08 Oct 2026 | 08 Oct 2026 |
-| Autodesk | Intern, Software Engineer \[PDMS-DPM-Engineering\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277-1>) | - | 07 Oct 2026 | 07 Oct 2026 |
 | Bosch | Intern, Data Analyst | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000154012744>) | - | 07 Oct 2026 | 07 Oct 2026 |
 | Micron | Intern- PIE RAM (Agentic AI) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--PIE-RAM--Agentic-AI-_JR112779>) | Jan to May 2027 | 06 Oct 2026 | 06 Oct 2026 |
 | Marvell | Test Solutions Engineering Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Test-Solutions-Engineering-Intern---Bachelor-s-Degree_2604801>) | - | 05 Oct 2026 | 05 Oct 2026 |
-| Autodesk | Intern, Software Engineer in Test \[AEC Autocad Engineering\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362-1>) | - | 05 Oct 2026 | 05 Oct 2026 |
-| ↳ | Intern, DevOps Engineer \[AEC-Connected Infrastructure Engineering\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363-1>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | Applied Materials | Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Technology-Development-Engineer---Hybrid-Bonding---Advanced-Packaging--Internship-_R2626900>) | - | 05 Oct 2026 | 05 Oct 2026 |
-| Autodesk | Intern, Software Development Engineer \[AEC-AutoCAD Backend\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365-1>) | January - June 2027 | 05 Oct 2026 | 05 Oct 2026 |
 | Marvell | Supply Chain Technology &amp; Analytics Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Supply-Chain-Technology---Analytics-Intern---Bachelor-s-Degree_2603845>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | TikTok | AI Agent Project Intern (Open Platform) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7691567961421728053>) | 2026 Start | - | 01 Oct 2026 |
 | Thales | Software Engineer Intern (Python) | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/Software-Engineer-Intern--Python-_R0342044>) | - | 01 Oct 2026 | 01 Oct 2026 |
@@ -101,12 +97,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Funding Societies &#124; Modalku Group | People Analytics &amp; Reporting Intern | [Apply](<https://apply.workable.com/j/E437A5580D>) | - | 27 Aug 2026 | 28 Sep 2026 |
 | EPOS | Sales Operations &amp; Automation Intern | [Apply](<https://apply.workable.com/j/61DE89D60B>) | - | 27 Aug 2026 | 28 Sep 2026 |
 | ↳ | AI Product Manager Intern | [Apply](<https://apply.workable.com/j/FB1EE7D84F>) | - | 26 Mar 2026 | 28 Sep 2026 |
-| Autodesk | Intern, Software Development Engineer \[PSET-Localization\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100998-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
-| ↳ | Intern, Software Development Engineer \[PSET-Localization\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997-2>) | October - November 2026 | 25 Sep 2026 | 28 Sep 2026 |
-| ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100988-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
-| ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
-| ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100986-2>) | October - November 2026 | 25 Sep 2026 | 28 Sep 2026 |
-| ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985-2>) | October - November 2026 | 25 Sep 2026 | 28 Sep 2026 |
 | TikTok | Business Data Analyst Project Intern (GBS) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7689364323701901573>) | 2026 Start | - | 26 Sep 2026 |
 | OCBC | Internship: Global Markets, Business Management Unit/System Solution Analytics \[Jan - Jun 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Markets--Business-Management-Unit-System-Solution-Analytics--Jan---Jun-2027-_JR00011364>) | Jan - Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
 | ↳ | Internship: Global Markets, Management Information Systems \[Jan - Jun 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/SGP-Head-Office/Internship--Global-Markets--Management-Information-Systems--Jan---Jun-2027-_JR00011357>) | Jan - Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
@@ -420,7 +410,17 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
-| Autodesk | Intern, Software Development Engineer \[PSET - Product Data - Document Management\] | 21 Oct 2026 | - |
+| Autodesk | Intern, Software Engineer in Test \[AEC Autocad Engineering\] | 21 Oct 2026 | - |
+| ↳ | Intern, Software Engineer \[PDMS-DPM-Engineering\] | 21 Oct 2026 | - |
+| ↳ | Intern, Software Development Engineer \[PSET-Localization\] | 21 Oct 2026 | - |
+| ↳ | Intern, Software Development Engineer \[PSET-Localization\] | 21 Oct 2026 | - |
+| ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | 21 Oct 2026 | - |
+| ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | 21 Oct 2026 | - |
+| ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | 21 Oct 2026 | - |
+| ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | 21 Oct 2026 | - |
+| ↳ | Intern, Software Development Engineer \[AEC-AutoCAD Backend\] | 21 Oct 2026 | - |
+| ↳ | Intern, DevOps Engineer \[AEC-Connected Infrastructure Engineering\] | 21 Oct 2026 | - |
+| ↳ | Intern, Software Development Engineer \[PSET - Product Data - Document Management\] | 21 Oct 2026 | - |
 | ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | 21 Oct 2026 | - |
 | Shopee | Projects - Data Intern, SBS (Spring 2027) | 20 Oct 2026 | - |
 | Razer | Large Language Model Intern | 20 Oct 2026 | - |
@@ -496,7 +496,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | Complete | 3 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -554,7 +554,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:carrier | Complete | 0 |
 | ashby:chalk | Complete | 0 |
 | workday:citi | Complete | 0 |
-| smartrecruiters:CliffordChance | Complete | 0 |
+| smartrecruiters:CliffordChance | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |
 | workable:covergo | Complete | 0 |
@@ -610,7 +610,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:ripple | Complete | 0 |
 | workday:roche | Complete | 0 |
 | workday:spgi | Complete | 0 |
-| workday:salesforce | Complete | 0 |
+| workday:salesforce | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 1 |
 | greenhouse:sentinellabs | Complete | 0 |

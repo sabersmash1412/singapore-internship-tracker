@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **374 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **20 Oct 2026, 15:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **20 Oct 2026, 15:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -476,7 +476,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Source board | Latest check | Matching roles returned |
 | --- | --- | --- |
-| smartrecruiters:Grab | Complete | 4 |
+| smartrecruiters:Grab | ⚠️ Incomplete — previous listings retained | 0 |
 | lever:shopback-2 | Complete | 5 |
 | greenhouse:temus | Complete | 1 |
 | greenhouse:drweng | Complete | 1 |
@@ -486,7 +486,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | ⚠️ Incomplete — previous listings retained | 5 |
+| workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 14 |
 | workday:globalfoundries | Complete | 9 |
@@ -538,7 +538,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:towerresearchcapital | Complete | 4 |
 | greenhouse:trustbank | Complete | 0 |
 | greenhouse:verkada | Complete | 0 |
-| smartrecruiters:WesternDigital | Complete | 0 |
+| smartrecruiters:WesternDigital | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Wise | Complete | 0 |
 | smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 0 |
@@ -559,10 +559,10 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:covergo | Complete | 0 |
 | ashby:cursor | Complete | 0 |
 | ashby:deepgram | Complete | 0 |
-| smartrecruiters:DeliveryHero | Complete | 0 |
+| smartrecruiters:DeliveryHero | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:disney | Complete | 0 |
 | workday:dyson | Complete | 0 |
-| smartrecruiters:EgisGroup | Complete | 0 |
+| smartrecruiters:EgisGroup | ⚠️ Incomplete — previous listings retained | 0 |
 | workable:epos | Complete | 2 |
 | smartrecruiters:Eurofins | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
@@ -587,7 +587,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:langchain | Complete | 0 |
 | greenhouse:launchdarkly | Complete | 0 |
 | workday:logitech | Complete | 0 |
-| smartrecruiters:LouisDreyfusCompany | Complete | 0 |
+| smartrecruiters:LouisDreyfusCompany | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:manulife | Complete | 0 |
 | workday:marvell | Complete | 7 |
 | workday:mastercard | Complete | 0 |

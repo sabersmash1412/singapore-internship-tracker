@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **372 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **20 Oct 2026, 20:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **20 Oct 2026, 20:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -144,7 +144,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Airwallex | Software Engineer Intern (Summer 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795>) | Summer 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | Software Engineer Intern (Jan to Jun 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441>) | Jan to Jun 2027 | 14 Aug 2026 | 24 Sep 2026 |
 | ShopBack | Product Builder Intern (Product Engineering) | [Apply](<https://jobs.lever.co/shopback-2/5e5c78b0-1b9a-4c09-843d-49ea41e991fe>) | - | - | 24 Sep 2026 |
-| Micron | Intern- Test Solutions Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Test-Solutions-Engineer_JR106290>) | - | 12 Oct 2026 | 24 Sep 2026 |
+| Micron | Intern- Test Solutions Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Test-Solutions-Engineer_JR106290>) | - | 20 Oct 2026 | 24 Sep 2026 |
 | ↳ | Intern - Product Engineering, NAND Validation/Characterization | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Product-Engineering--NAND-Validation-Characterization_JR111131>) | Jan to May 2027 | 22 Sep 2026 | 24 Sep 2026 |
 | TikTok | Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start | [Apply](<https://lifeattiktok.com/search/7669738564847110453>) | 2027 Start | - | 24 Sep 2026 |
 | Shopee | Regional Large Language Model (LLM) Agent &amp; Prompt Engineering Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02042064/1>) | Spring 2027 | - | 24 Sep 2026 |
@@ -495,7 +495,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | Complete | 3 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -527,7 +527,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:openai | Complete | 0 |
 | lever:palantir | Complete | 1 |
 | lever:portcast | Complete | 1 |
-| smartrecruiters:RenesasElectronics | Complete | 0 |
+| smartrecruiters:RenesasElectronics | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
@@ -562,7 +562,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:DeliveryHero | Complete | 0 |
 | workday:disney | Complete | 0 |
 | workday:dyson | Complete | 0 |
-| smartrecruiters:EgisGroup | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
 | smartrecruiters:Eurofins | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
@@ -596,7 +596,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:moloco | Complete | 0 |
 | smartrecruiters:MUFGInvestorServices | Complete | 0 |
 | greenhouse:newrelic | Complete | 0 |
-| smartrecruiters:NielsenIQ | Complete | 0 |
+| smartrecruiters:NielsenIQ | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:paypal | Complete | 0 |
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |
@@ -613,7 +613,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 1 |
 | greenhouse:sentinellabs | Complete | 0 |
-| smartrecruiters:SGS | Complete | 0 |
+| smartrecruiters:SGS | ⚠️ Incomplete — previous listings retained | 0 |
 | lever:shieldai | Complete | 0 |
 | greenhouse:smartlyio | Complete | 0 |
 | workday:sonyglobal | Complete | 0 |

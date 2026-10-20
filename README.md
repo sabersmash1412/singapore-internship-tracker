@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**374 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**373 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **20 Oct 2026, 16:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **20 Oct 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -85,7 +85,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Software Development and Integration Engineer (Intern) | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339158>) | - | 04 Sep 2026 | 28 Sep 2026 |
 | Razer | Software Engineer Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_JR2026007809>) | - | 11 Sep 2026 | 28 Sep 2026 |
 | ↳ | Product Developer Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Developer-Intern_JR2026007822>) | - | 11 Sep 2026 | 28 Sep 2026 |
-| ↳ | Large Language Model Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Large-Language-Model-Intern_JR2026007862>) | - | 11 Sep 2026 | 28 Sep 2026 |
 | ↳ | Generative AI Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Generative-AI-Intern_JR2026007735>) | - | 17 Aug 2026 | 28 Sep 2026 |
 | ↳ | Computer Vision Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Computer-Vision-Intern_JR2026007731>) | - | 17 Aug 2026 | 28 Sep 2026 |
 | ↳ | Applied AI Intern (Voice) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784>) | - | 29 Sep 2026 | 28 Sep 2026 |
@@ -423,6 +422,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Razer | Large Language Model Intern | 20 Oct 2026 | - |
 | Shopee | Business Intelligence Intern (Spring 2027) | 20 Oct 2026 | - |
 | ↳ | Business Intelligence Intern (Spring 2027) | 20 Oct 2026 | - |
 | NLB National Library Board | Marketing Analytics Intern, Marketing &amp; Corporate Solutions | 20 Oct 2026 | - |
@@ -495,7 +495,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
+| apple:apple | Complete | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -559,14 +559,14 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:covergo | Complete | 0 |
 | ashby:cursor | Complete | 0 |
 | ashby:deepgram | Complete | 0 |
-| smartrecruiters:DeliveryHero | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:DeliveryHero | Complete | 0 |
 | workday:disney | Complete | 0 |
 | workday:dyson | Complete | 0 |
-| smartrecruiters:EgisGroup | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
-| smartrecruiters:Eurofins | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:Eurofins | Complete | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
-| smartrecruiters:Experian | Complete | 0 |
+| smartrecruiters:Experian | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Fastmarkets | Complete | 0 |
 | workable:first-circle | Complete | 0 |
 | greenhouse:flexport | Complete | 0 |
@@ -587,7 +587,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:langchain | Complete | 0 |
 | greenhouse:launchdarkly | Complete | 0 |
 | workday:logitech | Complete | 0 |
-| smartrecruiters:LouisDreyfusCompany | Complete | 0 |
+| smartrecruiters:LouisDreyfusCompany | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:manulife | Complete | 0 |
 | workday:marvell | Complete | 7 |
 | workday:mastercard | Complete | 0 |
@@ -617,7 +617,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:shieldai | Complete | 0 |
 | greenhouse:smartlyio | Complete | 0 |
 | workday:sonyglobal | Complete | 0 |
-| workday:thales | ⚠️ Incomplete — previous listings retained | 6 |
+| workday:thales | Complete | 6 |
 | greenhouse:thetradedesk | Complete | 0 |
 | smartrecruiters:TheWonderfulCompany | Complete | 0 |
 | greenhouse:twilio | Complete | 0 |

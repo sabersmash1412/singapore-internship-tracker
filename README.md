@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**372 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**371 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **21 Oct 2026, 02:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **21 Oct 2026, 02:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -107,7 +107,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
 | ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100986-2>) | October - November 2026 | 25 Sep 2026 | 28 Sep 2026 |
 | ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985-2>) | October - November 2026 | 25 Sep 2026 | 28 Sep 2026 |
-| ↳ | Intern, Software Development Engineer \[PSET - Product Data - Document Management\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET---Product-Data----Document-Management-_26WD100984>) | - | 25 Sep 2026 | 28 Sep 2026 |
 | TikTok | Business Data Analyst Project Intern (GBS) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7689364323701901573>) | 2026 Start | - | 26 Sep 2026 |
 | OCBC | Internship: Global Markets, Business Management Unit/System Solution Analytics \[Jan - Jun 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Markets--Business-Management-Unit-System-Solution-Analytics--Jan---Jun-2027-_JR00011364>) | Jan - Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
 | ↳ | Internship: Global Markets, Management Information Systems \[Jan - Jun 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/SGP-Head-Office/Internship--Global-Markets--Management-Information-Systems--Jan---Jun-2027-_JR00011357>) | Jan - Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
@@ -421,7 +420,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
-| Autodesk | Intern, Software Development Engineer \[PSET-Access-ENG\] | 21 Oct 2026 | - |
+| Autodesk | Intern, Software Development Engineer \[PSET - Product Data - Document Management\] | 21 Oct 2026 | - |
+| ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | 21 Oct 2026 | - |
 | Shopee | Projects - Data Intern, SBS (Spring 2027) | 20 Oct 2026 | - |
 | Razer | Large Language Model Intern | 20 Oct 2026 | - |
 | Shopee | Business Intelligence Intern (Spring 2027) | 20 Oct 2026 | - |
@@ -597,7 +597,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:moloco | Complete | 0 |
 | smartrecruiters:MUFGInvestorServices | Complete | 0 |
 | greenhouse:newrelic | Complete | 0 |
-| smartrecruiters:NielsenIQ | Complete | 0 |
+| smartrecruiters:NielsenIQ | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:paypal | Complete | 0 |
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |
@@ -626,7 +626,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
-| successfactors:singtel | ⚠️ Incomplete — previous listings retained | 0 |
+| successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:temasek | Complete | 14 |
 

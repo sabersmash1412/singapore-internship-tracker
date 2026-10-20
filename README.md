@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**373 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**372 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **21 Oct 2026, 01:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **21 Oct 2026, 02:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -103,7 +103,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | AI Product Manager Intern | [Apply](<https://apply.workable.com/j/FB1EE7D84F>) | - | 26 Mar 2026 | 28 Sep 2026 |
 | Autodesk | Intern, Software Development Engineer \[PSET-Localization\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100998-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
 | ↳ | Intern, Software Development Engineer \[PSET-Localization\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997-2>) | October - November 2026 | 25 Sep 2026 | 28 Sep 2026 |
-| ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100989-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
 | ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100988-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
 | ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-2>) | - | 25 Sep 2026 | 28 Sep 2026 |
 | ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | [Apply](<https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100986-2>) | October - November 2026 | 25 Sep 2026 | 28 Sep 2026 |
@@ -422,6 +421,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Autodesk | Intern, Software Development Engineer \[PSET-Access-ENG\] | 21 Oct 2026 | - |
 | Shopee | Projects - Data Intern, SBS (Spring 2027) | 20 Oct 2026 | - |
 | Razer | Large Language Model Intern | 20 Oct 2026 | - |
 | Shopee | Business Intelligence Intern (Spring 2027) | 20 Oct 2026 | - |
@@ -496,7 +496,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
+| apple:apple | Complete | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -547,14 +547,14 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:airbnb | Complete | 0 |
 | workday:analogdevices | Complete | 0 |
 | greenhouse:anthropic | Complete | 0 |
-| workday:autodesk | Complete | 11 |
+| workday:autodesk | Complete | 10 |
 | workday:blackrock | Complete | 0 |
 | greenhouse:braze | Complete | 0 |
 | workday:broadcom | Complete | 0 |
 | workday:carrier | Complete | 0 |
 | ashby:chalk | Complete | 0 |
 | workday:citi | Complete | 0 |
-| smartrecruiters:CliffordChance | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:CliffordChance | Complete | 0 |
 | greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |
 | workable:covergo | Complete | 0 |
@@ -563,7 +563,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:DeliveryHero | Complete | 0 |
 | workday:disney | Complete | 0 |
 | workday:dyson | Complete | 0 |
-| smartrecruiters:EgisGroup | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
 | smartrecruiters:Eurofins | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
@@ -614,7 +614,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 1 |
 | greenhouse:sentinellabs | Complete | 0 |
-| smartrecruiters:SGS | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:SGS | Complete | 0 |
 | lever:shieldai | Complete | 0 |
 | greenhouse:smartlyio | Complete | 0 |
 | workday:sonyglobal | Complete | 0 |
@@ -626,7 +626,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
-| successfactors:singtel | Complete | 1 |
+| successfactors:singtel | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:temasek | Complete | 14 |
 

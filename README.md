@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**372 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**373 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **20 Oct 2026, 20:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **20 Oct 2026, 21:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Micron | 🆕 Intern - HIG HBM Product Engineering (Advance Data Analytics) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HIG-HBM-Product-Engineering--Advance-Data-Analytics-_JR114591>) | - | 20 Oct 2026 | 20 Oct 2026 |
 | Shopee | 🆕 Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02201780/1>) | Spring 2027 | - | 20 Oct 2026 |
 | Apple | 🆕 Hardware Technology Intern, Singapore | [Apply](<https://jobs.apple.com/en-us/details/200690041-3278/hardware-technology-intern-singapore>) | - | 19 Oct 2026 | 20 Oct 2026 |
 | Tower Research Capital | 🆕 Software Engineer, C++ - 6 Month Internship Opportunity | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8299894>) | - | 19 Oct 2026 | 19 Oct 2026 |
@@ -491,7 +492,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:amat | Complete | 14 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
-| workday:micron | Complete | 22 |
+| workday:micron | Complete | 23 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
@@ -613,7 +614,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 1 |
 | greenhouse:sentinellabs | Complete | 0 |
-| smartrecruiters:SGS | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:SGS | Complete | 0 |
 | lever:shieldai | Complete | 0 |
 | greenhouse:smartlyio | Complete | 0 |
 | workday:sonyglobal | Complete | 0 |

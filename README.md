@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**362 current or undated listings · 11 older advertised periods · 42 employers with roles**
+**360 current or undated listings · 11 older advertised periods · 41 employers with roles**
 
-Last collection: **21 Oct 2026, 12:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **21 Oct 2026, 12:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -325,7 +325,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | SPX Express Business Development Intern - Data Analytics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00076432/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Product Management Intern - Enterprise Collaboration and AI | [Apply](<https://careers.shopee.sg/job-detail/J02115564/1>) | - | - | 24 Sep 2026 |
 | ↳ | Product Analyst Intern, Traffic &amp; Content - Business Intelligence AI Bot (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02126202/1>) | Fall 2026 | - | 24 Sep 2026 |
-| ↳ | Data Analytics Intern - Brand Analytics, Regional Brand Partnerships (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J00133511/1>) | Fall 2026 | - | 24 Sep 2026 |
 | ↳ | Data Analyst Intern - Regional Marketing Analytics, Regional Brand &amp; Growth Marketing (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00004459/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Data Analyst Intern - Regional BI &amp; Planning (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00110930/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Data Analyst Intern - Product Analysis, Regional Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02056925/1>) | Spring 2027 | - | 24 Sep 2026 |
@@ -375,7 +374,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | AI Product Manager Project Intern (AI Data &amp; Safety) - 2026 Start (BS/MS) | [Apply](<https://joinbytedance.com/search/7634521917428910341>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | AI Agent Machine Learning Engineer Intern (Global E-Commerce, Supply Chain and Logistics) - 2027 Start (PhD) | [Apply](<https://joinbytedance.com/search/7686117700369451269>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Agent Algorithm Engineer Intern (Global E-Commerce, Affiliate) - 2027 Start | [Apply](<https://joinbytedance.com/search/7686119680478644485>) | 2027 Start | - | 24 Sep 2026 |
-| Temus | AI/Data Intern (May - Dec 2026) | [Apply](<https://job-boards.greenhouse.io/temus/jobs/5169522008>) | May - Dec 2026 | 30 Mar 2026 | 21 Sep 2026 |
 | ShopBack | Software Engineer Intern (H1 2027) | [Apply](<https://jobs.lever.co/shopback-2/1804a30e-2d2e-4631-9e85-614c91806ddf>) | H1 2027 | - | 21 Sep 2026 |
 | ↳ | Operations Automation Engineer Intern | [Apply](<https://jobs.lever.co/shopback-2/0b3627b7-0c1a-46da-bc3d-699f8d5ca9e5>) | H2 2026 | - | 21 Sep 2026 |
 | ↳ | Data Analyst (Internship) (H1 2027) | [Apply](<https://jobs.lever.co/shopback-2/b216d68c-48b0-4fa5-8f1e-9e0375b993e1>) | H1 2027 | - | 21 Sep 2026 |
@@ -411,6 +409,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Shopee | Data Analytics Intern - Brand Analytics, Regional Brand Partnerships (Fall 2026) | 21 Oct 2026 | - |
+| Temus | AI/Data Intern (May - Dec 2026) | 21 Oct 2026 | - |
 | Autodesk | Intern, Software Engineer in Test \[AEC Autocad Engineering\] | 21 Oct 2026 | - |
 | ↳ | Intern, Software Engineer \[PDMS-DPM-Engineering\] | 21 Oct 2026 | - |
 | ↳ | Intern, Software Development Engineer \[PSET-Localization\] | 21 Oct 2026 | - |
@@ -491,13 +491,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | ⚠️ Incomplete — previous listings retained | 1 |
-| workday:globalfoundries | Complete | 9 |
+| workday:globalfoundries | Complete | 8 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 23 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | Complete | 3 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

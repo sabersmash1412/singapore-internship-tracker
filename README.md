@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **361 current or undated listings · 11 older advertised periods · 42 employers with roles**
 
-Last collection: **21 Oct 2026, 10:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **21 Oct 2026, 11:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -23,7 +23,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Micron | 🆕 Intern - HIG HBM Product Engineering (Advance Data Analytics) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HIG-HBM-Product-Engineering--Advance-Data-Analytics-_JR114591>) | - | 20 Oct 2026 | 20 Oct 2026 |
 | Shopee | 🆕 Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02201780/1>) | Spring 2027 | - | 20 Oct 2026 |
 | Apple | 🆕 Hardware Technology Intern, Singapore | [Apply](<https://jobs.apple.com/en-us/details/200690041-3278/hardware-technology-intern-singapore>) | - | 19 Oct 2026 | 20 Oct 2026 |
-| Tower Research Capital | 🆕 Software Engineer, C++ - 6 Month Internship Opportunity | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8299894>) | - | 19 Oct 2026 | 19 Oct 2026 |
+| Tower Research Capital | Software Engineer, C++ - 6 Month Internship Opportunity | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8299894>) | - | 19 Oct 2026 | 19 Oct 2026 |
 | Amazon | Data Center Infrastructure Engineering Intern, Colocation Regional Engineering | [Apply](<https://www.amazon.jobs/en/jobs/10507775/data-center-infrastructure-engineering-intern-colocation-regional-engineering>) | - | 06 Oct 2026 | 17 Oct 2026 |
 | ↳ | Commissioning Program Analyst Intern, Data Center Capacity Delivery APJC | [Apply](<https://www.amazon.jobs/en/jobs/10563228/commissioning-program-analyst-intern-data-center-capacity-delivery-apjc>) | Jan 2027 – June 2027 | 13 Oct 2026 | 16 Oct 2026 |
 | Grab | Intern, Software Engineer | [Apply](<https://jobs.smartrecruiters.com/Grab/744000155926216>) | - | 16 Oct 2026 | 16 Oct 2026 |
@@ -496,7 +496,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | Complete | 3 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -508,7 +508,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:clickhouse | Complete | 0 |
 | ashby:cohere | Complete | 0 |
 | greenhouse:coinbase | Complete | 0 |
-| smartrecruiters:Continental | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:Continental | Complete | 0 |
 | lever:crypto | Complete | 0 |
 | greenhouse:databricks | Complete | 0 |
 | greenhouse:datadog | Complete | 0 |
@@ -528,7 +528,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:openai | Complete | 0 |
 | lever:palantir | Complete | 1 |
 | lever:portcast | Complete | 1 |
-| smartrecruiters:RenesasElectronics | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:RenesasElectronics | Complete | 0 |
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
@@ -561,7 +561,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:cursor | Complete | 0 |
 | ashby:deepgram | Complete | 0 |
 | smartrecruiters:DeliveryHero | Complete | 0 |
-| workday:disney | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:disney | Complete | 0 |
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
@@ -628,7 +628,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 14 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 5 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **359 current or undated listings · 11 older advertised periods · 41 employers with roles**
 
-Last collection: **21 Oct 2026, 13:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **21 Oct 2026, 13:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Thales | 🆕 Software Development and Integration Engineer (Intern) | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339159>) | - | 21 Oct 2026 | 21 Oct 2026 |
 | Shopee | 🆕 Data Analytics Intern - Brand Analytics, Regional Brand Partnerships (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02202299/1>) | Fall 2026 | - | 21 Oct 2026 |
 | Micron | 🆕 Intern - HIG HBM Product Engineering (Advance Data Analytics) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HIG-HBM-Product-Engineering--Advance-Data-Analytics-_JR114591>) | - | 20 Oct 2026 | 20 Oct 2026 |
 | Shopee | 🆕 Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02201780/1>) | Spring 2027 | - | 20 Oct 2026 |
@@ -170,8 +171,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 2H University Intern - PVD Equipment | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---PVD-Equipment_JR-2502749>) | June 2026 Start | 13 Jan 2026 | 24 Sep 2026 |
 | ↳ | 2H University Intern - IP Program Management &amp; QA | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---IP-Program-Management---QA_JR-2502782>) | June 2026 Start | 13 Jan 2026 | 24 Sep 2026 |
 | ↳ | 2H University Intern - FR CMOS Device Engineering | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Intern---FR-CMOS_JR-2503753>) | - | 14 Jan 2026 | 24 Sep 2026 |
-| Applied Materials | Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Technology-Development-Engineer---Hybrid-Bonding---Advanced-Packaging--Internship-_R2626901>) | - | 31 Aug 2026 | 24 Sep 2026 |
-| ↳ | Process Engineering Intern (Hybrid Bonding) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-Engineering-Intern--Hybrid-Bonding-_R2626437>) | - | 31 Aug 2026 | 24 Sep 2026 |
+| Applied Materials | Process Engineering Intern (Hybrid Bonding) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-Engineering-Intern--Hybrid-Bonding-_R2626437>) | - | 31 Aug 2026 | 24 Sep 2026 |
 | ↳ | Process Engineer Internship: Enhancing CVD process efficiency and film quality through systematic recipe optimization | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-Engineer-Internship--Enhancing-CVD-process-efficiency-and-film-quality-through-systematic-recipe-optimization_R2626530>) | - | 31 Aug 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Process Integration | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process-Integration_R2626676>) | - | 31 Aug 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Process &amp; product development in PVD chambers in Hybrid bonding for SOIC (advanced packaging) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process---product-development-in-PVD-chambers-in-Hybrid-bonding-for-SOIC--advanced-packaging-_R2626936>) | - | 07 Sep 2026 | 24 Sep 2026 |
@@ -408,6 +408,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Applied Materials | Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship) | 21 Oct 2026 | - |
 | GlobalFoundries | Automation &amp; AI Engineer Intern, Quality (Jan-Jun 2027) | 21 Oct 2026 | - |
 | Shopee | Data Analytics Intern - Brand Analytics, Regional Brand Partnerships (Fall 2026) | 21 Oct 2026 | - |
 | Temus | AI/Data Intern (May - Dec 2026) | 21 Oct 2026 | - |
@@ -497,7 +498,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
+| apple:apple | Complete | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -619,7 +620,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:shieldai | Complete | 0 |
 | greenhouse:smartlyio | Complete | 0 |
 | workday:sonyglobal | Complete | 0 |
-| workday:thales | Complete | 6 |
+| workday:thales | Complete | 7 |
 | greenhouse:thetradedesk | Complete | 0 |
 | smartrecruiters:TheWonderfulCompany | Complete | 0 |
 | greenhouse:twilio | Complete | 0 |

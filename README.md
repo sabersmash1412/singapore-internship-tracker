@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**362 current or undated listings · 11 older advertised periods · 41 employers with roles**
+**361 current or undated listings · 11 older advertised periods · 41 employers with roles**
 
-Last collection: **21 Oct 2026, 14:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **21 Oct 2026, 15:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -140,7 +140,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Micron | Intern- Test Solutions Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Test-Solutions-Engineer_JR106290>) | - | 20 Oct 2026 | 24 Sep 2026 |
 | ↳ | Intern - Product Engineering, NAND Validation/Characterization | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Product-Engineering--NAND-Validation-Characterization_JR111131>) | Jan to May 2027 | 22 Sep 2026 | 24 Sep 2026 |
 | TikTok | Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start | [Apply](<https://lifeattiktok.com/search/7669738564847110453>) | 2027 Start | - | 24 Sep 2026 |
-| Shopee | Regional Large Language Model (LLM) Agent &amp; Prompt Engineering Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02042064/1>) | Spring 2027 | - | 24 Sep 2026 |
 | Micron | Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111158>) | - | 22 Sep 2026 | 24 Sep 2026 |
 | ↳ | Intern - MSB Automation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---MSB-Automation-Engineer_JR112720>) | - | 24 Sep 2026 | 24 Sep 2026 |
 | ↳ | Intern- MSB Process Integration Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--MSB-Process-Integration-Engineer_JR109767>) | Jan to May 2027 | 12 Oct 2026 | 24 Sep 2026 |
@@ -411,6 +410,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Shopee | Regional Large Language Model (LLM) Agent &amp; Prompt Engineering Intern (Spring 2027) | 21 Oct 2026 | - |
 | Applied Materials | Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship) | 21 Oct 2026 | - |
 | GlobalFoundries | Automation &amp; AI Engineer Intern, Quality (Jan-Jun 2027) | 21 Oct 2026 | - |
 | Shopee | Data Analytics Intern - Brand Analytics, Regional Brand Partnerships (Fall 2026) | 21 Oct 2026 | - |
@@ -494,7 +494,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
-| workday:amat | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:amat | Complete | 13 |
 | workday:globalfoundries | Complete | 8 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 23 |

@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**363 current or undated listings · 11 older advertised periods · 41 employers with roles**
+**363 current or undated listings · 12 older advertised periods · 41 employers with roles**
 
-Last collection: **21 Oct 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **21 Oct 2026, 18:06 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -385,7 +385,7 @@ These roles remain listed in employer sources; confirm application availability 
 | DRW | Quantitative Research Intern | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8014915>) | - | 13 Jul 2026 | 21 Sep 2026 |
 
 <details>
-<summary>Older advertised periods — verify intake (11)</summary>
+<summary>Older advertised periods — verify intake (12)</summary>
 
 These roles remain listed by employers, but their advertised periods appear to have passed. They are retained here for reference and in the data downloads; this does not mean applications are closed.
 
@@ -393,7 +393,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| Shopee | Business Intelligence (BI) Intern – Cross Border E-commerce (Summer 2026) | [Apply](<https://careers.shopee.sg/job-detail/J00356170/1>) | Summer 2026 | - | 24 Sep 2026 |
+| Shopee | 🆕 Business Intelligence (BI) Intern – Cross Border E-commerce (Summer 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02203104/1>) | Summer 2026 | - | 21 Oct 2026 |
+| ↳ | Business Intelligence (BI) Intern – Cross Border E-commerce (Summer 2026) | [Apply](<https://careers.shopee.sg/job-detail/J00356170/1>) | Summer 2026 | - | 24 Sep 2026 |
 | ↳ | Algorithm Engineer Intern, Search Guide (May - Dec 2025) | [Apply](<https://careers.shopee.sg/job-detail/J00379432/1>) | May - Dec 2025 | - | 24 Sep 2026 |
 | OCBC | Internship: Group Operations &amp; Technology, Group Technology Services – Data Centre &amp; Disaster Recovery \[January - May 2026\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Operations---Technology--Group-Technology-Services---Data-Centre---Disaster-Recovery--January---May-2026-_JR00011135>) | January - May 2026 | 18 Sep 2026 | 24 Sep 2026 |
 | ↳ | Internship: Group Operations &amp; Technology, Group Engineering – Enterprise Data Management \[January - May 2026\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Operations---Technology--Group-Engineering---Enterprise-Data-Management--January---May-2026-_JR00011133>) | January - May 2026 | 18 Sep 2026 | 24 Sep 2026 |
@@ -509,13 +510,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:bifrost | Complete | 0 |
 | lever:binance | Complete | 0 |
 | greenhouse:bitgo | Complete | 0 |
-| smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:BoschGroup | Complete | 2 |
 | ashby:cantina | Complete | 1 |
 | smartrecruiters:CarousellGroup | Complete | 0 |
 | ashby:clickhouse | Complete | 0 |
 | ashby:cohere | Complete | 0 |
 | greenhouse:coinbase | Complete | 0 |
-| smartrecruiters:Continental | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:Continental | Complete | 0 |
 | lever:crypto | Complete | 0 |
 | greenhouse:databricks | Complete | 0 |
 | greenhouse:datadog | Complete | 0 |
@@ -574,7 +575,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:epos | Complete | 2 |
 | smartrecruiters:Eurofins | Complete | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
-| smartrecruiters:Experian | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:Experian | Complete | 0 |
 | smartrecruiters:Fastmarkets | Complete | 0 |
 | workable:first-circle | Complete | 0 |
 | greenhouse:flexport | Complete | 0 |
@@ -596,7 +597,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:launchdarkly | Complete | 0 |
 | workday:logitech | Complete | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
-| workday:manulife | Complete | 0 |
+| workday:manulife | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:marvell | Complete | 7 |
 | workday:mastercard | Complete | 0 |
 | lever:matchgroup | Complete | 0 |
@@ -621,7 +622,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 1 |
 | greenhouse:sentinellabs | Complete | 0 |
-| smartrecruiters:SGS | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:SGS | Complete | 0 |
 | lever:shieldai | Complete | 0 |
 | greenhouse:smartlyio | Complete | 0 |
 | workday:sonyglobal | Complete | 0 |
@@ -635,7 +636,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 14 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 13 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

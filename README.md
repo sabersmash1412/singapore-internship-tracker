@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **363 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **22 Oct 2026, 12:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **22 Oct 2026, 13:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -479,7 +479,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | Intern - F10 QEM Product Quality Engineering Yield Data Analytics | 09 Oct 2026 | - |
 | HP | College Intern - NPI System Interaction Engineer | 08 Oct 2026 | - |
 | Bosch | Intern, AI Research | 08 Oct 2026 | - |
-| DRW | Software Engineer Intern (Data Engineering) | 08 Oct 2026 | - |
 
 </details>
 
@@ -507,7 +506,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | Complete | 3 |
+| apple:apple | Complete | 0 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

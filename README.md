@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**363 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**362 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **23 Oct 2026, 00:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **23 Oct 2026, 00:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -120,7 +120,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Quantitative Developer Intern | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8138524>) | - | 18 Aug 2026 | 24 Sep 2026 |
 | Stripe | Software Engineer, Intern | [Apply](<https://stripe.com/jobs/search?gh_jid=8130883>) | - | 07 Sep 2026 | 24 Sep 2026 |
 | SLA Singapore Land Authority | Intern, GeoSpatial Systems &amp; Solutions | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/SLA-REVENUE-HOUSE-LEVEL-11/Intern--GeoSpatial-Systems---Solutions_JR-10000054096>) | - | 16 Oct 2026 | 24 Sep 2026 |
-| ↳ | Intern, Finance Process Automation | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/SLA-REVENUE-HOUSE-LEVEL-11/intern_JR-10000036273>) | Oct 2026 to Feb 2027 / Jan 2027 to June 2027 | 02 Oct 2026 | 24 Sep 2026 |
 | Portcast | Data Analyst Intern | [Apply](<https://jobs.lever.co/portcast/f18cc64e-c34a-416c-b213-62a39906260e>) | - | - | 24 Sep 2026 |
 | Palantir Technologies | Software Engineer, Internship | [Apply](<https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1>) | - | - | 24 Sep 2026 |
 | NCS | \[Uni – Jan till Jun 2027\] Agentic AI Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001275993>) | Jan till Jun 2027 | 31 Jul 2026 | 24 Sep 2026 |
@@ -412,6 +411,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| SLA Singapore Land Authority | Intern, Finance Process Automation | 23 Oct 2026 | - |
 | Shopee | Data Analyst Applied AI Intern, Buyer &amp; Marketing - Business Intelligence (Spring 2027) | 22 Oct 2026 | - |
 | ↳ | \[Fall 2026\] Data Analyst Intern - Customer Service Chatbot, Regional Operations (Spring 2027) | 22 Oct 2026 | - |
 | ↳ | Data Analyst Intern - Business Intelligence, Regional Marketplace Operations (Spring 2027) | 22 Oct 2026 | - |
@@ -481,8 +481,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | Wise | Analytics Intern | 09 Oct 2026 | - |
 | GlobalFoundries | ESD Device Design Engineer Intern (Jan-Jun 2027) | 09 Oct 2026 | - |
 | DRW | Software Developer Intern (Python) | 09 Oct 2026 | - |
-| Micron | Intern - Test Solutions Engineering | 09 Oct 2026 | - |
-| ↳ | Intern - F10 QEM Product Quality Engineering Yield Data Analytics | 09 Oct 2026 | - |
 
 </details>
 
@@ -555,7 +553,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | Complete | 0 |
+| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |
@@ -640,7 +638,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
-| successfactors:singtel | ⚠️ Incomplete — previous listings retained | 1 |
+| successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:temasek | Complete | 14 |
 

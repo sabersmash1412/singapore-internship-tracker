@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**367 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**362 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **22 Oct 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **22 Oct 2026, 17:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -326,18 +326,13 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | AI Agent Algorithm Engineer Intern (Global E-Commerce, Conversational AI) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7666284293297506565>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Agent Algorithm Engineer Intern (Global E-Commerce, Affiliate) - 2027 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7666287860598081845>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Agent Algorithm Engineer Intern (Global E-Commerce, Affiliate) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7666280347193477429>) | 2027 Start | - | 24 Sep 2026 |
-| Shopee | \[Fall 2026\] Data Analyst Intern - Customer Service Chatbot, Regional Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02186110/1>) | Fall 2026 / Spring 2027 | - | 24 Sep 2026 |
-| ↳ | Workflow Automation Intern - People Team (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02120446/1>) | Fall 2026 | - | 24 Sep 2026 |
+| Shopee | Workflow Automation Intern - People Team (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02120446/1>) | Fall 2026 | - | 24 Sep 2026 |
 | ↳ | Strategy and Analytics Intern - Regional CRM, Regional Brand &amp; Growth Marketing (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00336273/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | SPX Express Business Development Intern - Data Analytics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00076432/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Product Management Intern - Enterprise Collaboration and AI | [Apply](<https://careers.shopee.sg/job-detail/J02115564/1>) | - | - | 24 Sep 2026 |
 | ↳ | Product Analyst Intern, Traffic &amp; Content - Business Intelligence AI Bot (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02126202/1>) | Fall 2026 | - | 24 Sep 2026 |
 | ↳ | Data Analyst Intern - Regional Marketing Analytics, Regional Brand &amp; Growth Marketing (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00004459/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Data Analyst Intern - Regional BI &amp; Planning (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00110930/1>) | Spring 2027 | - | 24 Sep 2026 |
-| ↳ | Data Analyst Intern - Product Analysis, Regional Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02056925/1>) | Spring 2027 | - | 24 Sep 2026 |
-| ↳ | Data Analyst Intern - Customer Service, Regional Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02056515/1>) | Spring 2027 | - | 24 Sep 2026 |
-| ↳ | Data Analyst Intern - Customer Service Chatbot, Regional Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02056798/1>) | Spring 2027 | - | 24 Sep 2026 |
-| ↳ | Data Analyst Intern - Business Intelligence, Regional Marketplace Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02057734/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Data Analyst Applied AI Intern, Buyer &amp; Marketing - Business Intelligence (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02037906/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Chatbot Algorithm Engineer Intern, Marketplace Intelligence &amp; Data (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02183308/1>) | Fall 2026 | - | 24 Sep 2026 |
 | ↳ | Business Data Analyst Intern - Commercial Management, Business Development (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00250728/1>) | Spring 2027 | - | 24 Sep 2026 |
@@ -416,6 +411,11 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Shopee | \[Fall 2026\] Data Analyst Intern - Customer Service Chatbot, Regional Operations (Spring 2027) | 22 Oct 2026 | - |
+| ↳ | Data Analyst Intern - Business Intelligence, Regional Marketplace Operations (Spring 2027) | 22 Oct 2026 | - |
+| ↳ | Data Analyst Intern - Product Analysis, Regional Operations (Spring 2027) | 22 Oct 2026 | - |
+| ↳ | Data Analyst Intern - Customer Service Chatbot, Regional Operations (Spring 2027) | 22 Oct 2026 | - |
+| ↳ | Data Analyst Intern - Customer Service, Regional Operations (Spring 2027) | 22 Oct 2026 | - |
 | Applied Materials | College Intern - Process &amp; hardware development in PVD chambers for emerging films in micro-OLED and Integrated voltage regulator for AI chips | 22 Oct 2026 | - |
 | Thales | Software Development and Integration Engineer (Intern) | 22 Oct 2026 | - |
 | Bosch | Intern, Sales Excellence Data Analyst | 21 Oct 2026 | - |
@@ -499,7 +499,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | Complete | 11 |
+| workday:ocbc | ⚠️ Incomplete — previous listings retained | 6 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 12 |
 | workday:globalfoundries | Complete | 8 |
@@ -508,7 +508,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | Complete | 0 |
+| apple:apple | Complete | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

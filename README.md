@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **362 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **23 Oct 2026, 03:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **23 Oct 2026, 03:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -508,7 +508,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | Complete | 3 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -520,7 +520,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:clickhouse | Complete | 0 |
 | ashby:cohere | Complete | 0 |
 | greenhouse:coinbase | Complete | 1 |
-| smartrecruiters:Continental | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:Continental | Complete | 0 |
 | lever:crypto | Complete | 0 |
 | greenhouse:databricks | Complete | 0 |
 | greenhouse:datadog | Complete | 0 |
@@ -638,7 +638,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
-| successfactors:singtel | ⚠️ Incomplete — previous listings retained | 1 |
+| successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:temasek | Complete | 14 |
 

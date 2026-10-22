@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**363 current or undated listings · 11 older advertised periods · 42 employers with roles**
+**363 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **22 Oct 2026, 11:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **22 Oct 2026, 12:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -129,6 +129,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | \[Uni - Jan till Jun 2027\] AI Presales &amp; Solution Engineering Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287889>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] AI Engineer Intern (Middleware) | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001288481>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] AI Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287239>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
+| NAC National Arts Council | Intern, Data &amp; Research (Data) - 6 Months Contract | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Singapore/Intern--Data---Research--Data----6-Months-Contract_JR-10000055833>) | - | 22 Oct 2026 | 24 Sep 2026 |
 | Jump Trading | Campus Systems Engineer (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027952>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | ↳ | Campus Quantitative Trader (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027941>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | ↳ | Campus Quantitative Researcher (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027939>) | - | 03 Aug 2026 | 24 Sep 2026 |
@@ -180,7 +181,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | College Intern - Process Integration | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process-Integration_R2626676>) | - | 31 Aug 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Process &amp; product development in PVD chambers in Hybrid bonding for SOIC (advanced packaging) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process---product-development-in-PVD-chambers-in-Hybrid-bonding-for-SOIC--advanced-packaging-_R2626936>) | - | 07 Sep 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Process &amp; hardware development in PVD chambers for new films: AlN as thermal interface material (TIM), SiN as photonic waveguide . | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-chambers-for-new-films--AlN-as-thermal-interface-material--TIM---SiN-as-photonic-waveguide-_R2626934>) | - | 07 Sep 2026 | 24 Sep 2026 |
-| ↳ | College Intern - Process &amp; hardware development in PVD chambers for emerging films in micro-OLED and Integrated voltage regulator for AI chips | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-chambers-for-emerging-films-in-micro-OLED-and-Integrated-voltage-regulator-for-AI-chips_R2626937>) | - | 07 Sep 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Process &amp; hardware development in PVD Al chambers for N3,N5 and more advanced nodes. | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-Al-chambers-for-N3-N5-and-more-advanced-nodes_R2626935>) | - | 07 Sep 2026 | 24 Sep 2026 |
 | ↳ | College Intern - GT Indigo Inter-Die Gapfill Process and Integration for 3DIC | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---GT-Indigo-Inter-Die-Gapfill-Process-and-Integration-for-3DIC_R2626651>) | - | 07 Sep 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Job Description Metrology, Defect Inspection, and Data Analytics for Die-to-Wafer Hybrid Bonding | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern_R2624343>) | - | 04 Sep 2026 | 24 Sep 2026 |
@@ -412,6 +412,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Applied Materials | College Intern - Process &amp; hardware development in PVD chambers for emerging films in micro-OLED and Integrated voltage regulator for AI chips | 22 Oct 2026 | - |
 | Thales | Software Development and Integration Engineer (Intern) | 22 Oct 2026 | - |
 | Bosch | Intern, Sales Excellence Data Analyst | 21 Oct 2026 | - |
 | Shopee | Business Intelligence (BI) Intern – Cross Border E-commerce (Summer 2026) | 21 Oct 2026 | - |
@@ -506,7 +507,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 3 |
+| apple:apple | Complete | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -542,7 +543,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | Complete | 2 |
+| workday:sggovterp | Complete | 3 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |

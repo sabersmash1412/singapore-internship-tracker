@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**358 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**359 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **23 Oct 2026, 11:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **23 Oct 2026, 11:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| GlobalFoundries | 🆕 Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604278>) | Jan-Jun 2027 | 22 Oct 2026 | 23 Oct 2026 |
 | TikTok | 🆕 Frontend Software Engineer - Intern (TikTok Global LIVE) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7699479125563738373>) | 2027 Start | - | 22 Oct 2026 |
 | Shopee | 🆕 Data Analyst Applied AI Intern, Buyer &amp; Marketing - Business Intelligence | [Apply](<https://careers.shopee.sg/job-detail/J02204129/1>) | - | - | 22 Oct 2026 |
 | ↳ | 🆕 Data Analyst Intern - Product Analysis, Regional Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02203819/1>) | Spring 2027 | - | 22 Oct 2026 |
@@ -502,13 +503,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 12 |
-| workday:globalfoundries | Complete | 8 |
+| workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 23 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | Complete | 3 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -640,7 +641,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 5 |
+| successfactors:temasek | Complete | 14 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

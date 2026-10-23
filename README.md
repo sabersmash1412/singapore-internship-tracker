@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **359 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **23 Oct 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **23 Oct 2026, 17:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -31,8 +31,8 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Data Analyst Intern - Business Intelligence, Regional Marketplace Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02203897/1>) | Spring 2027 | - | 22 Oct 2026 |
 | Coinbase | 🆕 Software Engineer Intern | [Apply](<https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873>) | summer 2027 | 22 Oct 2026 | 22 Oct 2026 |
 | Marvell | 🆕 Silicon Photonics Intern | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Silicon-Photonics-Intern_2604444>) | - | 21 Oct 2026 | 21 Oct 2026 |
-| Johnson Controls | 🆕 Intern, Data Analyst | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283077>) | - | 21 Oct 2026 | 21 Oct 2026 |
-| ↳ | 🆕 Intern, Data Analyst | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283075>) | - | 21 Oct 2026 | 21 Oct 2026 |
+| Johnson Controls | Intern, Data Analyst | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283077>) | - | 21 Oct 2026 | 21 Oct 2026 |
+| ↳ | Intern, Data Analyst | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283075>) | - | 21 Oct 2026 | 21 Oct 2026 |
 | TikTok | Business Analytics &amp; Strategy Project Intern (GBS) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7699000656422209845>) | 2026 Start | - | 21 Oct 2026 |
 | Shopee | Regional Large Language Model (LLM) Agent &amp; Prompt Engineering Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02202617/1>) | Spring 2027 | - | 21 Oct 2026 |
 | Johnson Controls | Business Intern, Business Analytics | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Business-Intern--Business-Analytics_WD30283076>) | - | 21 Oct 2026 | 21 Oct 2026 |
@@ -482,7 +482,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | College Intern - Electrical/Electronics | 12 Oct 2026 | - |
 | NVIDIA | PhD Research Intern, Autonomous Systems and Physical AI Research - 2027 | 10 Oct 2026 | - |
 | Wise | Analytics Intern | 09 Oct 2026 | - |
-| GlobalFoundries | ESD Device Design Engineer Intern (Jan-Jun 2027) | 09 Oct 2026 | - |
 
 </details>
 
@@ -510,7 +509,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

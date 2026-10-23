@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **360 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **23 Oct 2026, 12:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **23 Oct 2026, 12:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,7 +20,8 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| Shopee | 🆕 Strategy and Analytics Intern - Regional CRM, Regional Brand &amp; Growth Marketing | [Apply](<https://careers.shopee.sg/job-detail/J02204517/1>) | - | - | 23 Oct 2026 |
+| Shopee | 🆕 Data Analyst Intern - Regional Marketing Analytics, Regional Brand &amp; Growth Marketing | [Apply](<https://careers.shopee.sg/job-detail/J02204611/1>) | - | - | 23 Oct 2026 |
+| ↳ | 🆕 Strategy and Analytics Intern - Regional CRM, Regional Brand &amp; Growth Marketing | [Apply](<https://careers.shopee.sg/job-detail/J02204517/1>) | - | - | 23 Oct 2026 |
 | GlobalFoundries | 🆕 Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604278>) | Jan-Jun 2027 | 22 Oct 2026 | 23 Oct 2026 |
 | TikTok | 🆕 Frontend Software Engineer - Intern (TikTok Global LIVE) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7699479125563738373>) | 2027 Start | - | 22 Oct 2026 |
 | Shopee | 🆕 Data Analyst Applied AI Intern, Buyer &amp; Marketing - Business Intelligence | [Apply](<https://careers.shopee.sg/job-detail/J02204129/1>) | - | - | 22 Oct 2026 |
@@ -328,7 +329,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | AI Agent Algorithm Engineer Intern (Global E-Commerce, Affiliate) - 2027 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7666287860598081845>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Agent Algorithm Engineer Intern (Global E-Commerce, Affiliate) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7666280347193477429>) | 2027 Start | - | 24 Sep 2026 |
 | Shopee | Workflow Automation Intern - People Team (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02120446/1>) | Fall 2026 | - | 24 Sep 2026 |
-| ↳ | Strategy and Analytics Intern - Regional CRM, Regional Brand &amp; Growth Marketing (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00336273/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | SPX Express Business Development Intern - Data Analytics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00076432/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Product Management Intern - Enterprise Collaboration and AI | [Apply](<https://careers.shopee.sg/job-detail/J02115564/1>) | - | - | 24 Sep 2026 |
 | ↳ | Product Analyst Intern, Traffic &amp; Content - Business Intelligence AI Bot (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02126202/1>) | Fall 2026 | - | 24 Sep 2026 |
@@ -409,6 +409,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Shopee | Strategy and Analytics Intern - Regional CRM, Regional Brand &amp; Growth Marketing (Spring 2027) | 23 Oct 2026 | - |
 | Razer | Data Analytics and Product Support Intern | 23 Oct 2026 | - |
 | HP | College Intern – System Engineer | 23 Oct 2026 | - |
 | Shopee | Backend Engineer Intern, Data Infrastructure - OLAP (Fall 2026/ Spring 2027) | 23 Oct 2026 | - |
@@ -510,7 +511,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
+| apple:apple | Complete | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

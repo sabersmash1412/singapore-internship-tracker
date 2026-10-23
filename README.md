@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **360 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **24 Oct 2026, 00:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **24 Oct 2026, 01:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -481,7 +481,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | GlobalFoundries | Facility Engineering, Automation Intern (Jan-Jun 2027) | 12 Oct 2026 | - |
 | HP | College Intern - Product Engineering (System Interaction) | 12 Oct 2026 | - |
 | ↳ | College Intern - Electrical/Electronics | 12 Oct 2026 | - |
-| NVIDIA | PhD Research Intern, Autonomous Systems and Physical AI Research - 2027 | 10 Oct 2026 | - |
 
 </details>
 
@@ -500,7 +499,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | ⚠️ Incomplete — previous listings retained; 9 details unavailable | 1 |
+| workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 12 |
 | workday:globalfoundries | Complete | 9 |
@@ -509,7 +508,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | Complete | 0 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -545,7 +544,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:sggovterp | Complete | 2 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |
@@ -573,7 +572,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:covergo | Complete | 0 |
 | ashby:cursor | Complete | 0 |
 | ashby:deepgram | Complete | 0 |
-| smartrecruiters:DeliveryHero | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:DeliveryHero | Complete | 0 |
 | workday:disney | Complete | 0 |
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |

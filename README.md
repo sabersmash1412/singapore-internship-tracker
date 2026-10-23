@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**338 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**359 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **23 Oct 2026, 14:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **23 Oct 2026, 15:05 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -37,7 +37,8 @@ These roles remain listed in employer sources; confirm application availability 
 | Shopee | Regional Large Language Model (LLM) Agent &amp; Prompt Engineering Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02202617/1>) | Spring 2027 | - | 21 Oct 2026 |
 | Johnson Controls | Business Intern, Business Analytics | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Business-Intern--Business-Analytics_WD30283076>) | - | 21 Oct 2026 | 21 Oct 2026 |
 | Shopee | Data Analytics Intern - Brand Analytics, Regional Brand Partnerships (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02202299/1>) | Fall 2026 | - | 21 Oct 2026 |
-| ↳ | Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02201780/1>) | Spring 2027 | - | 20 Oct 2026 |
+| Micron | Intern - HIG HBM Product Engineering (Advance Data Analytics) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HIG-HBM-Product-Engineering--Advance-Data-Analytics-_JR114591>) | - | 23 Oct 2026 | 20 Oct 2026 |
+| Shopee | Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02201780/1>) | Spring 2027 | - | 20 Oct 2026 |
 | Apple | Hardware Technology Intern, Singapore | [Apply](<https://jobs.apple.com/en-us/details/200690041-3278/hardware-technology-intern-singapore>) | - | 19 Oct 2026 | 20 Oct 2026 |
 | Tower Research Capital | Software Engineer, C++ - 6 Month Internship Opportunity | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8299894>) | - | 19 Oct 2026 | 19 Oct 2026 |
 | Amazon | Data Center Infrastructure Engineering Intern, Colocation Regional Engineering | [Apply](<https://www.amazon.jobs/en/jobs/10507775/data-center-infrastructure-engineering-intern-colocation-regional-engineering>) | - | 06 Oct 2026 | 17 Oct 2026 |
@@ -45,6 +46,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Grab | Intern, Software Engineer | [Apply](<https://jobs.smartrecruiters.com/Grab/744000155926216>) | - | 16 Oct 2026 | 16 Oct 2026 |
 | DBS | 2027 DBS Internship (Technology and AI &amp; Data Science) | [Apply](<https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME-2027-DBS-Internship--Technology-and-AI---Data-Science-_WD89681>) | - | 16 Oct 2026 | 16 Oct 2026 |
 | Thales | HR Automation Intern (Jan 2027 intake) | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/HR-Automation-Intern_R0344795>) | Jan 2027 intake | 19 Oct 2026 | 16 Oct 2026 |
+| Micron | Intern - PEE CVD | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CVD_JR112661>) | - | 23 Oct 2026 | 15 Oct 2026 |
 | Shopee | Data Analyst Intern - Business Intelligence, Regional Logistics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02200192/1>) | Spring 2027 | - | 15 Oct 2026 |
 | ↳ | AI Automation &amp; Operations Intelligence Intern - Regional SPX Express (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02200208/1>) | Spring 2027 | - | 15 Oct 2026 |
 | Grab | Intern, Software Engineer - Backend | [Apply](<https://jobs.smartrecruiters.com/Grab/744000155671079>) | - | 15 Oct 2026 | 15 Oct 2026 |
@@ -56,7 +58,9 @@ These roles remain listed in employer sources; confirm application availability 
 | Applied Materials | College intern - Process development in degas, preclean, PVD chambers for RLD/Bump application | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-intern---Process-development-in-degas--preclean--PVD-chambers-for-RLD-Bump-application_R2630102>) | - | 13 Oct 2026 | 13 Oct 2026 |
 | Razer | Data Science Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Science-Intern_JR2026007795>) | - | 09 Oct 2026 | 09 Oct 2026 |
 | Marvell | Quality Systems Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Quality-Systems-Intern---Bachelor-s-Degree_2603821>) | - | 09 Oct 2026 | 09 Oct 2026 |
+| Micron | Intern - HVM PEE Photo (AI) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979>) | - | 23 Oct 2026 | 08 Oct 2026 |
 | Bosch | Intern, Data Analyst | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000154012744>) | - | 07 Oct 2026 | 07 Oct 2026 |
+| Micron | Intern- PIE RAM (Agentic AI) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--PIE-RAM--Agentic-AI-_JR112779>) | Jan to May 2027 | 23 Oct 2026 | 06 Oct 2026 |
 | Marvell | Test Solutions Engineering Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Test-Solutions-Engineering-Intern---Bachelor-s-Degree_2604801>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | Applied Materials | Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Technology-Development-Engineer---Hybrid-Bonding---Advanced-Packaging--Internship-_R2626900>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | Marvell | Supply Chain Technology &amp; Analytics Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Supply-Chain-Technology---Analytics-Intern---Bachelor-s-Degree_2603845>) | - | 05 Oct 2026 | 05 Oct 2026 |
@@ -66,7 +70,9 @@ These roles remain listed in employer sources; confirm application availability 
 | Marvell | Business Planning System Analyst Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Business-Planning-System-Analyst-Intern---Bachelor-s-Degree_2603816>) | - | 30 Sep 2026 | 30 Sep 2026 |
 | ↳ | Hardware Validation Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Validation-Intern---Bachelor-s-Master-s-Degree_2603741>) | - | 30 Sep 2026 | 30 Sep 2026 |
 | ↳ | Hardware Design Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Design-Intern---Bachelor-s-Master-s-Degree_2604427>) | - | 30 Sep 2026 | 30 Sep 2026 |
+| Micron | Intern - STPG Product System | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-Product-System_JR111189>) | - | 23 Oct 2026 | 29 Sep 2026 |
 | Razer | Software Cloud Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Cloud-Intern_JR2026007798>) | - | 29 Sep 2026 | 29 Sep 2026 |
+| Micron | Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111156>) | Jan to May 2027 | 23 Oct 2026 | 29 Sep 2026 |
 | ByteDance | Security Analyst Project Intern (Global Corporate Security Operations Center) - 2027 Start | [Apply](<https://joinbytedance.com/search/7690422566842386693>) | 2027 Start | - | 29 Sep 2026 |
 | Temasek | Strategy and Programme Management Intern, Cybersecurity, Centre of Excellence (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Strategy-and-Programme-Management-Intern%2C-Cybersecurity%2C-Centre-of-Excellence-%28Jan-Jun-2027%29-238891/1369202157/>) | Jan - Jun 2027 | 08 Oct 2026 | 28 Sep 2026 |
 | ↳ | RPA &amp; GenAI Automation Intern, Operations (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/RPA-&-GenAI-Automation-Intern%2C-Operations-%28Jan-Jun-2027%29-238891/1369197757/>) | Jan - Jun 2027 | 08 Oct 2026 | 28 Sep 2026 |
@@ -140,8 +146,23 @@ These roles remain listed in employer sources; confirm application availability 
 | Airwallex | Software Engineer Intern (Summer 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795>) | Summer 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | Software Engineer Intern (Jan to Jun 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441>) | Jan to Jun 2027 | 14 Aug 2026 | 24 Sep 2026 |
 | ShopBack | Product Builder Intern (Product Engineering) | [Apply](<https://jobs.lever.co/shopback-2/5e5c78b0-1b9a-4c09-843d-49ea41e991fe>) | - | - | 24 Sep 2026 |
+| Micron | Intern- Test Solutions Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Test-Solutions-Engineer_JR106290>) | - | 23 Oct 2026 | 24 Sep 2026 |
+| ↳ | Intern - Product Engineering, NAND Validation/Characterization | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Product-Engineering--NAND-Validation-Characterization_JR111131>) | Jan to May 2027 | 23 Oct 2026 | 24 Sep 2026 |
 | TikTok | Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start | [Apply](<https://lifeattiktok.com/search/7669738564847110453>) | 2027 Start | - | 24 Sep 2026 |
-| Micron | Intern - NTI Process Integration - AI Track | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NTI-Process-Integration---AI-Track_JR96179>) | - | 09 Apr 2026 | 24 Sep 2026 |
+| Micron | Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111158>) | - | 23 Oct 2026 | 24 Sep 2026 |
+| ↳ | Intern - MSB Automation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---MSB-Automation-Engineer_JR112720>) | - | 23 Oct 2026 | 24 Sep 2026 |
+| ↳ | Intern- MSB Process Integration Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--MSB-Process-Integration-Engineer_JR109767>) | Jan to May 2027 | 23 Oct 2026 | 24 Sep 2026 |
+| ↳ | Intern, Photo Manufacturing Data Analytics and AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Photo-Manufacturing-Data-Analytics-and-AI_JR112194>) | Jan to May 2027 | 23 Oct 2026 | 24 Sep 2026 |
+| ↳ | Intern, Facilities AI Engineering | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170>) | Jan to Jun 2027 | 23 Oct 2026 | 24 Sep 2026 |
+| ↳ | Intern - STPG PE Firmware | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318>) | Jan to May 2027 | 23 Oct 2026 | 24 Sep 2026 |
+| ↳ | Intern - Probe Automation | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Probe-Automation_JR112385>) | - | 23 Oct 2026 | 24 Sep 2026 |
+| ↳ | Intern - PIE PI (Product Integration Engineering, Process Integration) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PIE-PI--Product-Integration-Engineering--Process-Integration-_JR112131>) | May to Aug 2027 | 23 Oct 2026 | 24 Sep 2026 |
+| ↳ | Intern - PEE CVD/PVD | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CVD-PVD_JR111619>) | - | 23 Oct 2026 | 24 Sep 2026 |
+| ↳ | Intern - NTI Process Integration - AI Track | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NTI-Process-Integration---AI-Track_JR96179>) | - | 09 Apr 2026 | 24 Sep 2026 |
+| ↳ | Intern - NAND Product Engineering - Probe AI/ML | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Product-Engineering---Probe-AI-ML_JR110821>) | Jan to May 2027 | 23 Oct 2026 | 24 Sep 2026 |
+| ↳ | Intern - NAND Device Engineering AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Device-Engineering-AI_JR112107>) | - | 23 Oct 2026 | 24 Sep 2026 |
+| ↳ | Intern - Facilities Sustainability AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586>) | January to May 2027 | 23 Oct 2026 | 24 Sep 2026 |
+| ↳ | Intern - F10 Process Integration Analytics | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-Process-Integration-Analytics_JR111305>) | January 2027 to June 2027 | 23 Oct 2026 | 24 Sep 2026 |
 | ↳ | Intern - F10 CVD PEE | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-CVD-PEE_JR97726>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | Apple | Information Security Internship Program (FY27 Summer Intake) | [Apply](<https://jobs.apple.com/en-us/details/200684585-3278/information-security-internship-program-fy27-summer-intake>) | - | 18 Sep 2026 | 24 Sep 2026 |
 | ↳ | 2027 Apple Internship - Information Systems and Technology | [Apply](<https://jobs.apple.com/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology>) | - | 06 Aug 2026 | 24 Sep 2026 |
@@ -387,27 +408,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
-| Micron | Intern- Test Solutions Engineer | 23 Oct 2026 | - |
-| ↳ | Intern- Silicon Design Validation Engineer | 23 Oct 2026 | - |
-| ↳ | Intern- Silicon Design Validation Engineer | 23 Oct 2026 | - |
-| ↳ | Intern, Photo Manufacturing Data Analytics and AI | 23 Oct 2026 | - |
-| ↳ | Intern- PIE RAM (Agentic AI) | 23 Oct 2026 | - |
-| ↳ | Intern- MSB Process Integration Engineer | 23 Oct 2026 | - |
-| ↳ | Intern, Facilities AI Engineering | 23 Oct 2026 | - |
-| ↳ | Intern - STPG Product System | 23 Oct 2026 | - |
-| ↳ | Intern - STPG PE Firmware | 23 Oct 2026 | - |
-| ↳ | Intern - Product Engineering, NAND Validation/Characterization | 23 Oct 2026 | - |
-| ↳ | Intern - Probe Automation | 23 Oct 2026 | - |
-| ↳ | Intern - PIE PI (Product Integration Engineering, Process Integration) | 23 Oct 2026 | - |
-| ↳ | Intern - PEE CVD | 23 Oct 2026 | - |
-| ↳ | Intern - PEE CVD/PVD | 23 Oct 2026 | - |
-| ↳ | Intern - NAND Product Engineering - Probe AI/ML | 23 Oct 2026 | - |
-| ↳ | Intern - NAND Device Engineering AI | 23 Oct 2026 | - |
-| ↳ | Intern - MSB Automation Engineer | 23 Oct 2026 | - |
-| ↳ | Intern - HVM PEE Photo (AI) | 23 Oct 2026 | - |
-| ↳ | Intern - HIG HBM Product Engineering (Advance Data Analytics) | 23 Oct 2026 | - |
-| ↳ | Intern - Facilities Sustainability AI | 23 Oct 2026 | - |
-| ↳ | Intern - F10 Process Integration Analytics | 23 Oct 2026 | - |
 | Shopee | Data Analyst Intern - Regional Marketing Analytics, Regional Brand &amp; Growth Marketing (Spring 2027) | 23 Oct 2026 | - |
 | ↳ | Strategy and Analytics Intern - Regional CRM, Regional Brand &amp; Growth Marketing (Spring 2027) | 23 Oct 2026 | - |
 | Razer | Data Analytics and Product Support Intern | 23 Oct 2026 | - |
@@ -483,7 +483,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | NVIDIA | PhD Research Intern, Autonomous Systems and Physical AI Research - 2027 | 10 Oct 2026 | - |
 | Wise | Analytics Intern | 09 Oct 2026 | - |
 | GlobalFoundries | ESD Device Design Engineer Intern (Jan-Jun 2027) | 09 Oct 2026 | - |
-| DRW | Software Developer Intern (Python) | 09 Oct 2026 | - |
 
 </details>
 
@@ -507,11 +506,11 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:amat | Complete | 12 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
-| workday:micron | Complete | 2 |
+| workday:micron | Complete | 23 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
+| apple:apple | Complete | 0 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

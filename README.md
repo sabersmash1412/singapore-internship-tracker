@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**360 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**358 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **23 Oct 2026, 10:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **23 Oct 2026, 11:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -54,7 +54,6 @@ These roles remain listed in employer sources; confirm application availability 
 | OCBC | Internship: Group Operations and Technology, Risk &amp; Prevention – Technology Risk Management (Technology Risk Assessment &amp; Automation) \[January - May 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Operations-and-Technology--Risk---Prevention---Technology-Risk-Management--January---May-2027-_JR00011046>) | - | 13 Oct 2026 | 13 Oct 2026 |
 | Applied Materials | College intern - Process development in degas, preclean, PVD chambers for RLD/Bump application | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-intern---Process-development-in-degas--preclean--PVD-chambers-for-RLD-Bump-application_R2630102>) | - | 13 Oct 2026 | 13 Oct 2026 |
 | Razer | Data Science Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Science-Intern_JR2026007795>) | - | 09 Oct 2026 | 09 Oct 2026 |
-| ↳ | Data Analytics and Product Support Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Analytics-and-Product-Support-Intern_JR2026007954>) | - | 09 Oct 2026 | 09 Oct 2026 |
 | Marvell | Quality Systems Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Quality-Systems-Intern---Bachelor-s-Degree_2603821>) | - | 09 Oct 2026 | 09 Oct 2026 |
 | Micron | Intern - HVM PEE Photo (AI) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979>) | - | 08 Oct 2026 | 08 Oct 2026 |
 | Bosch | Intern, Data Analyst | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000154012744>) | - | 07 Oct 2026 | 07 Oct 2026 |
@@ -104,8 +103,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Porsche Asia Pacific | Intern Marketing Analytics &amp; Digital Enablement | [Apply](<https://apply.workable.com/j/1AD8810B73>) | - | 22 Sep 2026 | 28 Sep 2026 |
 | Johnson Controls | Intern, Data Analytics | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analytics_WD30266779>) | - | 28 Apr 2026 | 28 Sep 2026 |
 | Hitachi | UXUI / AI Transformation Intern | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/UXUI---AI-Transformation-Intern_R1010137-1>) | - | 07 Jul 2026 | 28 Sep 2026 |
-| HP | College Intern – System Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---System-Engineer_UNI4549-1>) | January 2027 Start | 26 Aug 2026 | 28 Sep 2026 |
-| ↳ | College Intern - New Product Introduction Engineering (NPI IT Control Systems) | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---New-Product-Introduction-Engineering--NPI-IT-Control-Systems-_UNI4546-1>) | - | 26 Aug 2026 | 28 Sep 2026 |
+| HP | College Intern - New Product Introduction Engineering (NPI IT Control Systems) | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---New-Product-Introduction-Engineering--NPI-IT-Control-Systems-_UNI4546-1>) | - | 26 Aug 2026 | 28 Sep 2026 |
 | ↳ | College Intern - NPI System Interaction Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---NPI-System-Interaction-Engineer_UNI4911>) | - | 30 Aug 2026 | 28 Sep 2026 |
 | Funding Societies &#124; Modalku Group | People Analytics &amp; Reporting Intern | [Apply](<https://apply.workable.com/j/E437A5580D>) | - | 27 Aug 2026 | 28 Sep 2026 |
 | EPOS | Sales Operations &amp; Automation Intern | [Apply](<https://apply.workable.com/j/61DE89D60B>) | - | 27 Aug 2026 | 28 Sep 2026 |
@@ -409,6 +407,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Razer | Data Analytics and Product Support Intern | 23 Oct 2026 | - |
+| HP | College Intern – System Engineer | 23 Oct 2026 | - |
 | Shopee | Backend Engineer Intern, Data Infrastructure - OLAP (Fall 2026/ Spring 2027) | 23 Oct 2026 | - |
 | ↳ | Chatbot Algorithm Engineer Intern, Marketplace Intelligence &amp; Data (Fall 2026) | 23 Oct 2026 | - |
 | SLA Singapore Land Authority | Intern, Finance Process Automation | 23 Oct 2026 | - |
@@ -508,7 +508,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 3 |
+| apple:apple | Complete | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -640,7 +640,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 14 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 5 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

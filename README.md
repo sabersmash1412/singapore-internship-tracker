@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **360 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **24 Oct 2026, 16:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **24 Oct 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -27,10 +27,10 @@ These roles remain listed in employer sources; confirm application availability 
 | GlobalFoundries | 🆕 Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604278>) | Jan-Jun 2027 | 22 Oct 2026 | 23 Oct 2026 |
 | TikTok | 🆕 Frontend Software Engineer - Intern (TikTok Global LIVE) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7699479125563738373>) | 2027 Start | - | 22 Oct 2026 |
 | Shopee | 🆕 Data Analyst Applied AI Intern, Buyer &amp; Marketing - Business Intelligence | [Apply](<https://careers.shopee.sg/job-detail/J02204129/1>) | - | - | 22 Oct 2026 |
-| ↳ | 🆕 Data Analyst Intern - Product Analysis, Regional Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02203819/1>) | Spring 2027 | - | 22 Oct 2026 |
-| ↳ | 🆕 Data Analyst Intern - Customer Service, Regional Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02203802/1>) | Spring 2027 | - | 22 Oct 2026 |
-| ↳ | 🆕 Data Analyst Intern - Customer Service Chatbot, Regional Operations | [Apply](<https://careers.shopee.sg/job-detail/J02203764/1>) | - | - | 22 Oct 2026 |
-| ↳ | 🆕 Data Analyst Intern - Business Intelligence, Regional Marketplace Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02203897/1>) | Spring 2027 | - | 22 Oct 2026 |
+| ↳ | Data Analyst Intern - Product Analysis, Regional Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02203819/1>) | Spring 2027 | - | 22 Oct 2026 |
+| ↳ | Data Analyst Intern - Customer Service, Regional Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02203802/1>) | Spring 2027 | - | 22 Oct 2026 |
+| ↳ | Data Analyst Intern - Customer Service Chatbot, Regional Operations | [Apply](<https://careers.shopee.sg/job-detail/J02203764/1>) | - | - | 22 Oct 2026 |
+| ↳ | Data Analyst Intern - Business Intelligence, Regional Marketplace Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02203897/1>) | Spring 2027 | - | 22 Oct 2026 |
 | Coinbase | Software Engineer Intern | [Apply](<https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873>) | summer 2027 | 22 Oct 2026 | 22 Oct 2026 |
 | Marvell | Silicon Photonics Intern | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Silicon-Photonics-Intern_2604444>) | - | 21 Oct 2026 | 21 Oct 2026 |
 | Johnson Controls | Intern, Data Analyst | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283077>) | - | 21 Oct 2026 | 21 Oct 2026 |
@@ -506,10 +506,10 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 23 |
-| workday:nvidia | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | Complete | 3 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -564,9 +564,9 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:blackrock | Complete | 0 |
 | greenhouse:braze | Complete | 0 |
 | workday:broadcom | Complete | 0 |
-| workday:carrier | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:carrier | Complete | 0 |
 | ashby:chalk | Complete | 0 |
-| workday:citi | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:citi | Complete | 0 |
 | smartrecruiters:CliffordChance | Complete | 0 |
 | greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |
@@ -574,7 +574,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:cursor | Complete | 0 |
 | ashby:deepgram | Complete | 0 |
 | smartrecruiters:DeliveryHero | Complete | 0 |
-| workday:disney | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:disney | Complete | 0 |
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 2 |
@@ -591,16 +591,16 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:grafanalabs | Complete | 0 |
 | ashby:harvey | Complete | 0 |
 | workday:hitachi | Complete | 1 |
-| workday:hp | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:hp | Complete | 2 |
 | workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
 | workday:jll | Complete | 0 |
-| workday:jci | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:jci | Complete | 4 |
 | workday:kla | Complete | 0 |
 | ashby:langchain | Complete | 0 |
 | greenhouse:launchdarkly | Complete | 0 |
-| workday:logitech | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:logitech | Complete | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
 | workday:manulife | Complete | 0 |
 | workday:marvell | Complete | 8 |
@@ -622,7 +622,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:replit | Complete | 0 |
 | greenhouse:ripple | Complete | 0 |
 | workday:roche | Complete | 0 |
-| workday:spgi | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:spgi | Complete | 0 |
 | workday:salesforce | Complete | 0 |
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 1 |

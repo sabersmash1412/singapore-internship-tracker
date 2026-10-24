@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**360 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**359 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **24 Oct 2026, 19:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **24 Oct 2026, 20:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -115,7 +115,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | AI Product Manager Intern | [Apply](<https://apply.workable.com/j/FB1EE7D84F>) | - | 26 Mar 2026 | 28 Sep 2026 |
 | TikTok | Business Data Analyst Project Intern (GBS) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7689364323701901573>) | 2026 Start | - | 26 Sep 2026 |
 | OCBC | Internship: Global Markets, Business Management Unit/System Solution Analytics \[Jan - Jun 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Markets--Business-Management-Unit-System-Solution-Analytics--Jan---Jun-2027-_JR00011364>) | Jan - Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
-| ↳ | Internship: Global Markets, Management Information Systems \[Jan - Jun 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/SGP-Head-Office/Internship--Global-Markets--Management-Information-Systems--Jan---Jun-2027-_JR00011357>) | Jan - Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
 | NCS | \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001436844>) | Jan till Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
 | Stripe | Financial Data Analyst Intern, Technical Operations | [Apply](<https://stripe.com/jobs/search?gh_jid=8186442>) | - | 25 Sep 2026 | 25 Sep 2026 |
 | Tower Research Capital | Quantitative Researcher Intern, PhD or Postdoc | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8168634>) | - | 01 Sep 2026 | 24 Sep 2026 |
@@ -409,6 +408,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| OCBC | Internship: Global Markets, Management Information Systems \[Jan - Jun 2027\] | 24 Oct 2026 | - |
 | Shopee | Data Analyst Intern - Regional BI &amp; Planning (Spring 2027) | 24 Oct 2026 | - |
 | ↳ | Data Analyst Intern - Regional Marketing Analytics, Regional Brand &amp; Growth Marketing (Spring 2027) | 23 Oct 2026 | - |
 | ↳ | Strategy and Analytics Intern - Regional CRM, Regional Brand &amp; Growth Marketing (Spring 2027) | 23 Oct 2026 | - |
@@ -500,16 +500,16 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | Complete | 11 |
+| workday:ocbc | ⚠️ Incomplete — previous listings retained; 7 details unavailable | 9 |
 | workday:uobgroup | Complete | 2 |
-| workday:amat | ⚠️ Incomplete — previous listings retained | 12 |
+| workday:amat | Complete | 12 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 23 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
+| apple:apple | Complete | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -545,7 +545,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | Complete | 2 |
+| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |

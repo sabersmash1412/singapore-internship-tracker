@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**358 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**357 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **25 Oct 2026, 23:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Oct 2026, 00:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -184,8 +184,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 2H University Intern - PVD Equipment | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---PVD-Equipment_JR-2502749>) | June 2026 Start | 13 Jan 2026 | 24 Sep 2026 |
 | ↳ | 2H University Intern - IP Program Management &amp; QA | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---IP-Program-Management---QA_JR-2502782>) | June 2026 Start | 13 Jan 2026 | 24 Sep 2026 |
 | ↳ | 2H University Intern - FR CMOS Device Engineering | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Intern---FR-CMOS_JR-2503753>) | - | 14 Jan 2026 | 24 Sep 2026 |
-| Applied Materials | Process Engineering Intern (Hybrid Bonding) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-Engineering-Intern--Hybrid-Bonding-_R2626437>) | - | 31 Aug 2026 | 24 Sep 2026 |
-| ↳ | Process Engineer Internship: Enhancing CVD process efficiency and film quality through systematic recipe optimization | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-Engineer-Internship--Enhancing-CVD-process-efficiency-and-film-quality-through-systematic-recipe-optimization_R2626530>) | - | 31 Aug 2026 | 24 Sep 2026 |
+| Applied Materials | Process Engineer Internship: Enhancing CVD process efficiency and film quality through systematic recipe optimization | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-Engineer-Internship--Enhancing-CVD-process-efficiency-and-film-quality-through-systematic-recipe-optimization_R2626530>) | - | 31 Aug 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Process Integration | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process-Integration_R2626676>) | - | 31 Aug 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Process &amp; product development in PVD chambers in Hybrid bonding for SOIC (advanced packaging) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process---product-development-in-PVD-chambers-in-Hybrid-bonding-for-SOIC--advanced-packaging-_R2626936>) | - | 07 Sep 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Process &amp; hardware development in PVD Al chambers for N3,N5 and more advanced nodes. | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-Al-chambers-for-N3-N5-and-more-advanced-nodes_R2626935>) | - | 07 Sep 2026 | 24 Sep 2026 |
@@ -407,7 +406,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
-| Applied Materials | College Intern - GT Indigo Inter-Die Gapfill Process and Integration for 3DIC | 25 Oct 2026 | - |
+| Applied Materials | Process Engineering Intern (Hybrid Bonding) | 26 Oct 2026 | - |
+| ↳ | College Intern - GT Indigo Inter-Die Gapfill Process and Integration for 3DIC | 25 Oct 2026 | - |
 | ↳ | College Intern - Process &amp; hardware development in PVD chambers for new films: AlN as thermal interface material (TIM), SiN as photonic waveguide . | 25 Oct 2026 | - |
 | Shopee | Data Analyst Intern - Regional BI &amp; Planning (Spring 2027) | 24 Oct 2026 | - |
 | ↳ | Data Analyst Intern - Regional Marketing Analytics, Regional Brand &amp; Growth Marketing (Spring 2027) | 23 Oct 2026 | - |
@@ -509,7 +509,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
+| apple:apple | Complete | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**360 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**359 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **25 Oct 2026, 21:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **25 Oct 2026, 22:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -188,7 +188,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Process Engineer Internship: Enhancing CVD process efficiency and film quality through systematic recipe optimization | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-Engineer-Internship--Enhancing-CVD-process-efficiency-and-film-quality-through-systematic-recipe-optimization_R2626530>) | - | 31 Aug 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Process Integration | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process-Integration_R2626676>) | - | 31 Aug 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Process &amp; product development in PVD chambers in Hybrid bonding for SOIC (advanced packaging) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process---product-development-in-PVD-chambers-in-Hybrid-bonding-for-SOIC--advanced-packaging-_R2626936>) | - | 07 Sep 2026 | 24 Sep 2026 |
-| ↳ | College Intern - Process &amp; hardware development in PVD chambers for new films: AlN as thermal interface material (TIM), SiN as photonic waveguide . | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-chambers-for-new-films--AlN-as-thermal-interface-material--TIM---SiN-as-photonic-waveguide-_R2626934>) | - | 07 Sep 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Process &amp; hardware development in PVD Al chambers for N3,N5 and more advanced nodes. | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-Al-chambers-for-N3-N5-and-more-advanced-nodes_R2626935>) | - | 07 Sep 2026 | 24 Sep 2026 |
 | ↳ | College Intern - GT Indigo Inter-Die Gapfill Process and Integration for 3DIC | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---GT-Indigo-Inter-Die-Gapfill-Process-and-Integration-for-3DIC_R2626651>) | - | 07 Sep 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Job Description Metrology, Defect Inspection, and Data Analytics for Die-to-Wafer Hybrid Bonding | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern_R2624343>) | - | 04 Sep 2026 | 24 Sep 2026 |
@@ -409,6 +408,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Applied Materials | College Intern - Process &amp; hardware development in PVD chambers for new films: AlN as thermal interface material (TIM), SiN as photonic waveguide . | 25 Oct 2026 | - |
 | Shopee | Data Analyst Intern - Regional BI &amp; Planning (Spring 2027) | 24 Oct 2026 | - |
 | ↳ | Data Analyst Intern - Regional Marketing Analytics, Regional Brand &amp; Growth Marketing (Spring 2027) | 23 Oct 2026 | - |
 | ↳ | Strategy and Analytics Intern - Regional CRM, Regional Brand &amp; Growth Marketing (Spring 2027) | 23 Oct 2026 | - |
@@ -502,14 +502,14 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
-| workday:amat | Complete | 11 |
+| workday:amat | Complete | 10 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 23 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
+| apple:apple | Complete | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

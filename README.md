@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **357 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **26 Oct 2026, 08:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Oct 2026, 09:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -480,8 +480,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | \[Uni - Jan till Jun 2027\] Software Engineering Intern | 12 Oct 2026 | - |
 | ↳ | \[Uni - Jan till Jun 2027\] IT Infrastructure Project Management Intern | 12 Oct 2026 | - |
 | GlobalFoundries | Facility Engineering, Automation Intern (Jan-Jun 2027) | 12 Oct 2026 | - |
-| HP | College Intern - Product Engineering (System Interaction) | 12 Oct 2026 | - |
-| ↳ | College Intern - Electrical/Electronics | 12 Oct 2026 | - |
 
 </details>
 
@@ -501,7 +499,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
-| workday:uobgroup | Complete | 2 |
+| workday:uobgroup | ⚠️ Incomplete — previous listings retained | 2 |
 | workday:amat | Complete | 9 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
@@ -509,7 +507,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

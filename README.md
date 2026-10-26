@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**353 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**352 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **26 Oct 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Oct 2026, 18:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -371,7 +371,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Operations Automation Engineer Intern | [Apply](<https://jobs.lever.co/shopback-2/0b3627b7-0c1a-46da-bc3d-699f8d5ca9e5>) | H2 2026 | - | 21 Sep 2026 |
 | ↳ | Data Analyst (Internship) (H1 2027) | [Apply](<https://jobs.lever.co/shopback-2/b216d68c-48b0-4fa5-8f1e-9e0375b993e1>) | H1 2027 | - | 21 Sep 2026 |
 | Grab | Intern, Strategy &amp; Analytics, Transport | [Apply](<https://jobs.smartrecruiters.com/Grab/744000149793152>) | - | 16 Sep 2026 | 21 Sep 2026 |
-| ↳ | Intern, Fleet Systems Analyst | [Apply](<https://jobs.smartrecruiters.com/Grab/744000147417629>) | January 2027 Start | 04 Sep 2026 | 21 Sep 2026 |
 | DRW | Quantitative Research Intern | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8014915>) | - | 13 Jul 2026 | 21 Sep 2026 |
 
 <details>
@@ -402,6 +401,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Grab | Intern, Fleet Systems Analyst | 26 Oct 2026 | - |
 | Shopee | Algorithm Engineer Intern (Fall 2026) | 26 Oct 2026 | - |
 | ↳ | Backend Engineer Intern (Fall 2026) | 26 Oct 2026 | - |
 | ↳ | Algorithm Engineer Intern, Recommendation (Fall 2026) | 26 Oct 2026 | - |
@@ -505,7 +505,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
+| apple:apple | Complete | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

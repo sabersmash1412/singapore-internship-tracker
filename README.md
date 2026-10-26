@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**356 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**357 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **26 Oct 2026, 15:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Oct 2026, 16:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,8 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Shopee | 🆕 SPX Express Business Development Intern - Data Analytics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02205442/1>) | Spring 2027 | - | 26 Oct 2026 |
+| ↳ | 🆕 Backend Engineer Intern, Engineering Infra - AZPE (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02205491/1>) | Spring 2027 | - | 26 Oct 2026 |
 | TikTok | 🆕 Backend Software Engineer - Intern (Global E-Commerce) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7700820444199225653>) | 2027 Start | - | 26 Oct 2026 |
 | Shopee | Data Analyst Intern - Regional BI &amp; Planning (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02204977/1>) | Spring 2027 | - | 24 Oct 2026 |
 | ByteDance | Fullstack Engineer" - Intern (Global Payment) - 2027 Start | [Apply](<https://joinbytedance.com/search/7699086930365729029>) | 2027 Start | - | 23 Oct 2026 |
@@ -80,7 +82,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Temasek | Strategy and Programme Management Intern, Cybersecurity, Centre of Excellence (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Strategy-and-Programme-Management-Intern%2C-Cybersecurity%2C-Centre-of-Excellence-%28Jan-Jun-2027%29-238891/1369202157/>) | Jan - Jun 2027 | 08 Oct 2026 | 28 Sep 2026 |
 | ↳ | RPA &amp; GenAI Automation Intern, Operations (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/RPA-&-GenAI-Automation-Intern%2C-Operations-%28Jan-Jun-2027%29-238891/1369197757/>) | Jan - Jun 2027 | 08 Oct 2026 | 28 Sep 2026 |
 | ↳ | Quantitative Research Intern, Quantitative Strategy (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Quantitative-Research-Intern%2C-Quantitative-Strategy-%28Jan-Jun-2027%29-238891/1368996757/>) | Jan - Jun 2027 | 06 Oct 2026 | 28 Sep 2026 |
-| ↳ | Internal Audit Analytics &amp; AI Intern, Internal Audit (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Internal-Audit-Analytics-&-AI-Intern%2C-Internal-Audit-%28Jan-Jun-2027%29-238891/1368995957/>) | Jan - Jun 2027 | 06 Oct 2026 | 28 Sep 2026 |
 | ↳ | Generative AI Citizen Developer Intern, Technology (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Generative-AI-Citizen-Developer-Intern%2C-Technology-%28Jan-Jun-2027%29-238891/1369160257/>) | Jan - Jun 2027 | 08 Oct 2026 | 28 Sep 2026 |
 | ↳ | Data Engineer Intern, Technology (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Data-Engineer-Intern%2C-Technology-%28Jan-Jun-2027%29-238891/1369169257/>) | Jan - Jun 2027 | 08 Oct 2026 | 28 Sep 2026 |
 | ↳ | Data Analytics/Science Intern, People Technology (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Data-AnalyticsScience-Intern%2C-People-Technology-%28Jan-Jun-2027%29-238891/1369202457/>) | Jan - Jun 2027 | 08 Oct 2026 | 28 Sep 2026 |
@@ -405,6 +406,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Temasek | Internal Audit Analytics &amp; AI Intern, Internal Audit (Jan - Jun 2027) | 26 Oct 2026 | - |
 | QCP | Intern, IT Governance &amp; Security (Jan - Jun 2027) | 26 Oct 2026 | - |
 | EPOS | AI Product Manager Intern | 26 Oct 2026 | - |
 | Applied Materials | Process Engineering Intern (Hybrid Bonding) | 26 Oct 2026 | - |
@@ -493,10 +495,10 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:drweng | Complete | 1 |
 | bytedance:tiktok | Complete | 131 |
 | bytedance:bytedance | Complete | 35 |
-| shopee:shopee | Complete | 30 |
+| shopee:shopee | Complete | 28 |
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
-| workday:dbs | ⚠️ Incomplete — previous listings retained | 1 |
+| workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 9 |
@@ -506,13 +508,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | Complete | 3 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
 | lever:binance | Complete | 0 |
 | greenhouse:bitgo | Complete | 0 |
-| smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:BoschGroup | Complete | 1 |
 | ashby:cantina | Complete | 1 |
 | smartrecruiters:CarousellGroup | Complete | 0 |
 | ashby:clickhouse | Complete | 0 |
@@ -608,7 +610,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:MUFGInvestorServices | Complete | 0 |
 | greenhouse:newrelic | Complete | 0 |
 | smartrecruiters:NielsenIQ | Complete | 0 |
-| workday:paypal | Complete | 0 |
+| workday:paypal | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |
 | workable:porsche-asia-pacific | Complete | 1 |

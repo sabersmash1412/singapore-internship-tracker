@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **357 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **26 Oct 2026, 09:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Oct 2026, 09:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -499,7 +499,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
-| workday:uobgroup | ⚠️ Incomplete — previous listings retained | 2 |
+| workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 9 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
@@ -575,7 +575,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:disney | Complete | 0 |
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
-| workable:epos | Complete | 2 |
+| workable:epos | Complete | 1 |
 | smartrecruiters:Eurofins | Complete | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
 | smartrecruiters:Experian | Complete | 0 |
@@ -589,7 +589,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:grafanalabs | Complete | 0 |
 | ashby:harvey | Complete | 0 |
 | workday:hitachi | Complete | 1 |
-| workday:hp | Complete | 2 |
+| workday:hp | Complete | 1 |
 | workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |

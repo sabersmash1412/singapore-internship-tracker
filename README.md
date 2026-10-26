@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**357 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**353 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **26 Oct 2026, 16:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Oct 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -206,8 +206,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Algorithm Engineer Intern (Global Live Operation Intelligence) - 2026 Start (PHD) | [Apply](<https://lifeattiktok.com/search/7533124079211399432>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | Algorithm Engineer Intern (Global Live - Strategy) - 2027 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7663388217185470773>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Algorithm Engineer Intern (Global Live - Strategy) - 2026 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7533083363810330887>) | 2026 Start | - | 24 Sep 2026 |
-| Shopee | Algorithm Engineer Intern, Recommendation (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02057120/1>) | Fall 2026 | - | 24 Sep 2026 |
-| ↳ | Algorithm Engineer Intern (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02151065/1>) | Fall 2026 | - | 24 Sep 2026 |
 | ByteDance | Multimodal LLM Algorithm Engineer Intern (Global E-Commerce, Knowledge Graph) - 2027 Start (PhD) | [Apply](<https://joinbytedance.com/search/7686118292033079557>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Algorithm Engineer Intern (Global Payment) - 2027 Start | [Apply](<https://joinbytedance.com/search/7668263351736289541>) | 2027 Start | - | 24 Sep 2026 |
 | OCBC | Internship: Group Risk Management, Group Risk Portfolio Management, Provision &amp; Capital Analytics \[Jan to May 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Risk-Management--Group-Risk-Portfolio-Management--Provision---Capital-Analytics--Jan-to-May-2027-_JR00010979-1>) | Jan to May 2027 | 14 Sep 2026 | 24 Sep 2026 |
@@ -328,11 +326,9 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | AI Agent Algorithm Engineer Intern (Global E-Commerce, Affiliate) - 2027 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7666287860598081845>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Agent Algorithm Engineer Intern (Global E-Commerce, Affiliate) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7666280347193477429>) | 2027 Start | - | 24 Sep 2026 |
 | Shopee | Workflow Automation Intern - People Team (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02120446/1>) | Fall 2026 | - | 24 Sep 2026 |
-| ↳ | SPX Express Business Development Intern - Data Analytics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00076432/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Product Management Intern - Enterprise Collaboration and AI | [Apply](<https://careers.shopee.sg/job-detail/J02115564/1>) | - | - | 24 Sep 2026 |
 | ↳ | Product Analyst Intern, Traffic &amp; Content - Business Intelligence AI Bot (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02126202/1>) | Fall 2026 | - | 24 Sep 2026 |
 | ↳ | Business Data Analyst Intern - Commercial Management, Business Development (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00250728/1>) | Spring 2027 | - | 24 Sep 2026 |
-| ↳ | Backend Engineer Intern (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02151045/1>) | Fall 2026 | - | 24 Sep 2026 |
 | ↳ | Automation Operational Technology (OT) Engineer Intern - Regional Logistics | [Apply](<https://careers.shopee.sg/job-detail/J00382881/1>) | - | - | 24 Sep 2026 |
 | ↳ | AI Chatbot Product Manager Intern | [Apply](<https://careers.shopee.sg/job-detail/J02181237/1>) | - | - | 24 Sep 2026 |
 | Sea | System Automation &amp; Assurance Intern (6 months) | [Apply](<https://career.sea.com/position/J02172351>) | - | - | 24 Sep 2026 |
@@ -406,6 +402,10 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Shopee | Algorithm Engineer Intern (Fall 2026) | 26 Oct 2026 | - |
+| ↳ | Backend Engineer Intern (Fall 2026) | 26 Oct 2026 | - |
+| ↳ | Algorithm Engineer Intern, Recommendation (Fall 2026) | 26 Oct 2026 | - |
+| ↳ | SPX Express Business Development Intern - Data Analytics (Spring 2027) | 26 Oct 2026 | - |
 | Temasek | Internal Audit Analytics &amp; AI Intern, Internal Audit (Jan - Jun 2027) | 26 Oct 2026 | - |
 | QCP | Intern, IT Governance &amp; Security (Jan - Jun 2027) | 26 Oct 2026 | - |
 | EPOS | AI Product Manager Intern | 26 Oct 2026 | - |
@@ -508,7 +508,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 3 |
+| apple:apple | Complete | 3 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -610,7 +610,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:MUFGInvestorServices | Complete | 0 |
 | greenhouse:newrelic | Complete | 0 |
 | smartrecruiters:NielsenIQ | Complete | 0 |
-| workday:paypal | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:paypal | Complete | 0 |
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |
 | workable:porsche-asia-pacific | Complete | 1 |

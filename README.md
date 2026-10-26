@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **355 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **26 Oct 2026, 11:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Oct 2026, 11:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -498,7 +498,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
-| workday:uobgroup | Complete | 2 |
+| workday:uobgroup | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:amat | Complete | 9 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
@@ -614,7 +614,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:porsche-asia-pacific | Complete | 1 |
 | workable:qcp-group | Complete | 1 |
 | greenhouse:qualtrics | Complete | 0 |
-| workday:razer | ⚠️ Incomplete — previous listings retained | 8 |
+| workday:razer | Complete | 8 |
 | greenhouse:relex | Complete | 0 |
 | ashby:replit | Complete | 0 |
 | greenhouse:ripple | Complete | 0 |
@@ -638,7 +638,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 12 |
+| successfactors:temasek | Complete | 14 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

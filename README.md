@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**356 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**355 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **26 Oct 2026, 10:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Oct 2026, 11:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -104,7 +104,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Applied AI Intern (Voice) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784>) | - | 29 Sep 2026 | 28 Sep 2026 |
 | ↳ | AI Engineer Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/AI-Engineer-Intern_JR2026006947>) | - | 11 Sep 2026 | 28 Sep 2026 |
 | QCP | Intern, Trading - ALM (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/4599D0F542>) | Jan - Jun 2027 | 26 Aug 2026 | 28 Sep 2026 |
-| ↳ | Intern, IT Governance &amp; Security (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/1030A7B64B>) | Jan - Jun 2027 | 18 Aug 2026 | 28 Sep 2026 |
 | Porsche Asia Pacific | Intern Marketing Analytics &amp; Digital Enablement | [Apply](<https://apply.workable.com/j/1AD8810B73>) | - | 22 Sep 2026 | 28 Sep 2026 |
 | Johnson Controls | Intern, Data Analytics | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analytics_WD30266779>) | - | 28 Apr 2026 | 28 Sep 2026 |
 | Hitachi | UXUI / AI Transformation Intern | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/UXUI---AI-Transformation-Intern_R1010137-1>) | - | 07 Jul 2026 | 28 Sep 2026 |
@@ -405,6 +404,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| QCP | Intern, IT Governance &amp; Security (Jan - Jun 2027) | 26 Oct 2026 | - |
 | EPOS | AI Product Manager Intern | 26 Oct 2026 | - |
 | Applied Materials | Process Engineering Intern (Hybrid Bonding) | 26 Oct 2026 | - |
 | ↳ | College Intern - GT Indigo Inter-Die Gapfill Process and Integration for 3DIC | 25 Oct 2026 | - |
@@ -594,7 +594,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:Intuitive | Complete | 0 |
 | workday:jll | Complete | 0 |
 | workday:jci | Complete | 4 |
-| workday:kla | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:kla | Complete | 0 |
 | ashby:langchain | Complete | 0 |
 | greenhouse:launchdarkly | Complete | 0 |
 | workday:logitech | Complete | 0 |
@@ -614,7 +614,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:porsche-asia-pacific | Complete | 1 |
 | workable:qcp-group | Complete | 1 |
 | greenhouse:qualtrics | Complete | 0 |
-| workday:razer | Complete | 8 |
+| workday:razer | ⚠️ Incomplete — previous listings retained | 8 |
 | greenhouse:relex | Complete | 0 |
 | ashby:replit | Complete | 0 |
 | greenhouse:ripple | Complete | 0 |
@@ -638,7 +638,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 14 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 12 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

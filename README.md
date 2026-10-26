@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**355 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**356 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **26 Oct 2026, 12:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Oct 2026, 12:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| TikTok | 🆕 Backend Software Engineer - Intern (Global E-Commerce) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7700820444199225653>) | 2027 Start | - | 26 Oct 2026 |
 | Shopee | 🆕 Data Analyst Intern - Regional BI &amp; Planning (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02204977/1>) | Spring 2027 | - | 24 Oct 2026 |
 | ByteDance | Fullstack Engineer" - Intern (Global Payment) - 2027 Start | [Apply](<https://joinbytedance.com/search/7699086930365729029>) | 2027 Start | - | 23 Oct 2026 |
 | Shopee | Data Analyst Intern - Regional Marketing Analytics, Regional Brand &amp; Growth Marketing | [Apply](<https://careers.shopee.sg/job-detail/J02204611/1>) | - | - | 23 Oct 2026 |
@@ -490,7 +491,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:shopback-2 | Complete | 5 |
 | greenhouse:temus | Complete | 0 |
 | greenhouse:drweng | Complete | 1 |
-| bytedance:tiktok | Complete | 130 |
+| bytedance:tiktok | Complete | 131 |
 | bytedance:bytedance | Complete | 35 |
 | shopee:shopee | Complete | 30 |
 | sea:sea | Complete | 7 |
@@ -550,7 +551,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | Complete | 0 |
+| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |

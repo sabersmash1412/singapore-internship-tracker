@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **355 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **26 Oct 2026, 11:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Oct 2026, 12:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -478,7 +478,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | \[Uni - Jan till Jun 2027\] GenAI Software Engineer Intern | 12 Oct 2026 | - |
 | ↳ | \[Uni - Jan till Jun 2027\] AI Platform Intern (AI Ops and Digital Platforms) | 12 Oct 2026 | - |
 | ↳ | \[Uni - Jan till Jun 2027\] Software Engineering Intern | 12 Oct 2026 | - |
-| ↳ | \[Uni - Jan till Jun 2027\] IT Infrastructure Project Management Intern | 12 Oct 2026 | - |
 
 </details>
 
@@ -498,7 +497,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
-| workday:uobgroup | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:uobgroup | Complete | 2 |
 | workday:amat | Complete | 9 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |

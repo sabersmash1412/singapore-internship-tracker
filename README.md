@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **351 current or undated listings · 11 older advertised periods · 42 employers with roles**
 
-Last collection: **27 Oct 2026, 17:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **27 Oct 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Applied Materials | 🆕 College Intern - Process development in PVD Ventura chambers for TSV application | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process-development-in-PVD-Ventura-chambers-for-TSV-application_R2630107>) | - | 27 Oct 2026 | 27 Oct 2026 |
 | Shopee | 🆕 Product Operations Intern , Data Infrastructure (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206069/1>) | Spring 2027 | - | 27 Oct 2026 |
 | ↳ | 🆕 SPX Express Business Development Intern - Data Analytics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02205442/1>) | Spring 2027 | - | 26 Oct 2026 |
 | ↳ | 🆕 Backend Engineer Intern, Engineering Infra - AZPE (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02205491/1>) | Spring 2027 | - | 26 Oct 2026 |
@@ -213,8 +214,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Internship: Global Corporate Banking, Operations Support &amp; Systems, Operations Support &amp; Systems \[August - December 2026\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Corporate-Banking--Operations-Support---Systems--Operations-Support---Systems--August---December-2026-_JR00007395>) | August - December 2026 | 24 Apr 2026 | 24 Sep 2026 |
 | ↳ | Internship: Global Corporate Banking, Operations Support &amp; Systems \[Jan to May 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Corporate-Banking--Operations-Support---Systems--Jan-to-May-2027-_JR00010996>) | Jan to May 2027 | 14 Sep 2026 | 24 Sep 2026 |
 | ↳ | Internship: Global Commercial Banking, GWB Data Analytics \[Jan to May 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Commercial-Banking--GWB-Data-Analytics--Jan-to-May-2027-_JR00011058>) | Jan to May 2027 | 16 Sep 2026 | 24 Sep 2026 |
-| UOB | Sustainability Reporting &amp; Data Analytics Intern (Jan - Jun 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/Sustainability-Reporting---Data-Analytics-Intern--Jan---Jun-2027-_JR96493>) | Jan - Jun 2027 | 23 Sep 2026 | 24 Sep 2026 |
-| ↳ | GenAI and Data Analytics Intern (Jan - Dec 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Jan---Dec-2027-_JR96223>) | Jan - Dec 2027 | 22 Sep 2026 | 24 Sep 2026 |
+| UOB | GenAI and Data Analytics Intern (Jan - Dec 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Jan---Dec-2027-_JR96223>) | Jan - Dec 2027 | 22 Sep 2026 | 24 Sep 2026 |
 | TikTok | \[Mobile Software Engineer\] Intern (Global Live Revenue) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7672397362020862213>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Software Test Engineer Intern (AI) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7670062655184308533>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Software Engineer Project Intern (Dev Infra) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7563519140531915061>) | 2026 Start | - | 24 Sep 2026 |
@@ -400,6 +400,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| UOB | Sustainability Reporting &amp; Data Analytics Intern (Jan - Jun 2027) | 27 Oct 2026 | - |
 | Workato | Intern, Data Engineering | 27 Oct 2026 | - |
 | UOB | GenAI and Data Analytics Intern (Jan - July 2027) | 27 Oct 2026 | - |
 | Apple | 2027 Apple Internship - Information Systems and Technology | 27 Oct 2026 | - |
@@ -498,14 +499,14 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 1 |
-| workday:amat | Complete | 9 |
+| workday:amat | Complete | 10 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 23 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -569,10 +570,10 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:covergo | Complete | 0 |
 | ashby:cursor | Complete | 0 |
 | ashby:deepgram | Complete | 0 |
-| smartrecruiters:DeliveryHero | Complete | 0 |
+| smartrecruiters:DeliveryHero | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:disney | Complete | 0 |
 | workday:dyson | Complete | 0 |
-| smartrecruiters:EgisGroup | Complete | 0 |
+| smartrecruiters:EgisGroup | ⚠️ Incomplete — previous listings retained | 0 |
 | workable:epos | Complete | 1 |
 | smartrecruiters:Eurofins | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
@@ -598,7 +599,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:launchdarkly | Complete | 0 |
 | workday:logitech | Complete | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
-| workday:manulife | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:manulife | Complete | 0 |
 | workday:marvell | Complete | 8 |
 | workday:mastercard | Complete | 0 |
 | lever:matchgroup | Complete | 0 |
@@ -606,7 +607,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:moloco | Complete | 0 |
 | smartrecruiters:MUFGInvestorServices | Complete | 0 |
 | greenhouse:newrelic | Complete | 0 |
-| smartrecruiters:NielsenIQ | Complete | 0 |
+| smartrecruiters:NielsenIQ | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:paypal | Complete | 0 |
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |
@@ -623,7 +624,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 1 |
 | greenhouse:sentinellabs | Complete | 0 |
-| smartrecruiters:SGS | Complete | 0 |
+| smartrecruiters:SGS | ⚠️ Incomplete — previous listings retained | 0 |
 | lever:shieldai | Complete | 0 |
 | greenhouse:smartlyio | Complete | 0 |
 | workday:sonyglobal | Complete | 0 |
@@ -635,7 +636,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
-| successfactors:singtel | Complete | 1 |
+| successfactors:singtel | ⚠️ Incomplete — previous listings retained | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:temasek | Complete | 13 |
 

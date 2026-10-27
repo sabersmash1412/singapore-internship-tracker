@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **352 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **27 Oct 2026, 08:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **27 Oct 2026, 08:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -547,7 +547,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:trustbank | Complete | 0 |
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
-| smartrecruiters:Wise | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:Wise | Complete | 0 |
 | smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
@@ -588,7 +588,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:hp | Complete | 2 |
 | workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
-| smartrecruiters:Intuitive | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:Intuitive | Complete | 0 |
 | workday:jll | Complete | 0 |
 | workday:jci | Complete | 4 |
 | workday:kla | Complete | 0 |
@@ -627,7 +627,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:sonyglobal | Complete | 0 |
 | workday:thales | Complete | 6 |
 | greenhouse:thetradedesk | Complete | 0 |
-| smartrecruiters:TheWonderfulCompany | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:TheWonderfulCompany | Complete | 0 |
 | greenhouse:twilio | Complete | 0 |
 | greenhouse:workato | Complete | 1 |
 | greenhouse:xendit | Complete | 0 |

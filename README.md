@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**351 current or undated listings · 11 older advertised periods · 43 employers with roles**
+**351 current or undated listings · 11 older advertised periods · 42 employers with roles**
 
-Last collection: **27 Oct 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **27 Oct 2026, 17:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,7 +20,8 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| Shopee | 🆕 SPX Express Business Development Intern - Data Analytics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02205442/1>) | Spring 2027 | - | 26 Oct 2026 |
+| Shopee | 🆕 Product Operations Intern , Data Infrastructure (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206069/1>) | Spring 2027 | - | 27 Oct 2026 |
+| ↳ | 🆕 SPX Express Business Development Intern - Data Analytics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02205442/1>) | Spring 2027 | - | 26 Oct 2026 |
 | ↳ | 🆕 Backend Engineer Intern, Engineering Infra - AZPE (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02205491/1>) | Spring 2027 | - | 26 Oct 2026 |
 | TikTok | 🆕 Backend Software Engineer - Intern (Global E-Commerce) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7700820444199225653>) | 2027 Start | - | 26 Oct 2026 |
 | Shopee | Data Analyst Intern - Regional BI &amp; Planning (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02204977/1>) | Spring 2027 | - | 24 Oct 2026 |
@@ -94,7 +95,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | AI &amp; Analytics Intern, Financial Management (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/AI-&-Analytics-Intern%2C-Financial-Management-%28Jan-Jun-2027%29-238891/1369196257/>) | Jan - Jun 2027 | 08 Oct 2026 | 28 Sep 2026 |
 | Singtel | Data Analyst Intern (Reporting &amp; Insights) | [Apply](<https://groupcareers.singtel.com/job/Data-Analyst-Intern-%28Reporting-&-Insights%29-Sing/1367826466/>) | - | 22 Oct 2026 | 28 Sep 2026 |
 | YouTrip | Data Analytics Intern | [Apply](<https://apply.workable.com/j/34787A0AE7>) | - | 02 Sep 2026 | 28 Sep 2026 |
-| Workato | Intern, Data Engineering | [Apply](<https://www.workato.com/careers?gh_jid=8731177002#open-roles>) | - | 02 Sep 2026 | 28 Sep 2026 |
 | Thales | Software Engineer Intern (C#) | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/Software-Engineer-Intern--C--_R0324316>) | January 2027 Start | 01 Oct 2026 | 28 Sep 2026 |
 | ↳ | Software Engineer Intern | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_R0339658>) | - | 09 Sep 2026 | 28 Sep 2026 |
 | ↳ | Software Engineer Intern | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782>) | - | 16 Oct 2026 | 28 Sep 2026 |
@@ -400,6 +400,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Workato | Intern, Data Engineering | 27 Oct 2026 | - |
 | UOB | GenAI and Data Analytics Intern (Jan - July 2027) | 27 Oct 2026 | - |
 | Apple | 2027 Apple Internship - Information Systems and Technology | 27 Oct 2026 | - |
 | Grab | Intern, Fleet Systems Analyst | 26 Oct 2026 | - |
@@ -491,12 +492,12 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:drweng | Complete | 1 |
 | bytedance:tiktok | Complete | 131 |
 | bytedance:bytedance | Complete | 35 |
-| shopee:shopee | Complete | 28 |
+| shopee:shopee | Complete | 29 |
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
-| workday:uobgroup | Complete | 2 |
+| workday:uobgroup | Complete | 1 |
 | workday:amat | Complete | 9 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
@@ -504,13 +505,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | Complete | 2 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
 | lever:binance | Complete | 0 |
 | greenhouse:bitgo | Complete | 0 |
-| smartrecruiters:BoschGroup | Complete | 1 |
+| smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
 | ashby:cantina | Complete | 1 |
 | smartrecruiters:CarousellGroup | Complete | 0 |
 | ashby:clickhouse | Complete | 0 |
@@ -538,7 +539,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:portcast | Complete | 1 |
 | smartrecruiters:RenesasElectronics | Complete | 0 |
 | greenhouse:rubrik | Complete | 0 |
-| smartrecruiters:ServiceNow | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
 | workday:sggovterp | Complete | 2 |
 | greenhouse:stripe | Complete | 2 |
@@ -549,7 +550,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | Complete | 0 |
+| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |
@@ -573,7 +574,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 1 |
-| smartrecruiters:Eurofins | Complete | 0 |
+| smartrecruiters:Eurofins | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
 | smartrecruiters:Experian | Complete | 0 |
 | smartrecruiters:Fastmarkets | Complete | 0 |
@@ -597,7 +598,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:launchdarkly | Complete | 0 |
 | workday:logitech | Complete | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
-| workday:manulife | Complete | 0 |
+| workday:manulife | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:marvell | Complete | 8 |
 | workday:mastercard | Complete | 0 |
 | lever:matchgroup | Complete | 0 |
@@ -622,7 +623,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 1 |
 | greenhouse:sentinellabs | Complete | 0 |
-| smartrecruiters:SGS | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:SGS | Complete | 0 |
 | lever:shieldai | Complete | 0 |
 | greenhouse:smartlyio | Complete | 0 |
 | workday:sonyglobal | Complete | 0 |

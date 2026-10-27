@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **351 current or undated listings · 11 older advertised periods · 43 employers with roles**
 
-Last collection: **27 Oct 2026, 11:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **27 Oct 2026, 11:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -535,7 +535,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:openai | Complete | 0 |
 | lever:palantir | Complete | 1 |
 | lever:portcast | Complete | 1 |
-| smartrecruiters:RenesasElectronics | Complete | 0 |
+| smartrecruiters:RenesasElectronics | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:simplifynext | Complete | 0 |
@@ -546,7 +546,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:towerresearchcapital | Complete | 4 |
 | greenhouse:trustbank | Complete | 0 |
 | greenhouse:verkada | Complete | 0 |
-| smartrecruiters:WesternDigital | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 0 |
@@ -573,7 +573,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:EgisGroup | ⚠️ Incomplete — previous listings retained | 0 |
 | workable:epos | Complete | 1 |
 | smartrecruiters:Eurofins | ⚠️ Incomplete — previous listings retained | 0 |
-| smartrecruiters:Expeditors | Complete | 0 |
+| smartrecruiters:Expeditors | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Experian | Complete | 0 |
 | smartrecruiters:Fastmarkets | Complete | 0 |
 | workable:first-circle | Complete | 0 |
@@ -627,7 +627,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:sonyglobal | Complete | 0 |
 | workday:thales | Complete | 6 |
 | greenhouse:thetradedesk | Complete | 0 |
-| smartrecruiters:TheWonderfulCompany | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:TheWonderfulCompany | Complete | 0 |
 | greenhouse:twilio | Complete | 0 |
 | greenhouse:workato | Complete | 1 |
 | greenhouse:xendit | Complete | 0 |

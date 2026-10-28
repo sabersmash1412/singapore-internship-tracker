@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**352 current or undated listings · 11 older advertised periods · 42 employers with roles**
+**353 current or undated listings · 11 older advertised periods · 42 employers with roles**
 
-Last collection: **28 Oct 2026, 10:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **28 Oct 2026, 11:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,7 +20,9 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| Shopee | 🆕 AI Chatbot Product Manager Intern | [Apply](<https://careers.shopee.sg/job-detail/J02206508/1>) | - | - | 28 Oct 2026 |
+| Shopee | 🆕 Product Operations Intern , Data Infrastructure (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206543/1>) | Spring 2027 | - | 28 Oct 2026 |
+| ↳ | 🆕 Backend Engineer Intern, Engineering Infra - AZPE (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206556/1>) | Spring 2027 | - | 28 Oct 2026 |
+| ↳ | 🆕 AI Chatbot Product Manager Intern | [Apply](<https://careers.shopee.sg/job-detail/J02206508/1>) | - | - | 28 Oct 2026 |
 | Applied Materials | 🆕 College Intern - Process development in PVD Ventura chambers for TSV application | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process-development-in-PVD-Ventura-chambers-for-TSV-application_R2630107>) | - | 27 Oct 2026 | 27 Oct 2026 |
 | Shopee | 🆕 Product Operations Intern , Data Infrastructure (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206069/1>) | Spring 2027 | - | 27 Oct 2026 |
 | ↳ | 🆕 SPX Express Business Development Intern - Data Analytics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02205442/1>) | Spring 2027 | - | 26 Oct 2026 |
@@ -111,7 +113,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Porsche Asia Pacific | Intern Marketing Analytics &amp; Digital Enablement | [Apply](<https://apply.workable.com/j/1AD8810B73>) | - | 22 Sep 2026 | 28 Sep 2026 |
 | Johnson Controls | Intern, Data Analytics | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analytics_WD30266779>) | - | 28 Apr 2026 | 28 Sep 2026 |
 | Hitachi | UXUI / AI Transformation Intern | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/UXUI---AI-Transformation-Intern_R1010137-1>) | - | 07 Jul 2026 | 28 Sep 2026 |
-| HP | College Intern - New Product Introduction Engineering (NPI IT Control Systems) | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---New-Product-Introduction-Engineering--NPI-IT-Control-Systems-_UNI4546-1>) | - | 25 Oct 2026 | 28 Sep 2026 |
+| HP | College Intern - New Product Introduction Engineering (NPI IT Control Systems) | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---New-Product-Introduction-Engineering--NPI-IT-Control-Systems-_UNI4546-1>) | - | 27 Oct 2026 | 28 Sep 2026 |
 | ↳ | College Intern - NPI System Interaction Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---NPI-System-Interaction-Engineer_UNI4911>) | - | 30 Aug 2026 | 28 Sep 2026 |
 | Funding Societies &#124; Modalku Group | People Analytics &amp; Reporting Intern | [Apply](<https://apply.workable.com/j/E437A5580D>) | - | 27 Aug 2026 | 28 Sep 2026 |
 | EPOS | Sales Operations &amp; Automation Intern | [Apply](<https://apply.workable.com/j/61DE89D60B>) | - | 27 Aug 2026 | 28 Sep 2026 |
@@ -330,7 +332,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Product Analyst Intern, Traffic &amp; Content - Business Intelligence AI Bot (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02126202/1>) | Fall 2026 | - | 24 Sep 2026 |
 | ↳ | Business Data Analyst Intern - Commercial Management, Business Development (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00250728/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Automation Operational Technology (OT) Engineer Intern - Regional Logistics | [Apply](<https://careers.shopee.sg/job-detail/J00382881/1>) | - | - | 24 Sep 2026 |
-| ↳ | AI Chatbot Product Manager Intern | [Apply](<https://careers.shopee.sg/job-detail/J02181237/1>) | - | - | 24 Sep 2026 |
 | Sea | System Automation &amp; Assurance Intern (6 months) | [Apply](<https://career.sea.com/position/J02172351>) | - | - | 24 Sep 2026 |
 | ↳ | System Automation &amp; Assurance (6 months) | [Apply](<https://career.sea.com/position/J02173412>) | - | - | 24 Sep 2026 |
 | ↳ | Security Engineering Intern | [Apply](<https://career.sea.com/position/J02180598>) | - | - | 24 Sep 2026 |
@@ -401,6 +402,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Shopee | AI Chatbot Product Manager Intern | 28 Oct 2026 | - |
 | UOB | Sustainability Reporting &amp; Data Analytics Intern (Jan - Jun 2027) | 27 Oct 2026 | - |
 | Workato | Intern, Data Engineering | 27 Oct 2026 | - |
 | UOB | GenAI and Data Analytics Intern (Jan - July 2027) | 27 Oct 2026 | - |
@@ -492,13 +494,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:drweng | Complete | 1 |
 | bytedance:tiktok | Complete | 131 |
 | bytedance:bytedance | Complete | 35 |
-| shopee:shopee | Complete | 29 |
+| shopee:shopee | Complete | 30 |
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | ⚠️ Incomplete — previous listings retained | 1 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 1 |
-| workday:amat | Complete | 10 |
+| workday:amat | ⚠️ Incomplete — previous listings retained | 10 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 23 |
@@ -586,14 +588,14 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:gitlab | Complete | 0 |
 | greenhouse:grafanalabs | Complete | 0 |
 | ashby:harvey | Complete | 0 |
-| workday:hitachi | Complete | 1 |
+| workday:hitachi | Complete | 0 |
 | workday:hp | Complete | 2 |
 | workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
 | workday:jll | Complete | 0 |
 | workday:jci | Complete | 4 |
-| workday:kla | Complete | 0 |
+| workday:kla | ⚠️ Incomplete — previous listings retained | 0 |
 | ashby:langchain | Complete | 0 |
 | greenhouse:launchdarkly | Complete | 0 |
 | workday:logitech | Complete | 0 |

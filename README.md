@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **353 current or undated listings · 11 older advertised periods · 41 employers with roles**
 
-Last collection: **28 Oct 2026, 16:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **28 Oct 2026, 17:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -478,7 +478,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | Intern, Analytics &amp; Projects, GrabFood | 15 Oct 2026 | - |
 | ↳ | Intern, Analytics &amp; Projects, GrabMart | 15 Oct 2026 | - |
 | GlobalFoundries | Semiconductor IP Analytics &amp; Automation Intern (Jan-Jun 2027) | 15 Oct 2026 | - |
-| Shopee | Data Governance Intern (President's Office) (Spring 2027) | 14 Oct 2026 | - |
 
 </details>
 
@@ -500,7 +499,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 1 |
 | workday:amat | Complete | 10 |
-| workday:globalfoundries | ⚠️ Incomplete — previous listings retained | 9 |
+| workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 23 |
 | workday:nvidia | Complete | 0 |
@@ -572,7 +571,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:deepgram | Complete | 0 |
 | smartrecruiters:DeliveryHero | Complete | 0 |
 | workday:disney | Complete | 0 |
-| workday:dyson | Complete | 0 |
+| workday:dyson | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 1 |
 | smartrecruiters:Eurofins | Complete | 0 |

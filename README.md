@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**351 current or undated listings · 11 older advertised periods · 42 employers with roles**
+**352 current or undated listings · 11 older advertised periods · 42 employers with roles**
 
-Last collection: **28 Oct 2026, 10:05 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **28 Oct 2026, 10:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Shopee | 🆕 AI Chatbot Product Manager Intern | [Apply](<https://careers.shopee.sg/job-detail/J02206508/1>) | - | - | 28 Oct 2026 |
 | Applied Materials | 🆕 College Intern - Process development in PVD Ventura chambers for TSV application | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process-development-in-PVD-Ventura-chambers-for-TSV-application_R2630107>) | - | 27 Oct 2026 | 27 Oct 2026 |
 | Shopee | 🆕 Product Operations Intern , Data Infrastructure (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206069/1>) | Spring 2027 | - | 27 Oct 2026 |
 | ↳ | 🆕 SPX Express Business Development Intern - Data Analytics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02205442/1>) | Spring 2027 | - | 26 Oct 2026 |
@@ -477,7 +478,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | Data Analyst Intern - Listing and Content, Regional Operations (Fall 2025) | 14 Oct 2026 | - |
 | ↳ | Data Analyst Intern - Warehouse Operations, Regional Operations (Spring 2025) | 14 Oct 2026 | - |
 | ↳ | Fraud Data Analyst Intern - Trust and Safety, Regional Operations (Spring 2025) | 14 Oct 2026 | - |
-| UOB | GenAI and Data Analytics Intern (Jan - July 2027) | 14 Oct 2026 | - |
 
 </details>
 
@@ -495,7 +495,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | shopee:shopee | Complete | 29 |
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
-| workday:dbs | Complete | 1 |
+| workday:dbs | ⚠️ Incomplete — previous listings retained | 1 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 1 |
 | workday:amat | Complete | 10 |
@@ -505,7 +505,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -637,7 +637,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 12 |
+| successfactors:temasek | Complete | 13 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

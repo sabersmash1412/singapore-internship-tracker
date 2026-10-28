@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **353 current or undated listings · 11 older advertised periods · 41 employers with roles**
 
-Last collection: **28 Oct 2026, 18:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **28 Oct 2026, 18:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -502,9 +502,9 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 23 |
-| workday:nvidia | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
-| amazon:amazon | Complete | 5 |
+| amazon:amazon | ⚠️ Incomplete — previous listings retained | 5 |
 | apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
@@ -635,7 +635,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
-| successfactors:singtel | ⚠️ Incomplete — previous listings retained | 1 |
+| successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:temasek | Complete | 13 |
 

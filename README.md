@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**350 current or undated listings · 11 older advertised periods · 41 employers with roles**
+**351 current or undated listings · 11 older advertised periods · 41 employers with roles**
 
-Last collection: **28 Oct 2026, 14:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **28 Oct 2026, 15:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| TikTok | 🆕 Data Science Project Intern (TikTok LIVE) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7701293147020052741>) | 2026 Start | - | 28 Oct 2026 |
 | Shopee | 🆕 Product Operations Intern , Data Infrastructure (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206543/1>) | Spring 2027 | - | 28 Oct 2026 |
 | ↳ | 🆕 Backend Engineer Intern, Engineering Infra - AZPE (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206556/1>) | Spring 2027 | - | 28 Oct 2026 |
 | ↳ | 🆕 AI Chatbot Product Manager Intern | [Apply](<https://careers.shopee.sg/job-detail/J02206508/1>) | - | - | 28 Oct 2026 |
@@ -492,7 +493,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:shopback-2 | Complete | 5 |
 | greenhouse:temus | Complete | 0 |
 | greenhouse:drweng | Complete | 1 |
-| bytedance:tiktok | Complete | 131 |
+| bytedance:tiktok | Complete | 132 |
 | bytedance:bytedance | Complete | 35 |
 | shopee:shopee | Complete | 30 |
 | sea:sea | Complete | 7 |
@@ -507,7 +508,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**351 current or undated listings · 11 older advertised periods · 41 employers with roles**
+**353 current or undated listings · 11 older advertised periods · 41 employers with roles**
 
-Last collection: **28 Oct 2026, 16:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **28 Oct 2026, 16:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,13 +20,15 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| HP | 🆕 College Intern - Firmware Engineering | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128-1>) | January 2027 Start | 28 Oct 2026 | 28 Oct 2026 |
+| ↳ | 🆕 College Intern - Agentic AI Engineering | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Agentic-AI-Engineering_UNI5129-1>) | January 2027 Start | 28 Oct 2026 | 28 Oct 2026 |
 | TikTok | 🆕 Data Science Project Intern (TikTok LIVE) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7701293147020052741>) | 2026 Start | - | 28 Oct 2026 |
 | Shopee | 🆕 Product Operations Intern , Data Infrastructure (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206543/1>) | Spring 2027 | - | 28 Oct 2026 |
 | ↳ | 🆕 Backend Engineer Intern, Engineering Infra - AZPE (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206556/1>) | Spring 2027 | - | 28 Oct 2026 |
 | ↳ | 🆕 AI Chatbot Product Manager Intern | [Apply](<https://careers.shopee.sg/job-detail/J02206508/1>) | - | - | 28 Oct 2026 |
 | Applied Materials | 🆕 College Intern - Process development in PVD Ventura chambers for TSV application | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process-development-in-PVD-Ventura-chambers-for-TSV-application_R2630107>) | - | 27 Oct 2026 | 27 Oct 2026 |
-| Shopee | 🆕 SPX Express Business Development Intern - Data Analytics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02205442/1>) | Spring 2027 | - | 26 Oct 2026 |
-| ↳ | 🆕 Backend Engineer Intern, Engineering Infra - AZPE (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02205491/1>) | Spring 2027 | - | 26 Oct 2026 |
+| Shopee | SPX Express Business Development Intern - Data Analytics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02205442/1>) | Spring 2027 | - | 26 Oct 2026 |
+| ↳ | Backend Engineer Intern, Engineering Infra - AZPE (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02205491/1>) | Spring 2027 | - | 26 Oct 2026 |
 | TikTok | Backend Software Engineer - Intern (Global E-Commerce) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7700820444199225653>) | 2027 Start | - | 26 Oct 2026 |
 | Shopee | Data Analyst Intern - Regional BI &amp; Planning (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02204977/1>) | Spring 2027 | - | 24 Oct 2026 |
 | ByteDance | Fullstack Engineer" - Intern (Global Payment) - 2027 Start | [Apply](<https://joinbytedance.com/search/7699086930365729029>) | 2027 Start | - | 23 Oct 2026 |
@@ -477,7 +479,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | Intern, Analytics &amp; Projects, GrabMart | 15 Oct 2026 | - |
 | GlobalFoundries | Semiconductor IP Analytics &amp; Automation Intern (Jan-Jun 2027) | 15 Oct 2026 | - |
 | Shopee | Data Governance Intern (President's Office) (Spring 2027) | 14 Oct 2026 | - |
-| ↳ | Data &amp; Insights Intern - President's Office (Spring 2026) | 14 Oct 2026 | - |
 
 </details>
 
@@ -499,7 +500,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 1 |
 | workday:amat | Complete | 10 |
-| workday:globalfoundries | Complete | 9 |
+| workday:globalfoundries | ⚠️ Incomplete — previous listings retained | 9 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 23 |
 | workday:nvidia | Complete | 0 |
@@ -550,7 +551,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:AccorHotel | Complete | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |
@@ -574,9 +575,9 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 1 |
-| smartrecruiters:Eurofins | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:Eurofins | Complete | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
-| smartrecruiters:Experian | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:Experian | Complete | 0 |
 | smartrecruiters:Fastmarkets | Complete | 0 |
 | workable:first-circle | Complete | 0 |
 | greenhouse:flexport | Complete | 0 |
@@ -587,7 +588,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:grafanalabs | Complete | 0 |
 | ashby:harvey | Complete | 0 |
 | workday:hitachi | Complete | 0 |
-| workday:hp | Complete | 2 |
+| workday:hp | Complete | 4 |
 | workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
@@ -627,7 +628,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:shieldai | Complete | 0 |
 | greenhouse:smartlyio | Complete | 0 |
 | workday:sonyglobal | Complete | 0 |
-| workday:thales | ⚠️ Incomplete — previous listings retained | 5 |
+| workday:thales | Complete | 5 |
 | greenhouse:thetradedesk | Complete | 0 |
 | smartrecruiters:TheWonderfulCompany | Complete | 0 |
 | greenhouse:twilio | Complete | 0 |

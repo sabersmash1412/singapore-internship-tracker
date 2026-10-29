@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **358 current or undated listings · 11 older advertised periods · 41 employers with roles**
 
-Last collection: **29 Oct 2026, 15:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **29 Oct 2026, 16:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -480,9 +480,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | AIA | Intern, Enterprise Analytics | 16 Oct 2026 | - |
 | Shopee | Data Analyst Intern - Business Intelligence, Regional Logistics (Spring 2027) | 15 Oct 2026 | - |
 | ↳ | AI Automation &amp; Operations Intelligence Intern - Regional SPX Express (Spring 2027) | 15 Oct 2026 | - |
-| Grab | Intern, Analytics &amp; Projects, GrabMart | 15 Oct 2026 | - |
-| ↳ | Intern, Analytics &amp; Projects, GrabFood | 15 Oct 2026 | - |
-| ↳ | Intern, Analytics &amp; Projects, GrabMart | 15 Oct 2026 | - |
 
 </details>
 
@@ -510,7 +507,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 6 |
-| apple:apple | Complete | 2 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |

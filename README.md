@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**357 current or undated listings · 11 older advertised periods · 40 employers with roles**
+**356 current or undated listings · 11 older advertised periods · 40 employers with roles**
 
-Last collection: **29 Oct 2026, 17:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **29 Oct 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -32,7 +32,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Shopee | 🆕 Product Operations Intern , Data Infrastructure (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206543/1>) | Spring 2027 | - | 28 Oct 2026 |
 | ↳ | 🆕 Backend Engineer Intern, Engineering Infra - AZPE (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206556/1>) | Spring 2027 | - | 28 Oct 2026 |
 | ↳ | 🆕 AI Chatbot Product Manager Intern | [Apply](<https://careers.shopee.sg/job-detail/J02206508/1>) | - | - | 28 Oct 2026 |
-| Applied Materials | 🆕 College Intern - Process development in PVD Ventura chambers for TSV application | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process-development-in-PVD-Ventura-chambers-for-TSV-application_R2630107>) | - | 27 Oct 2026 | 27 Oct 2026 |
+| Applied Materials | College Intern - Process development in PVD Ventura chambers for TSV application | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process-development-in-PVD-Ventura-chambers-for-TSV-application_R2630107>) | - | 27 Oct 2026 | 27 Oct 2026 |
 | Shopee | SPX Express Business Development Intern - Data Analytics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02205442/1>) | Spring 2027 | - | 26 Oct 2026 |
 | ↳ | Backend Engineer Intern, Engineering Infra - AZPE (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02205491/1>) | Spring 2027 | - | 26 Oct 2026 |
 | TikTok | Backend Software Engineer - Intern (Global E-Commerce) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7700820444199225653>) | 2027 Start | - | 26 Oct 2026 |
@@ -154,8 +154,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Campus C++ Software Engineer (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027946>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | ↳ | Campus AI/ML Researcher (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027938>) | - | 24 Aug 2026 | 24 Sep 2026 |
 | Cantina | Machine Learning Intern | [Apply](<https://jobs.ashbyhq.com/cantina/16c7915e-9fd7-413f-b7ee-590589fbdc01>) | October 2026 Start | 07 Sep 2026 | 24 Sep 2026 |
-| Airwallex | Software Engineer Intern (Summer 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795>) | Summer 2027 | 05 Aug 2026 | 24 Sep 2026 |
-| ↳ | Software Engineer Intern (Jan to Jun 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441>) | Jan to Jun 2027 | 14 Aug 2026 | 24 Sep 2026 |
+| Airwallex | Software Engineer Intern (Jan to Jun 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441>) | Jan to Jun 2027 | 14 Aug 2026 | 24 Sep 2026 |
 | Micron | Intern- Test Solutions Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Test-Solutions-Engineer_JR106290>) | - | 23 Oct 2026 | 24 Sep 2026 |
 | ↳ | Intern - Product Engineering, NAND Validation/Characterization | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Product-Engineering--NAND-Validation-Characterization_JR111131>) | Jan to May 2027 | 23 Oct 2026 | 24 Sep 2026 |
 | TikTok | Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start | [Apply](<https://lifeattiktok.com/search/7669738564847110453>) | 2027 Start | - | 24 Sep 2026 |
@@ -406,6 +405,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Airwallex | Software Engineer Intern (Summer 2027) | 29 Oct 2026 | - |
 | Sanofi | Audit Data Analytics Intern | 29 Oct 2026 | - |
 | ShopBack | Product Builder Intern (Product Engineering) | 29 Oct 2026 | - |
 | Thales | Software Engineer Intern (C#) | 28 Oct 2026 | - |
@@ -499,7 +499,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
-| workday:uobgroup | Complete | 1 |
+| workday:uobgroup | Complete | 0 |
 | workday:amat | Complete | 10 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
@@ -507,7 +507,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 6 |
-| apple:apple | Complete | 2 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 1 |
 | ashby:bifrost | Complete | 0 |
@@ -552,7 +552,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | Complete | 0 |
+| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |

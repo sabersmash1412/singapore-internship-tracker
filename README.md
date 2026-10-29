@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **355 current or undated listings · 11 older advertised periods · 41 employers with roles**
 
-Last collection: **29 Oct 2026, 09:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **29 Oct 2026, 09:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -479,7 +479,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | Grab | Intern, Analytics &amp; Projects, GrabMart | 15 Oct 2026 | - |
 | ↳ | Intern, Analytics &amp; Projects, GrabFood | 15 Oct 2026 | - |
 | ↳ | Intern, Analytics &amp; Projects, GrabMart | 15 Oct 2026 | - |
-| GlobalFoundries | Semiconductor IP Analytics &amp; Automation Intern (Jan-Jun 2027) | 15 Oct 2026 | - |
 
 </details>
 
@@ -498,7 +497,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | ⚠️ Incomplete — previous listings retained | 3 |
+| workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 1 |
 | workday:amat | Complete | 10 |
 | workday:globalfoundries | Complete | 9 |
@@ -552,7 +551,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | Complete | 0 |
+| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |
@@ -639,7 +638,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 9 |
+| successfactors:temasek | Complete | 13 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

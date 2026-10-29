@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **358 current or undated listings · 11 older advertised periods · 41 employers with roles**
 
-Last collection: **29 Oct 2026, 14:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **29 Oct 2026, 15:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -40,7 +40,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ByteDance | Fullstack Engineer" - Intern (Global Payment) - 2027 Start | [Apply](<https://joinbytedance.com/search/7699086930365729029>) | 2027 Start | - | 23 Oct 2026 |
 | Shopee | Data Analyst Intern - Regional Marketing Analytics, Regional Brand &amp; Growth Marketing | [Apply](<https://careers.shopee.sg/job-detail/J02204611/1>) | - | - | 23 Oct 2026 |
 | ↳ | Strategy and Analytics Intern - Regional CRM, Regional Brand &amp; Growth Marketing | [Apply](<https://careers.shopee.sg/job-detail/J02204517/1>) | - | - | 23 Oct 2026 |
-| GlobalFoundries | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604278>) | Jan-Jun 2027 | 22 Oct 2026 | 23 Oct 2026 |
+| GlobalFoundries | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604278>) | Jan-Jun 2027 | 23 Oct 2026 | 23 Oct 2026 |
 | TikTok | Frontend Software Engineer - Intern (TikTok Global LIVE) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7699479125563738373>) | 2027 Start | - | 22 Oct 2026 |
 | Shopee | Data Analyst Applied AI Intern, Buyer &amp; Marketing - Business Intelligence | [Apply](<https://careers.shopee.sg/job-detail/J02204129/1>) | - | - | 22 Oct 2026 |
 | ↳ | Data Analyst Intern - Product Analysis, Regional Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02203819/1>) | Spring 2027 | - | 22 Oct 2026 |
@@ -184,14 +184,14 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 2027 Term 1 Internship – Developing AI &amp; Data Science Solutions to Accelerate AMD's Product Development | [Apply](<https://careers.amd.com/students/jobs/91459>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
 | ↳ | 2027 Term 1 Internship – Advanced Packaging Optical Characterization Intern | [Apply](<https://careers.amd.com/students/jobs/92029>) | Jan 2027 Start | 03 Sep 2026 | 24 Sep 2026 |
 | ↳ | 2027 Term 1 Internship – AI-Driven BOM Generation &amp; Management | [Apply](<https://careers.amd.com/students/jobs/91458>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
-| GlobalFoundries | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604281>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
-| ↳ | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604277-1>) | Jan-Jun 2027 | 26 Aug 2026 | 24 Sep 2026 |
-| ↳ | 2H University Intern, AI-Driven Process Intern (Advanced Process Control) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern--AI-Driven-Process-Intern--Advanced-Process-Control-_JR-2502691>) | June 2026 Start | 11 Jan 2026 | 24 Sep 2026 |
-| ↳ | 2H University Intern - Process Integration | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Process-Integration_JR-2502759>) | June 2026 Start | 14 Jan 2026 | 24 Sep 2026 |
+| GlobalFoundries | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604281>) | Jan-Jun 2027 | 27 Aug 2026 | 24 Sep 2026 |
+| ↳ | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604277-1>) | Jan-Jun 2027 | 27 Aug 2026 | 24 Sep 2026 |
+| ↳ | 2H University Intern, AI-Driven Process Intern (Advanced Process Control) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern--AI-Driven-Process-Intern--Advanced-Process-Control-_JR-2502691>) | June 2026 Start | 12 Jan 2026 | 24 Sep 2026 |
+| ↳ | 2H University Intern - Process Integration | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Process-Integration_JR-2502759>) | June 2026 Start | 15 Jan 2026 | 24 Sep 2026 |
 | ↳ | 2H University Intern - Process Integration | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Process-Integration_JR-2502758>) | June 2026 Start | 19 Jan 2026 | 24 Sep 2026 |
-| ↳ | 2H University Intern - PVD Equipment | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---PVD-Equipment_JR-2502749>) | June 2026 Start | 13 Jan 2026 | 24 Sep 2026 |
-| ↳ | 2H University Intern - IP Program Management &amp; QA | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---IP-Program-Management---QA_JR-2502782>) | June 2026 Start | 13 Jan 2026 | 24 Sep 2026 |
-| ↳ | 2H University Intern - FR CMOS Device Engineering | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Intern---FR-CMOS_JR-2503753>) | - | 14 Jan 2026 | 24 Sep 2026 |
+| ↳ | 2H University Intern - PVD Equipment | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---PVD-Equipment_JR-2502749>) | June 2026 Start | 14 Jan 2026 | 24 Sep 2026 |
+| ↳ | 2H University Intern - IP Program Management &amp; QA | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---IP-Program-Management---QA_JR-2502782>) | June 2026 Start | 14 Jan 2026 | 24 Sep 2026 |
+| ↳ | 2H University Intern - FR CMOS Device Engineering | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Intern---FR-CMOS_JR-2503753>) | - | 15 Jan 2026 | 24 Sep 2026 |
 | Applied Materials | Process Engineer Internship: Enhancing CVD process efficiency and film quality through systematic recipe optimization | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-Engineer-Internship--Enhancing-CVD-process-efficiency-and-film-quality-through-systematic-recipe-optimization_R2626530>) | - | 31 Aug 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Process Integration | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process-Integration_R2626676>) | - | 31 Aug 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Process &amp; product development in PVD chambers in Hybrid bonding for SOIC (advanced packaging) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process---product-development-in-PVD-chambers-in-Hybrid-bonding-for-SOIC--advanced-packaging-_R2626936>) | - | 07 Sep 2026 | 24 Sep 2026 |
@@ -501,7 +501,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | Complete | 11 |
+| workday:ocbc | ⚠️ Incomplete — previous listings retained | 10 |
 | workday:uobgroup | Complete | 1 |
 | workday:amat | Complete | 10 |
 | workday:globalfoundries | Complete | 9 |
@@ -510,7 +510,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 6 |
-| apple:apple | Complete | 0 |
+| apple:apple | Complete | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -626,7 +626,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:spgi | Complete | 0 |
 | workday:salesforce | Complete | 0 |
 | workday:sec | Complete | 0 |
-| workday:sanofi | Complete | 1 |
+| workday:sanofi | Complete | 0 |
 | greenhouse:sentinellabs | Complete | 0 |
 | smartrecruiters:SGS | Complete | 0 |
 | lever:shieldai | Complete | 0 |

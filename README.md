@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**358 current or undated listings · 11 older advertised periods · 41 employers with roles**
+**357 current or undated listings · 11 older advertised periods · 41 employers with roles**
 
-Last collection: **29 Oct 2026, 11:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **29 Oct 2026, 12:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -156,7 +156,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Cantina | Machine Learning Intern | [Apply](<https://jobs.ashbyhq.com/cantina/16c7915e-9fd7-413f-b7ee-590589fbdc01>) | October 2026 Start | 07 Sep 2026 | 24 Sep 2026 |
 | Airwallex | Software Engineer Intern (Summer 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795>) | Summer 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | Software Engineer Intern (Jan to Jun 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441>) | Jan to Jun 2027 | 14 Aug 2026 | 24 Sep 2026 |
-| ShopBack | Product Builder Intern (Product Engineering) | [Apply](<https://jobs.lever.co/shopback-2/5e5c78b0-1b9a-4c09-843d-49ea41e991fe>) | - | - | 24 Sep 2026 |
 | Micron | Intern- Test Solutions Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Test-Solutions-Engineer_JR106290>) | - | 23 Oct 2026 | 24 Sep 2026 |
 | ↳ | Intern - Product Engineering, NAND Validation/Characterization | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Product-Engineering--NAND-Validation-Characterization_JR111131>) | Jan to May 2027 | 23 Oct 2026 | 24 Sep 2026 |
 | TikTok | Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start | [Apply](<https://lifeattiktok.com/search/7669738564847110453>) | 2027 Start | - | 24 Sep 2026 |
@@ -407,6 +406,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| ShopBack | Product Builder Intern (Product Engineering) | 29 Oct 2026 | - |
 | Thales | Software Engineer Intern (C#) | 28 Oct 2026 | - |
 | Hitachi | UXUI / AI Transformation Intern | 28 Oct 2026 | - |
 | Shopee | Product Operations Intern , Data Infrastructure (Spring 2027) | 28 Oct 2026 | - |
@@ -641,7 +641,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 13 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 2 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

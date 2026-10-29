@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **355 current or undated listings · 11 older advertised periods · 39 employers with roles**
 
-Last collection: **29 Oct 2026, 21:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **29 Oct 2026, 22:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -593,7 +593,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:Intuitive | Complete | 0 |
 | workday:jll | Complete | 0 |
 | workday:jci | Complete | 4 |
-| workday:kla | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:kla | Complete | 0 |
 | ashby:langchain | Complete | 0 |
 | greenhouse:launchdarkly | Complete | 0 |
 | workday:logitech | Complete | 0 |

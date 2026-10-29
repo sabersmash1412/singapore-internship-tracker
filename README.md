@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**357 current or undated listings · 11 older advertised periods · 41 employers with roles**
+**358 current or undated listings · 11 older advertised periods · 41 employers with roles**
 
-Last collection: **29 Oct 2026, 14:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **29 Oct 2026, 14:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Shopee | 🆕 Backend Engineer Intern, Data Infrastructure - OLAP (Fall 2026/ Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206923/1>) | Fall 2026 / Spring 2027 | - | 29 Oct 2026 |
 | TikTok | 🆕 Machine Learning Engineer Project Intern (Recommendation) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7686439502455212293>) | 2027 Start | - | 29 Oct 2026 |
 | Bosch | 🆕 Intern, Software Development | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000158429749>) | - | 29 Oct 2026 | 29 Oct 2026 |
 | Amazon | 🆕 HW Commodity Specialist Intern, Data Center Sourcing and Procurement | [Apply](<https://www.amazon.jobs/en/jobs/10591956/hw-commodity-specialist-intern-data-center-sourcing-and-procurement>) | Jan 2027 - June 2027 | 29 Oct 2026 | 29 Oct 2026 |
@@ -496,12 +497,12 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:drweng | Complete | 1 |
 | bytedance:tiktok | Complete | 133 |
 | bytedance:bytedance | Complete | 35 |
-| shopee:shopee | Complete | 30 |
+| shopee:shopee | Complete | 31 |
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
-| workday:uobgroup | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:uobgroup | Complete | 1 |
 | workday:amat | Complete | 10 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
@@ -509,7 +510,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 6 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
+| apple:apple | Complete | 0 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | Complete | 0 |
@@ -591,7 +592,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:grafanalabs | Complete | 0 |
 | ashby:harvey | Complete | 0 |
 | workday:hitachi | Complete | 0 |
-| workday:hp | Complete | 4 |
+| workday:hp | ⚠️ Incomplete — previous listings retained | 0 |
 | workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |

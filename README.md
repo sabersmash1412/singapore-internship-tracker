@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**343 current or undated listings · 11 older advertised periods · 39 employers with roles**
+**342 current or undated listings · 11 older advertised periods · 39 employers with roles**
 
-Last collection: **30 Oct 2026, 05:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **30 Oct 2026, 05:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -158,7 +158,6 @@ These roles remain listed in employer sources; confirm application availability 
 | TikTok | Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start | [Apply](<https://lifeattiktok.com/search/7669738564847110453>) | 2027 Start | - | 24 Sep 2026 |
 | Micron | Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111158>) | - | 23 Oct 2026 | 24 Sep 2026 |
 | ↳ | Intern - MSB Automation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---MSB-Automation-Engineer_JR112720>) | - | 23 Oct 2026 | 24 Sep 2026 |
-| ↳ | Intern - NTI Process Integration - AI Track | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NTI-Process-Integration---AI-Track_JR96179>) | - | 09 Apr 2026 | 24 Sep 2026 |
 | ↳ | Intern - Facilities Sustainability AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586>) | January to May 2027 | 23 Oct 2026 | 24 Sep 2026 |
 | ↳ | Intern - F10 CVD PEE | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-CVD-PEE_JR97726>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | Apple | Information Security Internship Program (FY27 Summer Intake) | [Apply](<https://jobs.apple.com/en-us/details/200684585-3278/information-security-internship-program-fy27-summer-intake>) | - | 18 Sep 2026 | 24 Sep 2026 |
@@ -392,7 +391,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
-| Micron | Intern- Test Solutions Engineer | 30 Oct 2026 | - |
+| Micron | Intern - NTI Process Integration - AI Track | 30 Oct 2026 | - |
+| ↳ | Intern- Test Solutions Engineer | 30 Oct 2026 | - |
 | ↳ | Intern, Photo Manufacturing Data Analytics and AI | 30 Oct 2026 | - |
 | ↳ | Intern- MSB Process Integration Engineer | 30 Oct 2026 | - |
 | ↳ | Intern, Facilities AI Engineering | 30 Oct 2026 | - |

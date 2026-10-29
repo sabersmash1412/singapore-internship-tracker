@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**356 current or undated listings · 11 older advertised periods · 40 employers with roles**
+**355 current or undated listings · 11 older advertised periods · 39 employers with roles**
 
-Last collection: **29 Oct 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **29 Oct 2026, 18:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -220,7 +220,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Internship: Global Corporate Banking, Operations Support &amp; Systems, Operations Support &amp; Systems \[August - December 2026\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Corporate-Banking--Operations-Support---Systems--Operations-Support---Systems--August---December-2026-_JR00007395>) | August - December 2026 | 24 Apr 2026 | 24 Sep 2026 |
 | ↳ | Internship: Global Corporate Banking, Operations Support &amp; Systems \[Jan to May 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Corporate-Banking--Operations-Support---Systems--Jan-to-May-2027-_JR00010996>) | Jan to May 2027 | 14 Sep 2026 | 24 Sep 2026 |
 | ↳ | Internship: Global Commercial Banking, GWB Data Analytics \[Jan to May 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Commercial-Banking--GWB-Data-Analytics--Jan-to-May-2027-_JR00011058>) | Jan to May 2027 | 16 Sep 2026 | 24 Sep 2026 |
-| UOB | GenAI and Data Analytics Intern (Jan - Dec 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Jan---Dec-2027-_JR96223>) | Jan - Dec 2027 | 22 Sep 2026 | 24 Sep 2026 |
 | TikTok | \[Mobile Software Engineer\] Intern (Global Live Revenue) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7672397362020862213>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Software Test Engineer Intern (AI) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7670062655184308533>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Software Engineer Project Intern (Dev Infra) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7563519140531915061>) | 2026 Start | - | 24 Sep 2026 |
@@ -405,6 +404,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| UOB | GenAI and Data Analytics Intern (Jan - Dec 2027) | 29 Oct 2026 | - |
 | Airwallex | Software Engineer Intern (Summer 2027) | 29 Oct 2026 | - |
 | Sanofi | Audit Data Analytics Intern | 29 Oct 2026 | - |
 | ShopBack | Product Builder Intern (Product Engineering) | 29 Oct 2026 | - |
@@ -478,8 +478,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | Grab | Intern, Software Engineer | 16 Oct 2026 | - |
 | DBS | \[JIM LV TEST – Do NOT Apply\] 2027 DBS Internship (Technology and AI &amp; Data Science) | 16 Oct 2026 | - |
 | AIA | Intern, Enterprise Analytics | 16 Oct 2026 | - |
-| Shopee | Data Analyst Intern - Business Intelligence, Regional Logistics (Spring 2027) | 15 Oct 2026 | - |
-| ↳ | AI Automation &amp; Operations Intelligence Intern - Regional SPX Express (Spring 2027) | 15 Oct 2026 | - |
 
 </details>
 
@@ -507,7 +505,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 6 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 1 |
+| apple:apple | ⚠️ Incomplete — previous listings retained | 2 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 1 |
 | ashby:bifrost | Complete | 0 |
@@ -552,7 +550,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:AccorHotel | Complete | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |

@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **345 current or undated listings · 11 older advertised periods · 38 employers with roles**
 
-Last collection: **30 Oct 2026, 14:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **30 Oct 2026, 15:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -32,7 +32,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Bosch | 🆕 Intern, HVAC AI Research | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000158270689>) | - | 28 Oct 2026 | 28 Oct 2026 |
 | HP | 🆕 College Intern - Firmware Engineering | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128-1>) | January 2027 Start | 28 Oct 2026 | 28 Oct 2026 |
 | ↳ | 🆕 College Intern - Agentic AI Engineering | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Agentic-AI-Engineering_UNI5129-1>) | January 2027 Start | 28 Oct 2026 | 28 Oct 2026 |
-| TikTok | 🆕 Data Science Project Intern (TikTok LIVE) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7701293147020052741>) | 2026 Start | - | 28 Oct 2026 |
+| TikTok | Data Science Project Intern (TikTok LIVE) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7701293147020052741>) | 2026 Start | - | 28 Oct 2026 |
 | Shopee | Product Operations Intern , Data Infrastructure (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206543/1>) | Spring 2027 | - | 28 Oct 2026 |
 | ↳ | Backend Engineer Intern, Engineering Infra - AZPE (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206556/1>) | Spring 2027 | - | 28 Oct 2026 |
 | ↳ | AI Chatbot Product Manager Intern | [Apply](<https://careers.shopee.sg/job-detail/J02206508/1>) | - | - | 28 Oct 2026 |

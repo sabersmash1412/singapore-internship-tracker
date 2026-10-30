@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**345 current or undated listings · 11 older advertised periods · 38 employers with roles**
+**346 current or undated listings · 11 older advertised periods · 38 employers with roles**
 
-Last collection: **30 Oct 2026, 15:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **30 Oct 2026, 15:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Marvell | 🆕 Hardware Engineer Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Engineer-Intern---Bachelor-s-Degree_2603825>) | - | 30 Oct 2026 | 30 Oct 2026 |
 | QCP | 🆕 Intern, Software QA Engineer (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/35303820C3>) | Jan - Jun 2027 | 30 Oct 2026 | 30 Oct 2026 |
 | HP | 🆕 College Intern – Hardware Test Automation &amp; AI Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Hardware-Test-Automation---AI-Engineer_UNI4954-1>) | May 2027 Start | 29 Oct 2026 | 30 Oct 2026 |
 | ↳ | 🆕 College Intern - Electrical Hardware Engineering | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Electrical-Hardware-Engineering_UNI4952>) | May 2027 Start | 29 Oct 2026 | 30 Oct 2026 |
@@ -576,7 +577,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
 | workable:epos | Complete | 1 |
-| smartrecruiters:Eurofins | Complete | 0 |
+| smartrecruiters:Eurofins | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
 | smartrecruiters:Experian | Complete | 0 |
 | smartrecruiters:Fastmarkets | Complete | 0 |
@@ -601,7 +602,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:logitech | Complete | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
 | workday:manulife | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:marvell | Complete | 8 |
+| workday:marvell | Complete | 9 |
 | workday:mastercard | Complete | 0 |
 | lever:matchgroup | Complete | 0 |
 | greenhouse:mixpanel | Complete | 0 |

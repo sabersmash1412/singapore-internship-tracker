@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **346 current or undated listings · 11 older advertised periods · 37 employers with roles**
 
-Last collection: **30 Oct 2026, 20:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **30 Oct 2026, 20:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -30,8 +30,8 @@ These roles remain listed in employer sources; confirm application availability 
 | TikTok | 🆕 Machine Learning Engineer Project Intern (Recommendation) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7686439502455212293>) | 2027 Start | - | 29 Oct 2026 |
 | Bosch | 🆕 Intern, Software Development | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000158429749>) | - | 29 Oct 2026 | 29 Oct 2026 |
 | Amazon | 🆕 HW Commodity Specialist Intern, Data Center Sourcing and Procurement | [Apply](<https://www.amazon.jobs/en/jobs/10591956/hw-commodity-specialist-intern-data-center-sourcing-and-procurement>) | Jan 2027 - June 2027 | 29 Oct 2026 | 29 Oct 2026 |
-| Funding Societies &#124; Modalku Group | 🆕 Finance Intern (Finance &amp; Automation) | [Apply](<https://apply.workable.com/j/F014CE7ACA>) | - | 28 Oct 2026 | 28 Oct 2026 |
-| Bosch | 🆕 Intern, HVAC AI Research | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000158270689>) | - | 28 Oct 2026 | 28 Oct 2026 |
+| Funding Societies &#124; Modalku Group | Finance Intern (Finance &amp; Automation) | [Apply](<https://apply.workable.com/j/F014CE7ACA>) | - | 28 Oct 2026 | 28 Oct 2026 |
+| Bosch | Intern, HVAC AI Research | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000158270689>) | - | 28 Oct 2026 | 28 Oct 2026 |
 | HP | College Intern - Firmware Engineering | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128-1>) | January 2027 Start | 28 Oct 2026 | 28 Oct 2026 |
 | ↳ | College Intern - Agentic AI Engineering | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Agentic-AI-Engineering_UNI5129-1>) | January 2027 Start | 28 Oct 2026 | 28 Oct 2026 |
 | TikTok | Data Science Project Intern (TikTok LIVE) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7701293147020052741>) | 2026 Start | - | 28 Oct 2026 |
@@ -514,7 +514,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:bifrost | Complete | 0 |
 | lever:binance | Complete | 0 |
 | greenhouse:bitgo | Complete | 0 |
-| smartrecruiters:BoschGroup | Complete | 3 |
+| smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
 | ashby:cantina | Complete | 0 |
 | smartrecruiters:CarousellGroup | Complete | 0 |
 | ashby:clickhouse | Complete | 0 |

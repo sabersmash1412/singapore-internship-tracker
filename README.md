@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **344 current or undated listings · 11 older advertised periods · 38 employers with roles**
 
-Last collection: **30 Oct 2026, 12:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **30 Oct 2026, 13:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -479,7 +479,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | Marvell | Silicon Photonics Intern - Ph.D | 18 Oct 2026 | - |
 | Sea | IT Operations Specialist intern (6 months) | 17 Oct 2026 | - |
 | Grab | Intern, Software Engineer | 16 Oct 2026 | - |
-| DBS | \[JIM LV TEST – Do NOT Apply\] 2027 DBS Internship (Technology and AI &amp; Data Science) | 16 Oct 2026 | - |
 
 </details>
 

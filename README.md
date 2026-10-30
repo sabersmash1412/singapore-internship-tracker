@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **346 current or undated listings · 11 older advertised periods · 37 employers with roles**
 
-Last collection: **31 Oct 2026, 00:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **31 Oct 2026, 00:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -480,7 +480,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | DRW | IT Intern | 19 Oct 2026 | - |
 | ↳ | Software Developer Intern (C++) | 19 Oct 2026 | - |
 | Marvell | Silicon Photonics Intern - Ph.D | 18 Oct 2026 | - |
-| Sea | IT Operations Specialist intern (6 months) | 17 Oct 2026 | - |
 
 </details>
 
@@ -499,7 +498,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | Complete | 11 |
+| workday:ocbc | ⚠️ Incomplete — previous listings retained | 3 |
 | workday:uobgroup | Complete | 0 |
 | workday:amat | Complete | 10 |
 | workday:globalfoundries | Complete | 9 |
@@ -544,7 +543,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | Complete | 2 |
+| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |
@@ -638,7 +637,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
-| successfactors:singtel | ⚠️ Incomplete — previous listings retained | 0 |
+| successfactors:singtel | Complete | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:temasek | Complete | 13 |
 

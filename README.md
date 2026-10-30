@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**345 current or undated listings · 11 older advertised periods · 37 employers with roles**
+**346 current or undated listings · 11 older advertised periods · 37 employers with roles**
 
-Last collection: **30 Oct 2026, 18:05 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **30 Oct 2026, 18:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Funding Societies &#124; Modalku Group | 🆕 Data Intern | [Apply](<https://apply.workable.com/j/14F1004F9F>) | - | 22 Sep 2026 | 30 Oct 2026 |
 | Marvell | 🆕 Hardware Engineer Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Engineer-Intern---Bachelor-s-Degree_2603825>) | - | 30 Oct 2026 | 30 Oct 2026 |
 | QCP | 🆕 Intern, Software QA Engineer (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/35303820C3>) | Jan - Jun 2027 | 30 Oct 2026 | 30 Oct 2026 |
 | HP | 🆕 College Intern – Hardware Test Automation &amp; AI Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Hardware-Test-Automation---AI-Engineer_UNI4954-1>) | May 2027 Start | 29 Oct 2026 | 30 Oct 2026 |
@@ -584,7 +585,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:flexport | Complete | 0 |
 | greenhouse:forter | Complete | 0 |
 | smartrecruiters:Freshworks | Complete | 0 |
-| workable:fundingsocieties | Complete | 2 |
+| workable:fundingsocieties | Complete | 3 |
 | greenhouse:gitlab | Complete | 0 |
 | greenhouse:grafanalabs | Complete | 0 |
 | ashby:harvey | Complete | 0 |

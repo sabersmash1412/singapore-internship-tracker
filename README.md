@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **346 current or undated listings · 11 older advertised periods · 37 employers with roles**
 
-Last collection: **31 Oct 2026, 07:35 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **31 Oct 2026, 08:07 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -43,7 +43,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Backend Engineer Intern, Engineering Infra - AZPE (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02205491/1>) | Spring 2027 | - | 26 Oct 2026 |
 | TikTok | Backend Software Engineer - Intern (Global E-Commerce) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7700820444199225653>) | 2027 Start | - | 26 Oct 2026 |
 | Shopee | Data Analyst Intern - Regional BI &amp; Planning (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02204977/1>) | Spring 2027 | - | 24 Oct 2026 |
-| ByteDance | Fullstack Engineer" - Intern (Global Payment) - 2027 Start | [Apply](<https://joinbytedance.com/search/7699086930365729029>) | 2027 Start | - | 23 Oct 2026 |
+| ByteDance | Fullstack Engineer - Intern (Global Payment) - 2027 Start | [Apply](<https://joinbytedance.com/search/7699086930365729029>) | 2027 Start | - | 23 Oct 2026 |
 | Shopee | Data Analyst Intern - Regional Marketing Analytics, Regional Brand &amp; Growth Marketing | [Apply](<https://careers.shopee.sg/job-detail/J02204611/1>) | - | - | 23 Oct 2026 |
 | ↳ | Strategy and Analytics Intern - Regional CRM, Regional Brand &amp; Growth Marketing | [Apply](<https://careers.shopee.sg/job-detail/J02204517/1>) | - | - | 23 Oct 2026 |
 | GlobalFoundries | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604278>) | Jan-Jun 2027 | 23 Oct 2026 | 23 Oct 2026 |

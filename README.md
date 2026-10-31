@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **346 current or undated listings · 11 older advertised periods · 37 employers with roles**
 
-Last collection: **31 Oct 2026, 15:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **31 Oct 2026, 15:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -543,7 +543,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:sggovterp | ⚠️ Incomplete — previous listings retained; 1 details unavailable | 0 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |
@@ -615,7 +615,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:porsche-asia-pacific | Complete | 1 |
 | workable:qcp-group | Complete | 2 |
 | greenhouse:qualtrics | Complete | 0 |
-| workday:razer | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:razer | ⚠️ Incomplete — previous listings retained; 3 details unavailable | 8 |
 | greenhouse:relex | Complete | 0 |
 | ashby:replit | Complete | 0 |
 | greenhouse:ripple | Complete | 0 |
@@ -623,7 +623,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:spgi | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:salesforce | Complete | 0 |
 | workday:sec | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:sanofi | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:sanofi | ⚠️ Incomplete — previous listings retained; 3 details unavailable | 0 |
 | greenhouse:sentinellabs | Complete | 0 |
 | smartrecruiters:SGS | Complete | 0 |
 | lever:shieldai | Complete | 0 |

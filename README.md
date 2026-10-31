@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **346 current or undated listings · 11 older advertised periods · 37 employers with roles**
 
-Last collection: **31 Oct 2026, 10:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **31 Oct 2026, 11:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -27,8 +27,8 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 College Intern - Electrical Hardware Engineering | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Electrical-Hardware-Engineering_UNI4952>) | May 2027 Start | 29 Oct 2026 | 30 Oct 2026 |
 | ↳ | 🆕 College Intern - Data Science | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Science_UNI4644-2>) | May 2027 Start | 29 Oct 2026 | 30 Oct 2026 |
 | Shopee | 🆕 Backend Engineer Intern, Data Infrastructure - OLAP (Fall 2026/ Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206923/1>) | Fall 2026 / Spring 2027 | - | 29 Oct 2026 |
-| TikTok | 🆕 Machine Learning Engineer Project Intern (Recommendation) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7686439502455212293>) | 2027 Start | - | 29 Oct 2026 |
-| Bosch | 🆕 Intern, Software Development | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000158429749>) | - | 29 Oct 2026 | 29 Oct 2026 |
+| TikTok | Machine Learning Engineer Project Intern (Recommendation) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7686439502455212293>) | 2027 Start | - | 29 Oct 2026 |
+| Bosch | Intern, Software Development | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000158429749>) | - | 29 Oct 2026 | 29 Oct 2026 |
 | Amazon | HW Commodity Specialist Intern, Data Center Sourcing and Procurement | [Apply](<https://www.amazon.jobs/en/jobs/10591956/hw-commodity-specialist-intern-data-center-sourcing-and-procurement>) | Jan 2027 - June 2027 | 29 Oct 2026 | 29 Oct 2026 |
 | Funding Societies &#124; Modalku Group | Finance Intern (Finance &amp; Automation) | [Apply](<https://apply.workable.com/j/F014CE7ACA>) | - | 28 Oct 2026 | 28 Oct 2026 |
 | Bosch | Intern, HVAC AI Research | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000158270689>) | - | 28 Oct 2026 | 28 Oct 2026 |

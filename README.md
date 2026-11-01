@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **346 current or undated listings · 11 older advertised periods · 37 employers with roles**
 
-Last collection: **01 Nov 2026, 09:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **01 Nov 2026, 10:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -23,9 +23,9 @@ These roles remain listed in employer sources; confirm application availability 
 | Funding Societies &#124; Modalku Group | 🆕 Data Intern | [Apply](<https://apply.workable.com/j/14F1004F9F>) | - | 22 Sep 2026 | 30 Oct 2026 |
 | Marvell | 🆕 Hardware Engineer Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Engineer-Intern---Bachelor-s-Degree_2603825>) | - | 30 Oct 2026 | 30 Oct 2026 |
 | QCP | 🆕 Intern, Software QA Engineer (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/35303820C3>) | Jan - Jun 2027 | 30 Oct 2026 | 30 Oct 2026 |
-| HP | 🆕 College Intern – Hardware Test Automation &amp; AI Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Hardware-Test-Automation---AI-Engineer_UNI4954-1>) | May 2027 Start | 29 Oct 2026 | 30 Oct 2026 |
-| ↳ | 🆕 College Intern - Electrical Hardware Engineering | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Electrical-Hardware-Engineering_UNI4952>) | May 2027 Start | 29 Oct 2026 | 30 Oct 2026 |
-| ↳ | 🆕 College Intern - Data Science | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Science_UNI4644-2>) | May 2027 Start | 29 Oct 2026 | 30 Oct 2026 |
+| HP | College Intern – Hardware Test Automation &amp; AI Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Hardware-Test-Automation---AI-Engineer_UNI4954-1>) | May 2027 Start | 29 Oct 2026 | 30 Oct 2026 |
+| ↳ | College Intern - Electrical Hardware Engineering | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Electrical-Hardware-Engineering_UNI4952>) | May 2027 Start | 29 Oct 2026 | 30 Oct 2026 |
+| ↳ | College Intern - Data Science | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Science_UNI4644-2>) | May 2027 Start | 29 Oct 2026 | 30 Oct 2026 |
 | Shopee | Backend Engineer Intern, Data Infrastructure - OLAP (Fall 2026/ Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206923/1>) | Fall 2026 / Spring 2027 | - | 29 Oct 2026 |
 | TikTok | Machine Learning Engineer Project Intern (Recommendation) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7686439502455212293>) | 2027 Start | - | 29 Oct 2026 |
 | Bosch | Intern, Software Development | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000158429749>) | - | 29 Oct 2026 | 29 Oct 2026 |
@@ -105,7 +105,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Data Analytics/Science Intern, People Technology (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Data-AnalyticsScience-Intern%2C-People-Technology-%28Jan-Jun-2027%29-238891/1369202457/>) | Jan - Jun 2027 | 08 Oct 2026 | 28 Sep 2026 |
 | ↳ | Data Analytics Intern, Performance Analytics (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Data-Analytics-Intern%2C-Performance-Analytics-%28Jan-Jun-2027%29-238891/1368996857/>) | Jan - Jun 2027 | 06 Oct 2026 | 28 Sep 2026 |
 | ↳ | Data &amp; Finance Intern, Finance (Governance &amp; Technology) - Jan - Jun 2027 | [Apply](<https://jobs.temasek.com.sg/job/Data-&-Finance-Intern%2C-Finance-%28Governance-&-Technology%29-Jan-Jun-2027-238891/1369148557/>) | Jan - Jun 2027 | 08 Oct 2026 | 28 Sep 2026 |
-| ↳ | Cybersecurity Intern, Cybersecurity (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Cybersecurity-Intern%2C-Cybersecurity-%28Jan-Jun-2027%29-238891/1368748057/>) | Jan - Jun 2027 | 03 Oct 2026 | 28 Sep 2026 |
+| ↳ | Cybersecurity Intern, Cybersecurity (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Cybersecurity-Intern%2C-Cybersecurity-%28Jan-Jun-2027%29-238891/1368748057/>) | Jan - Jun 2027 | 01 Nov 2026 | 28 Sep 2026 |
 | ↳ | Automation Intern, Financial Management (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Automation-Intern%2C-Financial-Management-%28Jan-Jun-2027%29-238891/1369154157/>) | Jan - Jun 2027 | 08 Oct 2026 | 28 Sep 2026 |
 | ↳ | AI/Machine Learning Intern, Technology (Jan - June 2027) | [Apply](<https://jobs.temasek.com.sg/job/AIMachine-Learning-Intern%2C-Technology-%28Jan-June-2027%29-238891/1369200757/>) | Jan - June 2027 | 08 Oct 2026 | 28 Sep 2026 |
 | ↳ | AI &amp; Automation Intern, Procurement (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/AI-&-Automation-Intern%2C-Procurement-%28Jan-Jun-2027%29-238891/1369203757/>) | Jan - Jun 2027 | 08 Oct 2026 | 28 Sep 2026 |

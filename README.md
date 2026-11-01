@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **348 current or undated listings · 11 older advertised periods · 37 employers with roles**
 
-Last collection: **01 Nov 2026, 16:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **01 Nov 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -481,7 +481,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | Autodesk | Intern, Software Development Engineer \[PSET-Connected Delivery\] | 19 Oct 2026 | - |
 | DRW | IT Intern | 19 Oct 2026 | - |
 | ↳ | Software Developer Intern (C++) | 19 Oct 2026 | - |
-| Marvell | Silicon Photonics Intern - Ph.D | 18 Oct 2026 | - |
 
 </details>
 

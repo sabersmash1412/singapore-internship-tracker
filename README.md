@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**346 current or undated listings · 11 older advertised periods · 37 employers with roles**
+**348 current or undated listings · 11 older advertised periods · 37 employers with roles**
 
-Last collection: **01 Nov 2026, 15:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **01 Nov 2026, 16:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,8 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| HP | 🆕 College Intern – NPI Writing System Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---NPI-Writing-System-Engineer_UNI4588-1>) | May 2027 Start | 01 Nov 2026 | 01 Nov 2026 |
+| ↳ | 🆕 College Intern - Data Analytics in Supply Chain | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-in-Supply-Chain_UNI4031-1>) | May 2027 Start | 01 Nov 2026 | 01 Nov 2026 |
 | Funding Societies &#124; Modalku Group | 🆕 Data Intern | [Apply](<https://apply.workable.com/j/14F1004F9F>) | - | 22 Sep 2026 | 30 Oct 2026 |
 | Marvell | Hardware Engineer Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Engineer-Intern---Bachelor-s-Degree_2603825>) | - | 30 Oct 2026 | 30 Oct 2026 |
 | QCP | Intern, Software QA Engineer (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/35303820C3>) | Jan - Jun 2027 | 30 Oct 2026 | 30 Oct 2026 |
@@ -589,7 +591,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:grafanalabs | Complete | 0 |
 | ashby:harvey | Complete | 0 |
 | workday:hitachi | Complete | 0 |
-| workday:hp | Complete | 7 |
+| workday:hp | Complete | 9 |
 | workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |

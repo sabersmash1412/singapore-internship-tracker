@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **346 current or undated listings · 11 older advertised periods · 37 employers with roles**
 
-Last collection: **01 Nov 2026, 14:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **01 Nov 2026, 14:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -22,7 +22,7 @@ These roles remain listed in employer sources; confirm application availability 
 | --- | --- | --- | --- | --- | --- |
 | Funding Societies &#124; Modalku Group | 🆕 Data Intern | [Apply](<https://apply.workable.com/j/14F1004F9F>) | - | 22 Sep 2026 | 30 Oct 2026 |
 | Marvell | 🆕 Hardware Engineer Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Engineer-Intern---Bachelor-s-Degree_2603825>) | - | 30 Oct 2026 | 30 Oct 2026 |
-| QCP | 🆕 Intern, Software QA Engineer (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/35303820C3>) | Jan - Jun 2027 | 30 Oct 2026 | 30 Oct 2026 |
+| QCP | Intern, Software QA Engineer (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/35303820C3>) | Jan - Jun 2027 | 30 Oct 2026 | 30 Oct 2026 |
 | HP | College Intern – Hardware Test Automation &amp; AI Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Hardware-Test-Automation---AI-Engineer_UNI4954-1>) | May 2027 Start | 29 Oct 2026 | 30 Oct 2026 |
 | ↳ | College Intern - Electrical Hardware Engineering | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Electrical-Hardware-Engineering_UNI4952>) | May 2027 Start | 29 Oct 2026 | 30 Oct 2026 |
 | ↳ | College Intern - Data Science | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Science_UNI4644-2>) | May 2027 Start | 29 Oct 2026 | 30 Oct 2026 |

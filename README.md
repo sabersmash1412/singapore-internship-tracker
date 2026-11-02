@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **348 current or undated listings · 11 older advertised periods · 37 employers with roles**
 
-Last collection: **02 Nov 2026, 14:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **02 Nov 2026, 14:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -479,7 +479,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | NLB National Library Board | Marketing Analytics Intern, Marketing &amp; Corporate Solutions | 20 Oct 2026 | - |
 | GlobalFoundries | Machine Learning &amp; Generative AI Intern (Jan-Jun 2027) | 19 Oct 2026 | - |
 | QCP | Intern, Quantitative Developer - Trading (Jan - Jun 2027) | 19 Oct 2026 | - |
-| Carousell Group | Forward Deployed Engineering Intern (AI Adoption Pod) | 19 Oct 2026 | - |
 
 </details>
 

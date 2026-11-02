@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**349 current or undated listings · 11 older advertised periods · 37 employers with roles**
+**350 current or undated listings · 11 older advertised periods · 37 employers with roles**
 
-Last collection: **02 Nov 2026, 12:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **02 Nov 2026, 12:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -312,6 +312,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | AI Full-Stack Engineer Intern (TikTok Shop - SEA) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7668566238498408709>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Feature/Computing/Storage Engineer Intern (TikTok Recommendation Ecosystem) - 2027 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7667928179986827573>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Feature/Computing/Storage Engineer Intern (TikTok Recommendation Ecosystem) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7667920029161654581>) | 2027 Start | - | 24 Sep 2026 |
+| ↳ | AI Data Project Management Project Intern (Safety Model Operations) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7511659934863640839>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Data Project Intern (Eco &amp; Social Creation) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7682638844458240309>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Data Project Intern (AI Data Service and Operations - Eco &amp; Social Creation) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7651452649767930117>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | AI Automation Project Intern (TnS-OPS-Automation &amp; Business Insights) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7664538232974559493>) | 2026 Start | - | 24 Sep 2026 |
@@ -480,7 +481,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | QCP | Intern, Quantitative Developer - Trading (Jan - Jun 2027) | 19 Oct 2026 | - |
 | Carousell Group | Forward Deployed Engineering Intern (AI Adoption Pod) | 19 Oct 2026 | - |
 | Autodesk | Intern, Software Development Engineer \[PSET-Connected Delivery\] | 19 Oct 2026 | - |
-| DRW | IT Intern | 19 Oct 2026 | - |
 
 </details>
 
@@ -493,7 +493,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:shopback-2 | Complete | 4 |
 | greenhouse:temus | Complete | 0 |
 | greenhouse:drweng | Complete | 1 |
-| bytedance:tiktok | Complete | 133 |
+| bytedance:tiktok | Complete | 134 |
 | bytedance:bytedance | Complete | 35 |
 | shopee:shopee | Complete | 31 |
 | sea:sea | Complete | 7 |
@@ -544,7 +544,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 2 |
+| workday:sggovterp | Complete | 2 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |

@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**350 current or undated listings · 11 older advertised periods · 37 employers with roles**
+**350 current or undated listings · 10 older advertised periods · 37 employers with roles**
 
-Last collection: **02 Nov 2026, 18:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **02 Nov 2026, 18:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -372,7 +372,7 @@ These roles remain listed in employer sources; confirm application availability 
 | DRW | Quantitative Research Intern | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8014915>) | - | 13 Jul 2026 | 21 Sep 2026 |
 
 <details>
-<summary>Older advertised periods — verify intake (11)</summary>
+<summary>Older advertised periods — verify intake (10)</summary>
 
 These roles remain listed by employers, but their advertised periods appear to have passed. They are retained here for reference and in the data downloads; this does not mean applications are closed.
 
@@ -381,7 +381,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
 | Shopee | Business Intelligence (BI) Intern – Cross Border E-commerce (Summer 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02203104/1>) | Summer 2026 | - | 21 Oct 2026 |
-| ↳ | Algorithm Engineer Intern, Search Guide (May - Dec 2025) | [Apply](<https://careers.shopee.sg/job-detail/J00379432/1>) | May - Dec 2025 | - | 24 Sep 2026 |
 | OCBC | Internship: Group Operations &amp; Technology, Group Technology Services – Data Centre &amp; Disaster Recovery \[January - May 2026\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Operations---Technology--Group-Technology-Services---Data-Centre---Disaster-Recovery--January---May-2026-_JR00011135>) | January - May 2026 | 18 Sep 2026 | 24 Sep 2026 |
 | ↳ | Internship: Group Operations &amp; Technology, Group Engineering – Enterprise Data Management \[January - May 2026\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Operations---Technology--Group-Engineering---Enterprise-Data-Management--January---May-2026-_JR00011133>) | January - May 2026 | 18 Sep 2026 | 24 Sep 2026 |
 | TikTok | Data Business Analyst Project Intern - 2025 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7566216972465441029>) | 2025 Start | - | 24 Sep 2026 |
@@ -399,6 +398,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Shopee | Algorithm Engineer Intern, Search Guide (May - Dec 2025) | 02 Nov 2026 | - |
 | Applied Materials | Process Engineer Internship: Enhancing CVD process efficiency and film quality through systematic recipe optimization | 02 Nov 2026 | - |
 | ↳ | College Intern - Process &amp; product development in PVD chambers in Hybrid bonding for SOIC (advanced packaging) | 02 Nov 2026 | - |
 | Cantina | Machine Learning Intern | 30 Oct 2026 | - |
@@ -592,7 +592,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
-| workday:jll | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:jll | Complete | 0 |
 | workday:jci | Complete | 4 |
 | workday:kla | Complete | 0 |
 | ashby:langchain | Complete | 0 |

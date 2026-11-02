@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **348 current or undated listings · 11 older advertised periods · 37 employers with roles**
 
-Last collection: **02 Nov 2026, 10:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **02 Nov 2026, 10:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -501,7 +501,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 0 |
-| workday:amat | Complete | 10 |
+| workday:amat | ⚠️ Incomplete — previous listings retained | 10 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 10 |

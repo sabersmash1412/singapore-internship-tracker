@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**348 current or undated listings · 11 older advertised periods · 37 employers with roles**
+**350 current or undated listings · 11 older advertised periods · 37 employers with roles**
 
-Last collection: **02 Nov 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **02 Nov 2026, 18:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,8 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Singtel | 🆕 AI Product Manager &amp; Builder Intern | [Apply](<https://groupcareers.singtel.com/job/AI-Product-Manager-&-Builder-Intern-Sing/1369793766/>) | - | 02 Nov 2026 | 02 Nov 2026 |
+| ↳ | 🆕 AI Product Enablement and Operations Intern | [Apply](<https://groupcareers.singtel.com/job/AI-Product-Enablement-and-Operations-Intern-Sing/1369793866/>) | - | 02 Nov 2026 | 02 Nov 2026 |
 | Apple | 🆕 Finance Data Analyst Intern (6-month Full-time) | [Apply](<https://jobs.apple.com/en-us/details/200692415-3278/finance-data-analyst-intern-6-month-full-time>) | February 2027 Start | 02 Nov 2026 | 02 Nov 2026 |
 | HP | 🆕 College Intern – NPI Writing System Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---NPI-Writing-System-Engineer_UNI4588-1>) | May 2027 Start | 01 Nov 2026 | 01 Nov 2026 |
 | ↳ | 🆕 College Intern - Data Analytics in Supply Chain | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-in-Supply-Chain_UNI4031-1>) | May 2027 Start | 01 Nov 2026 | 01 Nov 2026 |
@@ -491,7 +493,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:drweng | Complete | 1 |
 | bytedance:tiktok | Complete | 134 |
 | bytedance:bytedance | Complete | 35 |
-| shopee:shopee | Complete | 31 |
+| shopee:shopee | Complete | 30 |
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
@@ -590,7 +592,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
-| workday:jll | Complete | 0 |
+| workday:jll | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:jci | Complete | 4 |
 | workday:kla | Complete | 0 |
 | ashby:langchain | Complete | 0 |
@@ -634,7 +636,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
-| successfactors:singtel | Complete | 1 |
+| successfactors:singtel | Complete | 3 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:temasek | Complete | 13 |
 

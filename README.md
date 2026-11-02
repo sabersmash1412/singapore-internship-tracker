@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **348 current or undated listings · 11 older advertised periods · 37 employers with roles**
 
-Last collection: **02 Nov 2026, 17:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **02 Nov 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -477,7 +477,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | Shopee | Business Intelligence Intern (Spring 2027) | 20 Oct 2026 | - |
 | ↳ | Business Intelligence Intern (Spring 2027) | 20 Oct 2026 | - |
 | NLB National Library Board | Marketing Analytics Intern, Marketing &amp; Corporate Solutions | 20 Oct 2026 | - |
-| GlobalFoundries | Machine Learning &amp; Generative AI Intern (Jan-Jun 2027) | 19 Oct 2026 | - |
 
 </details>
 
@@ -496,7 +495,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | ⚠️ Incomplete — previous listings retained | 1 |
+| workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 0 |
 | workday:amat | Complete | 8 |
 | workday:globalfoundries | Complete | 9 |

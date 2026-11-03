@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**346 current or undated listings · 10 older advertised periods · 37 employers with roles**
+**345 current or undated listings · 10 older advertised periods · 37 employers with roles**
 
-Last collection: **03 Nov 2026, 19:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **03 Nov 2026, 20:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -362,7 +362,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | AI Agent Machine Learning Engineer Intern (Global E-Commerce, Supply Chain and Logistics) - 2027 Start (PhD) | [Apply](<https://joinbytedance.com/search/7686117700369451269>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Agent Algorithm Engineer Intern (Global E-Commerce, Affiliate) - 2027 Start | [Apply](<https://joinbytedance.com/search/7686119680478644485>) | 2027 Start | - | 24 Sep 2026 |
 | ShopBack | Software Engineer Intern (H1 2027) | [Apply](<https://jobs.lever.co/shopback-2/1804a30e-2d2e-4631-9e85-614c91806ddf>) | H1 2027 | - | 21 Sep 2026 |
-| ↳ | Operations Automation Engineer Intern | [Apply](<https://jobs.lever.co/shopback-2/0b3627b7-0c1a-46da-bc3d-699f8d5ca9e5>) | H2 2026 | - | 21 Sep 2026 |
 | ↳ | Data Analyst (Internship) (H1 2027) | [Apply](<https://jobs.lever.co/shopback-2/b216d68c-48b0-4fa5-8f1e-9e0375b993e1>) | H1 2027 | - | 21 Sep 2026 |
 | Grab | Intern, Strategy &amp; Analytics, Transport | [Apply](<https://jobs.smartrecruiters.com/Grab/744000149793152>) | - | 16 Sep 2026 | 21 Sep 2026 |
 | DRW | Quantitative Research Intern | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8014915>) | - | 13 Jul 2026 | 21 Sep 2026 |
@@ -394,6 +393,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| ShopBack | Operations Automation Engineer Intern | 03 Nov 2026 | - |
 | ByteDance | Data Operations Project Intern (AI Data &amp; Safety) - 2026 Start (BS/MS) | 03 Nov 2026 | - |
 | Temasek | Strategy and Programme Management Intern, Cybersecurity, Centre of Excellence (Jan - Jun 2027) | 03 Nov 2026 | - |
 | ↳ | AI/Machine Learning Intern, Technology (Jan - June 2027) | 03 Nov 2026 | - |

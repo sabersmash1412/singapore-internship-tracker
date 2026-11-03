@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **346 current or undated listings · 10 older advertised periods · 37 employers with roles**
 
-Last collection: **03 Nov 2026, 19:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **03 Nov 2026, 19:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -476,7 +476,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | Intern, DevOps Engineer \[AEC-Connected Infrastructure Engineering\] | 21 Oct 2026 | - |
 | ↳ | Intern, Software Development Engineer \[PSET - Product Data - Document Management\] | 21 Oct 2026 | - |
 | ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | 21 Oct 2026 | - |
-| Shopee | Projects - Data Intern, SBS (Spring 2027) | 20 Oct 2026 | - |
 
 </details>
 
@@ -486,7 +485,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | Source board | Latest check | Matching roles returned |
 | --- | --- | --- |
 | smartrecruiters:Grab | Complete | 3 |
-| lever:shopback-2 | Complete | 4 |
+| lever:shopback-2 | Complete | 3 |
 | greenhouse:temus | Complete | 0 |
 | greenhouse:drweng | Complete | 1 |
 | bytedance:tiktok | Complete | 135 |

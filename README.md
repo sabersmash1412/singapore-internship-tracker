@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **343 current or undated listings · 10 older advertised periods · 36 employers with roles**
 
-Last collection: **04 Nov 2026, 03:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **04 Nov 2026, 04:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -464,16 +464,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | GlobalFoundries | Automation &amp; AI Engineer Intern, Quality (Jan-Jun 2027) | 21 Oct 2026 | - |
 | Shopee | Data Analytics Intern - Brand Analytics, Regional Brand Partnerships (Fall 2026) | 21 Oct 2026 | - |
 | Temus | AI/Data Intern (May - Dec 2026) | 21 Oct 2026 | - |
-| Autodesk | Intern, Software Engineer in Test \[AEC Autocad Engineering\] | 21 Oct 2026 | - |
-| ↳ | Intern, Software Engineer \[PDMS-DPM-Engineering\] | 21 Oct 2026 | - |
-| ↳ | Intern, Software Development Engineer \[PSET-Localization\] | 21 Oct 2026 | - |
-| ↳ | Intern, Software Development Engineer \[PSET-Localization\] | 21 Oct 2026 | - |
-| ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | 21 Oct 2026 | - |
-| ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | 21 Oct 2026 | - |
-| ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | 21 Oct 2026 | - |
-| ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | 21 Oct 2026 | - |
-| ↳ | Intern, Software Development Engineer \[AEC-AutoCAD Backend\] | 21 Oct 2026 | - |
-| ↳ | Intern, DevOps Engineer \[AEC-Connected Infrastructure Engineering\] | 21 Oct 2026 | - |
 
 </details>
 

@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **346 current or undated listings · 10 older advertised periods · 37 employers with roles**
 
-Last collection: **03 Nov 2026, 14:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **03 Nov 2026, 15:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -477,8 +477,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | 21 Oct 2026 | - |
 | Shopee | Projects - Data Intern, SBS (Spring 2027) | 20 Oct 2026 | - |
 | Razer | Large Language Model Intern | 20 Oct 2026 | - |
-| Shopee | Business Intelligence Intern (Spring 2027) | 20 Oct 2026 | - |
-| ↳ | Business Intelligence Intern (Spring 2027) | 20 Oct 2026 | - |
 
 </details>
 
@@ -492,7 +490,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:temus | Complete | 0 |
 | greenhouse:drweng | Complete | 1 |
 | bytedance:tiktok | Complete | 134 |
-| bytedance:bytedance | Complete | 35 |
+| bytedance:bytedance | Complete | 34 |
 | shopee:shopee | Complete | 30 |
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |

@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **345 current or undated listings · 10 older advertised periods · 37 employers with roles**
 
-Last collection: **03 Nov 2026, 15:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **03 Nov 2026, 16:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -24,8 +24,8 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 AI Product Manager &amp; Builder Intern | [Apply](<https://groupcareers.singtel.com/job/AI-Product-Manager-&-Builder-Intern-Sing/1369793766/>) | - | 02 Nov 2026 | 02 Nov 2026 |
 | ↳ | 🆕 AI Product Enablement and Operations Intern | [Apply](<https://groupcareers.singtel.com/job/AI-Product-Enablement-and-Operations-Intern-Sing/1369793866/>) | - | 02 Nov 2026 | 02 Nov 2026 |
 | Apple | 🆕 Finance Data Analyst Intern (6-month Full-time) | [Apply](<https://jobs.apple.com/en-us/details/200692415-3278/finance-data-analyst-intern-6-month-full-time>) | February 2027 Start | 02 Nov 2026 | 02 Nov 2026 |
-| HP | 🆕 College Intern – NPI Writing System Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---NPI-Writing-System-Engineer_UNI4588-1>) | May 2027 Start | 01 Nov 2026 | 01 Nov 2026 |
-| ↳ | 🆕 College Intern - Data Analytics in Supply Chain | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-in-Supply-Chain_UNI4031-1>) | May 2027 Start | 01 Nov 2026 | 01 Nov 2026 |
+| HP | College Intern – NPI Writing System Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---NPI-Writing-System-Engineer_UNI4588-1>) | May 2027 Start | 01 Nov 2026 | 01 Nov 2026 |
+| ↳ | College Intern - Data Analytics in Supply Chain | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-in-Supply-Chain_UNI4031-1>) | May 2027 Start | 01 Nov 2026 | 01 Nov 2026 |
 | Funding Societies &#124; Modalku Group | Data Intern | [Apply](<https://apply.workable.com/j/14F1004F9F>) | - | 22 Sep 2026 | 30 Oct 2026 |
 | Marvell | Hardware Engineer Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Engineer-Intern---Bachelor-s-Degree_2603825>) | - | 30 Oct 2026 | 30 Oct 2026 |
 | QCP | Intern, Software QA Engineer (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/35303820C3>) | Jan - Jun 2027 | 30 Oct 2026 | 30 Oct 2026 |
@@ -498,7 +498,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 0 |
 | workday:amat | Complete | 8 |
-| workday:globalfoundries | ⚠️ Incomplete — previous listings retained | 9 |
+| workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 10 |
 | workday:nvidia | Complete | 0 |

@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**346 current or undated listings · 10 older advertised periods · 37 employers with roles**
+**345 current or undated listings · 10 older advertised periods · 37 employers with roles**
 
-Last collection: **03 Nov 2026, 15:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **03 Nov 2026, 15:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -349,7 +349,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Frontend Development Software Engineer Intern (BytePlus) - 2027 Start | [Apply](<https://joinbytedance.com/search/7668280355758147893>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Datacenter Operations Engineer (DCO-SG) Intern (Infrastructure Engineering) - 2027 Start | [Apply](<https://joinbytedance.com/search/7667826799736703237>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Data Science Intern (Global Payment) - 2027 Start | [Apply](<https://joinbytedance.com/search/7668305691418315061>) | 2027 Start | - | 24 Sep 2026 |
-| ↳ | Data Operations Project Intern (AI Data &amp; Safety) - 2026 Start (BS/MS) | [Apply](<https://joinbytedance.com/search/7631435814623807749>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | Data AI Engineer Intern (Global Payment) - 2027 Start | [Apply](<https://joinbytedance.com/search/7668304154059606277>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Cloud Site Relibility Engineer Intern (DCS), 2027 Start | [Apply](<https://joinbytedance.com/search/7670461077579548981>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Big Data Engineer Intern (Data Management Suite, Data Integration) - 2027 Start | [Apply](<https://joinbytedance.com/search/7665278719988533557>) | 2027 Start | - | 24 Sep 2026 |
@@ -394,6 +393,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| ByteDance | Data Operations Project Intern (AI Data &amp; Safety) - 2026 Start (BS/MS) | 03 Nov 2026 | - |
 | Temasek | Strategy and Programme Management Intern, Cybersecurity, Centre of Excellence (Jan - Jun 2027) | 03 Nov 2026 | - |
 | ↳ | AI/Machine Learning Intern, Technology (Jan - June 2027) | 03 Nov 2026 | - |
 | ↳ | Data Engineer Intern, Technology (Jan - Jun 2027) | 03 Nov 2026 | - |
@@ -498,7 +498,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 0 |
 | workday:amat | Complete | 8 |
-| workday:globalfoundries | Complete | 9 |
+| workday:globalfoundries | ⚠️ Incomplete — previous listings retained | 9 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 10 |
 | workday:nvidia | Complete | 0 |

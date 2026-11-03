@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**345 current or undated listings · 10 older advertised periods · 37 employers with roles**
+**346 current or undated listings · 10 older advertised periods · 37 employers with roles**
 
-Last collection: **03 Nov 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **03 Nov 2026, 17:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -309,6 +309,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | AI Feature/Computing/Storage Engineer Intern (TikTok Recommendation Ecosystem) - 2027 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7667928179986827573>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Feature/Computing/Storage Engineer Intern (TikTok Recommendation Ecosystem) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7667920029161654581>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Data Project Management Project Intern (Safety Model Operations) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7511659934863640839>) | 2027 Start | - | 24 Sep 2026 |
+| ↳ | AI Data Project Management - Project Intern (TikTok AI Data Service and Operations) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7638511888540600581>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Data Project Intern (Eco &amp; Social Creation) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7682638844458240309>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Data Project Intern (AI Data Service and Operations - Eco &amp; Social Creation) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7651452649767930117>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | AI Automation Project Intern (TnS-OPS-Automation &amp; Business Insights) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7664538232974559493>) | 2026 Start | - | 24 Sep 2026 |
@@ -476,7 +477,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | Intern, Software Development Engineer \[PSET - Product Data - Document Management\] | 21 Oct 2026 | - |
 | ↳ | Intern, Software Development Engineer \[PSET-Access-ENG\] | 21 Oct 2026 | - |
 | Shopee | Projects - Data Intern, SBS (Spring 2027) | 20 Oct 2026 | - |
-| Razer | Large Language Model Intern | 20 Oct 2026 | - |
 
 </details>
 
@@ -489,13 +489,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:shopback-2 | Complete | 4 |
 | greenhouse:temus | Complete | 0 |
 | greenhouse:drweng | Complete | 1 |
-| bytedance:tiktok | Complete | 134 |
+| bytedance:tiktok | Complete | 135 |
 | bytedance:bytedance | Complete | 34 |
 | shopee:shopee | Complete | 30 |
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | Complete | 11 |
+| workday:ocbc | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:uobgroup | Complete | 0 |
 | workday:amat | Complete | 8 |
 | workday:globalfoundries | Complete | 9 |
@@ -618,7 +618,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:ripple | Complete | 0 |
 | workday:roche | Complete | 0 |
 | workday:spgi | Complete | 0 |
-| workday:salesforce | Complete | 0 |
+| workday:salesforce | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 0 |
 | greenhouse:sentinellabs | Complete | 0 |

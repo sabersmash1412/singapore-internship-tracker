@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**344 current or undated listings · 10 older advertised periods · 37 employers with roles**
+**343 current or undated listings · 10 older advertised periods · 36 employers with roles**
 
-Last collection: **04 Nov 2026, 00:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **04 Nov 2026, 00:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -153,7 +153,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | \[Uni - Jan till Jun 2027\] AI Presales &amp; Solution Engineering Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287889>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] AI Engineer Intern (Middleware) | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001288481>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] AI Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287239>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
-| NAC National Arts Council | Intern, Data &amp; Research (Data) - 6 Months Contract | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Singapore/Intern--Data---Research--Data----6-Months-Contract_JR-10000055833>) | - | 22 Oct 2026 | 24 Sep 2026 |
 | Jump Trading | Campus Systems Engineer (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027952>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | ↳ | Campus Quantitative Trader (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027941>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | ↳ | Campus Quantitative Researcher (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027939>) | - | 03 Aug 2026 | 24 Sep 2026 |
@@ -392,6 +391,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| NAC National Arts Council | Intern, Data &amp; Research (Data) - 6 Months Contract | 04 Nov 2026 | - |
 | Amazon | Program Manager Intern, APAC Data Center Delivery Operations | 03 Nov 2026 | - |
 | ShopBack | Operations Automation Engineer Intern | 03 Nov 2026 | - |
 | ByteDance | Data Operations Project Intern (AI Data &amp; Safety) - 2026 Start (BS/MS) | 03 Nov 2026 | - |
@@ -548,7 +548,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | Complete | 0 |
+| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |
@@ -633,7 +633,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
-| successfactors:singtel | ⚠️ Incomplete — previous listings retained | 3 |
+| successfactors:singtel | Complete | 4 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:temasek | Complete | 8 |
 

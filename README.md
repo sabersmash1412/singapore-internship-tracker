@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**344 current or undated listings · 10 older advertised periods · 36 employers with roles**
+**345 current or undated listings · 10 older advertised periods · 36 employers with roles**
 
-Last collection: **04 Nov 2026, 15:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **04 Nov 2026, 16:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -166,6 +166,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Intern - Facilities Sustainability AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586>) | January to May 2027 | 23 Oct 2026 | 24 Sep 2026 |
 | ↳ | Intern - F10 CVD PEE | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-CVD-PEE_JR97726>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | Apple | Information Security Internship Program (FY27 Summer Intake) | [Apply](<https://jobs.apple.com/en-us/details/200684585-3278/information-security-internship-program-fy27-summer-intake>) | - | 18 Sep 2026 | 24 Sep 2026 |
+| ↳ | 2027 Apple Internship - Information Systems and Technology | [Apply](<https://jobs.apple.com/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology>) | - | 04 Nov 2026 | 24 Sep 2026 |
 | Amazon | Software Developer Intern, Field Innovation, Security Search and Observability (SSO) | [Apply](<https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso>) | Jan 2027 - June 2027 | 16 Sep 2026 | 24 Sep 2026 |
 | AMD | 2027 Term 1 Internship – Next-Gen Server Test &amp; Qualification | [Apply](<https://careers.amd.com/students/jobs/76898>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
 | ↳ | 2027 Term 1 Internship – IC Design Exploration Intern | [Apply](<https://careers.amd.com/students/jobs/76892>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
@@ -430,7 +431,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | UOB | Sustainability Reporting &amp; Data Analytics Intern (Jan - Jun 2027) | 27 Oct 2026 | - |
 | Workato | Intern, Data Engineering | 27 Oct 2026 | - |
 | UOB | GenAI and Data Analytics Intern (Jan - July 2027) | 27 Oct 2026 | - |
-| Apple | 2027 Apple Internship - Information Systems and Technology | 27 Oct 2026 | - |
 | Grab | Intern, Fleet Systems Analyst | 26 Oct 2026 | - |
 | Shopee | Algorithm Engineer Intern (Fall 2026) | 26 Oct 2026 | - |
 | ↳ | Backend Engineer Intern (Fall 2026) | 26 Oct 2026 | - |
@@ -478,7 +478,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | Complete | 11 |
+| workday:ocbc | ⚠️ Incomplete — previous listings retained | 11 |
 | workday:uobgroup | Complete | 0 |
 | workday:amat | Complete | 8 |
 | workday:globalfoundries | Complete | 9 |
@@ -487,7 +487,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | Complete | 3 |
+| apple:apple | Complete | 4 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 0 |
 | ashby:bifrost | Complete | 0 |
@@ -619,7 +619,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 4 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 2 |
+| successfactors:temasek | Complete | 8 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

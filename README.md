@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **345 current or undated listings · 10 older advertised periods · 36 employers with roles**
 
-Last collection: **04 Nov 2026, 18:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **04 Nov 2026, 18:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -22,8 +22,8 @@ These roles remain listed in employer sources; confirm application availability 
 | --- | --- | --- | --- | --- | --- |
 | TikTok | 🆕 Business Analytics &amp; Strategy Project Intern (GBS) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7704139558493718837>) | 2026 Start | - | 04 Nov 2026 |
 | Singtel | 🆕 Mechanical Engineer Intern (Data Centre) | [Apply](<https://groupcareers.singtel.com/job/Mechanical-Engineer-Intern-%28Data-Centre%29-Nxer/1369792666/>) | - | 02 Nov 2026 | 03 Nov 2026 |
-| ↳ | 🆕 AI Product Manager &amp; Builder Intern | [Apply](<https://groupcareers.singtel.com/job/AI-Product-Manager-&-Builder-Intern-Sing/1369793766/>) | - | 02 Nov 2026 | 02 Nov 2026 |
-| ↳ | 🆕 AI Product Enablement and Operations Intern | [Apply](<https://groupcareers.singtel.com/job/AI-Product-Enablement-and-Operations-Intern-Sing/1369793866/>) | - | 02 Nov 2026 | 02 Nov 2026 |
+| ↳ | AI Product Manager &amp; Builder Intern | [Apply](<https://groupcareers.singtel.com/job/AI-Product-Manager-&-Builder-Intern-Sing/1369793766/>) | - | 02 Nov 2026 | 02 Nov 2026 |
+| ↳ | AI Product Enablement and Operations Intern | [Apply](<https://groupcareers.singtel.com/job/AI-Product-Enablement-and-Operations-Intern-Sing/1369793866/>) | - | 02 Nov 2026 | 02 Nov 2026 |
 | Apple | Finance Data Analyst Intern (6-month Full-time) | [Apply](<https://jobs.apple.com/en-us/details/200692415-3278/finance-data-analyst-intern-6-month-full-time>) | February 2027 Start | 02 Nov 2026 | 02 Nov 2026 |
 | HP | College Intern – NPI Writing System Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---NPI-Writing-System-Engineer_UNI4588-1>) | May 2027 Start | 01 Nov 2026 | 01 Nov 2026 |
 | ↳ | College Intern - Data Analytics in Supply Chain | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-in-Supply-Chain_UNI4031-1>) | May 2027 Start | 01 Nov 2026 | 01 Nov 2026 |
@@ -523,7 +523,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 1 |
+| workday:sggovterp | Complete | 1 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |

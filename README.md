@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**345 current or undated listings · 10 older advertised periods · 36 employers with roles**
+**344 current or undated listings · 10 older advertised periods · 36 employers with roles**
 
-Last collection: **05 Nov 2026, 02:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **05 Nov 2026, 02:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -262,7 +262,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Data Warehouse Engineer Intern (Data Platform, Global E-Commerce) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7664886612064536837>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Data Solutions Project Intern (Data Cycling Center) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7519721555447892232>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | Data Scientist Project Intern (Data Acquisition) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7577613936331032837>) | 2026 Start | - | 24 Sep 2026 |
-| ↳ | Data Science Intern (TikTok LIVE) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7670829441360906501>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Data Science Intern (TikTok Integrity and Safety) - 2027 start | [Apply](<https://lifeattiktok.com/search/7670844011885299973>) | 2027 start | - | 24 Sep 2026 |
 | ↳ | Data Operations - AI Data Operations Project Intern (PGC &amp; Emerging Products) - 2026 Start (BS/MS） | [Apply](<https://lifeattiktok.com/search/7660430492630616373>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | Data Infrastructure &amp; Analysis Project Intern (Evaluation and Investigation) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7685327112618477829>) | 2027 Start | - | 24 Sep 2026 |
@@ -393,6 +392,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| TikTok | Data Science Intern (TikTok LIVE) - 2027 Start | 05 Nov 2026 | - |
 | NAC National Arts Council | Intern, Data &amp; Research (Data) - 6 Months Contract | 04 Nov 2026 | - |
 | Amazon | Program Manager Intern, APAC Data Center Delivery Operations | 03 Nov 2026 | - |
 | ShopBack | Operations Automation Engineer Intern | 03 Nov 2026 | - |
@@ -475,7 +475,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | shopee:shopee | Complete | 30 |
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
-| workday:dbs | Complete | 1 |
+| workday:dbs | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 0 |
 | workday:amat | Complete | 8 |

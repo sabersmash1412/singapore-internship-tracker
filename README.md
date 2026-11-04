@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **344 current or undated listings · 10 older advertised periods · 36 employers with roles**
 
-Last collection: **04 Nov 2026, 13:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **04 Nov 2026, 13:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -461,8 +461,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | Bosch | Intern, Sales Excellence Data Analyst | 21 Oct 2026 | - |
 | Shopee | Business Intelligence (BI) Intern – Cross Border E-commerce (Summer 2026) | 21 Oct 2026 | - |
 | ↳ | Regional Large Language Model (LLM) Agent &amp; Prompt Engineering Intern (Spring 2027) | 21 Oct 2026 | - |
-| Applied Materials | Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship) | 21 Oct 2026 | - |
-| GlobalFoundries | Automation &amp; AI Engineer Intern, Quality (Jan-Jun 2027) | 21 Oct 2026 | - |
 
 </details>
 

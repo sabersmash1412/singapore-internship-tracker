@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **344 current or undated listings · 10 older advertised periods · 36 employers with roles**
 
-Last collection: **04 Nov 2026, 12:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **04 Nov 2026, 13:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -463,8 +463,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | Regional Large Language Model (LLM) Agent &amp; Prompt Engineering Intern (Spring 2027) | 21 Oct 2026 | - |
 | Applied Materials | Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship) | 21 Oct 2026 | - |
 | GlobalFoundries | Automation &amp; AI Engineer Intern, Quality (Jan-Jun 2027) | 21 Oct 2026 | - |
-| Shopee | Data Analytics Intern - Brand Analytics, Regional Brand Partnerships (Fall 2026) | 21 Oct 2026 | - |
-| Temus | AI/Data Intern (May - Dec 2026) | 21 Oct 2026 | - |
 
 </details>
 
@@ -482,10 +480,10 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | shopee:shopee | Complete | 30 |
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
-| workday:dbs | Complete | 1 |
+| workday:dbs | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:ocbc | Complete | 11 |
 | workday:uobgroup | Complete | 0 |
-| workday:amat | Complete | 8 |
+| workday:amat | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
 | workday:micron | Complete | 10 |
@@ -549,7 +547,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:broadcom | Complete | 0 |
 | workday:carrier | Complete | 0 |
 | ashby:chalk | Complete | 0 |
-| workday:citi | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:citi | Complete | 0 |
 | smartrecruiters:CliffordChance | Complete | 0 |
 | greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |

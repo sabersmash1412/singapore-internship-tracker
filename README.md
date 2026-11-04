@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **343 current or undated listings · 10 older advertised periods · 36 employers with roles**
 
-Last collection: **04 Nov 2026, 10:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **04 Nov 2026, 10:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -104,7 +104,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Micron | Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111156>) | Jan to May 2027 | 23 Oct 2026 | 29 Sep 2026 |
 | ByteDance | Security Analyst Project Intern (Global Corporate Security Operations Center) - 2027 Start | [Apply](<https://joinbytedance.com/search/7690422566842386693>) | 2027 Start | - | 29 Sep 2026 |
 | Temasek | RPA &amp; GenAI Automation Intern, Operations (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/RPA-&-GenAI-Automation-Intern%2C-Operations-%28Jan-Jun-2027%29-238891/1369197757/>) | Jan - Jun 2027 | 08 Oct 2026 | 28 Sep 2026 |
-| ↳ | Quantitative Research Intern, Quantitative Strategy (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Quantitative-Research-Intern%2C-Quantitative-Strategy-%28Jan-Jun-2027%29-238891/1368996757/>) | Jan - Jun 2027 | 06 Oct 2026 | 28 Sep 2026 |
+| ↳ | Quantitative Research Intern, Quantitative Strategy (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Quantitative-Research-Intern%2C-Quantitative-Strategy-%28Jan-Jun-2027%29-238891/1368996757/>) | Jan - Jun 2027 | 04 Nov 2026 | 28 Sep 2026 |
 | ↳ | Data Analytics/Science Intern, People Technology (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Data-AnalyticsScience-Intern%2C-People-Technology-%28Jan-Jun-2027%29-238891/1369202457/>) | Jan - Jun 2027 | 08 Oct 2026 | 28 Sep 2026 |
 | ↳ | Data &amp; Finance Intern, Finance (Governance &amp; Technology) - Jan - Jun 2027 | [Apply](<https://jobs.temasek.com.sg/job/Data-&-Finance-Intern%2C-Finance-%28Governance-&-Technology%29-Jan-Jun-2027-238891/1369148557/>) | Jan - Jun 2027 | 08 Oct 2026 | 28 Sep 2026 |
 | ↳ | Cybersecurity Intern, Cybersecurity (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Cybersecurity-Intern%2C-Cybersecurity-%28Jan-Jun-2027%29-238891/1368748057/>) | Jan - Jun 2027 | 01 Nov 2026 | 28 Sep 2026 |
@@ -577,7 +577,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
-| workday:jll | Complete | 0 |
+| workday:jll | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:jci | Complete | 4 |
 | workday:kla | Complete | 0 |
 | ashby:langchain | Complete | 0 |
@@ -623,7 +623,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 4 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 1 |
+| successfactors:temasek | Complete | 8 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

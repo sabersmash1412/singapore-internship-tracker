@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **345 current or undated listings · 10 older advertised periods · 36 employers with roles**
 
-Last collection: **04 Nov 2026, 21:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **04 Nov 2026, 22:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -458,7 +458,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | Data Analyst Intern - Customer Service, Regional Operations (Spring 2027) | 22 Oct 2026 | - |
 | Applied Materials | College Intern - Process &amp; hardware development in PVD chambers for emerging films in micro-OLED and Integrated voltage regulator for AI chips | 22 Oct 2026 | - |
 | Thales | Software Development and Integration Engineer (Intern) | 22 Oct 2026 | - |
-| Bosch | Intern, Sales Excellence Data Analyst | 21 Oct 2026 | - |
 
 </details>
 
@@ -531,7 +530,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | Complete | 0 |
+| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |

@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**344 current or undated listings · 10 older advertised periods · 36 employers with roles**
+**345 current or undated listings · 10 older advertised periods · 36 employers with roles**
 
-Last collection: **05 Nov 2026, 09:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **05 Nov 2026, 10:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,8 +20,9 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| OCBC | 🆕 Internship: Group Risk Management, Group Non-Financial Risk Management, ORM Central Programme &amp; Systems Management \[Dec26 to May27\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Risk-Management--Group-Non-Financial-Risk-Management--ORM-Central-Programme---Systems-Management--Dec26-to-May27-_JR00012382>) | - | 05 Nov 2026 | 05 Nov 2026 |
 | TikTok | 🆕 Business Analytics &amp; Strategy Project Intern (GBS) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7704139558493718837>) | 2026 Start | - | 04 Nov 2026 |
-| Singtel | 🆕 Mechanical Engineer Intern (Data Centre) | [Apply](<https://groupcareers.singtel.com/job/Mechanical-Engineer-Intern-%28Data-Centre%29-Nxer/1369792666/>) | - | 02 Nov 2026 | 03 Nov 2026 |
+| Singtel | Mechanical Engineer Intern (Data Centre) | [Apply](<https://groupcareers.singtel.com/job/Mechanical-Engineer-Intern-%28Data-Centre%29-Nxer/1369792666/>) | - | 02 Nov 2026 | 03 Nov 2026 |
 | ↳ | AI Product Manager &amp; Builder Intern | [Apply](<https://groupcareers.singtel.com/job/AI-Product-Manager-&-Builder-Intern-Sing/1369793766/>) | - | 02 Nov 2026 | 02 Nov 2026 |
 | ↳ | AI Product Enablement and Operations Intern | [Apply](<https://groupcareers.singtel.com/job/AI-Product-Enablement-and-Operations-Intern-Sing/1369793866/>) | - | 02 Nov 2026 | 02 Nov 2026 |
 | Apple | Finance Data Analyst Intern (6-month Full-time) | [Apply](<https://jobs.apple.com/en-us/details/200692415-3278/finance-data-analyst-intern-6-month-full-time>) | February 2027 Start | 02 Nov 2026 | 02 Nov 2026 |
@@ -476,8 +477,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | Complete | 11 |
-| workday:uobgroup | Complete | 0 |
+| workday:ocbc | Complete | 12 |
+| workday:uobgroup | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:amat | Complete | 8 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
@@ -485,13 +486,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
-| apple:apple | ⚠️ Incomplete — previous listings retained | 0 |
+| apple:apple | Complete | 4 |
 | greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 0 |
 | ashby:bifrost | Complete | 0 |
 | lever:binance | Complete | 0 |
 | greenhouse:bitgo | Complete | 0 |
-| smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:BoschGroup | Complete | 3 |
 | ashby:cantina | Complete | 0 |
 | smartrecruiters:CarousellGroup | Complete | 0 |
 | ashby:clickhouse | Complete | 0 |
@@ -530,7 +531,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:AccorHotel | Complete | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |
@@ -587,7 +588,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:MUFGInvestorServices | Complete | 0 |
 | greenhouse:newrelic | Complete | 0 |
 | smartrecruiters:NielsenIQ | Complete | 0 |
-| workday:paypal | Complete | 0 |
+| workday:paypal | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |
 | workable:porsche-asia-pacific | Complete | 1 |
@@ -617,7 +618,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 4 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 8 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 2 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

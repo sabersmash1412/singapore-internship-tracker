@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**346 current or undated listings · 10 older advertised periods · 37 employers with roles**
+**347 current or undated listings · 10 older advertised periods · 37 employers with roles**
 
-Last collection: **05 Nov 2026, 10:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **05 Nov 2026, 11:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -77,7 +77,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Amazon | Data Center Infrastructure Engineering Intern, Colocation Regional Engineering | [Apply](<https://www.amazon.jobs/en/jobs/10507775/data-center-infrastructure-engineering-intern-colocation-regional-engineering>) | Jan 2027 – June 2027 | 06 Oct 2026 | 17 Oct 2026 |
 | ↳ | Commissioning Program Analyst Intern, Data Center Capacity Delivery APJC | [Apply](<https://www.amazon.jobs/en/jobs/10563228/commissioning-program-analyst-intern-data-center-capacity-delivery-apjc>) | Jan 2027 – June 2027 | 13 Oct 2026 | 16 Oct 2026 |
 | Grab | Intern, Software Engineer | [Apply](<https://jobs.smartrecruiters.com/Grab/744000155926216>) | - | 16 Oct 2026 | 16 Oct 2026 |
-| DBS | 2027 DBS Internship (Technology and AI &amp; Data Science) | [Apply](<https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME-2027-DBS-Internship--Technology-and-AI---Data-Science-_WD89681>) | - | 26 Oct 2026 | 16 Oct 2026 |
+| DBS | 2027 DBS Internship (Technology and AI &amp; Data Science) | [Apply](<https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME-2027-DBS-Internship--Technology-and-AI---Data-Science-_WD89681>) | - | 05 Nov 2026 | 16 Oct 2026 |
 | Thales | HR Automation Intern (Jan 2027 intake) | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/HR-Automation-Intern_R0344795>) | Jan 2027 intake | 19 Oct 2026 | 16 Oct 2026 |
 | Micron | Intern - PEE CVD | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CVD_JR112661>) | - | 23 Oct 2026 | 15 Oct 2026 |
 | Shopee | Data Analyst Intern - Business Intelligence, Regional Logistics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02200192/1>) | Spring 2027 | - | 15 Oct 2026 |
@@ -165,6 +165,7 @@ These roles remain listed in employer sources; confirm application availability 
 | TikTok | Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start | [Apply](<https://lifeattiktok.com/search/7669738564847110453>) | 2027 Start | - | 24 Sep 2026 |
 | Micron | Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111158>) | - | 23 Oct 2026 | 24 Sep 2026 |
 | ↳ | Intern - MSB Automation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---MSB-Automation-Engineer_JR112720>) | - | 23 Oct 2026 | 24 Sep 2026 |
+| ↳ | Intern - Probe Automation | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Probe-Automation_JR112385>) | - | 05 Nov 2026 | 24 Sep 2026 |
 | ↳ | Intern - Facilities Sustainability AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586>) | January to May 2027 | 23 Oct 2026 | 24 Sep 2026 |
 | ↳ | Intern - F10 CVD PEE | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-CVD-PEE_JR97726>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | Apple | Information Security Internship Program (FY27 Summer Intake) | [Apply](<https://jobs.apple.com/en-us/details/200684585-3278/information-security-internship-program-fy27-summer-intake>) | - | 18 Sep 2026 | 24 Sep 2026 |
@@ -416,7 +417,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | Intern, Facilities AI Engineering | 30 Oct 2026 | - |
 | ↳ | Intern - STPG PE Firmware | 30 Oct 2026 | - |
 | ↳ | Intern - Product Engineering, NAND Validation/Characterization | 30 Oct 2026 | - |
-| ↳ | Intern - Probe Automation | 30 Oct 2026 | - |
 | ↳ | Intern - PIE PI (Product Integration Engineering, Process Integration) | 30 Oct 2026 | - |
 | ↳ | Intern - PEE CVD/PVD | 30 Oct 2026 | - |
 | ↳ | Intern - NAND Product Engineering - Probe AI/ML | 30 Oct 2026 | - |
@@ -471,18 +471,18 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:shopback-2 | Complete | 3 |
 | greenhouse:temus | Complete | 0 |
 | greenhouse:drweng | Complete | 1 |
-| bytedance:tiktok | Complete | 135 |
+| bytedance:tiktok | Complete | 134 |
 | bytedance:bytedance | Complete | 34 |
 | shopee:shopee | Complete | 30 |
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 12 |
-| workday:uobgroup | ⚠️ Incomplete — previous listings retained | 1 |
+| workday:uobgroup | Complete | 1 |
 | workday:amat | Complete | 8 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
-| workday:micron | Complete | 10 |
+| workday:micron | Complete | 11 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |

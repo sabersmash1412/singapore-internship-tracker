@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**347 current or undated listings · 10 older advertised periods · 37 employers with roles**
+**346 current or undated listings · 10 older advertised periods · 37 employers with roles**
 
-Last collection: **05 Nov 2026, 11:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **05 Nov 2026, 11:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -234,7 +234,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Machine Learning Engineer Project Intern（TikTok Search）- 2026 Start（BS/MS） | [Apply](<https://lifeattiktok.com/search/7613301688317315381>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | Machine Learning Engineer Project Intern (MultiModal ML Direction) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7595882041935055157>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | Machine Learning Engineer Intern (Trust &amp; Safety) - 2026 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7533150108277623048>) | 2026 Start | - | 24 Sep 2026 |
-| ↳ | Machine Learning Engineer Intern (TikTok Shop Global E-Commerce, Risk Control) - 2026 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7540212286516283655>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | Machine Learning Engineer Intern (TikTok Shop - SEA) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7668565665540917557>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Machine Learning Engineer Intern (TikTok Search) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7667906209610139957>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Machine Learning Engineer Intern (TikTok BRIC Account Security) - 2027 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7662623341929630005>) | 2027 Start | - | 24 Sep 2026 |
@@ -395,7 +394,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
-| TikTok | Data Science Intern (TikTok LIVE) - 2027 Start | 05 Nov 2026 | - |
+| TikTok | Machine Learning Engineer Intern (TikTok Shop Global E-Commerce, Risk Control) - 2026 Start (PhD) | 05 Nov 2026 | - |
+| ↳ | Data Science Intern (TikTok LIVE) - 2027 Start | 05 Nov 2026 | - |
 | NAC National Arts Council | Intern, Data &amp; Research (Data) - 6 Months Contract | 04 Nov 2026 | - |
 | Amazon | Program Manager Intern, APAC Data Center Delivery Operations | 03 Nov 2026 | - |
 | ShopBack | Operations Automation Engineer Intern | 03 Nov 2026 | - |

@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**345 current or undated listings · 10 older advertised periods · 36 employers with roles**
+**346 current or undated listings · 10 older advertised periods · 37 employers with roles**
 
-Last collection: **05 Nov 2026, 10:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **05 Nov 2026, 10:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| UOB | 🆕 Equity Derivatives Trading Intern (Jan - June 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/Equity-Derivatives-Trading-Intern--Jan---June-2027-_JR99148>) | Jan - June 2027 | 05 Nov 2026 | 05 Nov 2026 |
 | OCBC | 🆕 Internship: Group Risk Management, Group Non-Financial Risk Management, ORM Central Programme &amp; Systems Management \[Dec26 to May27\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Risk-Management--Group-Non-Financial-Risk-Management--ORM-Central-Programme---Systems-Management--Dec26-to-May27-_JR00012382>) | - | 05 Nov 2026 | 05 Nov 2026 |
 | TikTok | 🆕 Business Analytics &amp; Strategy Project Intern (GBS) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7704139558493718837>) | 2026 Start | - | 04 Nov 2026 |
 | Singtel | Mechanical Engineer Intern (Data Centre) | [Apply](<https://groupcareers.singtel.com/job/Mechanical-Engineer-Intern-%28Data-Centre%29-Nxer/1369792666/>) | - | 02 Nov 2026 | 03 Nov 2026 |
@@ -458,7 +459,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | Data Analyst Intern - Customer Service Chatbot, Regional Operations (Spring 2027) | 22 Oct 2026 | - |
 | ↳ | Data Analyst Intern - Customer Service, Regional Operations (Spring 2027) | 22 Oct 2026 | - |
 | Applied Materials | College Intern - Process &amp; hardware development in PVD chambers for emerging films in micro-OLED and Integrated voltage regulator for AI chips | 22 Oct 2026 | - |
-| Thales | Software Development and Integration Engineer (Intern) | 22 Oct 2026 | - |
 
 </details>
 
@@ -478,7 +478,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 12 |
-| workday:uobgroup | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:uobgroup | ⚠️ Incomplete — previous listings retained | 1 |
 | workday:amat | Complete | 8 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | Complete | 0 |
@@ -588,7 +588,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:MUFGInvestorServices | Complete | 0 |
 | greenhouse:newrelic | Complete | 0 |
 | smartrecruiters:NielsenIQ | Complete | 0 |
-| workday:paypal | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:paypal | Complete | 0 |
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |
 | workable:porsche-asia-pacific | Complete | 1 |
@@ -618,7 +618,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 4 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 2 |
+| successfactors:temasek | Complete | 8 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

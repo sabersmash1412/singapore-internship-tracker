@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **346 current or undated listings · 10 older advertised periods · 37 employers with roles**
 
-Last collection: **05 Nov 2026, 12:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **05 Nov 2026, 12:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -458,7 +458,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ↳ | Data Analyst Intern - Product Analysis, Regional Operations (Spring 2027) | 22 Oct 2026 | - |
 | ↳ | Data Analyst Intern - Customer Service Chatbot, Regional Operations (Spring 2027) | 22 Oct 2026 | - |
 | ↳ | Data Analyst Intern - Customer Service, Regional Operations (Spring 2027) | 22 Oct 2026 | - |
-| Applied Materials | College Intern - Process &amp; hardware development in PVD chambers for emerging films in micro-OLED and Integrated voltage regulator for AI chips | 22 Oct 2026 | - |
 
 </details>
 
@@ -477,7 +476,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | ⚠️ Incomplete — previous listings retained | 9 |
+| workday:ocbc | Complete | 12 |
 | workday:uobgroup | Complete | 1 |
 | workday:amat | ⚠️ Incomplete — previous listings retained | 8 |
 | workday:globalfoundries | Complete | 9 |

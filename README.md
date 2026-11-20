@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**345 current or undated listings · 10 older advertised periods · 43 employers with roles**
+**347 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **20 Nov 2026, 09:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **20 Nov 2026, 10:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,7 +20,11 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| Razer | 🆕 Product Marketing Intern (AI Wearables) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Marketing-Intern--AI-Wearables-_JR2026008073>) | Jan 2027 - Jun 2027 | 20 Nov 2026 | 20 Nov 2026 |
+| Razer | 🆕 PQ Automation Intern (Keyboards &amp; Mice) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/PQ-Automation-Intern--Keyboards---Mice-_JR2026008056>) | - | 20 Nov 2026 | 20 Nov 2026 |
+| ↳ | 🆕 PQ Automation Intern (Audio &amp; Others) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/PQ-Automation-Intern--Audio---Others-_JR2026008054>) | - | 20 Nov 2026 | 20 Nov 2026 |
+| ↳ | 🆕 Manual Software Testing Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Manual-Software-Testing-Intern_JR2026008126>) | - | 20 Nov 2026 | 20 Nov 2026 |
+| ↳ | 🆕 Manual Software Testing Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Manual-Software-Testing-Intern_JR2026008108>) | - | 20 Nov 2026 | 20 Nov 2026 |
+| ↳ | 🆕 Product Marketing Intern (AI Wearables) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Marketing-Intern--AI-Wearables-_JR2026008073>) | Jan 2027 - Jun 2027 | 20 Nov 2026 | 20 Nov 2026 |
 | Bosch | 🆕 Intern, AIot Software Developer | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000159821219>) | - | 05 Nov 2026 | 20 Nov 2026 |
 | UOB | 🆕 AI Automation Intern (Dec to June 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/AI-Automation-Intern--Dec-to-June-2027-_JR100964>) | Dec to June 2027 | 11 Nov 2026 | 20 Nov 2026 |
 | TikTok | 🆕 Service Operations and AI Project Intern (TikTok Shop) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7657369607011387701>) | 2027 Start | - | 20 Nov 2026 |
@@ -66,7 +70,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | College Intern - Data Science | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Science_UNI4644-2>) | May 2027 Start | 29 Oct 2026 | 30 Oct 2026 |
 | Shopee | Backend Engineer Intern, Data Infrastructure - OLAP (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206923/1>) | Spring 2027 | - | 29 Oct 2026 |
 | TikTok | Machine Learning Engineer Project Intern (Recommendation) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7686439502455212293>) | 2027 Start | - | 29 Oct 2026 |
-| Bosch | Intern, Software Development | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000158429749>) | - | 29 Oct 2026 | 29 Oct 2026 |
 | Amazon | HW Commodity Specialist Intern, Data Center Sourcing and Procurement | [Apply](<https://www.amazon.jobs/en/jobs/10591956/hw-commodity-specialist-intern-data-center-sourcing-and-procurement>) | Jan 2027 - June 2027 | 29 Oct 2026 | 29 Oct 2026 |
 | Funding Societies &#124; Modalku Group | Finance Intern (Finance &amp; Automation) | [Apply](<https://apply.workable.com/j/F014CE7ACA>) | - | 28 Oct 2026 | 28 Oct 2026 |
 | Bosch | Intern, HVAC AI Research | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000158270689>) | - | 28 Oct 2026 | 28 Oct 2026 |
@@ -113,7 +116,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Applied Materials | College intern - Process development in degas, preclean, PVD chambers for RLD/Bump application | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-intern---Process-development-in-degas--preclean--PVD-chambers-for-RLD-Bump-application_R2630102>) | - | 13 Oct 2026 | 13 Oct 2026 |
 | Razer | Data Science Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Science-Intern_JR2026007795>) | - | 09 Oct 2026 | 09 Oct 2026 |
 | Marvell | Quality Systems Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Quality-Systems-Intern---Bachelor-s-Degree_2603821>) | - | 09 Oct 2026 | 09 Oct 2026 |
-| Bosch | Intern, Data Analyst | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000154012744>) | - | 07 Oct 2026 | 07 Oct 2026 |
 | Applied Materials | Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Technology-Development-Engineer---Hybrid-Bonding---Advanced-Packaging--Internship-_R2626900>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | TikTok | AI Agent Project Intern (Open Platform) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7691567961421728053>) | 2026 Start | - | 01 Oct 2026 |
 | Sea | Product Engineer Intern - Backend Focused | [Apply](<https://career.sea.com/position/J02195534>) | Jan 2027 Start | - | 01 Oct 2026 |
@@ -393,6 +395,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Bosch | Intern, Software Development | 20 Nov 2026 | - |
+| ↳ | Intern, Data Analyst | 20 Nov 2026 | - |
 | UOB | Equity Derivatives Trading Intern (Jan - June 2027) | 20 Nov 2026 | - |
 | Thales | Software Engineer Intern (Python) | 20 Nov 2026 | - |
 | ↳ | HR Automation Intern (Jan 2027 intake) | 20 Nov 2026 | - |
@@ -568,7 +572,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:porsche-asia-pacific | Complete | 1 |
 | workable:qcp-group | Complete | 4 |
 | greenhouse:qualtrics | Complete | 0 |
-| workday:razer | Complete | 3 |
+| workday:razer | Complete | 7 |
 | greenhouse:relex | Complete | 0 |
 | ashby:replit | Complete | 0 |
 | greenhouse:ripple | Complete | 0 |

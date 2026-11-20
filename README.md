@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**345 current or undated listings · 10 older advertised periods · 42 employers with roles**
+**352 current or undated listings · 10 older advertised periods · 44 employers with roles**
 
-Last collection: **20 Nov 2026, 17:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **20 Nov 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,9 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Hitachi | 🆕 Software Engineer Intern (Simulation &amp; Validator Systems) | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Software-Engineer-Intern--Simulation---Validator-Systems-_R0151696>) | - | 20 Nov 2026 | 20 Nov 2026 |
+| ↳ | 🆕 Software Engineer Intern (Cross Project Tools) | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Software-Engineer-Intern--Cross-Project-Tools-_R0151687>) | - | 20 Nov 2026 | 20 Nov 2026 |
+| ↳ | 🆕 Generative AI Intern | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Generative-AI-Intern_R0151693-1>) | - | 20 Nov 2026 | 20 Nov 2026 |
 | Sea | 🆕 Intern, Data Analyst | [Apply](<https://career.sea.com/position/J02215049>) | - | - | 20 Nov 2026 |
 | NCS | 🆕 \[Poly - Mar till Aug 2027\] Procurement Data Governance Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001594605>) | Mar till Aug 2027 | 20 Nov 2026 | 20 Nov 2026 |
 | Razer | 🆕 PQ Automation Intern (Keyboards &amp; Mice) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/PQ-Automation-Intern--Keyboards---Mice-_JR2026008056>) | - | 20 Nov 2026 | 20 Nov 2026 |
@@ -58,6 +61,9 @@ These roles remain listed in employer sources; confirm application availability 
 | Applied Materials | 🆕 College Intern - Process development in PVD Ventura chambers for TSV application | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-development-in-PVD-Ventura-chambers-for-TSV-application_R2630106>) | - | 18 Nov 2026 | 20 Nov 2026 |
 | OCBC | Internship: Group Risk Management, Group Non-Financial Risk Management, ORM Central Programme &amp; Systems Management \[Dec26 to May27\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Risk-Management--Group-Non-Financial-Risk-Management--ORM-Central-Programme---Systems-Management--Dec26-to-May27-_JR00012382>) | - | 05 Nov 2026 | 05 Nov 2026 |
 | TikTok | Business Analytics &amp; Strategy Project Intern (GBS) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7704139558493718837>) | 2026 Start | - | 04 Nov 2026 |
+| Singtel | Mechanical Engineer Intern (Data Centre) | [Apply](<https://groupcareers.singtel.com/job/Mechanical-Engineer-Intern-%28Data-Centre%29-Nxer/1369792666/>) | - | 02 Nov 2026 | 03 Nov 2026 |
+| ↳ | AI Product Manager &amp; Builder Intern | [Apply](<https://groupcareers.singtel.com/job/AI-Product-Manager-&-Builder-Intern-Sing/1369793766/>) | - | 02 Nov 2026 | 02 Nov 2026 |
+| ↳ | AI Product Enablement and Operations Intern | [Apply](<https://groupcareers.singtel.com/job/AI-Product-Enablement-and-Operations-Intern-Sing/1369793866/>) | - | 02 Nov 2026 | 02 Nov 2026 |
 | Apple | Finance Data Analyst Intern (6-month Full-time) | [Apply](<https://jobs.apple.com/en-us/details/200692415-3278/finance-data-analyst-intern-6-month-full-time>) | February 2027 Start | 02 Nov 2026 | 02 Nov 2026 |
 | HP | College Intern – NPI Writing System Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---NPI-Writing-System-Engineer_UNI4588-1>) | May 2027 Start | 01 Nov 2026 | 01 Nov 2026 |
 | ↳ | College Intern - Data Analytics in Supply Chain | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-in-Supply-Chain_UNI4031-1>) | May 2027 Start | 01 Nov 2026 | 01 Nov 2026 |
@@ -127,6 +133,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Automation Intern, Financial Management (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Automation-Intern%2C-Financial-Management-%28Jan-Jun-2027%29-238891/1369154157/>) | Jan - Jun 2027 | 06 Nov 2026 | 28 Sep 2026 |
 | ↳ | AI &amp; Automation Intern, Procurement (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/AI-&-Automation-Intern%2C-Procurement-%28Jan-Jun-2027%29-238891/1369203757/>) | Jan - Jun 2027 | 06 Nov 2026 | 28 Sep 2026 |
 | ↳ | AI &amp; Analytics Intern, Financial Management (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/AI-&-Analytics-Intern%2C-Financial-Management-%28Jan-Jun-2027%29-238891/1369196257/>) | Jan - Jun 2027 | 06 Nov 2026 | 28 Sep 2026 |
+| Singtel | Data Analyst Intern (Reporting &amp; Insights) | [Apply](<https://groupcareers.singtel.com/job/Data-Analyst-Intern-%28Reporting-&-Insights%29-Sing/1367826466/>) | - | 22 Oct 2026 | 28 Sep 2026 |
 | YouTrip | Data Analytics Intern | [Apply](<https://apply.workable.com/j/34787A0AE7>) | - | 02 Sep 2026 | 28 Sep 2026 |
 | Workato | Intern, Data Engineering | [Apply](<https://www.workato.com/careers?gh_jid=8731177002#open-roles>) | - | 02 Sep 2026 | 28 Sep 2026 |
 | Thales | Software Engineer Intern | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_R0339658>) | - | 09 Sep 2026 | 28 Sep 2026 |
@@ -393,10 +400,6 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
-| Singtel | AI Product Enablement and Operations Intern | 20 Nov 2026 | - |
-| ↳ | AI Product Manager &amp; Builder Intern | 20 Nov 2026 | - |
-| ↳ | Mechanical Engineer Intern (Data Centre) | 20 Nov 2026 | - |
-| ↳ | Data Analyst Intern (Reporting &amp; Insights) | 20 Nov 2026 | - |
 | Bosch | Intern, Software Development | 20 Nov 2026 | - |
 | ↳ | Intern, Data Analyst | 20 Nov 2026 | - |
 | UOB | Equity Derivatives Trading Intern (Jan - June 2027) | 20 Nov 2026 | - |
@@ -463,7 +466,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:micron | Complete | 11 |
-| workday:nvidia | Complete | 0 |
+| workday:nvidia | ⚠️ Incomplete — previous listings retained | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
 | apple:apple | Complete | 4 |
@@ -547,7 +550,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:gitlab | Complete | 0 |
 | greenhouse:grafanalabs | Complete | 0 |
 | ashby:harvey | Complete | 0 |
-| workday:hitachi | Complete | 0 |
+| workday:hitachi | Complete | 3 |
 | workday:hp | Complete | 7 |
 | workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
@@ -596,7 +599,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
-| successfactors:singtel | Complete | 0 |
+| successfactors:singtel | Complete | 4 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:temasek | Complete | 6 |
 

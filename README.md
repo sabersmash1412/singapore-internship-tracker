@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**383 current or undated listings · 10 older advertised periods · 43 employers with roles**
+**345 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **20 Nov 2026, 09:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **20 Nov 2026, 09:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,8 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Razer | 🆕 Product Marketing Intern (AI Wearables) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Marketing-Intern--AI-Wearables-_JR2026008073>) | Jan 2027 - Jun 2027 | 20 Nov 2026 | 20 Nov 2026 |
+| Bosch | 🆕 Intern, AIot Software Developer | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000159821219>) | - | 05 Nov 2026 | 20 Nov 2026 |
 | UOB | 🆕 AI Automation Intern (Dec to June 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/AI-Automation-Intern--Dec-to-June-2027-_JR100964>) | Dec to June 2027 | 11 Nov 2026 | 20 Nov 2026 |
 | TikTok | 🆕 Service Operations and AI Project Intern (TikTok Shop) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7657369607011387701>) | 2027 Start | - | 20 Nov 2026 |
 | ↳ | 🆕 Search Security Strategy Project Intern (TikTok-Platform Responsibility-Search) - 2026 start | [Apply](<https://lifeattiktok.com/search/7704206873113069877>) | 2026 start | - | 20 Nov 2026 |
@@ -48,7 +50,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Intern - CVD/ALD Advanced Process Development | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---CVD-ALD-Advanced-Process-Development_JR115496>) | - | 05 Nov 2026 | 20 Nov 2026 |
 | ↳ | 🆕 Intern - AI Product Management | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---AI-Product-Management_JR112782>) | - | 13 Nov 2026 | 20 Nov 2026 |
 | Applied Materials | 🆕 College Intern - Process development in PVD Ventura chambers for TSV application | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-development-in-PVD-Ventura-chambers-for-TSV-application_R2630106>) | - | 18 Nov 2026 | 20 Nov 2026 |
-| UOB | Equity Derivatives Trading Intern (Jan - June 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/Equity-Derivatives-Trading-Intern--Jan---June-2027-_JR99148>) | Jan - June 2027 | 05 Nov 2026 | 05 Nov 2026 |
 | OCBC | Internship: Group Risk Management, Group Non-Financial Risk Management, ORM Central Programme &amp; Systems Management \[Dec26 to May27\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Risk-Management--Group-Non-Financial-Risk-Management--ORM-Central-Programme---Systems-Management--Dec26-to-May27-_JR00012382>) | - | 05 Nov 2026 | 05 Nov 2026 |
 | TikTok | Business Analytics &amp; Strategy Project Intern (GBS) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7704139558493718837>) | 2026 Start | - | 04 Nov 2026 |
 | Singtel | Mechanical Engineer Intern (Data Centre) | [Apply](<https://groupcareers.singtel.com/job/Mechanical-Engineer-Intern-%28Data-Centre%29-Nxer/1369792666/>) | - | 02 Nov 2026 | 03 Nov 2026 |
@@ -70,7 +71,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Funding Societies &#124; Modalku Group | Finance Intern (Finance &amp; Automation) | [Apply](<https://apply.workable.com/j/F014CE7ACA>) | - | 28 Oct 2026 | 28 Oct 2026 |
 | Bosch | Intern, HVAC AI Research | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000158270689>) | - | 28 Oct 2026 | 28 Oct 2026 |
 | HP | College Intern - Firmware Engineering | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128-1>) | January 2027 Start | 28 Oct 2026 | 28 Oct 2026 |
-| ↳ | College Intern - Agentic AI Engineering | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Agentic-AI-Engineering_UNI5129-1>) | January 2027 Start | 28 Oct 2026 | 28 Oct 2026 |
 | TikTok | Data Science Project Intern (TikTok LIVE) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7701293147020052741>) | 2026 Start | - | 28 Oct 2026 |
 | Shopee | Product Operations Intern , Data Infrastructure (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206543/1>) | Spring 2027 | - | 28 Oct 2026 |
 | ↳ | Backend Engineer Intern, Engineering Infra - AZPE (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02206556/1>) | Spring 2027 | - | 28 Oct 2026 |
@@ -93,53 +93,36 @@ These roles remain listed in employer sources; confirm application availability 
 | Coinbase | Software Engineer Intern | [Apply](<https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873>) | summer 2027 | 22 Oct 2026 | 22 Oct 2026 |
 | Marvell | Silicon Photonics Intern | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Silicon-Photonics-Intern_2604444>) | - | 21 Oct 2026 | 21 Oct 2026 |
 | Johnson Controls | Intern, Data Analyst | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283077>) | - | 21 Oct 2026 | 21 Oct 2026 |
-| ↳ | Intern, Data Analyst | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283075>) | - | 21 Oct 2026 | 21 Oct 2026 |
-| TikTok | Business Analytics &amp; Strategy Project Intern (GBS) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7699000656422209845>) | 2026 Start | - | 21 Oct 2026 |
 | Shopee | Regional Large Language Model (LLM) Agent &amp; Prompt Engineering Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02202617/1>) | Spring 2027 | - | 21 Oct 2026 |
 | Johnson Controls | Business Intern, Business Analytics | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Business-Intern--Business-Analytics_WD30283076>) | - | 21 Oct 2026 | 21 Oct 2026 |
 | Shopee | Data Analytics Intern - Brand Analytics, Regional Brand Partnerships (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02202299/1>) | Fall 2026 | - | 21 Oct 2026 |
-| Micron | Intern - HIG HBM Product Engineering (Advance Data Analytics) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HIG-HBM-Product-Engineering--Advance-Data-Analytics-_JR114591>) | - | 23 Oct 2026 | 20 Oct 2026 |
-| Shopee | Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02201780/1>) | Spring 2027 | - | 20 Oct 2026 |
+| ↳ | Business Intelligence Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02201780/1>) | Spring 2027 | - | 20 Oct 2026 |
 | Apple | Hardware Technology Intern, Singapore | [Apply](<https://jobs.apple.com/en-us/details/200690041-3278/hardware-technology-intern-singapore>) | - | 19 Oct 2026 | 20 Oct 2026 |
 | Tower Research Capital | Software Engineer, C++ - 6 Month Internship Opportunity | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8299894>) | - | 19 Oct 2026 | 19 Oct 2026 |
 | Amazon | Data Center Infrastructure Engineering Intern, Colocation Regional Engineering | [Apply](<https://www.amazon.jobs/en/jobs/10507775/data-center-infrastructure-engineering-intern-colocation-regional-engineering>) | Jan 2027 – June 2027 | 06 Oct 2026 | 17 Oct 2026 |
 | ↳ | Commissioning Program Analyst Intern, Data Center Capacity Delivery APJC | [Apply](<https://www.amazon.jobs/en/jobs/10563228/commissioning-program-analyst-intern-data-center-capacity-delivery-apjc>) | Jan 2027 – June 2027 | 13 Oct 2026 | 16 Oct 2026 |
-| Grab | Intern, Software Engineer | [Apply](<https://jobs.smartrecruiters.com/Grab/744000155926216>) | - | 16 Oct 2026 | 16 Oct 2026 |
 | DBS | 2027 DBS Internship (Technology and AI &amp; Data Science) | [Apply](<https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME-2027-DBS-Internship--Technology-and-AI---Data-Science-_WD89681>) | - | 05 Nov 2026 | 16 Oct 2026 |
-| Thales | HR Automation Intern (Jan 2027 intake) | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/HR-Automation-Intern_R0344795>) | Jan 2027 intake | 19 Oct 2026 | 16 Oct 2026 |
 | Micron | Intern - PEE CVD | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CVD_JR112661>) | - | 23 Oct 2026 | 15 Oct 2026 |
 | Shopee | Data Analyst Intern - Business Intelligence, Regional Logistics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02200192/1>) | Spring 2027 | - | 15 Oct 2026 |
 | ↳ | AI Automation &amp; Operations Intelligence Intern - Regional SPX Express (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02200208/1>) | Spring 2027 | - | 15 Oct 2026 |
 | Grab | Intern, Software Engineer - Backend | [Apply](<https://jobs.smartrecruiters.com/Grab/744000155671079>) | - | 15 Oct 2026 | 15 Oct 2026 |
 | Amazon | Control Engineer Intern, AWS Data Center Controls Deployment &amp; Services team | [Apply](<https://www.amazon.jobs/en/jobs/10579407/control-engineer-intern-aws-data-center-controls-deployment-services-team>) | Jan 2027 - June 2027 | 15 Oct 2026 | 15 Oct 2026 |
 | Shopee | Data Governance Intern (President's Office) (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02199842/1>) | Spring 2027 | - | 14 Oct 2026 |
-| Marvell | AI Solutions Engineer Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/AI-Solutions-Engineer-Intern---Bachelor-s-Master-s-Degree_2604441>) | - | 13 Oct 2026 | 13 Oct 2026 |
 | Sanofi | Audit Data Analytics Intern | [Apply](<https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/City-of-Singapore/Audit-Data-Analytics-Intern_R2874778>) | - | 19 Nov 2026 | 13 Oct 2026 |
 | OCBC | Internship: Group Operations and Technology, Risk &amp; Prevention – Technology Risk Management (Technology Risk Assessment &amp; Automation) \[January - May 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Operations-and-Technology--Risk---Prevention---Technology-Risk-Management--January---May-2027-_JR00011046>) | - | 13 Oct 2026 | 13 Oct 2026 |
 | Applied Materials | College intern - Process development in degas, preclean, PVD chambers for RLD/Bump application | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-intern---Process-development-in-degas--preclean--PVD-chambers-for-RLD-Bump-application_R2630102>) | - | 13 Oct 2026 | 13 Oct 2026 |
 | Razer | Data Science Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Science-Intern_JR2026007795>) | - | 09 Oct 2026 | 09 Oct 2026 |
 | Marvell | Quality Systems Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Quality-Systems-Intern---Bachelor-s-Degree_2603821>) | - | 09 Oct 2026 | 09 Oct 2026 |
-| Micron | Intern - HVM PEE Photo (AI) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979>) | - | 23 Oct 2026 | 08 Oct 2026 |
 | Bosch | Intern, Data Analyst | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000154012744>) | - | 07 Oct 2026 | 07 Oct 2026 |
-| Micron | Intern- PIE RAM (Agentic AI) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--PIE-RAM--Agentic-AI-_JR112779>) | Jan to May 2027 | 23 Oct 2026 | 06 Oct 2026 |
-| Marvell | Test Solutions Engineering Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Test-Solutions-Engineering-Intern---Bachelor-s-Degree_2604801>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | Applied Materials | Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Technology-Development-Engineer---Hybrid-Bonding---Advanced-Packaging--Internship-_R2626900>) | - | 05 Oct 2026 | 05 Oct 2026 |
-| Marvell | Supply Chain Technology &amp; Analytics Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Supply-Chain-Technology---Analytics-Intern---Bachelor-s-Degree_2603845>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | TikTok | AI Agent Project Intern (Open Platform) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7691567961421728053>) | 2026 Start | - | 01 Oct 2026 |
-| Thales | Software Engineer Intern (Python) | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/Software-Engineer-Intern--Python-_R0342044>) | - | 01 Oct 2026 | 01 Oct 2026 |
 | Sea | Product Engineer Intern - Backend Focused | [Apply](<https://career.sea.com/position/J02195534>) | Jan 2027 Start | - | 01 Oct 2026 |
 | Marvell | Business Planning System Analyst Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Business-Planning-System-Analyst-Intern---Bachelor-s-Degree_2603816>) | - | 30 Sep 2026 | 30 Sep 2026 |
-| ↳ | Hardware Validation Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Validation-Intern---Bachelor-s-Master-s-Degree_2603741>) | - | 30 Sep 2026 | 30 Sep 2026 |
-| ↳ | Hardware Design Intern - Bachelor's/Master's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Hardware-Design-Intern---Bachelor-s-Master-s-Degree_2604427>) | - | 30 Sep 2026 | 30 Sep 2026 |
 | Micron | Intern - STPG Product System | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-Product-System_JR111189>) | - | 19 Nov 2026 | 29 Sep 2026 |
-| Razer | Software Cloud Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Cloud-Intern_JR2026007798>) | - | 29 Sep 2026 | 29 Sep 2026 |
-| Micron | Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111156>) | Jan to May 2027 | 23 Oct 2026 | 29 Sep 2026 |
 | ByteDance | Security Analyst Project Intern (Global Corporate Security Operations Center) - 2027 Start | [Apply](<https://joinbytedance.com/search/7690422566842386693>) | 2027 Start | - | 29 Sep 2026 |
 | Temasek | RPA &amp; GenAI Automation Intern, Operations (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/RPA-&-GenAI-Automation-Intern%2C-Operations-%28Jan-Jun-2027%29-238891/1369197757/>) | Jan - Jun 2027 | 06 Nov 2026 | 28 Sep 2026 |
-| ↳ | Quantitative Research Intern, Quantitative Strategy (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Quantitative-Research-Intern%2C-Quantitative-Strategy-%28Jan-Jun-2027%29-238891/1368996757/>) | Jan - Jun 2027 | 04 Nov 2026 | 28 Sep 2026 |
 | ↳ | Data Analytics/Science Intern, People Technology (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Data-AnalyticsScience-Intern%2C-People-Technology-%28Jan-Jun-2027%29-238891/1369202457/>) | Jan - Jun 2027 | 06 Nov 2026 | 28 Sep 2026 |
 | ↳ | Data &amp; Finance Intern, Finance (Governance &amp; Technology) - Jan - Jun 2027 | [Apply](<https://jobs.temasek.com.sg/job/Data-&-Finance-Intern%2C-Finance-%28Governance-&-Technology%29-Jan-Jun-2027-238891/1369148557/>) | Jan - Jun 2027 | 06 Nov 2026 | 28 Sep 2026 |
-| ↳ | Cybersecurity Intern, Cybersecurity (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Cybersecurity-Intern%2C-Cybersecurity-%28Jan-Jun-2027%29-238891/1368748057/>) | Jan - Jun 2027 | 01 Nov 2026 | 28 Sep 2026 |
 | ↳ | Automation Intern, Financial Management (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Automation-Intern%2C-Financial-Management-%28Jan-Jun-2027%29-238891/1369154157/>) | Jan - Jun 2027 | 06 Nov 2026 | 28 Sep 2026 |
 | ↳ | AI &amp; Automation Intern, Procurement (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/AI-&-Automation-Intern%2C-Procurement-%28Jan-Jun-2027%29-238891/1369203757/>) | Jan - Jun 2027 | 06 Nov 2026 | 28 Sep 2026 |
 | ↳ | AI &amp; Analytics Intern, Financial Management (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/AI-&-Analytics-Intern%2C-Financial-Management-%28Jan-Jun-2027%29-238891/1369196257/>) | Jan - Jun 2027 | 06 Nov 2026 | 28 Sep 2026 |
@@ -149,20 +132,12 @@ These roles remain listed in employer sources; confirm application availability 
 | Thales | Software Engineer Intern | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_R0339658>) | - | 09 Sep 2026 | 28 Sep 2026 |
 | ↳ | Software Development and Integration Engineer (Intern) | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339158>) | - | 04 Sep 2026 | 28 Sep 2026 |
 | ↳ | Embedded Mobile Software Engineer Intern | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782>) | - | 06 Nov 2026 | 28 Sep 2026 |
-| Razer | Software Engineer Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_JR2026007809>) | - | 11 Sep 2026 | 28 Sep 2026 |
-| ↳ | Product Developer Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Developer-Intern_JR2026007822>) | - | 11 Sep 2026 | 28 Sep 2026 |
-| ↳ | Generative AI Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Generative-AI-Intern_JR2026007735>) | - | 17 Aug 2026 | 28 Sep 2026 |
-| ↳ | Computer Vision Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Computer-Vision-Intern_JR2026007731>) | - | 17 Aug 2026 | 28 Sep 2026 |
-| ↳ | Applied AI Intern (Voice) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784>) | - | 29 Sep 2026 | 28 Sep 2026 |
-| ↳ | AI Engineer Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/AI-Engineer-Intern_JR2026006947>) | - | 11 Sep 2026 | 28 Sep 2026 |
-| QCP | Intern, Trading - ALM (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/4599D0F542>) | Jan - Jun 2027 | 26 Aug 2026 | 28 Sep 2026 |
+| Razer | AI Engineer Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/AI-Engineer-Intern_JR2026006947>) | - | 11 Sep 2026 | 28 Sep 2026 |
 | Porsche Asia Pacific | Intern Marketing Analytics &amp; Digital Enablement | [Apply](<https://apply.workable.com/j/1AD8810B73>) | - | 22 Sep 2026 | 28 Sep 2026 |
 | Johnson Controls | Intern, Data Analytics | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analytics_WD30266779>) | - | 28 Apr 2026 | 28 Sep 2026 |
-| HP | College Intern - New Product Introduction Engineering (NPI IT Control Systems) | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---New-Product-Introduction-Engineering--NPI-IT-Control-Systems-_UNI4546-1>) | - | 27 Oct 2026 | 28 Sep 2026 |
-| ↳ | College Intern - NPI System Interaction Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---NPI-System-Interaction-Engineer_UNI4911>) | - | 30 Aug 2026 | 28 Sep 2026 |
+| HP | College Intern - NPI System Interaction Engineer | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---NPI-System-Interaction-Engineer_UNI4911>) | - | 30 Aug 2026 | 28 Sep 2026 |
 | Funding Societies &#124; Modalku Group | People Analytics &amp; Reporting Intern | [Apply](<https://apply.workable.com/j/E437A5580D>) | - | 27 Aug 2026 | 28 Sep 2026 |
 | EPOS | Sales Operations &amp; Automation Intern | [Apply](<https://apply.workable.com/j/61DE89D60B>) | - | 27 Aug 2026 | 28 Sep 2026 |
-| TikTok | Business Data Analyst Project Intern (GBS) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7689364323701901573>) | 2026 Start | - | 26 Sep 2026 |
 | OCBC | Internship: Global Markets, Business Management Unit/System Solution Analytics \[Jan - Jun 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Markets--Business-Management-Unit-System-Solution-Analytics--Jan---Jun-2027-_JR00011364>) | Jan - Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
 | ↳ | Internship: Global Markets, Management Information Systems \[Jan - Jun 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/SGP-Head-Office/Internship--Global-Markets--Management-Information-Systems--Jan---Jun-2027-_JR00011357>) | Jan - Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
 | NCS | \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001436844>) | Jan till Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
@@ -196,13 +171,9 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Campus AI/ML Researcher (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027938>) | - | 24 Aug 2026 | 24 Sep 2026 |
 | Airwallex | Software Engineer Intern (Summer 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795>) | Summer 2027 | 12 Nov 2026 | 24 Sep 2026 |
 | ↳ | Software Engineer Intern (Jan to Jun 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441>) | Jan to Jun 2027 | 12 Nov 2026 | 24 Sep 2026 |
-| TikTok | Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start | [Apply](<https://lifeattiktok.com/search/7669738564847110453>) | 2027 Start | - | 24 Sep 2026 |
-| Micron | Intern- Silicon Design Validation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111158>) | - | 23 Oct 2026 | 24 Sep 2026 |
-| ↳ | Intern - MSB Automation Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---MSB-Automation-Engineer_JR112720>) | - | 23 Oct 2026 | 24 Sep 2026 |
-| ↳ | Intern, Facilities AI Engineering | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170>) | Jan to Jun 2027 | 19 Nov 2026 | 24 Sep 2026 |
+| Micron | Intern, Facilities AI Engineering | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170>) | Jan to Jun 2027 | 19 Nov 2026 | 24 Sep 2026 |
 | ↳ | Intern - Probe Automation | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Probe-Automation_JR112385>) | - | 05 Nov 2026 | 24 Sep 2026 |
 | ↳ | Intern - PEE CVD/PVD | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CVD-PVD_JR111619>) | - | 06 Nov 2026 | 24 Sep 2026 |
-| ↳ | Intern - Facilities Sustainability AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586>) | January to May 2027 | 23 Oct 2026 | 24 Sep 2026 |
 | ↳ | Intern - F10 CVD PEE | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-CVD-PEE_JR97726>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | Apple | Information Security Internship Program (FY27 Summer Intake) | [Apply](<https://jobs.apple.com/en-us/details/200684585-3278/information-security-internship-program-fy27-summer-intake>) | - | 18 Sep 2026 | 24 Sep 2026 |
 | ↳ | 2027 Apple Internship - Information Systems and Technology | [Apply](<https://jobs.apple.com/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology>) | - | 04 Nov 2026 | 24 Sep 2026 |
@@ -224,7 +195,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Applied Materials | College Intern - Process Integration | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process-Integration_R2626676>) | - | 31 Aug 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Process &amp; hardware development in PVD Al chambers for N3,N5 and more advanced nodes. | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-Al-chambers-for-N3-N5-and-more-advanced-nodes_R2626935>) | - | 07 Sep 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Job Description Metrology, Defect Inspection, and Data Analytics for Die-to-Wafer Hybrid Bonding | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern_R2624343>) | - | 04 Sep 2026 | 24 Sep 2026 |
-| ↳ | College Intern (Hardware) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern--Hardware-_R2627095>) | - | 31 Aug 2026 | 24 Sep 2026 |
 | ↳ | College Intern (Hardware) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern--Hardware-_R2627094>) | - | 31 Aug 2026 | 24 Sep 2026 |
 | TikTok | Product Operations Project Intern (System &amp; Quality) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7598408632911317253>) | 2026 Start | - | 24 Sep 2026 |
 | ShopBack | Site Reliability Engineer Intern | [Apply](<https://jobs.lever.co/shopback-2/df5ed7cf-eb1f-4f17-ad11-35ad6011412c>) | H1 2027 | - | 24 Sep 2026 |
@@ -311,16 +281,13 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Data Analyst Project Intern (Measurement, CALM) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7677522750321838341>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | Data Analyst Project Intern (Eco &amp; Social Creation) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7660813794880604469>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | Data Analyst Project Intern (Automation &amp; Business Insights) - 2026 Start (BS/MS） | [Apply](<https://lifeattiktok.com/search/7637462393886411061>) | 2026 Start | - | 24 Sep 2026 |
-| ↳ | Data Analyst Intern (TikTok Shop) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7674161938776656133>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Data Analyst Intern (Measurement, CALM) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7677519435083467061>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Cybersecurity Engineer Project Intern (TikTok Shop) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7674823238794873093>) | 2027 Start | - | 24 Sep 2026 |
-| ↳ | Content Design Operations &amp; Systems Intern (TikTok-Design)-2027 Start | [Apply](<https://lifeattiktok.com/search/7667863974363105541>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Business Analytics Project Intern (TikTok Shop) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7611409566349592837>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | Big Data Engineer Project Intern (Global Monetization Product and Technology) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7535313551314618632>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | Big Data Engineer Intern (TikTok Recommendation Architecture) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7667911073505085749>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Big Data Engineer Intern (TikTok Live Recommendation Architecture) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7667917497487657269>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Big Data Engineer Intern (TikTok Global E-Commerce Recommendation &amp; Search Architecture) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7667915492052437301>) | 2027 Start | - | 24 Sep 2026 |
-| ↳ | Backend Software Engineer Project Intern (Trust &amp; Safety) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7683533453997328693>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | Backend Software Engineer Intern (Social) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7665627693737511173>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Backend Software Engineer Intern (Global LIVE Transaction) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7664847124735068421>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Backend Software Engineer Intern (Global LIVE Service Arch) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7663383164115437877>) | 2027 Start | - | 24 Sep 2026 |
@@ -332,7 +299,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Anti-Fraud Data Science Project Intern (TikTok Shop) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7669999474383358261>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | Android Software Engineer Intern (Global LIVE Platform) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7672395757573474565>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Security Analysis Intern (TikTok Shop-Security)- 2027 Start | [Apply](<https://lifeattiktok.com/search/7670049572916267317>) | 2027 Start | - | 24 Sep 2026 |
-| ↳ | AI Product Manager Project Intern (TikTok LIVE-Platform)- 2026 Start | [Apply](<https://lifeattiktok.com/search/7670833493528660229>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | AI Product Manager Intern (TikTok LIVE-Platform)- 2027 Start | [Apply](<https://lifeattiktok.com/search/7669698608341780789>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Product Manager Intern (TikTok LIVE - Revenue) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7670157829991287093>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Product Designer Project Intern (TikTok-Design-UX) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7633323482907248949>) | 2026 Start | - | 24 Sep 2026 |
@@ -360,13 +326,10 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | AI Agent Algorithm Engineer Intern (Global E-Commerce, Affiliate) - 2027 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7666287860598081845>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | AI Agent Algorithm Engineer Intern (Global E-Commerce, Affiliate) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7666280347193477429>) | 2027 Start | - | 24 Sep 2026 |
 | Shopee | Workflow Automation Intern - People Team (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02120446/1>) | Fall 2026 | - | 24 Sep 2026 |
-| ↳ | Product Management Intern - Enterprise Collaboration and AI | [Apply](<https://careers.shopee.sg/job-detail/J02115564/1>) | - | - | 24 Sep 2026 |
 | ↳ | Product Analyst Intern, Traffic &amp; Content - Business Intelligence AI Bot (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02126202/1>) | Fall 2026 | - | 24 Sep 2026 |
 | ↳ | Business Data Analyst Intern - Commercial Management, Business Development (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J00250728/1>) | Spring 2027 | - | 24 Sep 2026 |
 | ↳ | Automation Operational Technology (OT) Engineer Intern - Regional Logistics | [Apply](<https://careers.shopee.sg/job-detail/J00382881/1>) | - | - | 24 Sep 2026 |
-| Sea | System Automation &amp; Assurance Intern (6 months) | [Apply](<https://career.sea.com/position/J02172351>) | - | - | 24 Sep 2026 |
-| ↳ | System Automation &amp; Assurance (6 months) | [Apply](<https://career.sea.com/position/J02173412>) | - | - | 24 Sep 2026 |
-| ↳ | Security Engineering Intern | [Apply](<https://career.sea.com/position/J02180598>) | - | - | 24 Sep 2026 |
+| Sea | Security Engineering Intern | [Apply](<https://career.sea.com/position/J02180598>) | - | - | 24 Sep 2026 |
 | ↳ | IT Support intern (6 months) | [Apply](<https://career.sea.com/position/J02172545>) | - | - | 24 Sep 2026 |
 | ↳ | IT Security Intern (6 months) | [Apply](<https://career.sea.com/position/J02164189>) | - | - | 24 Sep 2026 |
 | ↳ | IT Project Management Intern (6 Months) | [Apply](<https://career.sea.com/position/J02164599>) | - | - | 24 Sep 2026 |
@@ -401,7 +364,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | AI Agent Algorithm Engineer Intern (Global E-Commerce, Affiliate) - 2027 Start | [Apply](<https://joinbytedance.com/search/7686119680478644485>) | 2027 Start | - | 24 Sep 2026 |
 | ShopBack | Software Engineer Intern (H1 2027) | [Apply](<https://jobs.lever.co/shopback-2/1804a30e-2d2e-4631-9e85-614c91806ddf>) | H1 2027 | - | 21 Sep 2026 |
 | ↳ | Data Analyst (Internship) (H1 2027) | [Apply](<https://jobs.lever.co/shopback-2/b216d68c-48b0-4fa5-8f1e-9e0375b993e1>) | H1 2027 | - | 21 Sep 2026 |
-| Grab | Intern, Strategy &amp; Analytics, Transport | [Apply](<https://jobs.smartrecruiters.com/Grab/744000149793152>) | - | 16 Sep 2026 | 21 Sep 2026 |
 | DRW | Quantitative Research Intern | [Apply](<https://job-boards.greenhouse.io/drweng/jobs/8014915>) | - | 13 Jul 2026 | 21 Sep 2026 |
 
 <details>
@@ -427,6 +389,54 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 </details>
 
 <details>
+<summary>Recently closed / removed from scope (last 14 days)</summary>
+
+| Company | Role | Closed | Reason |
+| --- | --- | --- | --- |
+| UOB | Equity Derivatives Trading Intern (Jan - June 2027) | 20 Nov 2026 | - |
+| Thales | Software Engineer Intern (Python) | 20 Nov 2026 | - |
+| ↳ | HR Automation Intern (Jan 2027 intake) | 20 Nov 2026 | - |
+| Razer | Software Engineer Intern | 20 Nov 2026 | - |
+| ↳ | Software Cloud Intern | 20 Nov 2026 | - |
+| ↳ | Product Developer Intern | 20 Nov 2026 | - |
+| ↳ | Generative AI Intern | 20 Nov 2026 | - |
+| ↳ | Computer Vision Intern | 20 Nov 2026 | - |
+| ↳ | Applied AI Intern (Voice) | 20 Nov 2026 | - |
+| Micron | Intern- Silicon Design Validation Engineer | 20 Nov 2026 | - |
+| ↳ | Intern- Silicon Design Validation Engineer | 20 Nov 2026 | - |
+| ↳ | Intern- PIE RAM (Agentic AI) | 20 Nov 2026 | - |
+| ↳ | Intern - MSB Automation Engineer | 20 Nov 2026 | - |
+| ↳ | Intern - HVM PEE Photo (AI) | 20 Nov 2026 | - |
+| ↳ | Intern - HIG HBM Product Engineering (Advance Data Analytics) | 20 Nov 2026 | - |
+| ↳ | Intern - Facilities Sustainability AI | 20 Nov 2026 | - |
+| Marvell | Test Solutions Engineering Intern - Bachelor's Degree | 20 Nov 2026 | - |
+| ↳ | Supply Chain Technology &amp; Analytics Intern - Bachelor's Degree | 20 Nov 2026 | - |
+| ↳ | Hardware Validation Intern - Bachelor's/Master's Degree | 20 Nov 2026 | - |
+| ↳ | Hardware Design Intern - Bachelor's/Master's Degree | 20 Nov 2026 | - |
+| ↳ | AI Solutions Engineer Intern - Bachelor's/Master's Degree | 20 Nov 2026 | - |
+| Johnson Controls | Intern, Data Analyst | 20 Nov 2026 | - |
+| HP | College Intern - New Product Introduction Engineering (NPI IT Control Systems) | 20 Nov 2026 | - |
+| ↳ | College Intern - Agentic AI Engineering | 20 Nov 2026 | - |
+| Applied Materials | College Intern (Hardware) | 20 Nov 2026 | - |
+| QCP | Intern, Trading - ALM (Jan - Jun 2027) | 20 Nov 2026 | - |
+| Temasek | Quantitative Research Intern, Quantitative Strategy (Jan - Jun 2027) | 20 Nov 2026 | - |
+| ↳ | Cybersecurity Intern, Cybersecurity (Jan - Jun 2027) | 20 Nov 2026 | - |
+| Grab | Intern, Software Engineer | 20 Nov 2026 | - |
+| ↳ | Intern, Strategy &amp; Analytics, Transport | 20 Nov 2026 | - |
+| Shopee | Product Management Intern - Enterprise Collaboration and AI | 20 Nov 2026 | - |
+| Sea | System Automation &amp; Assurance (6 months) | 20 Nov 2026 | - |
+| ↳ | System Automation &amp; Assurance Intern (6 months) | 20 Nov 2026 | - |
+| TikTok | Business Analytics &amp; Strategy Project Intern (GBS) - 2026 Start | 20 Nov 2026 | - |
+| ↳ | Business Data Analyst Project Intern (GBS) - 2026 Start | 20 Nov 2026 | - |
+| ↳ | Backend Software Engineer Project Intern (Trust &amp; Safety) - 2026 Start | 20 Nov 2026 | - |
+| ↳ | Data Analyst Intern (TikTok Shop) - 2027 Start | 20 Nov 2026 | - |
+| ↳ | AI Product Manager Project Intern (TikTok LIVE-Platform)- 2026 Start | 20 Nov 2026 | - |
+| ↳ | Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start | 20 Nov 2026 | - |
+| ↳ | Content Design Operations &amp; Systems Intern (TikTok-Design)-2027 Start | 20 Nov 2026 | - |
+
+</details>
+
+<details>
 <summary>Source coverage and collection health</summary>
 
 | Source board | Latest check | Matching roles returned |
@@ -440,7 +450,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | shopee:shopee | Complete | 34 |
 | sea:sea | Complete | 6 |
 | govtech:internships | Complete | 121 |
-| workday:dbs | ⚠️ Incomplete — previous listings retained | 1 |
+| workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 12 |
 | workday:uobgroup | Complete | 1 |
 | workday:amat | Complete | 8 |
@@ -456,7 +466,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:bifrost | Complete | 0 |
 | lever:binance | Complete | 0 |
 | greenhouse:bitgo | Complete | 0 |
-| smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:BoschGroup | Complete | 2 |
 | ashby:cantina | Complete | 0 |
 | smartrecruiters:CarousellGroup | Complete | 0 |
 | ashby:clickhouse | Complete | 0 |
@@ -558,7 +568,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workable:porsche-asia-pacific | Complete | 1 |
 | workable:qcp-group | Complete | 4 |
 | greenhouse:qualtrics | Complete | 0 |
-| workday:razer | Complete | 2 |
+| workday:razer | Complete | 3 |
 | greenhouse:relex | Complete | 0 |
 | ashby:replit | Complete | 0 |
 | greenhouse:ripple | Complete | 0 |

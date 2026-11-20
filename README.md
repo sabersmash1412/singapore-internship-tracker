@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**353 current or undated listings · 10 older advertised periods · 44 employers with roles**
+**354 current or undated listings · 10 older advertised periods · 44 employers with roles**
 
-Last collection: **21 Nov 2026, 00:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **21 Nov 2026, 01:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Micron | 🆕 Intern - Firmware and Product Test Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Firmware-and-Product-Test-Engineer_JR117289>) | - | 21 Nov 2026 | 21 Nov 2026 |
 | Hitachi | 🆕 Software Engineer Intern (Cross Project Tools) | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Software-Engineer-Intern--Cross-Project-Tools-_R0151682>) | - | 20 Nov 2026 | 20 Nov 2026 |
 | ↳ | 🆕 Cybersecurity Engineer Intern | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Cybersecurity-Engineer-Intern_R0151699>) | - | 20 Nov 2026 | 20 Nov 2026 |
 | ↳ | 🆕 Software Engineer Intern (Simulation &amp; Validator Systems) | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Software-Engineer-Intern--Simulation---Validator-Systems-_R0151696>) | - | 20 Nov 2026 | 20 Nov 2026 |
@@ -462,12 +463,12 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:ocbc | Complete | 12 |
 | workday:uobgroup | Complete | 1 |
 | workday:amat | Complete | 8 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:micron | Complete | 11 |
+| workday:micron | Complete | 12 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 6 |
 | amazon:amazon | Complete | 5 |
@@ -507,7 +508,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:sggovterp | Complete | 3 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |
@@ -601,7 +602,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:xendit | Complete | 0 |
 | workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
-| successfactors:singtel | Complete | 4 |
+| successfactors:singtel | ⚠️ Incomplete — previous listings retained | 1 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:temasek | Complete | 6 |
 

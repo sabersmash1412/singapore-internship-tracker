@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**348 current or undated listings · 10 older advertised periods · 43 employers with roles**
+**349 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **20 Nov 2026, 14:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **20 Nov 2026, 14:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Sea | 🆕 Intern, Data Analyst | [Apply](<https://career.sea.com/position/J02215049>) | - | - | 20 Nov 2026 |
 | NCS | 🆕 \[Poly - Mar till Aug 2027\] Procurement Data Governance Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001594605>) | Mar till Aug 2027 | 20 Nov 2026 | 20 Nov 2026 |
 | Razer | 🆕 PQ Automation Intern (Keyboards &amp; Mice) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/PQ-Automation-Intern--Keyboards---Mice-_JR2026008056>) | - | 20 Nov 2026 | 20 Nov 2026 |
 | ↳ | 🆕 PQ Automation Intern (Audio &amp; Others) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/PQ-Automation-Intern--Audio---Others-_JR2026008054>) | - | 20 Nov 2026 | 20 Nov 2026 |
@@ -453,10 +454,10 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | bytedance:tiktok | Complete | 134 |
 | bytedance:bytedance | Complete | 34 |
 | shopee:shopee | Complete | 34 |
-| sea:sea | Complete | 6 |
+| sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
-| workday:dbs | Complete | 1 |
-| workday:ocbc | Complete | 12 |
+| workday:dbs | ⚠️ Incomplete — previous listings retained | 1 |
+| workday:ocbc | ⚠️ Incomplete — previous listings retained | 4 |
 | workday:uobgroup | Complete | 1 |
 | workday:amat | Complete | 8 |
 | workday:globalfoundries | Complete | 9 |

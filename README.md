@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**354 current or undated listings · 10 older advertised periods · 44 employers with roles**
+**353 current or undated listings · 10 older advertised periods · 44 employers with roles**
 
-Last collection: **20 Nov 2026, 19:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **20 Nov 2026, 19:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -102,7 +102,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Data Analyst Intern - Business Intelligence, Regional Marketplace Operations (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02203897/1>) | Spring 2027 | - | 22 Oct 2026 |
 | Coinbase | Software Engineer Intern | [Apply](<https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873>) | summer 2027 | 22 Oct 2026 | 22 Oct 2026 |
 | Marvell | Silicon Photonics Intern | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Silicon-Photonics-Intern_2604444>) | - | 21 Oct 2026 | 21 Oct 2026 |
-| Johnson Controls | Intern, Data Analyst | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283077>) | - | 21 Oct 2026 | 21 Oct 2026 |
 | Shopee | Regional Large Language Model (LLM) Agent &amp; Prompt Engineering Intern (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02202617/1>) | Spring 2027 | - | 21 Oct 2026 |
 | Johnson Controls | Business Intern, Business Analytics | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Business-Intern--Business-Analytics_WD30283076>) | - | 21 Oct 2026 | 21 Oct 2026 |
 | Shopee | Data Analytics Intern - Brand Analytics, Regional Brand Partnerships (Fall 2026) | [Apply](<https://careers.shopee.sg/job-detail/J02202299/1>) | Fall 2026 | - | 21 Oct 2026 |
@@ -402,6 +401,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Johnson Controls | Intern, Data Analyst | 20 Nov 2026 | - |
 | Bosch | Intern, Software Development | 20 Nov 2026 | - |
 | ↳ | Intern, Data Analyst | 20 Nov 2026 | - |
 | UOB | Equity Derivatives Trading Intern (Jan - June 2027) | 20 Nov 2026 | - |

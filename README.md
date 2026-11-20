@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**347 current or undated listings · 10 older advertised periods · 43 employers with roles**
+**348 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **20 Nov 2026, 11:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **20 Nov 2026, 11:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| NCS | 🆕 \[Poly - Mar till Aug 2027\] Procurement Data Governance Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001594605>) | Mar till Aug 2027 | 20 Nov 2026 | 20 Nov 2026 |
 | Razer | 🆕 PQ Automation Intern (Keyboards &amp; Mice) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/PQ-Automation-Intern--Keyboards---Mice-_JR2026008056>) | - | 20 Nov 2026 | 20 Nov 2026 |
 | ↳ | 🆕 PQ Automation Intern (Audio &amp; Others) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/PQ-Automation-Intern--Audio---Others-_JR2026008054>) | - | 20 Nov 2026 | 20 Nov 2026 |
 | ↳ | 🆕 Manual Software Testing Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Manual-Software-Testing-Intern_JR2026008126>) | - | 20 Nov 2026 | 20 Nov 2026 |
@@ -490,7 +491,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:lalamove | Complete | 0 |
 | ashby:lumilens | Complete | 0 |
 | greenhouse:mongodb | Complete | 0 |
-| smartrecruiters:NCS3 | Complete | 13 |
+| smartrecruiters:NCS3 | Complete | 14 |
 | lever:nium | Complete | 0 |
 | greenhouse:okx | Complete | 0 |
 | ashby:openai | ⚠️ Incomplete — previous listings retained | 0 |
@@ -566,7 +567,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:MUFGInvestorServices | Complete | 0 |
 | greenhouse:newrelic | Complete | 0 |
 | smartrecruiters:NielsenIQ | Complete | 0 |
-| workday:paypal | Complete | 4 |
+| workday:paypal | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |
 | workable:porsche-asia-pacific | Complete | 1 |

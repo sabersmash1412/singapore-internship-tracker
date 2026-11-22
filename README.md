@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **354 current or undated listings · 10 older advertised periods · 44 employers with roles**
 
-Last collection: **22 Nov 2026, 10:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **22 Nov 2026, 10:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -28,10 +28,10 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Generative AI Intern | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Generative-AI-Intern_R0151693-1>) | - | 20 Nov 2026 | 20 Nov 2026 |
 | Sea | 🆕 Intern, Data Analyst | [Apply](<https://career.sea.com/position/J02215049>) | - | - | 20 Nov 2026 |
 | NCS | 🆕 \[Poly - Mar till Aug 2027\] Procurement Data Governance Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001594605>) | Mar till Aug 2027 | 20 Nov 2026 | 20 Nov 2026 |
-| Razer | 🆕 PQ Automation Intern (Keyboards &amp; Mice) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/PQ-Automation-Intern--Keyboards---Mice-_JR2026008056>) | - | 20 Nov 2026 | 20 Nov 2026 |
-| ↳ | 🆕 PQ Automation Intern (Audio &amp; Others) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/PQ-Automation-Intern--Audio---Others-_JR2026008054>) | - | 20 Nov 2026 | 20 Nov 2026 |
-| ↳ | 🆕 Manual Software Testing Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Manual-Software-Testing-Intern_JR2026008126>) | - | 20 Nov 2026 | 20 Nov 2026 |
-| ↳ | 🆕 Manual Software Testing Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Manual-Software-Testing-Intern_JR2026008108>) | - | 20 Nov 2026 | 20 Nov 2026 |
+| Razer | PQ Automation Intern (Keyboards &amp; Mice) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/PQ-Automation-Intern--Keyboards---Mice-_JR2026008056>) | - | 20 Nov 2026 | 20 Nov 2026 |
+| ↳ | PQ Automation Intern (Audio &amp; Others) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/PQ-Automation-Intern--Audio---Others-_JR2026008054>) | - | 20 Nov 2026 | 20 Nov 2026 |
+| ↳ | Manual Software Testing Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Manual-Software-Testing-Intern_JR2026008126>) | - | 20 Nov 2026 | 20 Nov 2026 |
+| ↳ | Manual Software Testing Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Manual-Software-Testing-Intern_JR2026008108>) | - | 20 Nov 2026 | 20 Nov 2026 |
 | ↳ | Product Marketing Intern (AI Wearables) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Marketing-Intern--AI-Wearables-_JR2026008073>) | Jan 2027 - Jun 2027 | 20 Nov 2026 | 20 Nov 2026 |
 | Bosch | Intern, AIot Software Developer | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000159821219>) | - | 05 Nov 2026 | 20 Nov 2026 |
 | UOB | AI Automation Intern (Dec to June 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/AI-Automation-Intern--Dec-to-June-2027-_JR100964>) | Dec to June 2027 | 11 Nov 2026 | 20 Nov 2026 |

@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **354 current or undated listings · 10 older advertised periods · 44 employers with roles**
 
-Last collection: **22 Nov 2026, 14:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **22 Nov 2026, 15:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -26,7 +26,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Software Engineer Intern (Simulation &amp; Validator Systems) | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Software-Engineer-Intern--Simulation---Validator-Systems-_R0151696>) | - | 20 Nov 2026 | 20 Nov 2026 |
 | ↳ | 🆕 Software Engineer Intern (Cross Project Tools) | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Software-Engineer-Intern--Cross-Project-Tools-_R0151687>) | - | 20 Nov 2026 | 20 Nov 2026 |
 | ↳ | 🆕 Generative AI Intern | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Generative-AI-Intern_R0151693-1>) | - | 20 Nov 2026 | 20 Nov 2026 |
-| Sea | 🆕 Intern, Data Analyst | [Apply](<https://career.sea.com/position/J02215049>) | - | - | 20 Nov 2026 |
+| Sea | Intern, Data Analyst | [Apply](<https://career.sea.com/position/J02215049>) | - | - | 20 Nov 2026 |
 | NCS | \[Poly - Mar till Aug 2027\] Procurement Data Governance Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001594605>) | Mar till Aug 2027 | 20 Nov 2026 | 20 Nov 2026 |
 | Razer | PQ Automation Intern (Keyboards &amp; Mice) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/PQ-Automation-Intern--Keyboards---Mice-_JR2026008056>) | - | 20 Nov 2026 | 20 Nov 2026 |
 | ↳ | PQ Automation Intern (Audio &amp; Others) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/PQ-Automation-Intern--Audio---Others-_JR2026008054>) | - | 20 Nov 2026 | 20 Nov 2026 |

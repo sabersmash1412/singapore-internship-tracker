@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **354 current or undated listings · 10 older advertised periods · 44 employers with roles**
 
-Last collection: **22 Nov 2026, 09:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **22 Nov 2026, 10:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -32,8 +32,8 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 PQ Automation Intern (Audio &amp; Others) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/PQ-Automation-Intern--Audio---Others-_JR2026008054>) | - | 20 Nov 2026 | 20 Nov 2026 |
 | ↳ | 🆕 Manual Software Testing Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Manual-Software-Testing-Intern_JR2026008126>) | - | 20 Nov 2026 | 20 Nov 2026 |
 | ↳ | 🆕 Manual Software Testing Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Manual-Software-Testing-Intern_JR2026008108>) | - | 20 Nov 2026 | 20 Nov 2026 |
-| ↳ | 🆕 Product Marketing Intern (AI Wearables) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Marketing-Intern--AI-Wearables-_JR2026008073>) | Jan 2027 - Jun 2027 | 20 Nov 2026 | 20 Nov 2026 |
-| Bosch | 🆕 Intern, AIot Software Developer | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000159821219>) | - | 05 Nov 2026 | 20 Nov 2026 |
+| ↳ | Product Marketing Intern (AI Wearables) | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Marketing-Intern--AI-Wearables-_JR2026008073>) | Jan 2027 - Jun 2027 | 20 Nov 2026 | 20 Nov 2026 |
+| Bosch | Intern, AIot Software Developer | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000159821219>) | - | 05 Nov 2026 | 20 Nov 2026 |
 | UOB | AI Automation Intern (Dec to June 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/AI-Automation-Intern--Dec-to-June-2027-_JR100964>) | Dec to June 2027 | 11 Nov 2026 | 20 Nov 2026 |
 | TikTok | Service Operations and AI Project Intern (TikTok Shop) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7657369607011387701>) | 2027 Start | - | 20 Nov 2026 |
 | ↳ | Search Security Strategy Project Intern (TikTok-Platform Responsibility-Search) - 2026 start | [Apply](<https://lifeattiktok.com/search/7704206873113069877>) | 2026 start | - | 20 Nov 2026 |

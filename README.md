@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**351 current or undated listings · 10 older advertised periods · 44 employers with roles**
+**350 current or undated listings · 10 older advertised periods · 44 employers with roles**
 
-Last collection: **23 Nov 2026, 18:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **23 Nov 2026, 18:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -187,8 +187,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Apple | Information Security Internship Program (FY27 Summer Intake) | [Apply](<https://jobs.apple.com/en-us/details/200684585-3278/information-security-internship-program-fy27-summer-intake>) | - | 18 Sep 2026 | 24 Sep 2026 |
 | ↳ | 2027 Apple Internship - Information Systems and Technology | [Apply](<https://jobs.apple.com/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology>) | - | 04 Nov 2026 | 24 Sep 2026 |
 | Amazon | Software Developer Intern, Field Innovation, Security Search and Observability (SSO) | [Apply](<https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso>) | Jan 2027 - June 2027 | 16 Sep 2026 | 24 Sep 2026 |
-| AMD | 2027 Term 1 Internship – IC Design Exploration Intern | [Apply](<https://careers.amd.com/students/jobs/76892>) | Jan 2027 Start | 31 Jul 2026 | 24 Sep 2026 |
-| ↳ | 2027 Term 1 Internship – Developing AI &amp; Data Science Solutions to Accelerate AMD's Product Development | [Apply](<https://careers.amd.com/students/jobs/91459>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
+| AMD | 2027 Term 1 Internship – Developing AI &amp; Data Science Solutions to Accelerate AMD's Product Development | [Apply](<https://careers.amd.com/students/jobs/91459>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
 | ↳ | 2027 Term 1 Internship – Advanced Packaging Optical Characterization Intern | [Apply](<https://careers.amd.com/students/jobs/92029>) | Jan 2027 Start | 03 Sep 2026 | 24 Sep 2026 |
 | ↳ | 2027 Term 1 Internship – AI-Driven BOM Generation &amp; Management | [Apply](<https://careers.amd.com/students/jobs/91458>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
 | GlobalFoundries | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604281>) | Jan-Jun 2027 | 27 Aug 2026 | 24 Sep 2026 |
@@ -399,7 +398,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
-| AMD | 2027 Term 1 Internship – Next-Gen Server Test &amp; Qualification | 23 Nov 2026 | - |
+| AMD | 2027 Term 1 Internship – IC Design Exploration Intern | 23 Nov 2026 | - |
+| ↳ | 2027 Term 1 Internship – Next-Gen Server Test &amp; Qualification | 23 Nov 2026 | - |
 | ↳ | 2027 Term 1 Internship – Diagnostic Design Engineering | 23 Nov 2026 | - |
 | Applied Materials | College Intern (Hardware) | 23 Nov 2026 | - |
 | Johnson Controls | Intern, Data Analyst | 20 Nov 2026 | - |
@@ -517,7 +517,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | Complete | 0 |
+| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |

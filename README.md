@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**350 current or undated listings · 10 older advertised periods · 44 employers with roles**
+**349 current or undated listings · 10 older advertised periods · 44 employers with roles**
 
-Last collection: **23 Nov 2026, 23:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **23 Nov 2026, 23:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -123,7 +123,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Applied Materials | College intern - Process development in degas, preclean, PVD chambers for RLD/Bump application | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-intern---Process-development-in-degas--preclean--PVD-chambers-for-RLD-Bump-application_R2630102>) | - | 13 Oct 2026 | 13 Oct 2026 |
 | Razer | Data Science Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Science-Intern_JR2026007795>) | - | 09 Oct 2026 | 09 Oct 2026 |
 | Marvell | Quality Systems Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Quality-Systems-Intern---Bachelor-s-Degree_2603821>) | - | 09 Oct 2026 | 09 Oct 2026 |
-| Applied Materials | Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Technology-Development-Engineer---Hybrid-Bonding---Advanced-Packaging--Internship-_R2626900>) | - | 05 Oct 2026 | 05 Oct 2026 |
 | TikTok | AI Agent Project Intern (Open Platform) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7691567961421728053>) | 2026 Start | - | 01 Oct 2026 |
 | Sea | Product Engineer Intern - Backend Focused | [Apply](<https://career.sea.com/position/J02195534>) | Jan 2027 Start | - | 01 Oct 2026 |
 | Marvell | Business Planning System Analyst Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Business-Planning-System-Analyst-Intern---Bachelor-s-Degree_2603816>) | - | 30 Sep 2026 | 30 Sep 2026 |
@@ -398,6 +397,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Applied Materials | Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship) | 23 Nov 2026 | - |
 | AMD | 2027 Term 1 Internship – IC Design Exploration Intern | 23 Nov 2026 | - |
 | ↳ | 2027 Term 1 Internship – Next-Gen Server Test &amp; Qualification | 23 Nov 2026 | - |
 | ↳ | 2027 Term 1 Internship – Diagnostic Design Engineering | 23 Nov 2026 | - |

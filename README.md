@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**354 current or undated listings · 10 older advertised periods · 44 employers with roles**
+**353 current or undated listings · 10 older advertised periods · 44 employers with roles**
 
-Last collection: **23 Nov 2026, 12:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **23 Nov 2026, 13:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -204,7 +204,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Applied Materials | College Intern - Process Integration | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process-Integration_R2626676>) | - | 31 Aug 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Process &amp; hardware development in PVD Al chambers for N3,N5 and more advanced nodes. | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-Al-chambers-for-N3-N5-and-more-advanced-nodes_R2626935>) | - | 07 Sep 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Job Description Metrology, Defect Inspection, and Data Analytics for Die-to-Wafer Hybrid Bonding | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern_R2624343>) | - | 04 Sep 2026 | 24 Sep 2026 |
-| ↳ | College Intern (Hardware) | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern--Hardware-_R2627094>) | - | 31 Aug 2026 | 24 Sep 2026 |
 | TikTok | Product Operations Project Intern (System &amp; Quality) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7598408632911317253>) | 2026 Start | - | 24 Sep 2026 |
 | ShopBack | Site Reliability Engineer Intern | [Apply](<https://jobs.lever.co/shopback-2/df5ed7cf-eb1f-4f17-ad11-35ad6011412c>) | H1 2027 | - | 24 Sep 2026 |
 | ByteDance | Site Reliability Engineer Intern (Video and Edge, CDN Platform) - 2027 Start | [Apply](<https://joinbytedance.com/search/7665225726098098485>) | 2027 Start | - | 24 Sep 2026 |
@@ -402,6 +401,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Applied Materials | College Intern (Hardware) | 23 Nov 2026 | - |
 | Johnson Controls | Intern, Data Analyst | 20 Nov 2026 | - |
 | Bosch | Intern, Software Development | 20 Nov 2026 | - |
 | ↳ | Intern, Data Analyst | 20 Nov 2026 | - |

@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**348 current or undated listings · 10 older advertised periods · 45 employers with roles**
+**347 current or undated listings · 10 older advertised periods · 44 employers with roles**
 
-Last collection: **25 Nov 2026, 00:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **25 Nov 2026, 00:34 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -157,7 +157,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Intern, Finance Process Automation | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/SLA-REVENUE-HOUSE-LEVEL-11/intern_JR-10000036273>) | Oct 2026 to Feb 2027 / Jan 2027 to June 2027 | 06 Nov 2026 | 24 Sep 2026 |
 | Portcast | Data Analyst Intern | [Apply](<https://jobs.lever.co/portcast/f18cc64e-c34a-416c-b213-62a39906260e>) | - | - | 24 Sep 2026 |
 | Palantir Technologies | Software Engineer, Internship | [Apply](<https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1>) | - | - | 24 Sep 2026 |
-| NLB National Library Board | Video Analytics Intern, Properties &amp; Facilities Management | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/NLB-National-Library-Building/Video-Analytics-Intern--Properties---Facilities-Management_JR-10000055560>) | - | 11 Nov 2026 | 24 Sep 2026 |
 | NCS | \[Uni – Jan till Jun 2027\] Agentic AI Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001275993>) | Jan till Jun 2027 | 31 Jul 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] Software Engineering Intern (Low Code) | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287390>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] Software Engineer/ Business Analyst Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287535>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
@@ -396,6 +395,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| NLB National Library Board | Video Analytics Intern, Properties &amp; Facilities Management | 25 Nov 2026 | - |
 | Carousell Group | Product Design Intern (Design Systems &amp; AI Workflows)\_Jan 2027 | 24 Nov 2026 | - |
 | Bosch | Intern, AIot Software Developer | 24 Nov 2026 | - |
 | Marvell | Business Planning System Analyst Intern - Bachelor's Degree | 24 Nov 2026 | - |

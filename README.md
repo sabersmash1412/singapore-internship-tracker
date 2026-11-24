@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**349 current or undated listings · 10 older advertised periods · 45 employers with roles**
+**348 current or undated listings · 10 older advertised periods · 45 employers with roles**
 
-Last collection: **24 Nov 2026, 18:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **24 Nov 2026, 19:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -21,7 +21,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
 | Carousell Group | 🆕 Product Design Intern (Design Systems &amp; AI Workflows)\_Jan 2027 | [Apply](<https://jobs.smartrecruiters.com/CarousellGroup/744000163422109>) | Jan 2027 Start | 24 Nov 2026 | 24 Nov 2026 |
-| ↳ | 🆕 Product Design Intern (Design Systems &amp; AI Workflows)\_Jan 2027 | [Apply](<https://jobs.smartrecruiters.com/CarousellGroup/744000163418894>) | - | 24 Nov 2026 | 24 Nov 2026 |
 | Micron | Intern - Firmware and Product Test Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Firmware-and-Product-Test-Engineer_JR117289>) | - | 21 Nov 2026 | 21 Nov 2026 |
 | Hitachi | Software Engineer Intern (Cross Project Tools) | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Software-Engineer-Intern--Cross-Project-Tools-_R0151682>) | - | 20 Nov 2026 | 20 Nov 2026 |
 | ↳ | Cybersecurity Engineer Intern | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Cybersecurity-Engineer-Intern_R0151699>) | - | 20 Nov 2026 | 20 Nov 2026 |
@@ -397,6 +396,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Carousell Group | Product Design Intern (Design Systems &amp; AI Workflows)\_Jan 2027 | 24 Nov 2026 | - |
 | Bosch | Intern, AIot Software Developer | 24 Nov 2026 | - |
 | Marvell | Business Planning System Analyst Intern - Bachelor's Degree | 24 Nov 2026 | - |
 | Applied Materials | Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship) | 23 Nov 2026 | - |

@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **348 current or undated listings · 10 older advertised periods · 44 employers with roles**
 
-Last collection: **24 Nov 2026, 16:42 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **24 Nov 2026, 17:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -455,8 +455,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | --- | --- | --- |
 | smartrecruiters:Grab | Complete | 1 |
 | lever:shopback-2 | Complete | 4 |
-| greenhouse:temus | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:drweng | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:temus | Complete | 0 |
+| greenhouse:drweng | Complete | 1 |
 | bytedance:tiktok | Complete | 134 |
 | bytedance:bytedance | Complete | 34 |
 | shopee:shopee | Complete | 34 |
@@ -473,135 +473,135 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | amd:amd | Complete | 3 |
 | amazon:amazon | Complete | 5 |
 | apple:apple | Complete | 4 |
-| greenhouse:agoda | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:agoda | Complete | 0 |
 | ashby:airwallex | Complete | 2 |
 | ashby:bifrost | ⚠️ Incomplete — previous listings retained | 0 |
 | lever:binance | Complete | 0 |
-| greenhouse:bitgo | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:bitgo | Complete | 0 |
 | smartrecruiters:BoschGroup | Complete | 2 |
 | ashby:cantina | Complete | 0 |
 | smartrecruiters:CarousellGroup | Complete | 0 |
 | ashby:clickhouse | Complete | 0 |
 | ashby:cohere | Complete | 0 |
-| greenhouse:coinbase | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:coinbase | Complete | 1 |
 | smartrecruiters:Continental | Complete | 0 |
 | lever:crypto | Complete | 0 |
-| greenhouse:databricks | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:datadog | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:elastic | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:databricks | Complete | 0 |
+| greenhouse:datadog | Complete | 0 |
+| greenhouse:elastic | Complete | 0 |
 | ashby:elevenlabs | Complete | 0 |
-| greenhouse:figma | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:gemini | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:janestreet | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:jumptrading | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:figma | Complete | 0 |
+| greenhouse:gemini | Complete | 0 |
+| greenhouse:janestreet | Complete | 0 |
+| greenhouse:jumptrading | Complete | 6 |
 | ashby:k-ID | Complete | 0 |
 | lever:lalamove | Complete | 0 |
 | ashby:lumilens | Complete | 0 |
-| greenhouse:mongodb | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:mongodb | Complete | 0 |
 | smartrecruiters:NCS3 | Complete | 14 |
 | lever:nium | Complete | 0 |
-| greenhouse:okx | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:okx | Complete | 0 |
 | ashby:openai | Complete | 0 |
 | lever:palantir | Complete | 1 |
 | lever:portcast | Complete | 1 |
 | smartrecruiters:RenesasElectronics | Complete | 0 |
-| greenhouse:rubrik | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
-| greenhouse:simplifynext | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:simplifynext | Complete | 0 |
 | workday:sggovterp | Complete | 3 |
-| greenhouse:stripe | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
-| greenhouse:thunes | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:towerresearchcapital | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:trustbank | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:verkada | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:thunes | Complete | 0 |
+| greenhouse:towerresearchcapital | Complete | 4 |
+| greenhouse:trustbank | Complete | 0 |
+| greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
 | smartrecruiters:AccorHotel | Complete | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
-| greenhouse:airbnb | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:airbnb | Complete | 0 |
 | workday:analogdevices | Complete | 0 |
-| greenhouse:anthropic | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:anthropic | Complete | 0 |
 | workday:autodesk | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:blackrock | Complete | 0 |
-| greenhouse:braze | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:braze | Complete | 0 |
 | workday:broadcom | Complete | 0 |
 | workday:carrier | Complete | 0 |
 | ashby:chalk | Complete | 0 |
 | workday:citi | Complete | 0 |
 | smartrecruiters:CliffordChance | Complete | 0 |
-| greenhouse:cockroachlabs | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |
-| workable:covergo | ⚠️ Incomplete — previous listings retained | 0 |
+| workable:covergo | Complete | 0 |
 | ashby:cursor | Complete | 0 |
 | ashby:deepgram | Complete | 0 |
 | smartrecruiters:DeliveryHero | Complete | 0 |
 | workday:disney | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
-| workable:epos | ⚠️ Incomplete — previous listings retained | 0 |
+| workable:epos | Complete | 1 |
 | smartrecruiters:Eurofins | Complete | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
 | smartrecruiters:Experian | Complete | 0 |
 | smartrecruiters:Fastmarkets | Complete | 0 |
-| workable:first-circle | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:flexport | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:forter | ⚠️ Incomplete — previous listings retained | 0 |
+| workable:first-circle | Complete | 0 |
+| greenhouse:flexport | Complete | 0 |
+| greenhouse:forter | Complete | 0 |
 | smartrecruiters:Freshworks | Complete | 0 |
-| workable:fundingsocieties | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:gitlab | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:grafanalabs | ⚠️ Incomplete — previous listings retained | 0 |
+| workable:fundingsocieties | Complete | 3 |
+| greenhouse:gitlab | Complete | 0 |
+| greenhouse:grafanalabs | Complete | 0 |
 | ashby:harvey | Complete | 0 |
 | workday:hitachi | Complete | 5 |
 | workday:hp | Complete | 7 |
-| workable:iglooinsure | ⚠️ Incomplete — previous listings retained | 0 |
+| workable:iglooinsure | Complete | 0 |
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
 | workday:jll | Complete | 0 |
 | workday:jci | Complete | 2 |
 | workday:kla | Complete | 0 |
 | ashby:langchain | Complete | 0 |
-| greenhouse:launchdarkly | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:launchdarkly | Complete | 0 |
 | workday:logitech | Complete | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
 | workday:manulife | Complete | 0 |
 | workday:marvell | Complete | 3 |
 | workday:mastercard | Complete | 0 |
 | lever:matchgroup | Complete | 0 |
-| greenhouse:mixpanel | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:moloco | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:mixpanel | Complete | 0 |
+| greenhouse:moloco | Complete | 0 |
 | smartrecruiters:MUFGInvestorServices | Complete | 0 |
-| greenhouse:newrelic | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:newrelic | Complete | 0 |
 | smartrecruiters:NielsenIQ | Complete | 0 |
 | workday:paypal | Complete | 4 |
-| greenhouse:pingidentity | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:pinterest | ⚠️ Incomplete — previous listings retained | 0 |
-| workable:porsche-asia-pacific | ⚠️ Incomplete — previous listings retained | 0 |
-| workable:qcp-group | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:qualtrics | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:pingidentity | Complete | 0 |
+| greenhouse:pinterest | Complete | 0 |
+| workable:porsche-asia-pacific | Complete | 1 |
+| workable:qcp-group | Complete | 4 |
+| greenhouse:qualtrics | Complete | 0 |
 | workday:razer | Complete | 7 |
-| greenhouse:relex | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:relex | Complete | 0 |
 | ashby:replit | Complete | 0 |
-| greenhouse:ripple | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:ripple | Complete | 0 |
 | workday:roche | Complete | 0 |
 | workday:spgi | Complete | 0 |
 | workday:salesforce | Complete | 1 |
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 1 |
-| greenhouse:sentinellabs | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:sentinellabs | Complete | 0 |
 | smartrecruiters:SGS | Complete | 0 |
 | lever:shieldai | Complete | 0 |
-| greenhouse:smartlyio | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:smartlyio | Complete | 0 |
 | workday:sonyglobal | Complete | 0 |
 | workday:thales | Complete | 3 |
-| greenhouse:thetradedesk | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:thetradedesk | Complete | 0 |
 | smartrecruiters:TheWonderfulCompany | Complete | 0 |
-| greenhouse:twilio | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:workato | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:xendit | ⚠️ Incomplete — previous listings retained | 0 |
-| workable:youtrip | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:zscaler | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:twilio | Complete | 0 |
+| greenhouse:workato | Complete | 1 |
+| greenhouse:xendit | Complete | 0 |
+| workable:youtrip | Complete | 1 |
+| greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 4 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
 | successfactors:temasek | Complete | 6 |

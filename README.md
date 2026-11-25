@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**342 current or undated listings · 10 older advertised periods · 43 employers with roles**
+**344 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **25 Nov 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **25 Nov 2026, 17:07 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,8 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| AMD | 🆕 2027 Term 2 Internship – Wafer Sort/Final Test Thermal Mechanical hardware development Engineer | [Apply](<https://careers.amd.com/students/jobs/103678>) | May 2027 Start / July 2027 Start | 25 Nov 2026 | 25 Nov 2026 |
+| ↳ | 🆕 2027 Term 2 Internship – Developing AI &amp; Data Science Solutions to Accelerate AMD's Product Development | [Apply](<https://careers.amd.com/students/jobs/103655>) | May 2027 Start / July 2027 Start | 25 Nov 2026 | 25 Nov 2026 |
 | TikTok | 🆕 Backend Engineer Project Intern (TikTok Search &amp; Recommendation Architecture) - 2026 Start (BS/MS） | [Apply](<https://lifeattiktok.com/search/7553192259203778824>) | 2026 Start | - | 25 Nov 2026 |
 | Carousell Group | 🆕 Product Design Intern (Design Systems &amp; AI Workflows)\_Jan 2027 | [Apply](<https://jobs.smartrecruiters.com/CarousellGroup/744000163422109>) | Jan 2027 Start | 24 Nov 2026 | 24 Nov 2026 |
 | Micron | Intern - Firmware and Product Test Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Firmware-and-Product-Test-Engineer_JR117289>) | - | 21 Nov 2026 | 21 Nov 2026 |
@@ -467,13 +469,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | govtech:internships | Complete | 121 |
 | workday:dbs | ⚠️ Incomplete — previous listings retained | 1 |
 | workday:ocbc | Complete | 12 |
-| workday:uobgroup | ⚠️ Incomplete — previous listings retained | 1 |
+| workday:uobgroup | Complete | 1 |
 | workday:amat | Complete | 6 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:micron | Complete | 12 |
 | workday:nvidia | Complete | 0 |
-| amd:amd | Complete | 1 |
+| amd:amd | Complete | 3 |
 | amazon:amazon | Complete | 5 |
 | apple:apple | Complete | 4 |
 | greenhouse:agoda | Complete | 0 |
@@ -511,7 +513,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | Complete | 2 |
+| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 2 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |
@@ -607,7 +609,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 4 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 6 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 0 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **343 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **25 Nov 2026, 12:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **25 Nov 2026, 12:41 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -465,7 +465,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | ⚠️ Incomplete — previous listings retained | 4 |
+| workday:ocbc | Complete | 12 |
 | workday:uobgroup | ⚠️ Incomplete — previous listings retained | 1 |
 | workday:amat | Complete | 6 |
 | workday:globalfoundries | Complete | 9 |
@@ -535,19 +535,19 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:CliffordChance | Complete | 0 |
 | greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |
-| workable:covergo | Complete | 0 |
+| workable:covergo | ⚠️ Incomplete — previous listings retained | 0 |
 | ashby:cursor | Complete | 0 |
 | ashby:deepgram | Complete | 0 |
 | smartrecruiters:DeliveryHero | Complete | 0 |
 | workday:disney | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
-| workable:epos | Complete | 1 |
+| workable:epos | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Eurofins | Complete | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
 | smartrecruiters:Experian | Complete | 0 |
 | smartrecruiters:Fastmarkets | Complete | 0 |
-| workable:first-circle | Complete | 0 |
+| workable:first-circle | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:flexport | Complete | 0 |
 | greenhouse:forter | Complete | 0 |
 | smartrecruiters:Freshworks | Complete | 0 |
@@ -557,7 +557,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:harvey | Complete | 0 |
 | workday:hitachi | Complete | 5 |
 | workday:hp | Complete | 7 |
-| workable:iglooinsure | Complete | 0 |
+| workable:iglooinsure | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
 | workday:jll | Complete | 0 |
@@ -579,8 +579,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:paypal | Complete | 4 |
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |
-| workable:porsche-asia-pacific | Complete | 1 |
-| workable:qcp-group | Complete | 4 |
+| workable:porsche-asia-pacific | ⚠️ Incomplete — previous listings retained | 0 |
+| workable:qcp-group | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:qualtrics | Complete | 0 |
 | workday:razer | Complete | 7 |
 | greenhouse:relex | Complete | 0 |
@@ -606,7 +606,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 4 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 2 |
+| successfactors:temasek | Complete | 6 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

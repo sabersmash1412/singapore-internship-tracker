@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**342 current or undated listings · 10 older advertised periods · 43 employers with roles**
+**341 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **25 Nov 2026, 15:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **25 Nov 2026, 15:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -181,8 +181,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Apple | Information Security Internship Program (FY27 Summer Intake) | [Apply](<https://jobs.apple.com/en-us/details/200684585-3278/information-security-internship-program-fy27-summer-intake>) | - | 18 Sep 2026 | 24 Sep 2026 |
 | ↳ | 2027 Apple Internship - Information Systems and Technology | [Apply](<https://jobs.apple.com/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology>) | - | 04 Nov 2026 | 24 Sep 2026 |
 | Amazon | Software Developer Intern, Field Innovation, Security Search and Observability (SSO) | [Apply](<https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso>) | Jan 2027 - June 2027 | 16 Sep 2026 | 24 Sep 2026 |
-| AMD | 2027 Term 1 Internship – Developing AI &amp; Data Science Solutions to Accelerate AMD's Product Development | [Apply](<https://careers.amd.com/students/jobs/91459>) | Jan 2027 Start | 25 Aug 2026 | 24 Sep 2026 |
-| ↳ | 2027 Term 1 Internship – Advanced Packaging Optical Characterization Intern | [Apply](<https://careers.amd.com/students/jobs/92029>) | Jan 2027 Start | 03 Sep 2026 | 24 Sep 2026 |
+| AMD | 2027 Term 1 Internship – Advanced Packaging Optical Characterization Intern | [Apply](<https://careers.amd.com/students/jobs/92029>) | Jan 2027 Start | 03 Sep 2026 | 24 Sep 2026 |
 | GlobalFoundries | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604281>) | Jan-Jun 2027 | 27 Aug 2026 | 24 Sep 2026 |
 | ↳ | Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604277-1>) | Jan-Jun 2027 | 27 Aug 2026 | 24 Sep 2026 |
 | ↳ | 2H University Intern, AI-Driven Process Intern (Advanced Process Control) | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern--AI-Driven-Process-Intern--Advanced-Process-Control-_JR-2502691>) | June 2026 Start | 12 Jan 2026 | 24 Sep 2026 |
@@ -390,7 +389,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
-| AMD | 2027 Term 1 Internship – AI-Driven BOM Generation &amp; Management | 25 Nov 2026 | - |
+| AMD | 2027 Term 1 Internship – Developing AI &amp; Data Science Solutions to Accelerate AMD's Product Development | 25 Nov 2026 | - |
+| ↳ | 2027 Term 1 Internship – AI-Driven BOM Generation &amp; Management | 25 Nov 2026 | - |
 | TikTok | Business Analytics &amp; Strategy Project Intern (GBS) - 2026 Start | 25 Nov 2026 | - |
 | ↳ | Data Analyst Project Intern (Partnership/Vendor Management) - 2026 Start | 25 Nov 2026 | - |
 | Airwallex | Software Engineer Intern (Summer 2027) | 25 Nov 2026 | - |
@@ -480,7 +480,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:bifrost | ⚠️ Incomplete — previous listings retained | 0 |
 | lever:binance | Complete | 0 |
 | greenhouse:bitgo | Complete | 0 |
-| smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:BoschGroup | Complete | 1 |
 | ashby:cantina | Complete | 0 |
 | smartrecruiters:CarousellGroup | Complete | 1 |
 | ashby:clickhouse | Complete | 0 |
@@ -506,7 +506,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:openai | Complete | 0 |
 | lever:palantir | Complete | 1 |
 | lever:portcast | Complete | 1 |
-| smartrecruiters:RenesasElectronics | Complete | 0 |
+| smartrecruiters:RenesasElectronics | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |

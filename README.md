@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**345 current or undated listings · 10 older advertised periods · 43 employers with roles**
+**344 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **25 Nov 2026, 21:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **25 Nov 2026, 22:04 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -124,7 +124,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Sanofi | Audit Data Analytics Intern | [Apply](<https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/City-of-Singapore/Audit-Data-Analytics-Intern_R2874778>) | - | 19 Nov 2026 | 13 Oct 2026 |
 | OCBC | Internship: Group Operations and Technology, Risk &amp; Prevention – Technology Risk Management (Technology Risk Assessment &amp; Automation) \[January - May 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Operations-and-Technology--Risk---Prevention---Technology-Risk-Management--January---May-2027-_JR00011046>) | - | 13 Oct 2026 | 13 Oct 2026 |
 | Applied Materials | College intern - Process development in degas, preclean, PVD chambers for RLD/Bump application | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-intern---Process-development-in-degas--preclean--PVD-chambers-for-RLD-Bump-application_R2630102>) | - | 13 Oct 2026 | 13 Oct 2026 |
-| Razer | Data Science Intern | [Apply](<https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Science-Intern_JR2026007795>) | - | 09 Oct 2026 | 09 Oct 2026 |
 | Marvell | Quality Systems Intern - Bachelor's Degree | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Quality-Systems-Intern---Bachelor-s-Degree_2603821>) | - | 09 Oct 2026 | 09 Oct 2026 |
 | TikTok | AI Agent Project Intern (Open Platform) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7691567961421728053>) | 2026 Start | - | 01 Oct 2026 |
 | Sea | Product Engineer Intern - Backend Focused | [Apply](<https://career.sea.com/position/J02195534>) | Jan 2027 Start | - | 01 Oct 2026 |
@@ -393,6 +392,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Razer | Data Science Intern | 25 Nov 2026 | - |
 | AMD | 2027 Term 1 Internship – Developing AI &amp; Data Science Solutions to Accelerate AMD's Product Development | 25 Nov 2026 | - |
 | ↳ | 2027 Term 1 Internship – AI-Driven BOM Generation &amp; Management | 25 Nov 2026 | - |
 | TikTok | Business Analytics &amp; Strategy Project Intern (GBS) - 2026 Start | 25 Nov 2026 | - |
@@ -523,7 +523,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:AccorHotel | Complete | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |
@@ -610,7 +610,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 4 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 6 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 3 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

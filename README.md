@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**344 current or undated listings · 10 older advertised periods · 43 employers with roles**
+**343 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **25 Nov 2026, 11:41 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **25 Nov 2026, 12:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -63,7 +63,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Intern - AI Product Management | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---AI-Product-Management_JR112782>) | - | 13 Nov 2026 | 20 Nov 2026 |
 | Applied Materials | College Intern - Process development in PVD Ventura chambers for TSV application | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-development-in-PVD-Ventura-chambers-for-TSV-application_R2630106>) | - | 18 Nov 2026 | 20 Nov 2026 |
 | OCBC | Internship: Group Risk Management, Group Non-Financial Risk Management, ORM Central Programme &amp; Systems Management \[Dec26 to May27\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Risk-Management--Group-Non-Financial-Risk-Management--ORM-Central-Programme---Systems-Management--Dec26-to-May27-_JR00012382>) | - | 05 Nov 2026 | 05 Nov 2026 |
-| TikTok | Business Analytics &amp; Strategy Project Intern (GBS) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7704139558493718837>) | 2026 Start | - | 04 Nov 2026 |
 | Singtel | Mechanical Engineer Intern (Data Centre) | [Apply](<https://groupcareers.singtel.com/job/Mechanical-Engineer-Intern-%28Data-Centre%29-Nxer/1369792666/>) | - | 02 Nov 2026 | 03 Nov 2026 |
 | ↳ | AI Product Manager &amp; Builder Intern | [Apply](<https://groupcareers.singtel.com/job/AI-Product-Manager-&-Builder-Intern-Sing/1369793766/>) | - | 02 Nov 2026 | 02 Nov 2026 |
 | ↳ | AI Product Enablement and Operations Intern | [Apply](<https://groupcareers.singtel.com/job/AI-Product-Enablement-and-Operations-Intern-Sing/1369793866/>) | - | 02 Nov 2026 | 02 Nov 2026 |
@@ -392,7 +391,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
-| TikTok | Data Analyst Project Intern (Partnership/Vendor Management) - 2026 Start | 25 Nov 2026 | - |
+| TikTok | Business Analytics &amp; Strategy Project Intern (GBS) - 2026 Start | 25 Nov 2026 | - |
+| ↳ | Data Analyst Project Intern (Partnership/Vendor Management) - 2026 Start | 25 Nov 2026 | - |
 | Airwallex | Software Engineer Intern (Summer 2027) | 25 Nov 2026 | - |
 | ↳ | Software Engineer Intern (Jan to Jun 2027) | 25 Nov 2026 | - |
 | NLB National Library Board | Video Analytics Intern, Properties &amp; Facilities Management | 25 Nov 2026 | - |
@@ -465,8 +465,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | Complete | 12 |
-| workday:uobgroup | Complete | 1 |
+| workday:ocbc | ⚠️ Incomplete — previous listings retained | 4 |
+| workday:uobgroup | ⚠️ Incomplete — previous listings retained | 1 |
 | workday:amat | Complete | 6 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | ⚠️ Incomplete — previous listings retained | 0 |
@@ -535,19 +535,19 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:CliffordChance | Complete | 0 |
 | greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |
-| workable:covergo | ⚠️ Incomplete — previous listings retained | 0 |
+| workable:covergo | Complete | 0 |
 | ashby:cursor | Complete | 0 |
 | ashby:deepgram | Complete | 0 |
 | smartrecruiters:DeliveryHero | Complete | 0 |
 | workday:disney | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
-| workable:epos | ⚠️ Incomplete — previous listings retained | 0 |
+| workable:epos | Complete | 1 |
 | smartrecruiters:Eurofins | Complete | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
 | smartrecruiters:Experian | Complete | 0 |
 | smartrecruiters:Fastmarkets | Complete | 0 |
-| workable:first-circle | ⚠️ Incomplete — previous listings retained | 0 |
+| workable:first-circle | Complete | 0 |
 | greenhouse:flexport | Complete | 0 |
 | greenhouse:forter | Complete | 0 |
 | smartrecruiters:Freshworks | Complete | 0 |
@@ -579,8 +579,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:paypal | Complete | 4 |
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |
-| workable:porsche-asia-pacific | ⚠️ Incomplete — previous listings retained | 0 |
-| workable:qcp-group | ⚠️ Incomplete — previous listings retained | 0 |
+| workable:porsche-asia-pacific | Complete | 1 |
+| workable:qcp-group | Complete | 4 |
 | greenhouse:qualtrics | Complete | 0 |
 | workday:razer | Complete | 7 |
 | greenhouse:relex | Complete | 0 |
@@ -602,11 +602,11 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:twilio | Complete | 0 |
 | greenhouse:workato | Complete | 1 |
 | greenhouse:xendit | Complete | 0 |
-| workable:youtrip | ⚠️ Incomplete — previous listings retained | 0 |
+| workable:youtrip | Complete | 1 |
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 4 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 6 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 2 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

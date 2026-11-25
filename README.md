@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**347 current or undated listings · 10 older advertised periods · 44 employers with roles**
+**344 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **25 Nov 2026, 11:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **25 Nov 2026, 11:41 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -175,8 +175,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Campus Python Software Engineer (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027955>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | ↳ | Campus C++ Software Engineer (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027946>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | ↳ | Campus AI/ML Researcher (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027938>) | - | 24 Aug 2026 | 24 Sep 2026 |
-| Airwallex | Software Engineer Intern (Summer 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795>) | Summer 2027 | 12 Nov 2026 | 24 Sep 2026 |
-| ↳ | Software Engineer Intern (Jan to Jun 2027) | [Apply](<https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441>) | Jan to Jun 2027 | 12 Nov 2026 | 24 Sep 2026 |
 | Micron | Intern, Facilities AI Engineering | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170>) | Jan to Jun 2027 | 19 Nov 2026 | 24 Sep 2026 |
 | ↳ | Intern - Probe Automation | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Probe-Automation_JR112385>) | - | 05 Nov 2026 | 24 Sep 2026 |
 | ↳ | Intern - PEE CVD/PVD | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CVD-PVD_JR111619>) | - | 06 Nov 2026 | 24 Sep 2026 |
@@ -279,7 +277,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Data Analyst Project Intern (TikTok Shop) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7592508772818946309>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | Data Analyst Project Intern (Safety Model Operations) - 2026 Start（BS/MS） | [Apply](<https://lifeattiktok.com/search/7591813115424246069>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | Data Analyst Project Intern (Safety Model Operations) - 2026 Start (BS/MS） | [Apply](<https://lifeattiktok.com/search/7504596715490019592>) | 2026 Start | - | 24 Sep 2026 |
-| ↳ | Data Analyst Project Intern (Partnership/Vendor Management) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7665629115644627205>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | Data Analyst Project Intern (Measurement, CALM) - 2026 Start | [Apply](<https://lifeattiktok.com/search/7677522750321838341>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | Data Analyst Project Intern (Eco &amp; Social Creation) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7660813794880604469>) | 2026 Start | - | 24 Sep 2026 |
 | ↳ | Data Analyst Project Intern (Automation &amp; Business Insights) - 2026 Start (BS/MS） | [Apply](<https://lifeattiktok.com/search/7637462393886411061>) | 2026 Start | - | 24 Sep 2026 |
@@ -395,6 +392,9 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| TikTok | Data Analyst Project Intern (Partnership/Vendor Management) - 2026 Start | 25 Nov 2026 | - |
+| Airwallex | Software Engineer Intern (Summer 2027) | 25 Nov 2026 | - |
+| ↳ | Software Engineer Intern (Jan to Jun 2027) | 25 Nov 2026 | - |
 | NLB National Library Board | Video Analytics Intern, Properties &amp; Facilities Management | 25 Nov 2026 | - |
 | Carousell Group | Product Design Intern (Design Systems &amp; AI Workflows)\_Jan 2027 | 24 Nov 2026 | - |
 | Bosch | Intern, AIot Software Developer | 24 Nov 2026 | - |
@@ -459,7 +459,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:shopback-2 | Complete | 4 |
 | greenhouse:temus | Complete | 0 |
 | greenhouse:drweng | Complete | 1 |
-| bytedance:tiktok | Complete | 133 |
+| bytedance:tiktok | Complete | 132 |
 | bytedance:bytedance | Complete | 34 |
 | shopee:shopee | Complete | 34 |
 | sea:sea | Complete | 7 |
@@ -510,7 +510,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 2 |
+| workday:sggovterp | Complete | 2 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |
@@ -535,19 +535,19 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:CliffordChance | Complete | 0 |
 | greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |
-| workable:covergo | Complete | 0 |
+| workable:covergo | ⚠️ Incomplete — previous listings retained | 0 |
 | ashby:cursor | Complete | 0 |
 | ashby:deepgram | Complete | 0 |
 | smartrecruiters:DeliveryHero | Complete | 0 |
 | workday:disney | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:dyson | Complete | 0 |
 | smartrecruiters:EgisGroup | Complete | 0 |
-| workable:epos | Complete | 1 |
+| workable:epos | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:Eurofins | Complete | 0 |
 | smartrecruiters:Expeditors | Complete | 0 |
 | smartrecruiters:Experian | Complete | 0 |
 | smartrecruiters:Fastmarkets | Complete | 0 |
-| workable:first-circle | Complete | 0 |
+| workable:first-circle | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:flexport | Complete | 0 |
 | greenhouse:forter | Complete | 0 |
 | smartrecruiters:Freshworks | Complete | 0 |
@@ -579,8 +579,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:paypal | Complete | 4 |
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |
-| workable:porsche-asia-pacific | Complete | 1 |
-| workable:qcp-group | Complete | 4 |
+| workable:porsche-asia-pacific | ⚠️ Incomplete — previous listings retained | 0 |
+| workable:qcp-group | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:qualtrics | Complete | 0 |
 | workday:razer | Complete | 7 |
 | greenhouse:relex | Complete | 0 |
@@ -602,7 +602,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:twilio | Complete | 0 |
 | greenhouse:workato | Complete | 1 |
 | greenhouse:xendit | Complete | 0 |
-| workable:youtrip | Complete | 1 |
+| workable:youtrip | ⚠️ Incomplete — previous listings retained | 0 |
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 4 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |

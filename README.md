@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**346 current or undated listings · 10 older advertised periods · 43 employers with roles**
+**347 current or undated listings · 10 older advertised periods · 44 employers with roles**
 
-Last collection: **26 Nov 2026, 10:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Nov 2026, 11:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Manulife | 🆕 Summer Internship - Distribution Lead Generation &amp; Analytics Intern | [Apply](<https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Singapore/Summer-Internship---Distribution-Lead-Generation---Analytics-Intern_JR26111294>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | Micron | 🆕 Intern - CVD/ PVD Technician | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---CVD--PVD-Technician_JR117869>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | ↳ | 🆕 Intern – Yield Analysis &amp; AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Yield-Analysis---AI_JR118367>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | AMD | 🆕 2027 Term 2 Internship - IC Design Exploration | [Apply](<https://careers.amd.com/students/jobs/103689>) | May 2027 Start / July 2027 Start | 25 Nov 2026 | 25 Nov 2026 |
@@ -462,7 +463,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | Source board | Latest check | Matching roles returned |
 | --- | --- | --- |
 | smartrecruiters:Grab | Complete | 1 |
-| lever:shopback-2 | Complete | 4 |
+| lever:shopback-2 | Complete | 3 |
 | greenhouse:temus | Complete | 0 |
 | greenhouse:drweng | Complete | 1 |
 | bytedance:tiktok | Complete | 133 |
@@ -537,7 +538,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:broadcom | Complete | 0 |
 | workday:carrier | Complete | 0 |
 | ashby:chalk | Complete | 0 |
-| workday:citi | Complete | 0 |
+| workday:citi | ⚠️ Incomplete — previous listings retained | 0 |
 | smartrecruiters:CliffordChance | Complete | 0 |
 | greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |
@@ -573,7 +574,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:launchdarkly | Complete | 0 |
 | workday:logitech | Complete | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
-| workday:manulife | Complete | 0 |
+| workday:manulife | Complete | 1 |
 | workday:marvell | Complete | 3 |
 | workday:mastercard | Complete | 0 |
 | lever:matchgroup | Complete | 0 |

@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **354 current or undated listings · 10 older advertised periods · 45 employers with roles**
 
-Last collection: **26 Nov 2026, 22:36 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Nov 2026, 23:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -483,7 +483,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 12 |
 | workday:uobgroup | Complete | 6 |
-| workday:amat | Complete | 6 |
+| workday:amat | ⚠️ Incomplete — previous listings retained | 6 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:micron | Complete | 14 |
@@ -535,7 +535,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
 | smartrecruiters:Wise | Complete | 0 |
-| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:AccorHotel | Complete | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |

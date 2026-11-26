@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**345 current or undated listings · 10 older advertised periods · 43 employers with roles**
+**346 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **26 Nov 2026, 10:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Nov 2026, 10:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,7 +20,8 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| Micron | 🆕 Intern – Yield Analysis &amp; AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Yield-Analysis---AI_JR118367>) | - | 26 Nov 2026 | 26 Nov 2026 |
+| Micron | 🆕 Intern - CVD/ PVD Technician | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---CVD--PVD-Technician_JR117869>) | - | 26 Nov 2026 | 26 Nov 2026 |
+| ↳ | 🆕 Intern – Yield Analysis &amp; AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Yield-Analysis---AI_JR118367>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | AMD | 🆕 2027 Term 2 Internship - IC Design Exploration | [Apply](<https://careers.amd.com/students/jobs/103689>) | May 2027 Start / July 2027 Start | 25 Nov 2026 | 25 Nov 2026 |
 | ↳ | 🆕 2027 Term 2 Internship – Wafer Sort/Final Test Thermal Mechanical hardware development Engineer | [Apply](<https://careers.amd.com/students/jobs/103678>) | May 2027 Start / July 2027 Start | 25 Nov 2026 | 25 Nov 2026 |
 | ↳ | 🆕 2027 Term 2 Internship – Developing AI &amp; Data Science Solutions to Accelerate AMD's Product Development | [Apply](<https://careers.amd.com/students/jobs/103655>) | May 2027 Start / July 2027 Start | 25 Nov 2026 | 25 Nov 2026 |
@@ -470,12 +471,12 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:ocbc | Complete | 12 |
 | workday:uobgroup | Complete | 1 |
 | workday:amat | Complete | 6 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:micron | Complete | 13 |
+| workday:micron | Complete | 14 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 4 |
 | amazon:amazon | Complete | 5 |

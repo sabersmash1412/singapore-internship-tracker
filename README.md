@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **354 current or undated listings · 10 older advertised periods · 45 employers with roles**
 
-Last collection: **26 Nov 2026, 23:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **27 Nov 2026, 00:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -486,7 +486,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:amat | Complete | 6 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:micron | Complete | 14 |
+| workday:micron | Complete | 9 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 4 |
 | amazon:amazon | Complete | 5 |
@@ -526,7 +526,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | Complete | 2 |
+| workday:sggovterp | Complete | 0 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |

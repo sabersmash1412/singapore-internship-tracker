@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**351 current or undated listings · 10 older advertised periods · 44 employers with roles**
+**352 current or undated listings · 10 older advertised periods · 44 employers with roles**
 
-Last collection: **26 Nov 2026, 18:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Nov 2026, 19:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,7 +20,8 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| UOB | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102293>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
+| UOB | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102290>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
+| ↳ | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102293>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
 | ↳ | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102289>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
 | ↳ | 🆕 GenAI and Data Analytics Intern (Jan - Dec 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Jan---Dec-2027-_JR102292>) | Jan - Dec 2027 | 26 Nov 2026 | 26 Nov 2026 |
 | ↳ | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102279-1>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
@@ -479,7 +480,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 12 |
-| workday:uobgroup | Complete | 5 |
+| workday:uobgroup | Complete | 6 |
 | workday:amat | Complete | 6 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | ⚠️ Incomplete — previous listings retained | 0 |

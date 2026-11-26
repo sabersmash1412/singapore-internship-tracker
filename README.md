@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **347 current or undated listings · 10 older advertised periods · 44 employers with roles**
 
-Last collection: **26 Nov 2026, 11:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Nov 2026, 12:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,7 +20,8 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| Manulife | 🆕 Summer Internship - Distribution Lead Generation &amp; Analytics Intern | [Apply](<https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Singapore/Summer-Internship---Distribution-Lead-Generation---Analytics-Intern_JR26111294>) | - | 26 Nov 2026 | 26 Nov 2026 |
+| Manulife | 🆕 Summer Internship - Distribution Insights &amp; Analytics Intern | [Apply](<https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Singapore/Summer-Internship---Distribution-Insights---Analytics-Intern_JR26111293>) | - | 26 Nov 2026 | 26 Nov 2026 |
+| ↳ | 🆕 Summer Internship - Distribution Lead Generation &amp; Analytics Intern | [Apply](<https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Singapore/Summer-Internship---Distribution-Lead-Generation---Analytics-Intern_JR26111294>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | Micron | 🆕 Intern - CVD/ PVD Technician | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---CVD--PVD-Technician_JR117869>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | ↳ | 🆕 Intern – Yield Analysis &amp; AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Yield-Analysis---AI_JR118367>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | AMD | 🆕 2027 Term 2 Internship - IC Design Exploration | [Apply](<https://careers.amd.com/students/jobs/103689>) | May 2027 Start / July 2027 Start | 25 Nov 2026 | 25 Nov 2026 |
@@ -200,7 +201,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | College Intern - Process &amp; hardware development in PVD Al chambers for N3,N5 and more advanced nodes. | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-Al-chambers-for-N3-N5-and-more-advanced-nodes_R2626935>) | - | 07 Sep 2026 | 24 Sep 2026 |
 | ↳ | College Intern - Job Description Metrology, Defect Inspection, and Data Analytics for Die-to-Wafer Hybrid Bonding | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/College-Intern_R2624343>) | - | 04 Sep 2026 | 24 Sep 2026 |
 | TikTok | Product Operations Project Intern (System &amp; Quality) - 2026 Start (BS/MS) | [Apply](<https://lifeattiktok.com/search/7598408632911317253>) | 2026 Start | - | 24 Sep 2026 |
-| ShopBack | Site Reliability Engineer Intern | [Apply](<https://jobs.lever.co/shopback-2/df5ed7cf-eb1f-4f17-ad11-35ad6011412c>) | H1 2027 | - | 24 Sep 2026 |
 | ByteDance | Site Reliability Engineer Intern (Video and Edge, CDN Platform) - 2027 Start | [Apply](<https://joinbytedance.com/search/7665225726098098485>) | 2027 Start | - | 24 Sep 2026 |
 | TikTok | Multimodal LLM Algorithm Engineer Intern (Global E-Commerce, Knowledge Graph) - 2027 Start (PhD) | [Apply](<https://lifeattiktok.com/search/7666288065149372677>) | 2027 Start | - | 24 Sep 2026 |
 | ↳ | Multimodal LLM Algorithm Engineer Intern (Global E-Commerce, Knowledge Graph) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7666295064989419781>) | 2027 Start | - | 24 Sep 2026 |
@@ -395,6 +395,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| ShopBack | Site Reliability Engineer Intern | 26 Nov 2026 | - |
 | Razer | Data Science Intern | 25 Nov 2026 | - |
 | AMD | 2027 Term 1 Internship – Developing AI &amp; Data Science Solutions to Accelerate AMD's Product Development | 25 Nov 2026 | - |
 | ↳ | 2027 Term 1 Internship – AI-Driven BOM Generation &amp; Management | 25 Nov 2026 | - |
@@ -574,7 +575,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:launchdarkly | Complete | 0 |
 | workday:logitech | Complete | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
-| workday:manulife | Complete | 1 |
+| workday:manulife | Complete | 2 |
 | workday:marvell | Complete | 3 |
 | workday:mastercard | Complete | 0 |
 | lever:matchgroup | Complete | 0 |

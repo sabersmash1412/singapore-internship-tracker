@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**354 current or undated listings · 10 older advertised periods · 45 employers with roles**
+**347 current or undated listings · 10 older advertised periods · 44 employers with roles**
 
-Last collection: **27 Nov 2026, 00:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **27 Nov 2026, 00:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -72,9 +72,7 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Full Stack Software Engineer Intern | [Apply](<https://paypal.wd1.myworkdayjobs.com/jobs/job/Central-Singapore-Singapore/Full-Stack-Software-Engineer-Intern_R0138930>) | - | 18 Nov 2026 | 20 Nov 2026 |
 | ↳ | Cybersecurity Risk Intern | [Apply](<https://paypal.wd1.myworkdayjobs.com/jobs/job/Central-Singapore-Singapore/Cybersecurity-Risk-Intern_R0138933>) | - | 18 Nov 2026 | 20 Nov 2026 |
 | ↳ | Cyber Defense Intern | [Apply](<https://paypal.wd1.myworkdayjobs.com/jobs/job/Central-Singapore-Singapore/Cyber-Defense-Intern_R0138932>) | - | 18 Nov 2026 | 20 Nov 2026 |
-| Micron | Intern - HIG HBM Product System Engineering, Media Health Reliability | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HIG-HBM-Product-System-Engineering--Media-Health-Reliability_JR114360>) | - | 16 Nov 2026 | 20 Nov 2026 |
-| ↳ | Intern - HIG HBM Product &amp; System Engineering, Media Health Reliability | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HIG-HBM-Product---System-Engineering--Media-Health-Reliability_JR114368>) | - | 16 Nov 2026 | 20 Nov 2026 |
-| ↳ | Intern - Firmware and Product Test Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Firmware-and-Product-Test-Engineer_JR117288>) | - | 19 Nov 2026 | 20 Nov 2026 |
+| Micron | Intern - Firmware and Product Test Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Firmware-and-Product-Test-Engineer_JR117288>) | - | 19 Nov 2026 | 20 Nov 2026 |
 | ↳ | Intern - CVD/ALD Advanced Process Development | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---CVD-ALD-Advanced-Process-Development_JR115496>) | - | 05 Nov 2026 | 20 Nov 2026 |
 | ↳ | Intern - AI Product Management | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---AI-Product-Management_JR112782>) | - | 13 Nov 2026 | 20 Nov 2026 |
 | Applied Materials | College Intern - Process development in PVD Ventura chambers for TSV application | [Apply](<https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-development-in-PVD-Ventura-chambers-for-TSV-application_R2630106>) | - | 18 Nov 2026 | 20 Nov 2026 |
@@ -127,7 +125,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Amazon | Data Center Infrastructure Engineering Intern, Colocation Regional Engineering | [Apply](<https://www.amazon.jobs/en/jobs/10507775/data-center-infrastructure-engineering-intern-colocation-regional-engineering>) | Jan 2027 – June 2027 | 06 Oct 2026 | 17 Oct 2026 |
 | ↳ | Commissioning Program Analyst Intern, Data Center Capacity Delivery APJC | [Apply](<https://www.amazon.jobs/en/jobs/10563228/commissioning-program-analyst-intern-data-center-capacity-delivery-apjc>) | Jan 2027 – June 2027 | 13 Oct 2026 | 16 Oct 2026 |
 | DBS | 2027 DBS Internship (Technology and AI &amp; Data Science) | [Apply](<https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME-2027-DBS-Internship--Technology-and-AI---Data-Science-_WD89681>) | - | 20 Nov 2026 | 16 Oct 2026 |
-| Micron | Intern - PEE CVD | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CVD_JR112661>) | - | 23 Oct 2026 | 15 Oct 2026 |
 | Shopee | Data Analyst Intern - Business Intelligence, Regional Logistics (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02200192/1>) | Spring 2027 | - | 15 Oct 2026 |
 | ↳ | AI Automation &amp; Operations Intelligence Intern - Regional SPX Express (Spring 2027) | [Apply](<https://careers.shopee.sg/job-detail/J02200208/1>) | Spring 2027 | - | 15 Oct 2026 |
 | Grab | Intern, Software Engineer - Backend | [Apply](<https://jobs.smartrecruiters.com/Grab/744000155671079>) | - | 15 Oct 2026 | 15 Oct 2026 |
@@ -167,8 +164,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Quantitative Researcher Intern, Bachelor's or Master's | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8168750>) | - | 01 Sep 2026 | 24 Sep 2026 |
 | ↳ | Quantitative Developer Intern | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8138524>) | - | 18 Aug 2026 | 24 Sep 2026 |
 | Stripe | Software Engineer, Intern | [Apply](<https://stripe.com/jobs/search?gh_jid=8130883>) | - | 07 Sep 2026 | 24 Sep 2026 |
-| SLA Singapore Land Authority | Intern, GeoSpatial Systems &amp; Solutions | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/SLA-REVENUE-HOUSE-LEVEL-11/Intern--GeoSpatial-Systems---Solutions_JR-10000054096>) | - | 13 Nov 2026 | 24 Sep 2026 |
-| ↳ | Intern, Finance Process Automation | [Apply](<https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/SLA-REVENUE-HOUSE-LEVEL-11/intern_JR-10000036273>) | Oct 2026 to Feb 2027 / Jan 2027 to June 2027 | 06 Nov 2026 | 24 Sep 2026 |
 | Portcast | Data Analyst Intern | [Apply](<https://jobs.lever.co/portcast/f18cc64e-c34a-416c-b213-62a39906260e>) | - | - | 24 Sep 2026 |
 | Palantir Technologies | Software Engineer, Internship | [Apply](<https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1>) | - | - | 24 Sep 2026 |
 | NCS | \[Uni – Jan till Jun 2027\] Agentic AI Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001275993>) | Jan till Jun 2027 | 31 Jul 2026 | 24 Sep 2026 |
@@ -190,8 +185,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | Campus C++ Software Engineer (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027946>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | ↳ | Campus AI/ML Researcher (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027938>) | - | 24 Aug 2026 | 24 Sep 2026 |
 | Micron | Intern, Facilities AI Engineering | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170>) | Jan to Jun 2027 | 19 Nov 2026 | 24 Sep 2026 |
-| ↳ | Intern - Probe Automation | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Probe-Automation_JR112385>) | - | 05 Nov 2026 | 24 Sep 2026 |
-| ↳ | Intern - PEE CVD/PVD | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CVD-PVD_JR111619>) | - | 06 Nov 2026 | 24 Sep 2026 |
 | ↳ | Intern - F10 CVD PEE | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-CVD-PEE_JR97726>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | Apple | Information Security Internship Program (FY27 Summer Intake) | [Apply](<https://jobs.apple.com/en-us/details/200684585-3278/information-security-internship-program-fy27-summer-intake>) | - | 18 Sep 2026 | 24 Sep 2026 |
 | ↳ | 2027 Apple Internship - Information Systems and Technology | [Apply](<https://jobs.apple.com/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology>) | - | 04 Nov 2026 | 24 Sep 2026 |
@@ -402,6 +395,13 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| SLA Singapore Land Authority | Intern, Finance Process Automation | 27 Nov 2026 | - |
+| ↳ | Intern, GeoSpatial Systems &amp; Solutions | 27 Nov 2026 | - |
+| Micron | Intern - Probe Automation | 27 Nov 2026 | - |
+| ↳ | Intern - PEE CVD | 27 Nov 2026 | - |
+| ↳ | Intern - PEE CVD/PVD | 27 Nov 2026 | - |
+| ↳ | Intern - HIG HBM Product System Engineering, Media Health Reliability | 27 Nov 2026 | - |
+| ↳ | Intern - HIG HBM Product &amp; System Engineering, Media Health Reliability | 27 Nov 2026 | - |
 | TikTok | AI Data Project Management - Project Intern (TikTok AI Data Service and Operations) - 2027 Start | 26 Nov 2026 | - |
 | ShopBack | Site Reliability Engineer Intern | 26 Nov 2026 | - |
 | Razer | Data Science Intern | 25 Nov 2026 | - |

@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**352 current or undated listings · 10 older advertised periods · 44 employers with roles**
+**354 current or undated listings · 10 older advertised periods · 45 employers with roles**
 
-Last collection: **26 Nov 2026, 20:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Nov 2026, 21:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,8 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| KLA | 🆕 Electrical AI Robotic Engineer (Internship) | [Apply](<https://kla.wd1.myworkdayjobs.com/Search/job/Singapore-Singapore/Electrical-AI-Robotic-Engineer--Internship-_2643499>) | - | 26 Nov 2026 | 26 Nov 2026 |
+| ↳ | 🆕 AI/ML Engineer (Internship) | [Apply](<https://kla.wd1.myworkdayjobs.com/Search/job/Singapore-Singapore/AI-ML-Engineer--Internship-_2643698>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | UOB | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102290>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
 | ↳ | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102293>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
 | ↳ | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102289>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
@@ -576,7 +578,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:Intuitive | Complete | 0 |
 | workday:jll | Complete | 0 |
 | workday:jci | Complete | 2 |
-| workday:kla | Complete | 0 |
+| workday:kla | Complete | 2 |
 | ashby:langchain | Complete | 0 |
 | greenhouse:launchdarkly | Complete | 0 |
 | workday:logitech | Complete | 0 |

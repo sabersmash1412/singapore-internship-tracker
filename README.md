@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**347 current or undated listings · 10 older advertised periods · 44 employers with roles**
+**348 current or undated listings · 10 older advertised periods · 44 employers with roles**
 
-Last collection: **27 Nov 2026, 00:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **27 Nov 2026, 01:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,6 +20,7 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Micron | 🆕 Intern - Data Scientist | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---Data-Scientist_JR118296>) | - | 27 Nov 2026 | 27 Nov 2026 |
 | KLA | 🆕 Electrical AI Robotic Engineer (Internship) | [Apply](<https://kla.wd1.myworkdayjobs.com/Search/job/Singapore-Singapore/Electrical-AI-Robotic-Engineer--Internship-_2643499>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | ↳ | 🆕 AI/ML Engineer (Internship) | [Apply](<https://kla.wd1.myworkdayjobs.com/Search/job/Singapore-Singapore/AI-ML-Engineer--Internship-_2643698>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | UOB | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102290>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
@@ -486,7 +487,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:amat | Complete | 6 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:micron | Complete | 9 |
+| workday:micron | Complete | 10 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 4 |
 | amazon:amazon | Complete | 5 |

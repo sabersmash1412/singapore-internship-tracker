@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**348 current or undated listings · 10 older advertised periods · 44 employers with roles**
+**351 current or undated listings · 10 older advertised periods · 44 employers with roles**
 
-Last collection: **26 Nov 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **26 Nov 2026, 18:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,7 +20,10 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| UOB | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102279-1>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
+| UOB | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102293>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
+| ↳ | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102289>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
+| ↳ | 🆕 GenAI and Data Analytics Intern (Jan - Dec 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Jan---Dec-2027-_JR102292>) | Jan - Dec 2027 | 26 Nov 2026 | 26 Nov 2026 |
+| ↳ | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102279-1>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
 | TikTok | 🆕 Backend Software Engineer - Intern (TikTok Privacy and Security) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7711598958485408053>) | 2027 Start | - | 26 Nov 2026 |
 | Manulife | 🆕 Summer Internship - Distribution Insights &amp; Analytics Intern | [Apply](<https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Singapore/Summer-Internship---Distribution-Insights---Analytics-Intern_JR26111293>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | ↳ | 🆕 Summer Internship - Distribution Lead Generation &amp; Analytics Intern | [Apply](<https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Singapore/Summer-Internship---Distribution-Lead-Generation---Analytics-Intern_JR26111294>) | - | 26 Nov 2026 | 26 Nov 2026 |
@@ -475,8 +478,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | ⚠️ Incomplete — previous listings retained | 11 |
-| workday:uobgroup | Complete | 2 |
+| workday:ocbc | Complete | 12 |
+| workday:uobgroup | Complete | 5 |
 | workday:amat | Complete | 6 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | ⚠️ Incomplete — previous listings retained | 0 |
@@ -528,8 +531,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:trustbank | Complete | 0 |
 | greenhouse:verkada | Complete | 0 |
 | smartrecruiters:WesternDigital | Complete | 0 |
-| smartrecruiters:Wise | ⚠️ Incomplete — previous listings retained | 0 |
-| smartrecruiters:AccorHotel | Complete | 0 |
+| smartrecruiters:Wise | Complete | 0 |
+| smartrecruiters:AccorHotel | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:aia | Complete | 0 |
 | lever:airalo | Complete | 0 |
 | greenhouse:airbnb | Complete | 0 |

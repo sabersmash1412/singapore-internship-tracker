@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **335 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **28 Nov 2026, 03:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **28 Nov 2026, 03:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -478,8 +478,8 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | --- | --- | --- |
 | smartrecruiters:Grab | Complete | 1 |
 | lever:shopback-2 | Complete | 3 |
-| greenhouse:temus | ⚠️ Incomplete — previous listings retained | 0 |
-| greenhouse:drweng | ⚠️ Incomplete — previous listings retained | 0 |
+| greenhouse:temus | Complete | 0 |
+| greenhouse:drweng | Complete | 1 |
 | bytedance:tiktok | Complete | 133 |
 | bytedance:bytedance | Complete | 34 |
 | shopee:shopee | Complete | 34 |

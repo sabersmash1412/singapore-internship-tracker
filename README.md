@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**347 current or undated listings · 10 older advertised periods · 44 employers with roles**
+**346 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **27 Nov 2026, 10:32 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **27 Nov 2026, 11:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -145,7 +145,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | AI &amp; Automation Intern, Procurement (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/AI-&-Automation-Intern%2C-Procurement-%28Jan-Jun-2027%29-238891/1369203757/>) | Jan - Jun 2027 | 06 Nov 2026 | 28 Sep 2026 |
 | ↳ | AI &amp; Analytics Intern, Financial Management (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/AI-&-Analytics-Intern%2C-Financial-Management-%28Jan-Jun-2027%29-238891/1369196257/>) | Jan - Jun 2027 | 06 Nov 2026 | 28 Sep 2026 |
 | Singtel | Data Analyst Intern (Reporting &amp; Insights) | [Apply](<https://groupcareers.singtel.com/job/Data-Analyst-Intern-%28Reporting-&-Insights%29-Sing/1367826466/>) | - | 20 Nov 2026 | 28 Sep 2026 |
-| YouTrip | Data Analytics Intern | [Apply](<https://apply.workable.com/j/34787A0AE7>) | - | 02 Sep 2026 | 28 Sep 2026 |
 | Workato | Intern, Data Engineering | [Apply](<https://www.workato.com/careers?gh_jid=8731177002#open-roles>) | - | 02 Sep 2026 | 28 Sep 2026 |
 | Thales | Software Engineer Intern | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_R0339658>) | - | 09 Sep 2026 | 28 Sep 2026 |
 | ↳ | Software Development and Integration Engineer (Intern) | [Apply](<https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339158>) | - | 04 Sep 2026 | 28 Sep 2026 |
@@ -395,6 +394,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| YouTrip | Data Analytics Intern | 27 Nov 2026 | - |
 | Applied Materials | College Intern - Process development in PVD Ventura chambers for TSV application | 27 Nov 2026 | - |
 | SLA Singapore Land Authority | Intern, Finance Process Automation | 27 Nov 2026 | - |
 | ↳ | Intern, GeoSpatial Systems &amp; Solutions | 27 Nov 2026 | - |
@@ -482,7 +482,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | sea:sea | Complete | 7 |
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
-| workday:ocbc | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:ocbc | ⚠️ Incomplete — previous listings retained | 4 |
 | workday:uobgroup | Complete | 6 |
 | workday:amat | Complete | 5 |
 | workday:globalfoundries | Complete | 9 |
@@ -527,7 +527,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:rubrik | Complete | 0 |
 | smartrecruiters:ServiceNow | Complete | 0 |
 | greenhouse:simplifynext | Complete | 0 |
-| workday:sggovterp | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:sggovterp | Complete | 0 |
 | greenhouse:stripe | Complete | 2 |
 | ashby:supabase | Complete | 0 |
 | greenhouse:thunes | Complete | 0 |
@@ -623,7 +623,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:zscaler | Complete | 0 |
 | successfactors:singtel | Complete | 4 |
 | successfactors:stengg | ⚠️ Incomplete — previous listings retained | 0 |
-| successfactors:temasek | Complete | 6 |
+| successfactors:temasek | ⚠️ Incomplete — previous listings retained | 4 |
 
 A failed source can leave older listings visible. Check the collection date above and confirm availability on the employer’s page.
 

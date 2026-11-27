@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**348 current or undated listings · 10 older advertised periods · 43 employers with roles**
+**344 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **27 Nov 2026, 15:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **27 Nov 2026, 16:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,7 +20,8 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| Micron | 🆕 Intern - Probe Automation | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Probe-Automation_JR118503>) | - | 27 Nov 2026 | 27 Nov 2026 |
+| Micron | 🆕 Intern – Process Engineering Technician (CVD) | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Process-Engineering-Technician--CVD-_JR117867>) | - | 27 Nov 2026 | 27 Nov 2026 |
+| ↳ | 🆕 Intern - Probe Automation | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Probe-Automation_JR118503>) | - | 27 Nov 2026 | 27 Nov 2026 |
 | ↳ | 🆕 Intern - Manufacturing CVD Technician | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Manufacturing-CVD-Technician_JR118495>) | - | 27 Nov 2026 | 27 Nov 2026 |
 | ↳ | 🆕 Intern - Probe Automation | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Probe-Automation_JR118502>) | - | 27 Nov 2026 | 27 Nov 2026 |
 | ↳ | 🆕 Intern - Data Scientist | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---Data-Scientist_JR118296>) | - | 27 Nov 2026 | 27 Nov 2026 |
@@ -167,18 +168,13 @@ These roles remain listed in employer sources; confirm application availability 
 | Stripe | Software Engineer, Intern | [Apply](<https://stripe.com/jobs/search?gh_jid=8130883>) | - | 07 Sep 2026 | 24 Sep 2026 |
 | Portcast | Data Analyst Intern | [Apply](<https://jobs.lever.co/portcast/f18cc64e-c34a-416c-b213-62a39906260e>) | - | - | 24 Sep 2026 |
 | Palantir Technologies | Software Engineer, Internship | [Apply](<https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1>) | - | - | 24 Sep 2026 |
-| NCS | \[Uni – Jan till Jun 2027\] Agentic AI Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001275993>) | Jan till Jun 2027 | 31 Jul 2026 | 24 Sep 2026 |
-| ↳ | \[Uni - Jan till Jun 2027\] Software Engineering Intern (Low Code) | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287390>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
+| NCS | \[Uni - Jan till Jun 2027\] Software Engineering Intern (Low Code) | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287390>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] Software Engineer/ Business Analyst Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287535>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
-| ↳ | \[Uni - Jan till Jun 2027\] Software Engineer and Data Analytics Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001308503>) | Jan till Jun 2027 | 12 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] Physical AI Security Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001344206>) | Jan till Jun 2027 | 24 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] Legal AI Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287841>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] IT Operations &amp; Service Management Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287819>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] DevOps &amp; Enterprise Architect Assistant Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001288434>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
-| ↳ | \[Uni - Jan till Jun 2027\] AI Software Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287295>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] AI Presales &amp; Solution Engineering Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287889>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
-| ↳ | \[Uni - Jan till Jun 2027\] AI Engineer Intern (Middleware) | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001288481>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
-| ↳ | \[Uni - Jan till Jun 2027\] AI Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287239>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | Jump Trading | Campus Systems Engineer (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027952>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | ↳ | Campus Quantitative Trader (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027941>) | - | 03 Aug 2026 | 24 Sep 2026 |
 | ↳ | Campus Quantitative Researcher (Intern) | [Apply](<https://www.jumptrading.com/hr/job?gh_jid=8027939>) | - | 03 Aug 2026 | 24 Sep 2026 |
@@ -396,6 +392,11 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| NCS | \[Uni - Jan till Jun 2027\] Software Engineer and Data Analytics Intern | 27 Nov 2026 | - |
+| ↳ | \[Uni - Jan till Jun 2027\] AI Engineer Intern (Middleware) | 27 Nov 2026 | - |
+| ↳ | \[Uni - Jan till Jun 2027\] AI Software Engineer Intern | 27 Nov 2026 | - |
+| ↳ | \[Uni - Jan till Jun 2027\] AI Engineer Intern | 27 Nov 2026 | - |
+| ↳ | \[Uni – Jan till Jun 2027\] Agentic AI Intern | 27 Nov 2026 | - |
 | Temasek | Data Analytics/Science Intern, People Technology (Jan - Jun 2027) | 27 Nov 2026 | - |
 | YouTrip | Data Analytics Intern | 27 Nov 2026 | - |
 | Applied Materials | College Intern - Process development in PVD Ventura chambers for TSV application | 27 Nov 2026 | - |
@@ -490,7 +491,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:amat | Complete | 5 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:micron | Complete | 13 |
+| workday:micron | Complete | 14 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 4 |
 | amazon:amazon | Complete | 5 |
@@ -520,7 +521,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | lever:lalamove | Complete | 0 |
 | ashby:lumilens | Complete | 0 |
 | greenhouse:mongodb | Complete | 0 |
-| smartrecruiters:NCS3 | Complete | 9 |
+| smartrecruiters:NCS3 | Complete | 6 |
 | lever:nium | Complete | 0 |
 | greenhouse:okx | Complete | 0 |
 | ashby:openai | Complete | 0 |

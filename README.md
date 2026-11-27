@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**341 current or undated listings · 10 older advertised periods · 43 employers with roles**
+**338 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **27 Nov 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **27 Nov 2026, 17:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -27,11 +27,8 @@ These roles remain listed in employer sources; confirm application availability 
 | ↳ | 🆕 Intern - Data Scientist | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---Data-Scientist_JR118296>) | - | 27 Nov 2026 | 27 Nov 2026 |
 | KLA | 🆕 Electrical AI Robotic Engineer (Internship) | [Apply](<https://kla.wd1.myworkdayjobs.com/Search/job/Singapore-Singapore/Electrical-AI-Robotic-Engineer--Internship-_2643499>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | ↳ | 🆕 AI/ML Engineer (Internship) | [Apply](<https://kla.wd1.myworkdayjobs.com/Search/job/Singapore-Singapore/AI-ML-Engineer--Internship-_2643698>) | - | 26 Nov 2026 | 26 Nov 2026 |
-| UOB | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102290>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
-| ↳ | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102293>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
-| ↳ | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102289>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
+| UOB | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102293>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
 | ↳ | 🆕 GenAI and Data Analytics Intern (Jan - Dec 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Jan---Dec-2027-_JR102292>) | Jan - Dec 2027 | 26 Nov 2026 | 26 Nov 2026 |
-| ↳ | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102279-1>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
 | TikTok | 🆕 Backend Software Engineer - Intern (TikTok Privacy and Security) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7711598958485408053>) | 2027 Start | - | 26 Nov 2026 |
 | Manulife | 🆕 Summer Internship - Distribution Insights &amp; Analytics Intern | [Apply](<https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Singapore/Summer-Internship---Distribution-Insights---Analytics-Intern_JR26111293>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | ↳ | 🆕 Summer Internship - Distribution Lead Generation &amp; Analytics Intern | [Apply](<https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Singapore/Summer-Internship---Distribution-Lead-Generation---Analytics-Intern_JR26111294>) | - | 26 Nov 2026 | 26 Nov 2026 |
@@ -389,6 +386,9 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| UOB | GenAI and Data Analytics Intern (Mar - July 2027) | 27 Nov 2026 | - |
+| ↳ | GenAI and Data Analytics Intern (Mar - July 2027) | 27 Nov 2026 | - |
+| ↳ | GenAI and Data Analytics Intern (Mar - July 2027) | 27 Nov 2026 | - |
 | NCS | \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | 27 Nov 2026 | - |
 | ↳ | \[Uni - Jan till Jun 2027\] Software Engineer/ Business Analyst Intern | 27 Nov 2026 | - |
 | ↳ | \[Uni - Jan till Jun 2027\] Software Engineering Intern (Low Code) | 27 Nov 2026 | - |
@@ -601,7 +601,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | greenhouse:pingidentity | Complete | 0 |
 | greenhouse:pinterest | Complete | 0 |
 | workable:porsche-asia-pacific | Complete | 1 |
-| workable:qcp-group | Complete | 4 |
+| workable:qcp-group | Complete | 1 |
 | greenhouse:qualtrics | Complete | 0 |
 | workday:razer | Complete | 6 |
 | greenhouse:relex | Complete | 0 |

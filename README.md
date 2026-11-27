@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**346 current or undated listings · 10 older advertised periods · 43 employers with roles**
+**348 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **27 Nov 2026, 13:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **27 Nov 2026, 13:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -20,7 +20,9 @@ These roles remain listed in employer sources; confirm application availability 
 
 | Company | Role | Apply | Period | Employer posted | First seen |
 | --- | --- | --- | --- | --- | --- |
-| Micron | 🆕 Intern - Probe Automation | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Probe-Automation_JR118502>) | - | 27 Nov 2026 | 27 Nov 2026 |
+| Micron | 🆕 Intern - Probe Automation | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Probe-Automation_JR118503>) | - | 27 Nov 2026 | 27 Nov 2026 |
+| ↳ | 🆕 Intern - Manufacturing CVD Technician | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Manufacturing-CVD-Technician_JR118495>) | - | 27 Nov 2026 | 27 Nov 2026 |
+| ↳ | 🆕 Intern - Probe Automation | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Probe-Automation_JR118502>) | - | 27 Nov 2026 | 27 Nov 2026 |
 | ↳ | 🆕 Intern - Data Scientist | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---Data-Scientist_JR118296>) | - | 27 Nov 2026 | 27 Nov 2026 |
 | KLA | 🆕 Electrical AI Robotic Engineer (Internship) | [Apply](<https://kla.wd1.myworkdayjobs.com/Search/job/Singapore-Singapore/Electrical-AI-Robotic-Engineer--Internship-_2643499>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | ↳ | 🆕 AI/ML Engineer (Internship) | [Apply](<https://kla.wd1.myworkdayjobs.com/Search/job/Singapore-Singapore/AI-ML-Engineer--Internship-_2643698>) | - | 26 Nov 2026 | 26 Nov 2026 |
@@ -488,7 +490,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:amat | Complete | 5 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | ⚠️ Incomplete — previous listings retained | 0 |
-| workday:micron | Complete | 11 |
+| workday:micron | Complete | 13 |
 | workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 4 |
 | amazon:amazon | Complete | 5 |
@@ -498,7 +500,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:bifrost | ⚠️ Incomplete — previous listings retained | 0 |
 | lever:binance | Complete | 0 |
 | greenhouse:bitgo | Complete | 0 |
-| smartrecruiters:BoschGroup | ⚠️ Incomplete — previous listings retained | 0 |
+| smartrecruiters:BoschGroup | Complete | 1 |
 | ashby:cantina | Complete | 0 |
 | smartrecruiters:CarousellGroup | Complete | 1 |
 | ashby:clickhouse | Complete | 0 |
@@ -587,7 +589,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
 | workday:manulife | Complete | 2 |
 | workday:marvell | Complete | 3 |
-| workday:mastercard | Complete | 0 |
+| workday:mastercard | ⚠️ Incomplete — previous listings retained | 0 |
 | lever:matchgroup | Complete | 0 |
 | greenhouse:mixpanel | Complete | 0 |
 | greenhouse:moloco | Complete | 0 |

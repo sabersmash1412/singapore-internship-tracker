@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**346 current or undated listings · 10 older advertised periods · 43 employers with roles**
+**345 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **27 Nov 2026, 11:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **27 Nov 2026, 12:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -139,7 +139,6 @@ These roles remain listed in employer sources; confirm application availability 
 | Micron | Intern - STPG Product System | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-Product-System_JR111189>) | - | 19 Nov 2026 | 29 Sep 2026 |
 | ByteDance | Security Analyst Project Intern (Global Corporate Security Operations Center) - 2027 Start | [Apply](<https://joinbytedance.com/search/7690422566842386693>) | 2027 Start | - | 29 Sep 2026 |
 | Temasek | RPA &amp; GenAI Automation Intern, Operations (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/RPA-&-GenAI-Automation-Intern%2C-Operations-%28Jan-Jun-2027%29-238891/1369197757/>) | Jan - Jun 2027 | 06 Nov 2026 | 28 Sep 2026 |
-| ↳ | Data Analytics/Science Intern, People Technology (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Data-AnalyticsScience-Intern%2C-People-Technology-%28Jan-Jun-2027%29-238891/1369202457/>) | Jan - Jun 2027 | 06 Nov 2026 | 28 Sep 2026 |
 | ↳ | Data &amp; Finance Intern, Finance (Governance &amp; Technology) - Jan - Jun 2027 | [Apply](<https://jobs.temasek.com.sg/job/Data-&-Finance-Intern%2C-Finance-%28Governance-&-Technology%29-Jan-Jun-2027-238891/1369148557/>) | Jan - Jun 2027 | 06 Nov 2026 | 28 Sep 2026 |
 | ↳ | Automation Intern, Financial Management (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/Automation-Intern%2C-Financial-Management-%28Jan-Jun-2027%29-238891/1369154157/>) | Jan - Jun 2027 | 06 Nov 2026 | 28 Sep 2026 |
 | ↳ | AI &amp; Automation Intern, Procurement (Jan - Jun 2027) | [Apply](<https://jobs.temasek.com.sg/job/AI-&-Automation-Intern%2C-Procurement-%28Jan-Jun-2027%29-238891/1369203757/>) | Jan - Jun 2027 | 06 Nov 2026 | 28 Sep 2026 |
@@ -394,6 +393,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| Temasek | Data Analytics/Science Intern, People Technology (Jan - Jun 2027) | 27 Nov 2026 | - |
 | YouTrip | Data Analytics Intern | 27 Nov 2026 | - |
 | Applied Materials | College Intern - Process development in PVD Ventura chambers for TSV application | 27 Nov 2026 | - |
 | SLA Singapore Land Authority | Intern, Finance Process Automation | 27 Nov 2026 | - |

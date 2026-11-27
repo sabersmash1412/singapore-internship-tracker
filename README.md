@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**338 current or undated listings · 10 older advertised periods · 43 employers with roles**
+**335 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **27 Nov 2026, 17:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **27 Nov 2026, 17:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -35,8 +35,8 @@ These roles remain listed in employer sources; confirm application availability 
 | Micron | 🆕 Intern - CVD/ PVD Technician | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---CVD--PVD-Technician_JR117869>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | ↳ | 🆕 Intern – Yield Analysis &amp; AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Yield-Analysis---AI_JR118367>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | AMD | 🆕 2027 Term 2 Internship - IC Design Exploration | [Apply](<https://careers.amd.com/students/jobs/103689>) | May 2027 Start / July 2027 Start | 25 Nov 2026 | 25 Nov 2026 |
-| ↳ | 🆕 2027 Term 2 Internship – Wafer Sort/Final Test Thermal Mechanical hardware development Engineer | [Apply](<https://careers.amd.com/students/jobs/103678>) | May 2027 Start / July 2027 Start | 25 Nov 2026 | 25 Nov 2026 |
-| ↳ | 🆕 2027 Term 2 Internship – Developing AI &amp; Data Science Solutions to Accelerate AMD's Product Development | [Apply](<https://careers.amd.com/students/jobs/103655>) | May 2027 Start / July 2027 Start | 25 Nov 2026 | 25 Nov 2026 |
+| ↳ | 2027 Term 2 Internship – Wafer Sort/Final Test Thermal Mechanical hardware development Engineer | [Apply](<https://careers.amd.com/students/jobs/103678>) | May 2027 Start / July 2027 Start | 25 Nov 2026 | 25 Nov 2026 |
+| ↳ | 2027 Term 2 Internship – Developing AI &amp; Data Science Solutions to Accelerate AMD's Product Development | [Apply](<https://careers.amd.com/students/jobs/103655>) | May 2027 Start / July 2027 Start | 25 Nov 2026 | 25 Nov 2026 |
 | TikTok | Backend Engineer Project Intern (TikTok Search &amp; Recommendation Architecture) - 2026 Start (BS/MS） | [Apply](<https://lifeattiktok.com/search/7553192259203778824>) | 2026 Start | - | 25 Nov 2026 |
 | Carousell Group | Product Design Intern (Design Systems &amp; AI Workflows)\_Jan 2027 | [Apply](<https://jobs.smartrecruiters.com/CarousellGroup/744000163422109>) | Jan 2027 Start | 24 Nov 2026 | 24 Nov 2026 |
 | Micron | Intern - Firmware and Product Test Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Firmware-and-Product-Test-Engineer_JR117289>) | - | 21 Nov 2026 | 21 Nov 2026 |
@@ -67,9 +67,6 @@ These roles remain listed in employer sources; confirm application availability 
 | ShopBack | IT Support Intern | [Apply](<https://jobs.lever.co/shopback-2/788b92bc-804a-4c4f-9448-203064c0448b>) | - | - | 20 Nov 2026 |
 | Sea | Security Operations Intern (6 months) | [Apply](<https://career.sea.com/position/J02211894>) | - | - | 20 Nov 2026 |
 | Salesforce | Summer 2027 Intern - AI Research | [Apply](<https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/XMLNAME-2025-PhD-Intern---AI-Research--Singapore_JR267880-2>) | Summer 2027 | 19 Nov 2026 | 20 Nov 2026 |
-| QCP | Intern, Data Analytics (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/E1C6C29BAE>) | Jan - Jun 2027 | 18 Nov 2026 | 20 Nov 2026 |
-| ↳ | Intern, Data (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/DD284B5681>) | Jan - Jun 2027 | 18 Nov 2026 | 20 Nov 2026 |
-| ↳ | Intern, AI (Jan - Jun 2027) | [Apply](<https://apply.workable.com/j/17F965FBBB>) | Jan - Jun 2027 | 18 Nov 2026 | 20 Nov 2026 |
 | PayPal | Software Engineer Intern - Backend | [Apply](<https://paypal.wd1.myworkdayjobs.com/jobs/job/Central-Singapore-Singapore/Software-Engineer-Intern---Backend_R0138931>) | - | 18 Nov 2026 | 20 Nov 2026 |
 | ↳ | Full Stack Software Engineer Intern | [Apply](<https://paypal.wd1.myworkdayjobs.com/jobs/job/Central-Singapore-Singapore/Full-Stack-Software-Engineer-Intern_R0138930>) | - | 18 Nov 2026 | 20 Nov 2026 |
 | ↳ | Cybersecurity Risk Intern | [Apply](<https://paypal.wd1.myworkdayjobs.com/jobs/job/Central-Singapore-Singapore/Cybersecurity-Risk-Intern_R0138933>) | - | 18 Nov 2026 | 20 Nov 2026 |
@@ -386,6 +383,9 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
+| QCP | Intern, Data Analytics (Jan - Jun 2027) | 27 Nov 2026 | - |
+| ↳ | Intern, Data (Jan - Jun 2027) | 27 Nov 2026 | - |
+| ↳ | Intern, AI (Jan - Jun 2027) | 27 Nov 2026 | - |
 | UOB | GenAI and Data Analytics Intern (Mar - July 2027) | 27 Nov 2026 | - |
 | ↳ | GenAI and Data Analytics Intern (Mar - July 2027) | 27 Nov 2026 | - |
 | ↳ | GenAI and Data Analytics Intern (Mar - July 2027) | 27 Nov 2026 | - |

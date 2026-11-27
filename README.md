@@ -8,9 +8,9 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 <!-- INTERNSHIPS:START -->
 
-**344 current or undated listings · 10 older advertised periods · 43 employers with roles**
+**341 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **27 Nov 2026, 16:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **27 Nov 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -40,7 +40,7 @@ These roles remain listed in employer sources; confirm application availability 
 | AMD | 🆕 2027 Term 2 Internship - IC Design Exploration | [Apply](<https://careers.amd.com/students/jobs/103689>) | May 2027 Start / July 2027 Start | 25 Nov 2026 | 25 Nov 2026 |
 | ↳ | 🆕 2027 Term 2 Internship – Wafer Sort/Final Test Thermal Mechanical hardware development Engineer | [Apply](<https://careers.amd.com/students/jobs/103678>) | May 2027 Start / July 2027 Start | 25 Nov 2026 | 25 Nov 2026 |
 | ↳ | 🆕 2027 Term 2 Internship – Developing AI &amp; Data Science Solutions to Accelerate AMD's Product Development | [Apply](<https://careers.amd.com/students/jobs/103655>) | May 2027 Start / July 2027 Start | 25 Nov 2026 | 25 Nov 2026 |
-| TikTok | 🆕 Backend Engineer Project Intern (TikTok Search &amp; Recommendation Architecture) - 2026 Start (BS/MS） | [Apply](<https://lifeattiktok.com/search/7553192259203778824>) | 2026 Start | - | 25 Nov 2026 |
+| TikTok | Backend Engineer Project Intern (TikTok Search &amp; Recommendation Architecture) - 2026 Start (BS/MS） | [Apply](<https://lifeattiktok.com/search/7553192259203778824>) | 2026 Start | - | 25 Nov 2026 |
 | Carousell Group | Product Design Intern (Design Systems &amp; AI Workflows)\_Jan 2027 | [Apply](<https://jobs.smartrecruiters.com/CarousellGroup/744000163422109>) | Jan 2027 Start | 24 Nov 2026 | 24 Nov 2026 |
 | Micron | Intern - Firmware and Product Test Engineer | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Firmware-and-Product-Test-Engineer_JR117289>) | - | 21 Nov 2026 | 21 Nov 2026 |
 | Hitachi | Software Engineer Intern (Cross Project Tools) | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Software-Engineer-Intern--Cross-Project-Tools-_R0151682>) | - | 20 Nov 2026 | 20 Nov 2026 |
@@ -160,7 +160,6 @@ These roles remain listed in employer sources; confirm application availability 
 | EPOS | Sales Operations &amp; Automation Intern | [Apply](<https://apply.workable.com/j/61DE89D60B>) | - | 27 Aug 2026 | 28 Sep 2026 |
 | OCBC | Internship: Global Markets, Business Management Unit/System Solution Analytics \[Jan - Jun 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Markets--Business-Management-Unit-System-Solution-Analytics--Jan---Jun-2027-_JR00011364>) | Jan - Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
 | ↳ | Internship: Global Markets, Management Information Systems \[Jan - Jun 2027\] | [Apply](<https://ocbc.wd102.myworkdayjobs.com/External/job/SGP-Head-Office/Internship--Global-Markets--Management-Information-Systems--Jan---Jun-2027-_JR00011357>) | Jan - Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
-| NCS | \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001436844>) | Jan till Jun 2027 | 25 Sep 2026 | 25 Sep 2026 |
 | Stripe | Financial Data Analyst Intern, Technical Operations | [Apply](<https://stripe.com/jobs/search?gh_jid=8186442>) | - | 25 Sep 2026 | 25 Sep 2026 |
 | Tower Research Capital | Quantitative Researcher Intern, PhD or Postdoc | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8168634>) | - | 01 Sep 2026 | 24 Sep 2026 |
 | ↳ | Quantitative Researcher Intern, Bachelor's or Master's | [Apply](<https://www.tower-research.com/open-positions/?gh_jid=8168750>) | - | 01 Sep 2026 | 24 Sep 2026 |
@@ -168,9 +167,7 @@ These roles remain listed in employer sources; confirm application availability 
 | Stripe | Software Engineer, Intern | [Apply](<https://stripe.com/jobs/search?gh_jid=8130883>) | - | 07 Sep 2026 | 24 Sep 2026 |
 | Portcast | Data Analyst Intern | [Apply](<https://jobs.lever.co/portcast/f18cc64e-c34a-416c-b213-62a39906260e>) | - | - | 24 Sep 2026 |
 | Palantir Technologies | Software Engineer, Internship | [Apply](<https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1>) | - | - | 24 Sep 2026 |
-| NCS | \[Uni - Jan till Jun 2027\] Software Engineering Intern (Low Code) | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287390>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
-| ↳ | \[Uni - Jan till Jun 2027\] Software Engineer/ Business Analyst Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287535>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
-| ↳ | \[Uni - Jan till Jun 2027\] Physical AI Security Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001344206>) | Jan till Jun 2027 | 24 Aug 2026 | 24 Sep 2026 |
+| NCS | \[Uni - Jan till Jun 2027\] Physical AI Security Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001344206>) | Jan till Jun 2027 | 24 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] Legal AI Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287841>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] IT Operations &amp; Service Management Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001287819>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
 | ↳ | \[Uni - Jan till Jun 2027\] DevOps &amp; Enterprise Architect Assistant Intern | [Apply](<https://jobs.smartrecruiters.com/NCS3/6000000001288434>) | Jan till Jun 2027 | 05 Aug 2026 | 24 Sep 2026 |
@@ -392,7 +389,10 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 
 | Company | Role | Closed | Reason |
 | --- | --- | --- | --- |
-| NCS | \[Uni - Jan till Jun 2027\] Software Engineer and Data Analytics Intern | 27 Nov 2026 | - |
+| NCS | \[Uni - Jan till Jun 2027\] Robotics and Physical AI Engineer Intern | 27 Nov 2026 | - |
+| ↳ | \[Uni - Jan till Jun 2027\] Software Engineer/ Business Analyst Intern | 27 Nov 2026 | - |
+| ↳ | \[Uni - Jan till Jun 2027\] Software Engineering Intern (Low Code) | 27 Nov 2026 | - |
+| ↳ | \[Uni - Jan till Jun 2027\] Software Engineer and Data Analytics Intern | 27 Nov 2026 | - |
 | ↳ | \[Uni - Jan till Jun 2027\] AI Engineer Intern (Middleware) | 27 Nov 2026 | - |
 | ↳ | \[Uni - Jan till Jun 2027\] AI Software Engineer Intern | 27 Nov 2026 | - |
 | ↳ | \[Uni - Jan till Jun 2027\] AI Engineer Intern | 27 Nov 2026 | - |
@@ -487,7 +487,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | govtech:internships | Complete | 121 |
 | workday:dbs | Complete | 1 |
 | workday:ocbc | Complete | 12 |
-| workday:uobgroup | Complete | 6 |
+| workday:uobgroup | Complete | 3 |
 | workday:amat | Complete | 5 |
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | ⚠️ Incomplete — previous listings retained | 0 |

@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **335 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **28 Nov 2026, 12:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **28 Nov 2026, 12:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -30,7 +30,7 @@ These roles remain listed in employer sources; confirm application availability 
 | UOB | 🆕 GenAI and Data Analytics Intern (Mar - July 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Mar---July-2027-_JR102293>) | Mar - July 2027 | 26 Nov 2026 | 26 Nov 2026 |
 | ↳ | 🆕 GenAI and Data Analytics Intern (Jan - Dec 2027) | [Apply](<https://uobgroup.wd3.myworkdayjobs.com/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Jan---Dec-2027-_JR102292>) | Jan - Dec 2027 | 26 Nov 2026 | 26 Nov 2026 |
 | TikTok | 🆕 Backend Software Engineer - Intern (TikTok Privacy and Security) - 2027 Start | [Apply](<https://lifeattiktok.com/search/7711598958485408053>) | 2027 Start | - | 26 Nov 2026 |
-| Manulife | 🆕 Summer Internship - Distribution Insights &amp; Analytics Intern | [Apply](<https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Singapore/Summer-Internship---Distribution-Insights---Analytics-Intern_JR26111293>) | - | 26 Nov 2026 | 26 Nov 2026 |
+| Manulife | Summer Internship - Distribution Insights &amp; Analytics Intern | [Apply](<https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Singapore/Summer-Internship---Distribution-Insights---Analytics-Intern_JR26111293>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | ↳ | Summer Internship - Distribution Lead Generation &amp; Analytics Intern | [Apply](<https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Singapore/Summer-Internship---Distribution-Lead-Generation---Analytics-Intern_JR26111294>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | Micron | Intern - CVD/ PVD Technician | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---CVD--PVD-Technician_JR117869>) | - | 26 Nov 2026 | 26 Nov 2026 |
 | ↳ | Intern – Yield Analysis &amp; AI | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Yield-Analysis---AI_JR118367>) | - | 26 Nov 2026 | 26 Nov 2026 |

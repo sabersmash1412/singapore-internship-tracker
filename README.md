@@ -10,7 +10,7 @@ Coverage includes startups, smaller technology firms, multinational companies an
 
 **335 current or undated listings · 10 older advertised periods · 43 employers with roles**
 
-Last collection: **28 Nov 2026, 16:33 SGT**. Scheduled every 30 minutes; runs may be delayed.
+Last collection: **28 Nov 2026, 17:03 SGT**. Scheduled every 30 minutes; runs may be delayed.
 
 These roles remain listed in employer sources; confirm application availability and intake dates on the employer’s page.
 
@@ -492,7 +492,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:globalfoundries | Complete | 9 |
 | workday:nxp | ⚠️ Incomplete — previous listings retained | 0 |
 | workday:micron | Complete | 14 |
-| workday:nvidia | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:nvidia | Complete | 0 |
 | amd:amd | Complete | 4 |
 | amazon:amazon | Complete | 5 |
 | apple:apple | Complete | 4 |
@@ -550,9 +550,9 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:blackrock | Complete | 0 |
 | greenhouse:braze | Complete | 0 |
 | workday:broadcom | Complete | 0 |
-| workday:carrier | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:carrier | Complete | 0 |
 | ashby:chalk | Complete | 0 |
-| workday:citi | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:citi | Complete | 0 |
 | smartrecruiters:CliffordChance | Complete | 0 |
 | greenhouse:cockroachlabs | Complete | 0 |
 | lever:coins | Complete | 0 |
@@ -582,11 +582,11 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | workday:illumina | Complete | 0 |
 | smartrecruiters:Intuitive | Complete | 0 |
 | workday:jll | Complete | 0 |
-| workday:jci | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:jci | Complete | 2 |
 | workday:kla | Complete | 2 |
 | ashby:langchain | Complete | 0 |
 | greenhouse:launchdarkly | Complete | 0 |
-| workday:logitech | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:logitech | Complete | 0 |
 | smartrecruiters:LouisDreyfusCompany | Complete | 0 |
 | workday:manulife | Complete | 2 |
 | workday:marvell | Complete | 3 |
@@ -608,7 +608,7 @@ Month ranges use their stated end month; H1/H2 end in June/December. For this di
 | ashby:replit | Complete | 0 |
 | greenhouse:ripple | Complete | 0 |
 | workday:roche | Complete | 0 |
-| workday:spgi | ⚠️ Incomplete — previous listings retained | 0 |
+| workday:spgi | Complete | 0 |
 | workday:salesforce | Complete | 1 |
 | workday:sec | Complete | 0 |
 | workday:sanofi | Complete | 1 |
